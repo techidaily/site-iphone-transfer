@@ -1,7 +1,7 @@
 ---
 title: 4 Quick Ways to Transfer Contacts from Apple iPhone 13 mini to iPhone With/Without iTunes | Dr.fone
-date: 2024-03-20 14:15:38
-updated: 2024-03-23 15:18:21
+date: 2024-04-01T07:02:47.336Z
+updated: 2024-04-02T07:02:47.336Z
 tags: 
   - iphone transfer
 categories:

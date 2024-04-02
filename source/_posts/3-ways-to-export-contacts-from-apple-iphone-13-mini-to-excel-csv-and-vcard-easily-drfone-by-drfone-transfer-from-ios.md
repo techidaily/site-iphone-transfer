@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 13 mini to Excel CSV & vCard Easily | Dr.fone
-date: 2024-03-22 20:53:52
-updated: 2024-03-23 19:41:19
+date: 2024-04-01T07:02:47.284Z
+updated: 2024-04-02T07:02:47.284Z
 tags: 
   - iphone transfer
 categories:

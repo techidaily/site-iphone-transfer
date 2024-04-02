@@ -1,7 +1,7 @@
 ---
 title: 4 Quick Ways to Transfer Contacts from Apple iPhone 14 Pro to iPhone With/Without iTunes | Dr.fone
-date: 2024-03-20 11:30:45
-updated: 2024-03-23 11:53:53
+date: 2024-04-01T07:02:47.340Z
+updated: 2024-04-02T07:02:47.340Z
 tags: 
   - iphone transfer
 categories:

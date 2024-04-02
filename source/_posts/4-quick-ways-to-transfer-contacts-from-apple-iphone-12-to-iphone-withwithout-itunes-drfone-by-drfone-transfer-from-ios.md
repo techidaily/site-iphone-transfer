@@ -1,7 +1,7 @@
 ---
 title: 4 Quick Ways to Transfer Contacts from Apple iPhone 12 to iPhone With/Without iTunes | Dr.fone
-date: 2024-03-21 12:19:15
-updated: 2024-03-23 10:37:33
+date: 2024-04-01T07:02:47.335Z
+updated: 2024-04-02T07:02:47.335Z
 tags: 
   - iphone transfer
 categories:

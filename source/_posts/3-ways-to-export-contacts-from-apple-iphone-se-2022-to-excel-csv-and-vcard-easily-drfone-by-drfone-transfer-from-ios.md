@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone SE (2022) to Excel CSV & vCard Easily | Dr.fone
-date: 2024-03-20 15:50:55
-updated: 2024-03-23 14:40:52
+date: 2024-04-01T07:02:47.327Z
+updated: 2024-04-02T07:02:47.327Z
 tags: 
   - iphone transfer
 categories:

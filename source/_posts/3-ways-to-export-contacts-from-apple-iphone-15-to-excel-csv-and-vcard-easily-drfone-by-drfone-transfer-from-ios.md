@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 15 to Excel CSV & vCard Easily | Dr.fone
-date: 2024-03-20 22:49:39
-updated: 2024-03-23 23:35:31
+date: 2024-04-01T07:02:47.317Z
+updated: 2024-04-02T07:02:47.317Z
 tags: 
   - iphone transfer
 categories:

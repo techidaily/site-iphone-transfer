@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 8 to Excel CSV & vCard Easily | Dr.fone
-date: 2024-03-20 16:15:39
-updated: 2024-03-23 16:31:54
+date: 2024-04-01T07:02:47.325Z
+updated: 2024-04-02T07:02:47.325Z
 tags: 
   - iphone transfer
 categories:
