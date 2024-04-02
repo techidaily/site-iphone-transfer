@@ -1,7 +1,7 @@
 ---
 title: 4 Quick Ways to Transfer Contacts from Apple iPhone 13 Pro Max to iPhone With/Without iTunes | Dr.fone
-date: 2024-04-01T07:02:47.336Z
-updated: 2024-04-02T07:02:47.336Z
+date: 2024-04-01T13:02:50.886Z
+updated: 2024-04-02T13:02:50.886Z
 tags: 
   - iphone transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 7 Plus to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-01T07:02:47.322Z
-updated: 2024-04-02T07:02:47.322Z
+date: 2024-04-01T13:02:50.863Z
+updated: 2024-04-02T13:02:50.863Z
 tags: 
   - iphone transfer
 categories:
