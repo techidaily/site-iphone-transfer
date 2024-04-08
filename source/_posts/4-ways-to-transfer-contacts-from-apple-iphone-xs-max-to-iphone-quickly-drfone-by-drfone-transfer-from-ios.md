@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Transfer Contacts from Apple iPhone XS Max to iPhone Quickly | Dr.fone
-date: 2024-04-07T03:11:22.314Z
-updated: 2024-04-08T03:11:22.314Z
+date: 2024-04-07T20:40:45.851Z
+updated: 2024-04-08T20:40:45.851Z
 tags: 
   - iphone transfer
 categories:

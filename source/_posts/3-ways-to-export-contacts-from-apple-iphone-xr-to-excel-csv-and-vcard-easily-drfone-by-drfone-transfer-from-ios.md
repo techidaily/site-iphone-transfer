@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone XR to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-07T03:11:22.219Z
-updated: 2024-04-08T03:11:22.219Z
+date: 2024-04-07T20:40:45.728Z
+updated: 2024-04-08T20:40:45.728Z
 tags: 
   - iphone transfer
 categories:

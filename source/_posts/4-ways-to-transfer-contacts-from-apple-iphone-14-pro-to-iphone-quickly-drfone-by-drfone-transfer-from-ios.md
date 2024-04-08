@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Transfer Contacts from Apple iPhone 14 Pro to iPhone Quickly | Dr.fone
-date: 2024-04-07T03:11:22.308Z
-updated: 2024-04-08T03:11:22.308Z
+date: 2024-04-07T20:40:45.830Z
+updated: 2024-04-08T20:40:45.830Z
 tags: 
   - iphone transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Transfer Contacts from Apple iPhone 6 Plus to iPhone Quickly | Dr.fone
-date: 2024-04-07T03:11:22.309Z
-updated: 2024-04-08T03:11:22.309Z
+date: 2024-04-07T20:40:45.837Z
+updated: 2024-04-08T20:40:45.837Z
 tags: 
   - iphone transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Transfer Contacts from Apple iPhone SE (2020) to iPhone Quickly | Dr.fone
-date: 2024-04-07T03:11:22.312Z
-updated: 2024-04-08T03:11:22.312Z
+date: 2024-04-07T20:40:45.846Z
+updated: 2024-04-08T20:40:45.846Z
 tags: 
   - iphone transfer
 categories:

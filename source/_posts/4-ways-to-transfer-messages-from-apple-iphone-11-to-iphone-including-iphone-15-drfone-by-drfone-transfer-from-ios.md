@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Transfer Messages from Apple iPhone 11 to iPhone Including iPhone 15 | Dr.fone
-date: 2024-04-07T03:11:22.315Z
-updated: 2024-04-08T03:11:22.315Z
+date: 2024-04-07T20:40:45.856Z
+updated: 2024-04-08T20:40:45.856Z
 tags: 
   - iphone transfer
 categories:

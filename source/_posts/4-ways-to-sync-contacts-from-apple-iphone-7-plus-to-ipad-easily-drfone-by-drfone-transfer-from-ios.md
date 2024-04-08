@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Sync Contacts from Apple iPhone 7 Plus to iPad Easily | Dr.fone
-date: 2024-04-07T03:11:22.300Z
-updated: 2024-04-08T03:11:22.300Z
+date: 2024-04-07T20:40:45.803Z
+updated: 2024-04-08T20:40:45.803Z
 tags: 
   - iphone transfer
 categories:

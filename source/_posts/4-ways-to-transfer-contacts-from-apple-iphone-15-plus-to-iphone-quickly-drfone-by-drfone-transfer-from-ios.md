@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Transfer Contacts from Apple iPhone 15 Plus to iPhone Quickly | Dr.fone
-date: 2024-04-07T03:11:22.308Z
-updated: 2024-04-08T03:11:22.308Z
+date: 2024-04-07T20:40:45.832Z
+updated: 2024-04-08T20:40:45.832Z
 tags: 
   - iphone transfer
 categories:

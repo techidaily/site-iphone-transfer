@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Transfer Contacts from Apple iPhone 13 mini to iPhone Quickly | Dr.fone
-date: 2024-04-07T03:11:22.305Z
-updated: 2024-04-08T03:11:22.305Z
+date: 2024-04-07T20:40:45.823Z
+updated: 2024-04-08T20:40:45.823Z
 tags: 
   - iphone transfer
 categories:

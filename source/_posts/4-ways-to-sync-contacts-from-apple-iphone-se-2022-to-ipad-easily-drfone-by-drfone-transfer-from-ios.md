@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Sync Contacts from Apple iPhone SE (2022) to iPad Easily | Dr.fone
-date: 2024-04-07T03:11:22.301Z
-updated: 2024-04-08T03:11:22.301Z
+date: 2024-04-07T20:40:45.808Z
+updated: 2024-04-08T20:40:45.808Z
 tags: 
   - iphone transfer
 categories:
