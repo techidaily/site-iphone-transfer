@@ -1,7 +1,7 @@
 ---
 title: 4 Quick Ways to Transfer Contacts from Apple iPhone 6s Plus to iPhone With/Without iTunes | Dr.fone
-date: 2024-04-07T20:40:45.761Z
-updated: 2024-04-08T20:40:45.761Z
+date: 2024-04-08T23:44:05.587Z
+updated: 2024-04-09T23:44:05.587Z
 tags: 
   - iphone transfer
 categories:

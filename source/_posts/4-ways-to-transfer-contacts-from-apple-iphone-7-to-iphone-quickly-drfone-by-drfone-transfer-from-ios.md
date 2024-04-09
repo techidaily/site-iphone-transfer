@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Transfer Contacts from Apple iPhone 7 to iPhone Quickly | Dr.fone
-date: 2024-04-07T20:40:45.842Z
-updated: 2024-04-08T20:40:45.842Z
+date: 2024-04-08T23:44:05.679Z
+updated: 2024-04-09T23:44:05.679Z
 tags: 
   - iphone transfer
 categories:

@@ -1,7 +1,7 @@
 ---
 title: 4 Quick Ways to Transfer Contacts from Apple iPhone XR to iPhone With/Without iTunes | Dr.fone
-date: 2024-04-07T20:40:45.774Z
-updated: 2024-04-08T20:40:45.774Z
+date: 2024-04-08T23:44:05.601Z
+updated: 2024-04-09T23:44:05.601Z
 tags: 
   - iphone transfer
 categories:

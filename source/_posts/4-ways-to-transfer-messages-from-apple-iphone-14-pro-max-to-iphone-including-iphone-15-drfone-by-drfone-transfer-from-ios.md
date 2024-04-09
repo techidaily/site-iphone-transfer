@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Transfer Messages from Apple iPhone 14 Pro Max to iPhone Including iPhone 15 | Dr.fone
-date: 2024-04-07T20:40:45.868Z
-updated: 2024-04-08T20:40:45.868Z
+date: 2024-04-08T23:44:05.726Z
+updated: 2024-04-09T23:44:05.726Z
 tags: 
   - iphone transfer
 categories:

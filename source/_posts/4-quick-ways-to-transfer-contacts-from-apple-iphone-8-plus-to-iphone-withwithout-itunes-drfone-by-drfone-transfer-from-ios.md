@@ -1,7 +1,7 @@
 ---
 title: 4 Quick Ways to Transfer Contacts from Apple iPhone 8 Plus to iPhone With/Without iTunes | Dr.fone
-date: 2024-04-07T20:40:45.767Z
-updated: 2024-04-08T20:40:45.767Z
+date: 2024-04-08T23:44:05.592Z
+updated: 2024-04-09T23:44:05.592Z
 tags: 
   - iphone transfer
 categories:

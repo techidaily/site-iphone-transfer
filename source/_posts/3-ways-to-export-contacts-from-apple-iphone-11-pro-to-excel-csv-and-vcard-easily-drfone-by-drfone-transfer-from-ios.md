@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 11 Pro to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-07T20:40:45.681Z
-updated: 2024-04-08T20:40:45.681Z
+date: 2024-04-08T23:44:05.490Z
+updated: 2024-04-09T23:44:05.490Z
 tags: 
   - iphone transfer
 categories:

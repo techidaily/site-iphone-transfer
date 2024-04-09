@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Transfer Messages from Apple iPhone 13 to iPhone Including iPhone 15 | Dr.fone
-date: 2024-04-07T20:40:45.865Z
-updated: 2024-04-08T20:40:45.865Z
+date: 2024-04-08T23:44:05.724Z
+updated: 2024-04-09T23:44:05.724Z
 tags: 
   - iphone transfer
 categories:

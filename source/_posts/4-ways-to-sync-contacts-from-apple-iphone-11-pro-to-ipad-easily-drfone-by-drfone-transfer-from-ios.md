@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Sync Contacts from Apple iPhone 11 Pro to iPad Easily | Dr.fone
-date: 2024-04-07T20:40:45.778Z
-updated: 2024-04-08T20:40:45.778Z
+date: 2024-04-08T23:44:05.607Z
+updated: 2024-04-09T23:44:05.607Z
 tags: 
   - iphone transfer
 categories:
