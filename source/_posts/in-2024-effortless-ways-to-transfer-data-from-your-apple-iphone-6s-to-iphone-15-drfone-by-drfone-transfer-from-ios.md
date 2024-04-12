@@ -338,6 +338,12 @@ Because of the above factors, Dr.Fone - Phone Manager (iOS) is widely used all o
 
 In case of technical concern, you can always contact our customer representative. This service is available only to premium customers. We also offer a 30-day money back guarantee.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

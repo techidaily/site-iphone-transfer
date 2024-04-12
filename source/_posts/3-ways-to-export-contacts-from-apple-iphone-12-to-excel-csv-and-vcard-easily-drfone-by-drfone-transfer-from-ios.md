@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 12 to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-08T23:44:05.496Z
-updated: 2024-04-09T23:44:05.496Z
+date: 2024-04-11T23:04:56.810Z
+updated: 2024-04-12T23:04:56.810Z
 tags: 
   - iphone transfer
 categories:
@@ -259,6 +259,12 @@ ZTE devices keep getting better; the following are some of the best ZTE phones i
 
 **10\. The ZTE Grand X Max:** this one comes with a 1 megapixel front camera and an 8 megapixel HD rear camera. It has an internal memory of 8GB and a RAM capacity of 1GB.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

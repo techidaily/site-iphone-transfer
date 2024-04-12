@@ -374,6 +374,12 @@ Droid Maxx, is water – resistant and the rain should be no pain for you.
 
 Droid Mini, is the small phone that you can use fast for your needs having Android KitKat.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
