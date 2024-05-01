@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 11 to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.809Z
-updated: 2024-04-12T23:04:56.809Z
+date: 2024-04-30T12:58:23.000Z
+updated: 2024-05-01T12:58:23.000Z
 tags: 
   - iphone transfer
 categories:
@@ -444,3 +444,4 @@ For those who prefer a more traditional approach, iTunes provides a straightforw
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-6s-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 6s to Excel CSV & vCard Easily | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-14-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/" ><u>How to Transfer Apple iPhone 14 Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone SE (2022) to Android | Dr.fone
-date: 2024-04-11T23:05:08.353Z
-updated: 2024-04-12T23:05:08.353Z
+date: 2024-04-30T12:58:23.408Z
+updated: 2024-05-01T12:58:23.408Z
 tags: 
   - iphone transfer
 categories:
@@ -485,3 +485,4 @@ This article has provided a valuable overview of **switching SIM cards to new Ap
 <li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-se-2022-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone SE (2022) without Losing Data? | Stellar</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 13</u></a></li>
 </ul></div>
+

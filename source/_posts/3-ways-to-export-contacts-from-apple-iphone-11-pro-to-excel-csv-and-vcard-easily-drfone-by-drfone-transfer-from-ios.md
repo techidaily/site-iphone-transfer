@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 11 Pro to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.808Z
-updated: 2024-04-12T23:04:56.808Z
+date: 2024-04-30T12:58:22.999Z
+updated: 2024-05-01T12:58:22.999Z
 tags: 
   - iphone transfer
 categories:
@@ -414,3 +414,4 @@ The techniques which are discussed above are meant to solve your problem and let
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/" ><u>How To Transfer Data from Apple iPhone 7 Plus to New iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-14-pro-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/" ><u>How to Transfer Photos from Apple iPhone 14 Pro to other iPhone without iCloud | Dr.fone</u></a></li>
 </ul></div>
+

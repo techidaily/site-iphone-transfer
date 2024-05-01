@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 15 to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.815Z
-updated: 2024-04-12T23:04:56.815Z
+date: 2024-04-30T12:58:23.017Z
+updated: 2024-05-01T12:58:23.017Z
 tags: 
   - iphone transfer
 categories:
@@ -426,3 +426,4 @@ Now when you know how to send ringtones from Apple iPhone 15 to iPhone in differ
 <li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-6-plus-to-ipad-drfone-by-drfone-transfer-from-ios/" ><u>Complete Tutorial Sending Photos From Apple iPhone 6 Plus to iPad | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-14-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 14 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
 </ul></div>
+

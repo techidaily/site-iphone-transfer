@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 14 Pro Max to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.813Z
-updated: 2024-04-12T23:04:56.813Z
+date: 2024-04-30T12:58:23.011Z
+updated: 2024-05-01T12:58:23.011Z
 tags: 
   - iphone transfer
 categories:
@@ -316,3 +316,4 @@ After going through this article guide we can conclude that iPhone users can tra
 <li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-12-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/" ><u>4 Ways to Transfer Music from Apple iPhone 12 Pro Max to iPod touch | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-13-pro-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 13 Pro to iPhone Quickly | Dr.fone</u></a></li>
 </ul></div>
+

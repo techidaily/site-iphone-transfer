@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone 6s Plus to Android | Dr.fone
-date: 2024-04-11T23:05:07.400Z
-updated: 2024-04-12T23:05:07.400Z
+date: 2024-04-30T12:58:23.397Z
+updated: 2024-05-01T12:58:23.397Z
 tags: 
   - iphone transfer
 categories:
@@ -381,3 +381,4 @@ We know the emotions and sentiments attached with one’s personal information a
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-s17e-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo S17e FRP Bypass Everything You Need to Know</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-edge-40-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Edge 40 Pro? </u></a></li>
 </ul></div>
+

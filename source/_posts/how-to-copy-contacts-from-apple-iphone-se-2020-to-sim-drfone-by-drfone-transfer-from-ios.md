@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone SE (2020) to SIM? | Dr.fone
-date: 2024-04-11T23:05:50.450Z
-updated: 2024-04-12T23:05:50.450Z
+date: 2024-04-30T12:58:24.077Z
+updated: 2024-05-01T12:58:24.077Z
 tags: 
   - iphone transfer
 categories:
@@ -507,3 +507,4 @@ This article has provided a valuable overview of **switching SIM cards to new Ap
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-x50-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor X50 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo Y56 5G | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 8 to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.818Z
-updated: 2024-04-12T23:04:56.818Z
+date: 2024-04-30T12:58:23.038Z
+updated: 2024-05-01T12:58:23.038Z
 tags: 
   - iphone transfer
 categories:
@@ -403,3 +403,4 @@ For those who prefer a more traditional approach, iTunes provides a straightforw
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/" ><u>How To Transfer Data from Apple iPhone 15 to New iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-8-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 8 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone XR to Android | Dr.fone
-date: 2024-04-11T23:05:08.826Z
-updated: 2024-04-12T23:05:08.826Z
+date: 2024-04-30T12:58:23.412Z
+updated: 2024-05-01T12:58:23.412Z
 tags: 
   - iphone transfer
 categories:
@@ -343,3 +343,4 @@ In case of technical concern, you can always contact our customer representative
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nokia XR21 | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Sony Xperia 1 V | Dr.fone</u></a></li>
 </ul></div>
+

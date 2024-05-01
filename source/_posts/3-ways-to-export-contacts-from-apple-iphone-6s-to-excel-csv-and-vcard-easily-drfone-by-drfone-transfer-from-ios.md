@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 6s to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.816Z
-updated: 2024-04-12T23:04:56.816Z
+date: 2024-04-30T12:58:23.021Z
+updated: 2024-05-01T12:58:23.021Z
 tags: 
   - iphone transfer
 categories:
@@ -386,3 +386,4 @@ Now that you have learned 7 different ways to move contacts from Apple iPhone 6s
 <li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-x-to-android-drfone-by-drfone-transfer-from-ios/" ><u>How to Move Custom Ringtones from Apple iPhone X to Android? | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-6s-plus-to-android-drfone-by-drfone-transfer-from-ios/" ><u>How to Move Custom Ringtones from Apple iPhone 6s Plus to Android? | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone 14 Plus to SIM? | Dr.fone
-date: 2024-04-11T23:05:48.191Z
-updated: 2024-04-12T23:05:48.191Z
+date: 2024-04-30T12:58:24.009Z
+updated: 2024-05-01T12:58:24.009Z
 tags: 
   - iphone transfer
 categories:
@@ -533,3 +533,4 @@ Learning about the iPhone to Samsung transfer is easy when you have a clear and 
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-6-plus-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone 6 Plus without Password?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y28-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y28 5G Without Volume Buttons | Dr.fone</u></a></li>
 </ul></div>
+

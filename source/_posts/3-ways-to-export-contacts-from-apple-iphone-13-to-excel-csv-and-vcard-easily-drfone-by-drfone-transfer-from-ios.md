@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 13 to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.812Z
-updated: 2024-04-12T23:04:56.812Z
+date: 2024-04-30T12:58:23.009Z
+updated: 2024-05-01T12:58:23.009Z
 tags: 
   - iphone transfer
 categories:
@@ -409,3 +409,4 @@ However, don't forget to download [Dr.Fone](https://tools.techidaily.com/wonders
 <li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-7-plus-to-android-drfone-by-drfone-transfer-from-ios/" ><u>Methods to Transfer from Apple iPhone 7 Plus to Android | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, How to Transfer from Apple iPhone 13 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
 </ul></div>
+

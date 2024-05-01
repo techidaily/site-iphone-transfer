@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 13 mini to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.811Z
-updated: 2024-04-12T23:04:56.811Z
+date: 2024-04-30T12:58:23.006Z
+updated: 2024-05-01T12:58:23.006Z
 tags: 
   - iphone transfer
 categories:
@@ -419,3 +419,4 @@ Transferring photos between two iOS devices is very easy. In fact, you can insta
 <li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-7-to-android-drfone-by-drfone-transfer-from-ios/" ><u>How to Move Custom Ringtones from Apple iPhone 7 to Android? | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-15-pro-to-android-drfone-by-drfone-transfer-from-ios/" ><u>How to Move Custom Ringtones from Apple iPhone 15 Pro to Android? | Dr.fone</u></a></li>
 </ul></div>
+

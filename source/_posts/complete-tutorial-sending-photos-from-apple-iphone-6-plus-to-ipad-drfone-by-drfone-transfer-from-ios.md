@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial Sending Photos From Apple iPhone 6 Plus to iPad | Dr.fone
-date: 2024-04-11T23:05:30.451Z
-updated: 2024-04-12T23:05:30.451Z
+date: 2024-04-30T12:58:23.699Z
+updated: 2024-05-01T12:58:23.699Z
 tags: 
   - iphone transfer
 categories:
@@ -552,3 +552,4 @@ However, don't forget to download [Dr.Fone](https://tools.techidaily.com/wonders
 <li><a href="https://screen-mirror.techidaily.com/how-oppo-find-n3-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Oppo Find N3 Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-oppo-find-n3-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Oppo Find N3</u></a></li>
 </ul></div>
+

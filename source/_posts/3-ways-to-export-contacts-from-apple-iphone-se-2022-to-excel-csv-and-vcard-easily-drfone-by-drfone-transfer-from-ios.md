@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone SE (2022) to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.819Z
-updated: 2024-04-12T23:04:56.819Z
+date: 2024-04-30T12:58:23.060Z
+updated: 2024-05-01T12:58:23.060Z
 tags: 
   - iphone transfer
 categories:
@@ -386,3 +386,4 @@ In this context, Wondershare Dr.Fone emerges as a comprehensive and user-friendl
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-14-pro-max-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 14 Pro Max to iPhone With/Without iTunes | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-se-2022-to-ipad-drfone-by-drfone-transfer-from-ios/" ><u>Complete Tutorial Sending Photos From Apple iPhone SE (2022) to iPad | Dr.fone</u></a></li>
 </ul></div>
+

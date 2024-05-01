@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone 13 to SIM? | Dr.fone
-date: 2024-04-11T23:05:48.055Z
-updated: 2024-04-12T23:05:48.055Z
+date: 2024-04-30T12:58:24.007Z
+updated: 2024-05-01T12:58:24.007Z
 tags: 
   - iphone transfer
 categories:
@@ -469,3 +469,4 @@ In conclusion, knowing **how to transfer data from Apple iPhone 13 to iPhone** i
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-motorola-razr-40-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Motorola Razr 40 in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-nokia-g22-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Nokia G22 Location on Viber | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone 13 mini to Android | Dr.fone
-date: 2024-04-11T23:05:05.505Z
-updated: 2024-04-12T23:05:05.505Z
+date: 2024-04-30T12:58:23.370Z
+updated: 2024-05-01T12:58:23.370Z
 tags: 
   - iphone transfer
 categories:
@@ -460,3 +460,4 @@ So, these are four ways in which you can transfer contacts from Apple iPhone 13 
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-a2s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo A2s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-nokia-g42-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nokia G42 5G? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+

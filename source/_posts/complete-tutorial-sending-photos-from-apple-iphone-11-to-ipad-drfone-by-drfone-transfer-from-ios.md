@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial Sending Photos From Apple iPhone 11 to iPad | Dr.fone
-date: 2024-04-11T23:05:28.139Z
-updated: 2024-04-12T23:05:28.139Z
+date: 2024-04-30T12:58:23.674Z
+updated: 2024-05-01T12:58:23.674Z
 tags: 
   - iphone transfer
 categories:
@@ -449,3 +449,4 @@ So, these are four ways in which you can transfer contacts from Apple iPhone 11 
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-nokia-c12-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Nokia C12 Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-13t-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi 13T FRP Bypass Instantly</u></a></li>
 </ul></div>
+

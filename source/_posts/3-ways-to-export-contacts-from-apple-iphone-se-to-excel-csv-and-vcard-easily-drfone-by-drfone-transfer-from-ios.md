@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone SE to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.819Z
-updated: 2024-04-12T23:04:56.819Z
+date: 2024-04-30T12:58:23.061Z
+updated: 2024-05-01T12:58:23.061Z
 tags: 
   - iphone transfer
 categories:
@@ -412,3 +412,4 @@ This article has provided a valuable overview of **switching SIM cards to new Ap
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-7-plus-to-iphone-drfone-by-drfone-transfer-from-ios/" ><u>How to Transfer Everything from Apple iPhone 7 Plus to iPhone | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-12-pro-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/" ><u>5 Tutorials on How to Transfer Photos From Apple iPhone 12 Pro Max to New iPhone | Dr.fone</u></a></li>
 </ul></div>
+

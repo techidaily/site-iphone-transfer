@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone 11 Pro to Android | Dr.fone
-date: 2024-04-11T23:05:04.693Z
-updated: 2024-04-12T23:05:04.693Z
+date: 2024-04-30T12:58:23.362Z
+updated: 2024-05-01T12:58:23.362Z
 tags: 
   - iphone transfer
 categories:
@@ -385,3 +385,4 @@ User Reviews
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-13-pro-max-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 13 Pro Max Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-find-x6-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Find X6</u></a></li>
 </ul></div>
+

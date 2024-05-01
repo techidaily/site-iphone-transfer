@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Apple iPhone 11 Data to iPhone 12 A Complete Guide | Dr.fone
-date: 2024-04-11T23:05:56.068Z
-updated: 2024-04-12T23:05:56.068Z
+date: 2024-04-30T12:58:24.170Z
+updated: 2024-05-01T12:58:24.170Z
 tags: 
   - iphone transfer
 categories:
@@ -449,3 +449,4 @@ After following these steps, you can learn how to transfer contacts from Apple i
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-se-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone SE Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-lava-agni-2-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Lava Agni 2 5G without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+

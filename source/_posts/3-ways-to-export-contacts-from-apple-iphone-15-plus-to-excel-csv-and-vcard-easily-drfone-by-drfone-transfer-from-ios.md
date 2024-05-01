@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 15 Plus to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.814Z
-updated: 2024-04-12T23:04:56.814Z
+date: 2024-04-30T12:58:23.014Z
+updated: 2024-05-01T12:58:23.014Z
 tags: 
   - iphone transfer
 categories:
@@ -440,3 +440,4 @@ For those who prefer a more traditional approach, iTunes provides a straightforw
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-6s-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/" ><u>How to Transfer Everything from Apple iPhone 6s to iPhone 8/X/11 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6s-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/" ><u>How to Transfer from Apple iPhone 6s to Samsung Galaxy S20? | Dr.fone</u></a></li>
 </ul></div>
+

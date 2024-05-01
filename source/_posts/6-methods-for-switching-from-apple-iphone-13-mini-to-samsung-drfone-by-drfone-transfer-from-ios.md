@@ -1,7 +1,7 @@
 ---
 title: 6 Methods for Switching from Apple iPhone 13 mini to Samsung | Dr.fone
-date: 2024-04-11T23:05:24.151Z
-updated: 2024-04-12T23:05:24.151Z
+date: 2024-04-30T12:58:23.554Z
+updated: 2024-05-01T12:58:23.554Z
 tags: 
   - iphone transfer
 categories:
@@ -531,3 +531,4 @@ However, don't forget to download [Dr.Fone](https://tools.techidaily.com/wonders
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-infinix-hot-40i-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Infinix Hot 40i Phone Password Using Emergency Call</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oneplus-11r-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror OnePlus 11R to Roku | Dr.fone</u></a></li>
 </ul></div>
+

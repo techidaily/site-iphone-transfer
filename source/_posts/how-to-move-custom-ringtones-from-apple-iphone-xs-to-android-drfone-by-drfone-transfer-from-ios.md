@@ -1,7 +1,7 @@
 ---
 title: How to Move Custom Ringtones from Apple iPhone XS to Android? | Dr.fone
-date: 2024-04-11T23:05:55.932Z
-updated: 2024-04-12T23:05:55.932Z
+date: 2024-04-30T12:58:24.168Z
+updated: 2024-05-01T12:58:24.168Z
 tags: 
   - iphone transfer
 categories:
@@ -412,3 +412,4 @@ Now when you know how to send ringtones from Apple iPhone XS to iPhone in differ
 <li><a href="https://howto.techidaily.com/why-is-my-infinix-note-30-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Note 30 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-11-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 11 Pro Without Previous Owner?</u></a></li>
 </ul></div>
+

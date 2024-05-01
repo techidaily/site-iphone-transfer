@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone 6s to SIM? | Dr.fone
-date: 2024-04-11T23:05:49.691Z
-updated: 2024-04-12T23:05:49.691Z
+date: 2024-04-30T12:58:24.055Z
+updated: 2024-05-01T12:58:24.055Z
 tags: 
   - iphone transfer
 categories:
@@ -501,3 +501,4 @@ After learning different moving music from Apple iPhone 6s to Android, you can c
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-12r-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus 12R to New Android? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-vivo-g2-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Vivo G2</u></a></li>
 </ul></div>
+

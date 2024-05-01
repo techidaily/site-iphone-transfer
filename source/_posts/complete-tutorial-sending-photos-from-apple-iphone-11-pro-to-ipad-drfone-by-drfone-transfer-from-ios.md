@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial Sending Photos From Apple iPhone 11 Pro to iPad | Dr.fone
-date: 2024-04-11T23:05:28.003Z
-updated: 2024-04-12T23:05:28.003Z
+date: 2024-04-30T12:58:23.673Z
+updated: 2024-05-01T12:58:23.673Z
 tags: 
   - iphone transfer
 categories:
@@ -407,3 +407,4 @@ After following these steps, you can learn how to transfer contacts from Apple i
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-meizu-21-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Meizu 21 Pro to iPad | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-tecno-spark-10-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Tecno Spark 10 Pro FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 13 Pro to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.811Z
-updated: 2024-04-12T23:04:56.811Z
+date: 2024-04-30T12:58:23.008Z
+updated: 2024-05-01T12:58:23.008Z
 tags: 
   - iphone transfer
 categories:
@@ -436,3 +436,4 @@ However, don't forget to download [Dr.Fone](https://tools.techidaily.com/wonders
 <li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-14-pro-to-ipad-easily-drfone-by-drfone-transfer-from-ios/" ><u>4 Ways to Sync Contacts from Apple iPhone 14 Pro to iPad Easily | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-15-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 15 Plus to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone 12 mini to SIM? | Dr.fone
-date: 2024-04-11T23:05:47.104Z
-updated: 2024-04-12T23:05:47.104Z
+date: 2024-04-30T12:58:23.997Z
+updated: 2024-05-01T12:58:23.997Z
 tags: 
   - iphone transfer
 categories:
@@ -427,3 +427,4 @@ Now that you have learned 7 different ways to move contacts from Apple iPhone 12
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme V30? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-v27e-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo V27e</u></a></li>
 </ul></div>
+

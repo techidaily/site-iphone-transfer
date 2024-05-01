@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial Sending Photos From Apple iPhone 13 Pro Max to iPad | Dr.fone
-date: 2024-04-11T23:05:28.951Z
-updated: 2024-04-12T23:05:28.951Z
+date: 2024-04-30T12:58:23.683Z
+updated: 2024-05-01T12:58:23.683Z
 tags: 
   - iphone transfer
 categories:
@@ -416,3 +416,4 @@ So, these are four ways in which you can transfer contacts from Apple iPhone 13 
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-hot-30i-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Hot 30i Lock Screen Password</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-zero-30-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Zero 30 5G Device</u></a></li>
 </ul></div>
+

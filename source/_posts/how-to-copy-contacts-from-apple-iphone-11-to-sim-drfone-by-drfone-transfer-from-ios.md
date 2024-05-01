@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone 11 to SIM? | Dr.fone
-date: 2024-04-11T23:05:46.967Z
-updated: 2024-04-12T23:05:46.967Z
+date: 2024-04-30T12:58:23.996Z
+updated: 2024-05-01T12:58:23.996Z
 tags: 
   - iphone transfer
 categories:
@@ -391,3 +391,4 @@ As we have discussed in the article, some initial Apple iPhone 11 users are faci
 <li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-6s-plus-how-to-unlock-a-disabled-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 6s Plus How to Unlock a Disabled Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-x-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone X without Passcode or Face ID</u></a></li>
 </ul></div>
+

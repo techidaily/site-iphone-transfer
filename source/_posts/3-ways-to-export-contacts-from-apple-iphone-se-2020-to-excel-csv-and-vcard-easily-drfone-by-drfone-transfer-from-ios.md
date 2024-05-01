@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone SE (2020) to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.818Z
-updated: 2024-04-12T23:04:56.818Z
+date: 2024-04-30T12:58:23.058Z
+updated: 2024-05-01T12:58:23.058Z
 tags: 
   - iphone transfer
 categories:
@@ -441,3 +441,4 @@ Now when you know how to send ringtones from Apple iPhone SE (2020) to iPhone in
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-7-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 7 Plus to New iPhone | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-13-to-android-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 13 to Android | Dr.fone</u></a></li>
 </ul></div>
+

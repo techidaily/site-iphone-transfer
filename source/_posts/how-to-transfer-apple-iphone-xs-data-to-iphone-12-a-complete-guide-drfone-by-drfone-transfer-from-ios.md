@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Apple iPhone XS Data to iPhone 12 A Complete Guide | Dr.fone
-date: 2024-04-11T23:06:00.531Z
-updated: 2024-04-12T23:06:00.531Z
+date: 2024-04-30T12:58:24.216Z
+updated: 2024-05-01T12:58:24.216Z
 tags: 
   - iphone transfer
 categories:
@@ -420,3 +420,4 @@ In this context, Wondershare Dr.Fone emerges as a comprehensive and user-friendl
 <li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-f04-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy F04 Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi Redmi Note 12 4G</u></a></li>
 </ul></div>
+

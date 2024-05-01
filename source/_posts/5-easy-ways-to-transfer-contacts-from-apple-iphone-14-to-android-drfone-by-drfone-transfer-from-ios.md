@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone 14 to Android | Dr.fone
-date: 2024-04-11T23:05:06.453Z
-updated: 2024-04-12T23:05:06.453Z
+date: 2024-04-30T12:58:23.388Z
+updated: 2024-05-01T12:58:23.388Z
 tags: 
   - iphone transfer
 categories:
@@ -492,3 +492,4 @@ We hope that our quick and smart guide would be able to help you export contacts
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-f5-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco F5 5G | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-infinix-smart-8-plus-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Infinix Smart 8 Plus Phone Pattern Lock</u></a></li>
 </ul></div>
+

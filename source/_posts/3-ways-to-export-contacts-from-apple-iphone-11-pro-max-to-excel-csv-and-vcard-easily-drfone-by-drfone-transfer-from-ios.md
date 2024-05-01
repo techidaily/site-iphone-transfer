@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 11 Pro Max to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.808Z
-updated: 2024-04-12T23:04:56.808Z
+date: 2024-04-30T12:58:22.997Z
+updated: 2024-05-01T12:58:22.997Z
 tags: 
   - iphone transfer
 categories:
@@ -465,3 +465,4 @@ In a nutshell, the Samsung Smart Switch application provides an efficient and co
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-14-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/" ><u>How to Transfer Everything from Apple iPhone 14 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-14-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 14 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+

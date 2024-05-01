@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone 6 Plus to SIM? | Dr.fone
-date: 2024-04-11T23:05:49.276Z
-updated: 2024-04-12T23:05:49.276Z
+date: 2024-04-30T12:58:24.050Z
+updated: 2024-05-01T12:58:24.050Z
 tags: 
   - iphone transfer
 categories:
@@ -411,3 +411,4 @@ Droid Mini, is the small phone that you can use fast for your needs having Andro
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Realme 12 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For OnePlus Open? | Dr.fone</u></a></li>
 </ul></div>
+

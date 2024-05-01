@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone X to Android | Dr.fone
-date: 2024-04-11T23:05:08.630Z
-updated: 2024-04-12T23:05:08.630Z
+date: 2024-04-30T12:58:23.411Z
+updated: 2024-05-01T12:58:23.411Z
 tags: 
   - iphone transfer
 categories:
@@ -465,3 +465,4 @@ Thus, after going through the article, we are sure that you got a wide range of 
 <li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S23+ | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-is-my-realme-gt-5-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme GT 5 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
+

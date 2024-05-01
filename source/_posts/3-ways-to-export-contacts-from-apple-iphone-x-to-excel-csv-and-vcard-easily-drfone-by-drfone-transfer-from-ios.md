@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone X to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.819Z
-updated: 2024-04-12T23:04:56.819Z
+date: 2024-04-30T12:58:23.063Z
+updated: 2024-05-01T12:58:23.063Z
 tags: 
   - iphone transfer
 categories:
@@ -436,3 +436,4 @@ Now when you know how to send ringtones from Apple iPhone X to iPhone in differe
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-14-to-iphone-15-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 14 to iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-xs-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, How to Transfer from Apple iPhone XS to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
 </ul></div>
+

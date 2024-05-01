@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone 14 to SIM? | Dr.fone
-date: 2024-04-11T23:05:48.596Z
-updated: 2024-04-12T23:05:48.596Z
+date: 2024-04-30T12:58:24.023Z
+updated: 2024-05-01T12:58:24.023Z
 tags: 
   - iphone transfer
 categories:
@@ -409,3 +409,4 @@ We hope that our quick and smart guide would be able to help you export contacts
 <li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-s24plus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy S24+ Phone Pattern Lock</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-nokia-c02-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Nokia C02 | Dr.fone</u></a></li>
 </ul></div>
+

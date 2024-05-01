@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone XS to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.821Z
-updated: 2024-04-12T23:04:56.821Z
+date: 2024-04-30T12:58:23.067Z
+updated: 2024-05-01T12:58:23.067Z
 tags: 
   - iphone transfer
 categories:
@@ -381,3 +381,4 @@ For those who prefer a more traditional approach, iTunes provides a straightforw
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-11-pro-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, How to Transfer from Apple iPhone 11 Pro to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-se-to-ipad-easily-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone SE to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
+

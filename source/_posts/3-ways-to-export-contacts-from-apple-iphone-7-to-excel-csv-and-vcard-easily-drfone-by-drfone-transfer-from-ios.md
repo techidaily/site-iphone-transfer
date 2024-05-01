@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 7 to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-11T23:04:56.817Z
-updated: 2024-04-12T23:04:56.817Z
+date: 2024-04-30T12:58:23.023Z
+updated: 2024-05-01T12:58:23.023Z
 tags: 
   - iphone transfer
 categories:
@@ -394,3 +394,4 @@ In conclusion, the process to transfer contact from Apple iPhone 7 to iPhone wit
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-zte-phones-drfone-by-drfone-transfer-from-ios/" ><u>How to Transfer Data from Apple iPhone 7 to ZTE Phones | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-from-ios/" ><u>5 Easy Ways to Transfer Contacts from Apple iPhone 15 Plus to Android | Dr.fone</u></a></li>
 </ul></div>
+

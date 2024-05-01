@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone SE to Android | Dr.fone
-date: 2024-04-11T23:05:08.492Z
-updated: 2024-04-12T23:05:08.492Z
+date: 2024-04-30T12:58:23.409Z
+updated: 2024-05-01T12:58:23.409Z
 tags: 
   - iphone transfer
 categories:
@@ -435,3 +435,4 @@ This article has provided a valuable overview of **switching SIM cards to new Ap
 <li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-infinix-hot-40i-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Infinix Hot 40i has been deleted.</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-vivo-v29-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Vivo V29</u></a></li>
 </ul></div>
+

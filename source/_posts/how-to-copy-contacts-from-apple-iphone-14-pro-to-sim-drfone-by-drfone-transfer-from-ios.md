@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone 14 Pro to SIM? | Dr.fone
-date: 2024-04-11T23:05:48.460Z
-updated: 2024-04-12T23:05:48.460Z
+date: 2024-04-30T12:58:24.022Z
+updated: 2024-05-01T12:58:24.022Z
 tags: 
   - iphone transfer
 categories:
@@ -429,3 +429,4 @@ Now that you have learned 7 different ways to move contacts from Apple iPhone 14
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 6s Plus | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-htc-u23-pro-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to HTC U23 Pro Get Deleted Phone Number Back with Ease and Safety</u></a></li>
 </ul></div>
+
