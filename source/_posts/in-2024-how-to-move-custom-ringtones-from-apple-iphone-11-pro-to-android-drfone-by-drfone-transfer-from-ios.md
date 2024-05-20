@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Move Custom Ringtones from Apple iPhone 11 Pro to Android? | Dr.fone
-date: 2024-04-30T13:01:06.105Z
-updated: 2024-05-01T13:01:06.105Z
+date: 2024-05-19T02:47:40.181Z
+updated: 2024-05-20T02:47:40.181Z
 tags: 
   - iphone transfer
 categories:
@@ -308,4 +308,5 @@ Droid Mini, is the small phone that you can use fast for your needs having Andro
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-6-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone 6 Plus? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-find-n3-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Find N3 Without Password?</u></a></li>
 </ul></div>
+
 

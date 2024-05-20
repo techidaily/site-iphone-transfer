@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone 6s Plus to iPad | Dr.fone
-date: 2024-04-30T12:59:17.831Z
-updated: 2024-05-01T12:59:17.831Z
+date: 2024-05-19T02:47:38.516Z
+updated: 2024-05-20T02:47:38.516Z
 tags: 
   - iphone transfer
 categories:
@@ -544,4 +544,5 @@ In a nutshell, the Samsung Smart Switch application provides an efficient and co
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-uue-adobe-lightroom-color-grading/"><u>Updated 2024 Approved How to Uue Adobe Lightroom Color Grading</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-15-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 15 Lock Screen with Notifications? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone 13 mini Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:39.759Z
-updated: 2024-05-01T13:03:39.759Z
+date: 2024-05-19T02:47:41.957Z
+updated: 2024-05-20T02:47:41.957Z
 tags: 
   - iphone transfer
 categories:
@@ -477,4 +477,5 @@ User Reviews
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Motorola Moto G73 5G? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
+
 

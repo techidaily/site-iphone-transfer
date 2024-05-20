@@ -1,7 +1,7 @@
 ---
 title: In 2024, Refurbished Apple iPhone 13 mini Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:02:46.582Z
-updated: 2024-05-01T13:02:46.582Z
+date: 2024-05-19T02:47:41.219Z
+updated: 2024-05-20T02:47:41.219Z
 tags: 
   - iphone transfer
 categories:
@@ -549,4 +549,5 @@ In a nutshell, the Samsung Smart Switch application provides an efficient and co
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-canon-camcorder-video-editing-made-easy-tips-tricks-and-software/"><u>New 2024 Approved Canon Camcorder Video Editing Made Easy Tips, Tricks, and Software</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-narzo-n55-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme Narzo N55 without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

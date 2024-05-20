@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone SE to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:25.881Z
-updated: 2024-05-01T12:59:25.881Z
+date: 2024-05-19T02:47:38.604Z
+updated: 2024-05-20T02:47:38.604Z
 tags: 
   - iphone transfer
 categories:
@@ -452,4 +452,5 @@ For those who prefer a more traditional approach, iTunes provides a straightforw
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-quality-matters-expert-tips-for-converting-video-to-mp3-without-compromise/"><u>2024 Approved Quality Matters Expert Tips for Converting Video to MP3 without Compromise</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-s17t-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo S17t Is Unlocked</u></a></li>
 </ul></div>
+
 

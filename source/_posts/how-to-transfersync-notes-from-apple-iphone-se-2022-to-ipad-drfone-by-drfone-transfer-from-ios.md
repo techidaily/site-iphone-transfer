@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone SE (2022) to iPad | Dr.fone
-date: 2024-04-30T12:59:19.144Z
-updated: 2024-05-01T12:59:19.144Z
+date: 2024-05-19T02:47:38.525Z
+updated: 2024-05-20T02:47:38.525Z
 tags: 
   - iphone transfer
 categories:
@@ -422,4 +422,5 @@ If you do not want to use iCloud for data transfer, run Dr.Fone - Phone Transfer
 <li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-12-pro-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 12 Pro GPS not Working Issue | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oneplus-ace-2-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass OnePlus Ace 2 FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

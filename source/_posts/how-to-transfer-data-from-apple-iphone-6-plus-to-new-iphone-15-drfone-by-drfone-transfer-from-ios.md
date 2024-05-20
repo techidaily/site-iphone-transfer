@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Data from Apple iPhone 6 Plus to New iPhone 15 | Dr.fone
-date: 2024-04-30T12:58:24.369Z
-updated: 2024-05-01T12:58:24.369Z
+date: 2024-05-19T02:47:37.633Z
+updated: 2024-05-20T02:47:37.633Z
 tags: 
   - iphone transfer
 categories:
@@ -382,4 +382,5 @@ Now that you have learned 7 different ways to move contacts from Apple iPhone 6 
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oneplus-nord-n30-se-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from OnePlus Nord N30 SE to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

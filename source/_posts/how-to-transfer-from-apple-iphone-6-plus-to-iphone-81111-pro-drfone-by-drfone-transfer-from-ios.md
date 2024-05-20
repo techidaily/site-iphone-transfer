@@ -1,7 +1,7 @@
 ---
 title: How to Transfer from Apple iPhone 6 Plus to iPhone 8/11/11 Pro | Dr.fone
-date: 2024-04-30T12:58:48.617Z
-updated: 2024-05-01T12:58:48.617Z
+date: 2024-05-19T02:47:38.112Z
+updated: 2024-05-20T02:47:38.112Z
 tags: 
   - iphone transfer
 categories:
@@ -350,4 +350,5 @@ We hope this guide was able to answer your question of how to copy contacts from
 <li><a href="https://ai-editing-video.techidaily.com/new-avi-editor-for-windows-11108187-easily-edit-avi-files-on-pc/"><u>New AVI Editor for Windows 11/10/8.1/8/7 Easily Edit AVI Files on PC</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-s24-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy S24 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

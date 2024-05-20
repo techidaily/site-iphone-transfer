@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone 6s Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:42.332Z
-updated: 2024-05-01T13:03:42.332Z
+date: 2024-05-19T02:47:41.976Z
+updated: 2024-05-20T02:47:41.976Z
 tags: 
   - iphone transfer
 categories:
@@ -522,4 +522,5 @@ We hope that our quick and smart guide would be able to help you export contacts
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a05s-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A05s to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/tecno-data-recovery-recover-lost-data-from-tecno-spark-20-proplus-by-fonelab-android-recover-data/"><u>Tecno Data Recovery – recover lost data from Tecno Spark 20 Pro+</u></a></li>
 </ul></div>
+
 

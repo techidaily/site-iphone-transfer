@@ -1,7 +1,7 @@
 ---
 title: 6 Methods for Switching from Apple iPhone 12 mini to Samsung | Dr.fone
-date: 2024-04-30T12:58:23.549Z
-updated: 2024-05-01T12:58:23.549Z
+date: 2024-05-19T02:47:36.884Z
+updated: 2024-05-20T02:47:36.884Z
 tags: 
   - iphone transfer
 categories:
@@ -439,4 +439,5 @@ Droid Mini, is the small phone that you can use fast for your needs having Andro
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-s17-pro-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo S17 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Tutorial Sending Photos From Apple iPhone 6s to iPad | Dr.fone
-date: 2024-04-30T13:00:37.145Z
-updated: 2024-05-01T13:00:37.145Z
+date: 2024-05-19T02:47:39.573Z
+updated: 2024-05-20T02:47:39.573Z
 tags: 
   - iphone transfer
 categories:
@@ -437,4 +437,5 @@ In case of technical concern, you can always contact our customer representative
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-se-2020-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone SE (2020) Stuck On Activation Lock?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-wpd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .wpd file</u></a></li>
 </ul></div>
+
 

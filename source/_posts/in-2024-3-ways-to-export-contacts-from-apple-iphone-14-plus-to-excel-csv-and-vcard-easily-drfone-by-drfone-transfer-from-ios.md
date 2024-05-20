@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone 14 Plus to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:22.319Z
-updated: 2024-05-01T12:59:22.319Z
+date: 2024-05-19T02:47:38.580Z
+updated: 2024-05-20T02:47:38.580Z
 tags: 
   - iphone transfer
 categories:
@@ -518,4 +518,5 @@ After learning different moving music from Apple iPhone 14 Plus to Android, you 
 <li><a href="https://fix-guide.techidaily.com/reasons-for-honor-70-lite-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor 70 Lite 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-zte-blade-a73-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset ZTE Blade A73 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Copy Contacts from Apple iPhone 13 mini to SIM? | Dr.fone
-date: 2024-04-30T13:01:00.691Z
-updated: 2024-05-01T13:01:00.691Z
+date: 2024-05-19T02:47:40.101Z
+updated: 2024-05-20T02:47:40.101Z
 tags: 
   - iphone transfer
 categories:
@@ -381,4 +381,5 @@ We hope that our quick and smart guide would be able to help you export contacts
 <li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-contacts-from-k11-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from K11 5G.</u></a></li>
 </ul></div>
+
 

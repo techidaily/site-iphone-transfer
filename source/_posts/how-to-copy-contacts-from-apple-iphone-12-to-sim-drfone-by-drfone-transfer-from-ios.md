@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone 12 to SIM? | Dr.fone
-date: 2024-04-30T12:58:24.002Z
-updated: 2024-05-01T12:58:24.002Z
+date: 2024-05-19T02:47:37.310Z
+updated: 2024-05-20T02:47:37.310Z
 tags: 
   - iphone transfer
 categories:
@@ -419,4 +419,5 @@ We hope that our quick and smart guide would be able to help you export contacts
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor V Purse | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-tecno-spark-20-proplus-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Tecno Spark 20 Pro+ Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone XS Max Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:44.720Z
-updated: 2024-05-01T13:03:44.720Z
+date: 2024-05-19T02:47:41.994Z
+updated: 2024-05-20T02:47:41.994Z
 tags: 
   - iphone transfer
 categories:
@@ -436,4 +436,5 @@ We know the emotions and sentiments attached with one’s personal information a
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-reno-10-proplus-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo Reno 10 Pro+ 5G Devices</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oppo-find-n3-flip-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Oppo Find N3 Flip Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

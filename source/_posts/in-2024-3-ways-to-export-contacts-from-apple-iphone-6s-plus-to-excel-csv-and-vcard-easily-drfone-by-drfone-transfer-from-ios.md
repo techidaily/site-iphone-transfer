@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone 6s Plus to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:24.384Z
-updated: 2024-05-01T12:59:24.384Z
+date: 2024-05-19T02:47:38.594Z
+updated: 2024-05-20T02:47:38.594Z
 tags: 
   - iphone transfer
 categories:
@@ -324,4 +324,5 @@ ZTE devices keep getting better; the following are some of the best ZTE phones i
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-smart-7-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Smart 7</u></a></li>
 <li><a href="https://techidaily.com/vivo-s17-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Vivo S17 Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
 </ul></div>
+
 

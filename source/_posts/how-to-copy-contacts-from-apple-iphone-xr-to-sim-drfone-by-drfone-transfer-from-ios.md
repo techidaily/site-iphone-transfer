@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone XR to SIM? | Dr.fone
-date: 2024-04-30T12:58:24.083Z
-updated: 2024-05-01T12:58:24.083Z
+date: 2024-05-19T02:47:37.374Z
+updated: 2024-05-20T02:47:37.374Z
 tags: 
   - iphone transfer
 categories:
@@ -499,4 +499,5 @@ Now when you know how to send ringtones from Apple iPhone XR to iPhone in differ
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-huawei-nova-y71-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Huawei Nova Y71 Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-redmi-note-12r-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Redmi Note 12R Device SIM</u></a></li>
 </ul></div>
+
 

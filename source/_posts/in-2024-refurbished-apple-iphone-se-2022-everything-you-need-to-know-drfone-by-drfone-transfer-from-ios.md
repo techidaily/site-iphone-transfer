@@ -1,7 +1,7 @@
 ---
 title: In 2024, Refurbished Apple iPhone SE (2022) Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:02:50.383Z
-updated: 2024-05-01T13:02:50.383Z
+date: 2024-05-19T02:47:41.321Z
+updated: 2024-05-20T02:47:41.321Z
 tags: 
   - iphone transfer
 categories:
@@ -504,4 +504,5 @@ Now that you have learned 7 different ways to move contacts from Apple iPhone SE
 <li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Motorola Edge 2023 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-itel-s23-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Itel S23? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

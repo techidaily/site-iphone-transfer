@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone 8 Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:43.210Z
-updated: 2024-05-01T13:03:43.210Z
+date: 2024-05-19T02:47:41.982Z
+updated: 2024-05-20T02:47:41.982Z
 tags: 
   - iphone transfer
 categories:
@@ -527,4 +527,5 @@ User Reviews
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi Redmi Note 13 5G</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-do-you-have-any-idea-to-save-projects-on-the-final-cut-pro-app-if-you-are-in-search-of-this-content-then-you-are-in-the-right-place-to-obtain-the-va/"><u>In 2024, Do You Have Any Idea to Save Projects on the Final Cut Pro App? If You Are in Search of This Content, Then You Are in the Right Place to Obtain the Valuable Facts About It in Detail</u></a></li>
 </ul></div>
+
 

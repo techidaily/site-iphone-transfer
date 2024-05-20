@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone 11 Pro to iPad | Dr.fone
-date: 2024-04-30T12:59:13.917Z
-updated: 2024-05-01T12:59:13.917Z
+date: 2024-05-19T02:47:38.487Z
+updated: 2024-05-20T02:47:38.487Z
 tags: 
   - iphone transfer
 categories:
@@ -421,4 +421,5 @@ In conclusion, knowing **how to transfer data from Apple iPhone 11 Pro to iPhone
 <li><a href="https://animation-videos.techidaily.com/new-how-to-liven-up-your-animate-website-on-scroll-for-2024/"><u>New How to Liven Up Your Animate Website on Scroll for 2024</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oneplus-12-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock OnePlus 12</u></a></li>
 </ul></div>
+
 

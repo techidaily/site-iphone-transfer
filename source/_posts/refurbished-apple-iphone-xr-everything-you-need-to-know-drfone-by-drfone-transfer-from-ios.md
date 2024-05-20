@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone XR Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:44.344Z
-updated: 2024-05-01T13:03:44.344Z
+date: 2024-05-19T02:47:41.991Z
+updated: 2024-05-20T02:47:41.991Z
 tags: 
   - iphone transfer
 categories:
@@ -436,4 +436,5 @@ We know the emotions and sentiments attached with one’s personal information a
 <li><a href="https://ai-editing-video.techidaily.com/updated-hitfilm-express-a-guide-to-download-install-key-features/"><u>Updated Hitfilm Express - A Guide to Download, Install, Key Features</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Honor 90? | Dr.fone</u></a></li>
 </ul></div>
+
 

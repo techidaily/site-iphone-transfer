@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone 12 mini Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:39.010Z
-updated: 2024-05-01T13:03:39.010Z
+date: 2024-05-19T02:47:41.951Z
+updated: 2024-05-20T02:47:41.951Z
 tags: 
   - iphone transfer
 categories:
@@ -478,4 +478,5 @@ Thus, after going through the article, we are sure that you got a wide range of 
 <li><a href="https://android-frp.techidaily.com/sony-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Sony ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy Z Fold 5</u></a></li>
 </ul></div>
+
 

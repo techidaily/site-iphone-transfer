@@ -1,7 +1,7 @@
 ---
 title: Solved How To Transfer From Apple iPhone 6s to iPhone 15 | Dr.fone
-date: 2024-04-30T13:03:49.262Z
-updated: 2024-05-01T13:03:49.262Z
+date: 2024-05-19T02:47:42.070Z
+updated: 2024-05-20T02:47:42.070Z
 tags: 
   - iphone transfer
 categories:
@@ -483,4 +483,5 @@ Now when you know how to send ringtones from Apple iPhone 6s to iPhone in differ
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-13-ultra-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi 13 Ultra to iPhone XS/11 | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Sony Xperia 1 V? | Dr.fone</u></a></li>
 </ul></div>
+
 

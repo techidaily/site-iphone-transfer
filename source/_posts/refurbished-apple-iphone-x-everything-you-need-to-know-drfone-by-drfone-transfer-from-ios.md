@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone X Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:44.155Z
-updated: 2024-05-01T13:03:44.155Z
+date: 2024-05-19T02:47:41.990Z
+updated: 2024-05-20T02:47:41.990Z
 tags: 
   - iphone transfer
 categories:
@@ -595,4 +595,5 @@ After learning different moving music from Apple iPhone X to Android, you can ce
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-100-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor 100 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Tecno Spark 20 | Dr.fone</u></a></li>
 </ul></div>
+
 

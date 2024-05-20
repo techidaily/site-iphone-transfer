@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial Sending Photos From Apple iPhone SE (2020) to iPad | Dr.fone
-date: 2024-04-30T12:58:23.712Z
-updated: 2024-05-01T12:58:23.712Z
+date: 2024-05-19T02:47:37.039Z
+updated: 2024-05-20T02:47:37.039Z
 tags: 
   - iphone transfer
 categories:
@@ -402,4 +402,5 @@ We hope that our quick and smart guide would be able to help you export contacts
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo V29 Pro | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

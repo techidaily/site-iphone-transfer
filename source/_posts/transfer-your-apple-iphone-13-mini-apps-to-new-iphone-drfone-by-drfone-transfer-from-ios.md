@@ -1,7 +1,7 @@
 ---
 title: Transfer your Apple iPhone 13 mini Apps to New iPhone | Dr.fone
-date: 2024-04-30T13:03:59.883Z
-updated: 2024-05-01T13:03:59.883Z
+date: 2024-05-19T02:47:42.167Z
+updated: 2024-05-20T02:47:42.167Z
 tags: 
   - iphone transfer
 categories:
@@ -443,4 +443,5 @@ In conclusion, knowing **how to transfer data from Apple iPhone 13 mini to iPhon
 <li><a href="https://ai-video-apps.techidaily.com/updated-this-article-shows-you-how-to-do-freeze-frames-and-slow-motion-in-final-cut-pro-x/"><u>Updated This Article Shows You How to Do Freeze-Frames and Slow Motion in Final Cut Pro X</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor X9b? | Dr.fone</u></a></li>
 </ul></div>
+
 

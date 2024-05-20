@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 14 Pro to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:58:23.012Z
-updated: 2024-05-01T12:58:23.012Z
+date: 2024-05-19T02:47:36.299Z
+updated: 2024-05-20T02:47:36.299Z
 tags: 
   - iphone transfer
 categories:
@@ -375,4 +375,5 @@ Now that you have learned 7 different ways to move contacts from Apple iPhone 14
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-xs-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/" ><u>How to Transfer from Apple iPhone XS to Samsung Galaxy S20? | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-15-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 15 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

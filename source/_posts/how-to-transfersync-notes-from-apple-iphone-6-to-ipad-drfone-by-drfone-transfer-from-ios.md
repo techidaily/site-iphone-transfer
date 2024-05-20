@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone 6 to iPad | Dr.fone
-date: 2024-04-30T12:59:17.631Z
-updated: 2024-05-01T12:59:17.631Z
+date: 2024-05-19T02:47:38.515Z
+updated: 2024-05-20T02:47:38.515Z
 tags: 
   - iphone transfer
 categories:
@@ -365,4 +365,5 @@ ZTE devices keep getting better; the following are some of the best ZTE phones i
 <li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo A2 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Apple iPhone SE (2022) | Dr.fone</u></a></li>
 </ul></div>
+
 

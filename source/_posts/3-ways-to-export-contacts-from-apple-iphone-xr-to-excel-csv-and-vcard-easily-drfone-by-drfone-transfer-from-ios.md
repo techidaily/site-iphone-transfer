@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone XR to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:58:23.064Z
-updated: 2024-05-01T12:58:23.064Z
+date: 2024-05-19T02:47:36.338Z
+updated: 2024-05-20T02:47:36.338Z
 tags: 
   - iphone transfer
 categories:
@@ -420,4 +420,5 @@ Transferring photos between two iOS devices is very easy. In fact, you can insta
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-13-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, How to Transfer Everything from Apple iPhone 13 Pro Max to iPhone | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-6s-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, How to Transfer Everything from Apple iPhone 6s Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

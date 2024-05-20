@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone SE to SIM? | Dr.fone
-date: 2024-04-30T12:58:24.080Z
-updated: 2024-05-01T12:58:24.080Z
+date: 2024-05-19T02:47:37.371Z
+updated: 2024-05-20T02:47:37.371Z
 tags: 
   - iphone transfer
 categories:
@@ -397,4 +397,5 @@ In conclusion, the process to transfer contact from Apple iPhone SE to iPhone wi
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Device</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-f25-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo F25 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Refurbished Apple iPhone 13 Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:02:46.396Z
-updated: 2024-05-01T13:02:46.396Z
+date: 2024-05-19T02:47:41.217Z
+updated: 2024-05-20T02:47:41.217Z
 tags: 
   - iphone transfer
 categories:
@@ -526,4 +526,5 @@ Thus, after going through the article, we are sure that you got a wide range of 
 <li><a href="https://android-location-track.techidaily.com/how-to-track-realme-narzo-n53-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme Narzo N53 by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-poco-f5-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Poco F5 Pro 5G Devices</u></a></li>
 </ul></div>
+
 

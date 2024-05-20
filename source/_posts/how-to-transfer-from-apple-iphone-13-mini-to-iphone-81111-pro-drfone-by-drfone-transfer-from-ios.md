@@ -1,7 +1,7 @@
 ---
 title: How to Transfer from Apple iPhone 13 mini to iPhone 8/11/11 Pro | Dr.fone
-date: 2024-04-30T12:58:39.419Z
-updated: 2024-05-01T12:58:39.419Z
+date: 2024-05-19T02:47:38.001Z
+updated: 2024-05-20T02:47:38.001Z
 tags: 
   - iphone transfer
 categories:
@@ -412,4 +412,5 @@ Hopefully, you got a clear idea of how to transfer data to iPhone 12. Dr. Fone -
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor 90 Lite | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Honor V Purse? | Dr.fone</u></a></li>
 </ul></div>
+
 

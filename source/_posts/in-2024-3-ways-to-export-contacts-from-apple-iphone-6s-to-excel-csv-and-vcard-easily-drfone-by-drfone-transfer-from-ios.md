@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone 6s to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:24.569Z
-updated: 2024-05-01T12:59:24.569Z
+date: 2024-05-19T02:47:38.595Z
+updated: 2024-05-20T02:47:38.595Z
 tags: 
   - iphone transfer
 categories:
@@ -428,4 +428,5 @@ User Reviews
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y200e-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y200e 5G Device</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-s17t-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo S17t</u></a></li>
 </ul></div>
+
 

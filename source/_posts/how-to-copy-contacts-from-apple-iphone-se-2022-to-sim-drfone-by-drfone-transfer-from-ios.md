@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone SE (2022) to SIM? | Dr.fone
-date: 2024-04-30T12:58:24.079Z
-updated: 2024-05-01T12:58:24.079Z
+date: 2024-05-19T02:47:37.369Z
+updated: 2024-05-20T02:47:37.369Z
 tags: 
   - iphone transfer
 categories:
@@ -458,4 +458,5 @@ It bridges the gap between devices with unparalleled features. Dr. Fone's capabi
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-12-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi 12 | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-7-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Smart 7 Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

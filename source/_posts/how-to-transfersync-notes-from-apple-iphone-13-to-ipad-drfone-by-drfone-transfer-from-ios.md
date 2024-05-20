@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone 13 to iPad | Dr.fone
-date: 2024-04-30T12:59:15.736Z
-updated: 2024-05-01T12:59:15.737Z
+date: 2024-05-19T02:47:38.505Z
+updated: 2024-05-20T02:47:38.505Z
 tags: 
   - iphone transfer
 categories:
@@ -363,4 +363,5 @@ After going through this article guide we can conclude that iPhone users can tra
 <li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-find-x6-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo Find X6 FRP</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy A23 5G Device</u></a></li>
 </ul></div>
+
 

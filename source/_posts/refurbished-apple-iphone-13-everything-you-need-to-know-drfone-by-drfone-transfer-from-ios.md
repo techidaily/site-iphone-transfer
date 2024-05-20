@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone 13 Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:39.573Z
-updated: 2024-05-01T13:03:39.573Z
+date: 2024-05-19T02:47:41.955Z
+updated: 2024-05-20T02:47:41.956Z
 tags: 
   - iphone transfer
 categories:
@@ -556,4 +556,5 @@ Yet, considering factors like convenience, ease of use, and efficiency, one opti
 <li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-6-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 6 Video to Computer? | Dr.fone</u></a></li>
 </ul></div>
+
 

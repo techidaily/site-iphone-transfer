@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone SE to iPad | Dr.fone
-date: 2024-04-30T12:59:19.333Z
-updated: 2024-05-01T12:59:19.333Z
+date: 2024-05-19T02:47:38.526Z
+updated: 2024-05-20T02:47:38.526Z
 tags: 
   - iphone transfer
 categories:
@@ -427,4 +427,5 @@ Transferring any data from your old phone to a new phone can be very painful. Bu
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-infinix-note-30-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Infinix Note 30 5G</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-reno-11f-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo Reno 11F 5G to New Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

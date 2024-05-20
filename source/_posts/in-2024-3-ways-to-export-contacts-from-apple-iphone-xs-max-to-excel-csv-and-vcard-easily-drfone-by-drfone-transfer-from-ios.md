@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone XS Max to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:26.538Z
-updated: 2024-05-01T12:59:26.538Z
+date: 2024-05-19T02:47:38.608Z
+updated: 2024-05-20T02:47:38.608Z
 tags: 
   - iphone transfer
 categories:
@@ -433,4 +433,5 @@ We hope this guide was able to answer your question of how to copy contacts from
 <li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-15-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 15 Plus with a Broken Screen? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor V Purse | Dr.fone</u></a></li>
 </ul></div>
+
 

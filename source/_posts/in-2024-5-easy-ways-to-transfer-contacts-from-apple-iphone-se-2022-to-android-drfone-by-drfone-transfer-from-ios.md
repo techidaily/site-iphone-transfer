@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone SE (2022) to Android | Dr.fone
-date: 2024-04-30T13:00:05.252Z
-updated: 2024-05-01T13:00:05.252Z
+date: 2024-05-19T02:47:39.069Z
+updated: 2024-05-20T02:47:39.069Z
 tags: 
   - iphone transfer
 categories:
@@ -449,4 +449,5 @@ After learning different moving music from Apple iPhone SE (2022) to Android, yo
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oppo-k11-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Oppo K11 5G</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-zte-axon-40-lite-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from ZTE Axon 40 Lite</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial Sending Photos From Apple iPhone 11 Pro Max to iPad | Dr.fone
-date: 2024-04-30T12:58:23.671Z
-updated: 2024-05-01T12:58:23.671Z
+date: 2024-05-19T02:47:36.979Z
+updated: 2024-05-20T02:47:36.979Z
 tags: 
   - iphone transfer
 categories:
@@ -549,4 +549,5 @@ Learning about the iPhone to Samsung transfer is easy when you have a clear and 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-c50-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Poco C50 Lock Screen Password?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-y100i-power-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo Y100i Power 5G Phone Using PC | Dr.fone</u></a></li>
 </ul></div>
+
 

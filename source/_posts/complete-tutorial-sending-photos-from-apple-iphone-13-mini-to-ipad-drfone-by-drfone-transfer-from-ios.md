@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial Sending Photos From Apple iPhone 13 mini to iPad | Dr.fone
-date: 2024-04-30T12:58:23.682Z
-updated: 2024-05-01T12:58:23.682Z
+date: 2024-05-19T02:47:37.010Z
+updated: 2024-05-20T02:47:37.010Z
 tags: 
   - iphone transfer
 categories:
@@ -486,4 +486,5 @@ Transferring photos between two iOS devices is very easy. In fact, you can insta
 <li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify malfunctioning drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
 <li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-meizu-21-frp-by-drfone-android/"><u>The Updated Method to Bypass Meizu 21 FRP</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Transfer your Apple iPhone 11 Apps to New iPhone | Dr.fone
-date: 2024-04-30T13:03:58.382Z
-updated: 2024-05-01T13:03:58.382Z
+date: 2024-05-19T02:47:42.157Z
+updated: 2024-05-20T02:47:42.157Z
 tags: 
   - iphone transfer
 categories:
@@ -490,4 +490,5 @@ In conclusion, knowing **how to transfer data from Apple iPhone 11 to iPhone** i
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo S17 Pro | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100 5G Phone without Google Account?</u></a></li>
 </ul></div>
+
 

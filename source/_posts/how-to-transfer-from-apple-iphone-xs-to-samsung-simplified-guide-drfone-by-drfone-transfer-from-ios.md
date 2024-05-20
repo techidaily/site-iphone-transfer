@@ -1,7 +1,7 @@
 ---
 title: How To Transfer From Apple iPhone XS to Samsung Simplified Guide | Dr.fone
-date: 2024-04-30T12:59:00.233Z
-updated: 2024-05-01T12:59:00.233Z
+date: 2024-05-19T02:47:38.312Z
+updated: 2024-05-20T02:47:38.312Z
 tags: 
   - iphone transfer
 categories:
@@ -585,4 +585,5 @@ Learning about the iPhone to Samsung transfer is easy when you have a clear and 
 <li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-art-generator-for-2024/"><u>Updated What Is an AI Art Generator for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-asus-rog-phone-7-ultimate-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Asus ROG Phone 7 Ultimate to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Methods to Transfer from Apple iPhone XR to Android | Dr.fone
-date: 2024-04-30T13:03:37.690Z
-updated: 2024-05-01T13:03:37.690Z
+date: 2024-05-19T02:47:41.939Z
+updated: 2024-05-20T02:47:41.939Z
 tags: 
   - iphone transfer
 categories:
@@ -432,4 +432,5 @@ Hopefully, you got a clear idea of how to transfer data to iPhone 12. Dr. Fone -
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-poco-m6-pro-4g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Poco M6 Pro 4G Phone? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-mov-movies-content-on-razr-40-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Razr 40</u></a></li>
 </ul></div>
+
 

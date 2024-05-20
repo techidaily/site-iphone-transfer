@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone 11 Pro to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:20.451Z
-updated: 2024-05-01T12:59:20.451Z
+date: 2024-05-19T02:47:38.565Z
+updated: 2024-05-20T02:47:38.565Z
 tags: 
   - iphone transfer
 categories:
@@ -556,4 +556,5 @@ Learning about the iPhone to Samsung transfer is easy when you have a clear and 
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-infinix-note-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Infinix Note 30 5G | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-poco-f5-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Poco F5 5G</u></a></li>
 </ul></div>
+
 

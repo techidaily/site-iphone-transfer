@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone X to iPad | Dr.fone
-date: 2024-04-30T12:59:19.518Z
-updated: 2024-05-01T12:59:19.518Z
+date: 2024-05-19T02:47:38.527Z
+updated: 2024-05-20T02:47:38.527Z
 tags: 
   - iphone transfer
 categories:
@@ -477,4 +477,5 @@ We know the emotions and sentiments attached with one’s personal information a
 <li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-motorola-moto-g23-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Motorola Moto G23 without Him Knowing | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Spark Go (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone 6 to Android | Dr.fone
-date: 2024-04-30T12:58:23.396Z
-updated: 2024-05-01T12:58:23.396Z
+date: 2024-05-19T02:47:36.656Z
+updated: 2024-05-20T02:47:36.656Z
 tags: 
   - iphone transfer
 categories:
@@ -457,4 +457,5 @@ After learning different moving music from Apple iPhone 6 to Android, you can ce
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Other iPhone 15 devices? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-motorola-moto-g14-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Motorola Moto G14</u></a></li>
 </ul></div>
+
 

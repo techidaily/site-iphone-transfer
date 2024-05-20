@@ -1,7 +1,7 @@
 ---
 title: In 2024, Methods to Transfer from Apple iPhone SE (2022) to Android | Dr.fone
-date: 2024-04-30T13:02:43.847Z
-updated: 2024-05-01T13:02:43.847Z
+date: 2024-05-19T02:47:41.196Z
+updated: 2024-05-20T02:47:41.196Z
 tags: 
   - iphone transfer
 categories:
@@ -421,4 +421,5 @@ We hope that our quick and smart guide would be able to help you export contacts
 <li><a href="https://techidaily.com/how-to-reset-apple-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 7 Without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-90-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor 90 to Enjoy More Fun | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Refurbished Apple iPhone XS Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:02:51.134Z
-updated: 2024-05-01T13:02:51.134Z
+date: 2024-05-19T02:47:41.344Z
+updated: 2024-05-20T02:47:41.344Z
 tags: 
   - iphone transfer
 categories:
@@ -500,4 +500,5 @@ Now when you know how to send ringtones from Apple iPhone XS to iPhone in differ
 <li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-s24-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy S24? Try These Fixes</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-photos-from-honor-90-gt-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor 90 GT.</u></a></li>
 </ul></div>
+
 

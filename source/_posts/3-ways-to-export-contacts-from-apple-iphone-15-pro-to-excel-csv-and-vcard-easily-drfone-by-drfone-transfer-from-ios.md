@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 15 Pro to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:58:23.016Z
-updated: 2024-05-01T12:58:23.016Z
+date: 2024-05-19T02:47:36.319Z
+updated: 2024-05-20T02:47:36.319Z
 tags: 
   - iphone transfer
 categories:
@@ -392,4 +392,5 @@ Where iTunes and iCloud are easy and go-to tools for many users, Dr.Fone - Phone
 <li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-13-to-pc-drfone-by-drfone-transfer-from-ios/" ><u>Easy Methods How To Transfer Pictures From Apple iPhone 13 to PC | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-8-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/" ><u>4 Ways to Transfer Messages from Apple iPhone 8 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

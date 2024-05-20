@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer/Sync Notes from Apple iPhone SE (2022) to iPad | Dr.fone
-date: 2024-04-30T13:02:30.330Z
-updated: 2024-05-01T13:02:30.330Z
+date: 2024-05-19T02:47:41.036Z
+updated: 2024-05-20T02:47:41.036Z
 tags: 
   - iphone transfer
 categories:
@@ -382,4 +382,5 @@ Transferring any data from your old phone to a new phone can be very painful. Bu
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-c33-2023-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme C33 2023</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-itel-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Itel</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone 6 Plus to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:24.010Z
-updated: 2024-05-01T12:59:24.010Z
+date: 2024-05-19T02:47:38.592Z
+updated: 2024-05-20T02:47:38.592Z
 tags: 
   - iphone transfer
 categories:
@@ -372,4 +372,5 @@ We hope this guide was able to answer your question of how to copy contacts from
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-lava-blaze-pro-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Lava Blaze Pro 5G for Streaming | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 with IMEI Code?</u></a></li>
 </ul></div>
+
 

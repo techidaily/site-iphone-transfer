@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone 11 to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:20.639Z
-updated: 2024-05-01T12:59:20.639Z
+date: 2024-05-19T02:47:38.567Z
+updated: 2024-05-20T02:47:38.567Z
 tags: 
   - iphone transfer
 categories:
@@ -512,4 +512,5 @@ After following these steps, you can learn how to transfer contacts from Apple i
 <li><a href="https://ai-editing-video.techidaily.com/how-to-spruce-up-your-telegram-profile-for-2024/"><u>How to Spruce Up Your Telegram Profile for 2024</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-infinix-zero-30-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Infinix Zero 30 5G Back to Operation | Dr.fone</u></a></li>
 </ul></div>
+
 

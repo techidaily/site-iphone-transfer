@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone 8 Plus to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:25.130Z
-updated: 2024-05-01T12:59:25.130Z
+date: 2024-05-19T02:47:38.599Z
+updated: 2024-05-20T02:47:38.599Z
 tags: 
   - iphone transfer
 categories:
@@ -392,4 +392,5 @@ If you do not want to use iCloud for data transfer, run Dr.Fone - Phone Transfer
 <li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-13-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 13 Backup Password? Heres What to Do</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-v29-easily-by-drfone-android/"><u>How To Unlock a Vivo V29 Easily?</u></a></li>
 </ul></div>
+
 

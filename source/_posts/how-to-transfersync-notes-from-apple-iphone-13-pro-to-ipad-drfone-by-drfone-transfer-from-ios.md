@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone 13 Pro to iPad | Dr.fone
-date: 2024-04-30T12:59:15.427Z
-updated: 2024-05-01T12:59:15.427Z
+date: 2024-05-19T02:47:38.504Z
+updated: 2024-05-20T02:47:38.504Z
 tags: 
   - iphone transfer
 categories:
@@ -371,4 +371,5 @@ So, these are four ways in which you can transfer contacts from Apple iPhone 13 
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oneplus-open-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on OnePlus Open? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-s18-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo S18 to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

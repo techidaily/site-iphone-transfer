@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone 12 to iPad | Dr.fone
-date: 2024-04-30T12:59:14.865Z
-updated: 2024-05-01T12:59:14.865Z
+date: 2024-05-19T02:47:38.494Z
+updated: 2024-05-20T02:47:38.494Z
 tags: 
   - iphone transfer
 categories:
@@ -467,4 +467,5 @@ We have given and explained to you 3 methods to **transfer apps from Apple iPhon
 <li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 14 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-reno-10-proplus-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo Reno 10 Pro+ 5G Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

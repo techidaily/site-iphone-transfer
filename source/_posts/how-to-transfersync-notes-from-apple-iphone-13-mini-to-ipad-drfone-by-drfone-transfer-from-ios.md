@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone 13 mini to iPad | Dr.fone
-date: 2024-04-30T12:59:15.053Z
-updated: 2024-05-01T12:59:15.053Z
+date: 2024-05-19T02:47:38.502Z
+updated: 2024-05-20T02:47:38.502Z
 tags: 
   - iphone transfer
 categories:
@@ -438,4 +438,5 @@ Transferring any data from your old phone to a new phone can be very painful. Bu
 <li><a href="https://animation-videos.techidaily.com/2024-approved-how-to-learn-cartoon-sketch-drawing-pencil-sketch-for-beginners/"><u>2024 Approved How To Learn Cartoon Sketch Drawing— Pencil Sketch for Beginners</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-tecno-spark-go-2023-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Spark Go (2023) Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

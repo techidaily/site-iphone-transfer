@@ -1,7 +1,7 @@
 ---
 title: Transfer your Apple iPhone 6 Apps to New iPhone | Dr.fone
-date: 2024-04-30T13:04:01.946Z
-updated: 2024-05-01T13:04:01.946Z
+date: 2024-05-19T02:47:42.192Z
+updated: 2024-05-20T02:47:42.192Z
 tags: 
   - iphone transfer
 categories:
@@ -499,4 +499,5 @@ After learning different moving music from Apple iPhone 6 to Android, you can ce
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia G22? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y78plus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y78+ 7 Common Problems & Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Tutorials on How to Transfer Photos From Apple iPhone 6s to New iPhone | Dr.fone
-date: 2024-04-30T12:58:23.442Z
-updated: 2024-05-01T12:58:23.442Z
+date: 2024-05-19T02:47:36.727Z
+updated: 2024-05-20T02:47:36.727Z
 tags: 
   - iphone transfer
 categories:
@@ -431,4 +431,5 @@ So, these are four ways in which you can transfer contacts from Apple iPhone 6s 
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Itel P40 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-nokia-c12-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Nokia C12 Pro Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone 6s to Android | Dr.fone
-date: 2024-04-30T12:58:23.399Z
-updated: 2024-05-01T12:58:23.399Z
+date: 2024-05-19T02:47:36.659Z
+updated: 2024-05-20T02:47:36.659Z
 tags: 
   - iphone transfer
 categories:
@@ -496,4 +496,5 @@ After learning different moving music from Apple iPhone 6s to Android, you can c
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-motorola-moto-g24-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Motorola Moto G24 Lock Screen Password</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo S18e | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Transfer your Apple iPhone 6 Plus Apps to New iPhone | Dr.fone
-date: 2024-04-30T13:04:02.167Z
-updated: 2024-05-01T13:04:02.167Z
+date: 2024-05-19T02:47:42.194Z
+updated: 2024-05-20T02:47:42.194Z
 tags: 
   - iphone transfer
 categories:
@@ -488,4 +488,5 @@ We hope this guide was able to answer your question of how to copy contacts from
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-a1x-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo A1x 5G</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Max Without Passcode?</u></a></li>
 </ul></div>
+
 

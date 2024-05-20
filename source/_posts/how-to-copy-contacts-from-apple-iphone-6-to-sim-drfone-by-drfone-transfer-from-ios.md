@@ -1,7 +1,7 @@
 ---
 title: How to Copy Contacts from Apple iPhone 6 to SIM? | Dr.fone
-date: 2024-04-30T12:58:24.052Z
-updated: 2024-05-01T12:58:24.052Z
+date: 2024-05-19T02:47:37.358Z
+updated: 2024-05-20T02:47:37.358Z
 tags: 
   - iphone transfer
 categories:
@@ -469,4 +469,5 @@ Go ahead and follow this stepwise tutorial to transfer your messages from one iP
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-oppo-find-n3-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Oppo Find N3</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-13-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 13 5G Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

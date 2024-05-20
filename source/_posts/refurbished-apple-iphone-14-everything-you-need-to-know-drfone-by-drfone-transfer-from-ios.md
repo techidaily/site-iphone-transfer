@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone 14 Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:40.324Z
-updated: 2024-05-01T13:03:40.324Z
+date: 2024-05-19T02:47:41.961Z
+updated: 2024-05-20T02:47:41.961Z
 tags: 
   - iphone transfer
 categories:
@@ -585,4 +585,5 @@ Transferring photos between two iOS devices is very easy. In fact, you can insta
 <li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y17s-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y17s</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-motorola-g54-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Motorola G54 5G to iPod | Dr.fone</u></a></li>
 </ul></div>
+
 

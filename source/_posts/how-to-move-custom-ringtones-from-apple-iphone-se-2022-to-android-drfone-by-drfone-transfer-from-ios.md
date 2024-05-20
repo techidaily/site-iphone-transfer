@@ -1,7 +1,7 @@
 ---
 title: How to Move Custom Ringtones from Apple iPhone SE (2022) to Android? | Dr.fone
-date: 2024-04-30T12:58:24.132Z
-updated: 2024-05-01T12:58:24.132Z
+date: 2024-05-19T02:47:37.460Z
+updated: 2024-05-20T02:47:37.460Z
 tags: 
   - iphone transfer
 categories:
@@ -411,4 +411,5 @@ We know the emotions and sentiments attached with one’s personal information a
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 11 Pro Max</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-2-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze 2 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Copy Contacts from Apple iPhone SE (2022) to SIM? | Dr.fone
-date: 2024-04-30T13:01:04.675Z
-updated: 2024-05-01T13:01:04.675Z
+date: 2024-05-19T02:47:40.174Z
+updated: 2024-05-20T02:47:40.174Z
 tags: 
   - iphone transfer
 categories:
@@ -390,4 +390,5 @@ We hope this guide was able to answer your question of how to copy contacts from
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-reno-10-proplus-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Reno 10 Pro+ 5G to PC? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi A2 | Dr.fone</u></a></li>
 </ul></div>
+
 

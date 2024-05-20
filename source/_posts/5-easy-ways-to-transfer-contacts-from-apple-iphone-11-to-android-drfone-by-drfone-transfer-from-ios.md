@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone 11 to Android | Dr.fone
-date: 2024-04-30T12:58:23.364Z
-updated: 2024-05-01T12:58:23.364Z
+date: 2024-05-19T02:47:36.623Z
+updated: 2024-05-20T02:47:36.623Z
 tags: 
   - iphone transfer
 categories:
@@ -365,4 +365,5 @@ Droid Mini, is the small phone that you can use fast for your needs having Andro
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-13-ultra-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of 13 Ultra?</u></a></li>
 <li><a href="https://techidaily.com/how-do-i-reset-my-lava-yuva-3-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lava Yuva 3 Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
+
 

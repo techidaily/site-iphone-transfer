@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone SE (2020) to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:25.508Z
-updated: 2024-05-01T12:59:25.508Z
+date: 2024-05-19T02:47:38.602Z
+updated: 2024-05-20T02:47:38.602Z
 tags: 
   - iphone transfer
 categories:
@@ -418,4 +418,5 @@ Now that you have learned 7 different ways to move contacts from Apple iPhone SE
 <li><a href="https://location-social.techidaily.com/in-2024-does-oneplus-nord-ce-3-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does OnePlus Nord CE 3 5G Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Honor V Purse? | Dr.fone</u></a></li>
 </ul></div>
+
 

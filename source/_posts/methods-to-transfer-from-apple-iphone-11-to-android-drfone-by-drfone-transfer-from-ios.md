@@ -1,7 +1,7 @@
 ---
 title: Methods to Transfer from Apple iPhone 11 to Android | Dr.fone
-date: 2024-04-30T13:03:32.047Z
-updated: 2024-05-01T13:03:32.047Z
+date: 2024-05-19T02:47:41.858Z
+updated: 2024-05-20T02:47:41.858Z
 tags: 
   - iphone transfer
 categories:
@@ -460,4 +460,5 @@ It bridges the gap between devices with unparalleled features. Dr. Fone's capabi
 <li><a href="https://meme-emoji.techidaily.com/best-10-emoji-makers-to-create-your-own-emojispconlineandroidiphone/"><u>Best 10 Emoji Makers to Create Your Own EmojisPC/Online/Android/iPhone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-infinix-hot-40-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Infinix Hot 40 Pro Phone</u></a></li>
 </ul></div>
+
 

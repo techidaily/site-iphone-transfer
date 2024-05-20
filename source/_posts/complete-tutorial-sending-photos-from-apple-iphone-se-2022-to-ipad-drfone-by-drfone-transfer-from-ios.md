@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial Sending Photos From Apple iPhone SE (2022) to iPad | Dr.fone
-date: 2024-04-30T12:58:23.713Z
-updated: 2024-05-01T12:58:23.713Z
+date: 2024-05-19T02:47:37.041Z
+updated: 2024-05-20T02:47:37.041Z
 tags: 
   - iphone transfer
 categories:
@@ -462,4 +462,5 @@ These empower you to transfer your cherished data to the iPhone 15 easily. While
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-zte-axon-40-lite-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from ZTE Axon 40 Lite</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-m34-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy M34 Reset Code | Dr.fone</u></a></li>
 </ul></div>
+
 

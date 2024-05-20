@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone 15 to Android | Dr.fone
-date: 2024-04-30T12:58:23.393Z
-updated: 2024-05-01T12:58:23.393Z
+date: 2024-05-19T02:47:36.653Z
+updated: 2024-05-20T02:47:36.653Z
 tags: 
   - iphone transfer
 categories:
@@ -447,4 +447,5 @@ Hopefully, you got a clear idea of how to transfer data to iPhone 12. Dr. Fone -
 <li><a href="https://howto.techidaily.com/tecno-spark-10-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo T2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

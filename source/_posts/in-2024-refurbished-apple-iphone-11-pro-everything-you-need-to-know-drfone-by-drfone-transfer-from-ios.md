@@ -1,7 +1,7 @@
 ---
 title: In 2024, Refurbished Apple iPhone 11 Pro Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:02:45.160Z
-updated: 2024-05-01T13:02:45.160Z
+date: 2024-05-19T02:47:41.208Z
+updated: 2024-05-20T02:47:41.208Z
 tags: 
   - iphone transfer
 categories:
@@ -511,4 +511,5 @@ Now when you know how to send ringtones from Apple iPhone 11 Pro to iPhone in di
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Apple iPhone XS Max? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-xcover-7withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy XCover 7with/without a PC</u></a></li>
 </ul></div>
+
 

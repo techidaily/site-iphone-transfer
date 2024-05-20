@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone 12 Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:38.823Z
-updated: 2024-05-01T13:03:38.823Z
+date: 2024-05-19T02:47:41.949Z
+updated: 2024-05-20T02:47:41.949Z
 tags: 
   - iphone transfer
 categories:
@@ -511,4 +511,5 @@ Now that you have learned 7 different ways to move contacts from Apple iPhone 12
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-magic-6-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor Magic 6 to Laptop Without USB | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme GT 5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

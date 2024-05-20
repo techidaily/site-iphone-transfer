@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone XS Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:44.531Z
-updated: 2024-05-01T13:03:44.531Z
+date: 2024-05-19T02:47:41.992Z
+updated: 2024-05-20T02:47:41.992Z
 tags: 
   - iphone transfer
 categories:
@@ -439,4 +439,5 @@ Yet, considering factors like convenience, ease of use, and efficiency, one opti
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-how-to-animate-image-on-scroll-and-text-on-scroll/"><u>Updated In 2024, How to Animate Image on Scroll and Text on Scroll?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo F23 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

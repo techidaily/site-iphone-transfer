@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer/Sync Notes from Apple iPhone 13 to iPad | Dr.fone
-date: 2024-04-30T13:02:26.896Z
-updated: 2024-05-01T13:02:26.896Z
+date: 2024-05-19T02:47:40.999Z
+updated: 2024-05-20T02:47:40.999Z
 tags: 
   - iphone transfer
 categories:
@@ -490,4 +490,5 @@ Transferring photos between two iOS devices is very easy. In fact, you can insta
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-s17-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo S17 to iPhone | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-s23-tactical-edition-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy S23 Tactical Edition Reset Code | Dr.fone</u></a></li>
 </ul></div>
+
 

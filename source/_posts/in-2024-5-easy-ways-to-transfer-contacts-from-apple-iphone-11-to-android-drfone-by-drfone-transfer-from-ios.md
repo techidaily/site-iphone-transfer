@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 11 to Android | Dr.fone
-date: 2024-04-30T13:00:00.189Z
-updated: 2024-05-01T13:00:00.189Z
+date: 2024-05-19T02:47:38.981Z
+updated: 2024-05-20T02:47:38.981Z
 tags: 
   - iphone transfer
 categories:
@@ -402,4 +402,5 @@ Now that you have learned 7 different ways to move contacts from Apple iPhone 11
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-magic-5-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor Magic 5 Pro to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y100A? | Dr.fone</u></a></li>
 </ul></div>
+
 

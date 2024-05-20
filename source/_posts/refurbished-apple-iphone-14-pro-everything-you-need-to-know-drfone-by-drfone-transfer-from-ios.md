@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone 14 Pro Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:40.700Z
-updated: 2024-05-01T13:03:40.700Z
+date: 2024-05-19T02:47:41.964Z
+updated: 2024-05-20T02:47:41.964Z
 tags: 
   - iphone transfer
 categories:
@@ -486,4 +486,5 @@ Hopefully, you got a clear idea of how to transfer data to iPhone 12. Dr. Fone -
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-nokia-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Nokia on Windows</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-plugin-roundup-the-best-of-both-worlds-free-and-paid/"><u>New FCPX Plugin Roundup The Best of Both Worlds (Free & Paid)</u></a></li>
 </ul></div>
+
 

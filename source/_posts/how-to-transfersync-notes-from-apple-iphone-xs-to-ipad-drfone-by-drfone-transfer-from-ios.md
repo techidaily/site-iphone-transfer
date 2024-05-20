@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone XS to iPad | Dr.fone
-date: 2024-04-30T12:59:20.078Z
-updated: 2024-05-01T12:59:20.078Z
+date: 2024-05-19T02:47:38.531Z
+updated: 2024-05-20T02:47:38.531Z
 tags: 
   - iphone transfer
 categories:
@@ -503,4 +503,5 @@ Transferring photos between two iOS devices is very easy. In fact, you can insta
 <li><a href="https://howto.techidaily.com/how-to-fix-it-tecno-spark-20-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Spark 20 Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-a25-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy A25 5G and Browser | Dr.fone</u></a></li>
 </ul></div>
+
 

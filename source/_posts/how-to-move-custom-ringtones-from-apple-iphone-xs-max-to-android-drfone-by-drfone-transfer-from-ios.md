@@ -1,7 +1,7 @@
 ---
 title: How to Move Custom Ringtones from Apple iPhone XS Max to Android? | Dr.fone
-date: 2024-04-30T12:58:24.167Z
-updated: 2024-05-01T12:58:24.167Z
+date: 2024-05-19T02:47:37.466Z
+updated: 2024-05-20T02:47:37.466Z
 tags: 
   - iphone transfer
 categories:
@@ -444,4 +444,5 @@ If you do not want to use iCloud for data transfer, run Dr.Fone - Phone Transfer
 <li><a href="https://techidaily.com/how-to-reset-vivo-t2-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo T2 Pro 5G without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-t2-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo T2 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

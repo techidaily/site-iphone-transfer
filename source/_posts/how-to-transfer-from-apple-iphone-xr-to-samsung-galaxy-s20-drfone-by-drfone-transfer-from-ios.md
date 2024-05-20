@@ -1,7 +1,7 @@
 ---
 title: How to Transfer from Apple iPhone XR to Samsung Galaxy S20? | Dr.fone
-date: 2024-04-30T12:58:58.416Z
-updated: 2024-05-01T12:58:58.416Z
+date: 2024-05-19T02:47:38.295Z
+updated: 2024-05-20T02:47:38.295Z
 tags: 
   - iphone transfer
 categories:
@@ -515,4 +515,5 @@ We hope this guide was able to answer your question of how to copy contacts from
 <li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-redmi-13c-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi Redmi 13C 5G FRP</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-online-video-combiner-tools-top-picks/"><u>In 2024, Free Online Video Combiner Tools Top Picks</u></a></li>
 </ul></div>
+
 

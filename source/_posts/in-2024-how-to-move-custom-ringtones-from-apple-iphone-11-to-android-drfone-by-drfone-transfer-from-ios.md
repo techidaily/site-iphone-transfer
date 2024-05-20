@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Move Custom Ringtones from Apple iPhone 11 to Android? | Dr.fone
-date: 2024-04-30T13:01:06.401Z
-updated: 2024-05-01T13:01:06.401Z
+date: 2024-05-19T02:47:40.183Z
+updated: 2024-05-20T02:47:40.183Z
 tags: 
   - iphone transfer
 categories:
@@ -451,4 +451,5 @@ In conclusion, the process to transfer contact from Apple iPhone 11 to iPhone wi
 <li><a href="https://ai-video.techidaily.com/new-in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>new In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/adding-shake-effects-to-your-video-with-alight-motion-for-2024/"><u>Adding Shake Effects to Your Video With Alight Motion for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial Sending Photos From Apple iPhone XR to iPad | Dr.fone
-date: 2024-04-30T12:58:23.717Z
-updated: 2024-05-01T12:58:23.717Z
+date: 2024-05-19T02:47:37.045Z
+updated: 2024-05-20T02:47:37.045Z
 tags: 
   - iphone transfer
 categories:
@@ -393,4 +393,5 @@ As we have discussed in the article, some initial Apple iPhone XR users are faci
 <li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y100t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y100t Phone</u></a></li>
 <li><a href="https://techidaily.com/things-you-dont-know-about-infinix-smart-7-hd-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Smart 7 HD Reset Code | Dr.fone</u></a></li>
 </ul></div>
+
 

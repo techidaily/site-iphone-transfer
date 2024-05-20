@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Everything from Apple iPhone XS to iPhone 8/X/11 | Dr.fone
-date: 2024-04-30T12:58:33.646Z
-updated: 2024-05-01T12:58:33.646Z
+date: 2024-05-19T02:47:37.946Z
+updated: 2024-05-20T02:47:37.946Z
 tags: 
   - iphone transfer
 categories:
@@ -371,4 +371,5 @@ If you do not want to use iCloud for data transfer, run Dr.Fone - Phone Transfer
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-a15-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy A15 5G without App | Dr.fone</u></a></li>
 </ul></div>
+
 

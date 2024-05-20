@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone 6s to iPad | Dr.fone
-date: 2024-04-30T12:59:18.017Z
-updated: 2024-05-01T12:59:18.017Z
+date: 2024-05-19T02:47:38.517Z
+updated: 2024-05-20T02:47:38.517Z
 tags: 
   - iphone transfer
 categories:
@@ -466,4 +466,5 @@ Transferring photos between two iOS devices is very easy. In fact, you can insta
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-did-ai-video-games-act-more-human-than-human/"><u>New In 2024, How Did AI Video Games Act More Human Than Human?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changefake-your-oneplus-ace-3-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your OnePlus Ace 3 Location on Viber | Dr.fone</u></a></li>
 </ul></div>
+
 

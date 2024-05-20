@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 12 mini to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:58:23.001Z
-updated: 2024-05-01T12:58:23.001Z
+date: 2024-05-19T02:47:36.262Z
+updated: 2024-05-20T02:47:36.262Z
 tags: 
   - iphone transfer
 categories:
@@ -300,4 +300,5 @@ After going through this article guide we can conclude that iPhone users can tra
 <li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-11-to-ipod-touch-drfone-by-drfone-transfer-from-ios/" ><u>4 Ways to Transfer Music from Apple iPhone 11 to iPod touch | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-6-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/" ><u>5 Ways to Send Ringtones from Apple iPhone 6 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

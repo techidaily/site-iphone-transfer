@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone 6 Plus to iPad | Dr.fone
-date: 2024-04-30T12:59:17.419Z
-updated: 2024-05-01T12:59:17.419Z
+date: 2024-05-19T02:47:38.514Z
+updated: 2024-05-20T02:47:38.514Z
 tags: 
   - iphone transfer
 categories:
@@ -467,4 +467,5 @@ These empower you to transfer your cherished data to the iPhone 15 easily. While
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme V30T Quickly | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Nubia Z50S Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

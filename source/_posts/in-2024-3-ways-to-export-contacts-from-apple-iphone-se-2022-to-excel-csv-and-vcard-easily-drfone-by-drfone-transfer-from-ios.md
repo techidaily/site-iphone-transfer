@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone SE (2022) to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:25.693Z
-updated: 2024-05-01T12:59:25.693Z
+date: 2024-05-19T02:47:38.603Z
+updated: 2024-05-20T02:47:38.603Z
 tags: 
   - iphone transfer
 categories:
@@ -425,4 +425,5 @@ After learning different moving music from Apple iPhone SE (2022) to Android, yo
 <li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-f15-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Samsung Galaxy F15 5G in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/forgot-your-11-pro-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your 11 Pro lock screen pattern, PIN or password? Here’s what to do</u></a></li>
 </ul></div>
+
 

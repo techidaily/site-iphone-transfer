@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone XS to Android | Dr.fone
-date: 2024-04-30T12:58:23.414Z
-updated: 2024-05-01T12:58:23.414Z
+date: 2024-05-19T02:47:36.675Z
+updated: 2024-05-20T02:47:36.675Z
 tags: 
   - iphone transfer
 categories:
@@ -449,4 +449,5 @@ This article has provided a valuable overview of **switching SIM cards to new Ap
 <li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo T2 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

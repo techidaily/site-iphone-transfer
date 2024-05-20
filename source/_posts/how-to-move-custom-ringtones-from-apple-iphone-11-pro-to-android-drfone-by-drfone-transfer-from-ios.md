@@ -1,7 +1,7 @@
 ---
 title: How to Move Custom Ringtones from Apple iPhone 11 Pro to Android? | Dr.fone
-date: 2024-04-30T12:58:24.089Z
-updated: 2024-05-01T12:58:24.089Z
+date: 2024-05-19T02:47:37.391Z
+updated: 2024-05-20T02:47:37.391Z
 tags: 
   - iphone transfer
 categories:
@@ -420,4 +420,5 @@ Now when you know how to send ringtones from Apple iPhone 11 Pro to iPhone in di
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone 8 Plus?</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone 12 | Dr.fone</u></a></li>
 </ul></div>
+
 

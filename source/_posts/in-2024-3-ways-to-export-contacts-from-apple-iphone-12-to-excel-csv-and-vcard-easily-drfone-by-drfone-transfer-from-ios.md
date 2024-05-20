@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone 12 to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:21.387Z
-updated: 2024-05-01T12:59:21.387Z
+date: 2024-05-19T02:47:38.573Z
+updated: 2024-05-20T02:47:38.573Z
 tags: 
   - iphone transfer
 categories:
@@ -423,4 +423,5 @@ In conclusion, the process to transfer contact from Apple iPhone 12 to iPhone wi
 <li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>New 2024 Approved Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-c32-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia C32 Phones with/without a PC</u></a></li>
 </ul></div>
+
 

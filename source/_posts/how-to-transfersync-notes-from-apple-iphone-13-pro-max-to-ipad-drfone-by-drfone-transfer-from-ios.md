@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone 13 Pro Max to iPad | Dr.fone
-date: 2024-04-30T12:59:15.241Z
-updated: 2024-05-01T12:59:15.241Z
+date: 2024-05-19T02:47:38.503Z
+updated: 2024-05-20T02:47:38.503Z
 tags: 
   - iphone transfer
 categories:
@@ -443,4 +443,5 @@ However, don't forget to download [Dr.Fone](https://tools.techidaily.com/wonders
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-v30-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme V30 to iPhone | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Realme 12 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

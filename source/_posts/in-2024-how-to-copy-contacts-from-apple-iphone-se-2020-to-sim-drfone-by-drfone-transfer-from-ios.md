@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Copy Contacts from Apple iPhone SE (2020) to SIM? | Dr.fone
-date: 2024-04-30T13:01:04.487Z
-updated: 2024-05-01T13:01:04.487Z
+date: 2024-05-19T02:47:40.172Z
+updated: 2024-05-20T02:47:40.172Z
 tags: 
   - iphone transfer
 categories:
@@ -423,4 +423,5 @@ As we have discussed in the article, some initial Apple iPhone SE (2020) users a
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Lava Yuva 3 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Smart 8 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

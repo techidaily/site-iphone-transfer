@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone 13 Pro Everything You Need to Know | Dr.fone
-date: 2024-04-30T13:03:39.948Z
-updated: 2024-05-01T13:03:39.948Z
+date: 2024-05-19T02:47:41.958Z
+updated: 2024-05-20T02:47:41.958Z
 tags: 
   - iphone transfer
 categories:
@@ -458,4 +458,5 @@ In conclusion, the process to transfer contact from Apple iPhone 13 Pro to iPhon
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-htc-u23-pro-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your HTC U23 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-ultimate-guide-on-how-to-plan-and-storyboard-a-music-video/"><u>Updated In 2024, Ultimate Guide on How to Plan and Storyboard a Music Video</u></a></li>
 </ul></div>
+
 

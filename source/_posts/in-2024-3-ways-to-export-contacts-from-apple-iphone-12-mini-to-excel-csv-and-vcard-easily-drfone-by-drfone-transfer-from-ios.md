@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone 12 mini to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:20.824Z
-updated: 2024-05-01T12:59:20.824Z
+date: 2024-05-19T02:47:38.569Z
+updated: 2024-05-20T02:47:38.569Z
 tags: 
   - iphone transfer
 categories:
@@ -491,4 +491,5 @@ After following these steps, you can learn how to transfer contacts from Apple i
 <li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-infinix-note-30i-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Infinix Note 30i Safely | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cut-edit-repeat-top-10-free-video-editing-software-for-chromebooks/"><u>In 2024, Cut, Edit, Repeat Top 10 Free Video Editing Software for Chromebooks</u></a></li>
 </ul></div>
+
 

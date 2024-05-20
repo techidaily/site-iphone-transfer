@@ -1,7 +1,7 @@
 ---
 title: How to Transfer from Apple iPhone SE (2022) to Samsung Galaxy S20? | Dr.fone
-date: 2024-04-30T12:58:56.136Z
-updated: 2024-05-01T12:58:56.136Z
+date: 2024-05-19T02:47:38.211Z
+updated: 2024-05-20T02:47:38.211Z
 tags: 
   - iphone transfer
 categories:
@@ -461,4 +461,5 @@ We hope this guide was able to answer your question of how to copy contacts from
 <li><a href="https://ios-pokemon-go.techidaily.com/a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 12 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-oppo-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Oppo</u></a></li>
 </ul></div>
+
 

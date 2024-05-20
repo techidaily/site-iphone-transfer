@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer from Apple iPhone XS to iPhone 8/X/11 | Dr.fone
-date: 2024-04-30T13:02:11.306Z
-updated: 2024-05-01T13:02:11.307Z
+date: 2024-05-19T02:47:40.845Z
+updated: 2024-05-20T02:47:40.845Z
 tags: 
   - iphone transfer
 categories:
@@ -472,4 +472,5 @@ Thus, after going through the article, we are sure that you got a wide range of 
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-6s-without-apple-id-by-drfone-ios/"><u>How to Erase an Apple iPhone 6s without Apple ID?</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 14 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

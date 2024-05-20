@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Transfer/Sync Notes from Apple iPhone 13 mini to iPad | Dr.fone
-date: 2024-04-30T13:02:26.337Z
-updated: 2024-05-01T13:02:26.337Z
+date: 2024-05-19T02:47:40.995Z
+updated: 2024-05-20T02:47:40.995Z
 tags: 
   - iphone transfer
 categories:
@@ -484,4 +484,5 @@ The techniques which are discussed above are meant to solve your problem and let
 <li><a href="https://animation-videos.techidaily.com/updated-learn-how-to-draw-cartoons-step-by-step-with-this-guide-for-2024/"><u>Updated Learn How to Draw Cartoons Step by Step with This Guide for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for OnePlus 11R | Dr.fone</u></a></li>
 </ul></div>
+
 

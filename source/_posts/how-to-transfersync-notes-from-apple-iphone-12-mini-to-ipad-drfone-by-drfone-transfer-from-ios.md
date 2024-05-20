@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone 12 mini to iPad | Dr.fone
-date: 2024-04-30T12:59:14.297Z
-updated: 2024-05-01T12:59:14.297Z
+date: 2024-05-19T02:47:38.490Z
+updated: 2024-05-20T02:47:38.490Z
 tags: 
   - iphone transfer
 categories:
@@ -410,4 +410,5 @@ Transferring any data from your old phone to a new phone can be very painful. Bu
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-nokia-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Nokia IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-13-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 13 Pro Max Prevention & Solution | Dr.fone</u></a></li>
 </ul></div>
+
 

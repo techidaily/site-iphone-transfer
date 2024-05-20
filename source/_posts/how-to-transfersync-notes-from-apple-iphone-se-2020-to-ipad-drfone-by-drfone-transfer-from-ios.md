@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone SE (2020) to iPad | Dr.fone
-date: 2024-04-30T12:59:18.958Z
-updated: 2024-05-01T12:59:18.958Z
+date: 2024-05-19T02:47:38.524Z
+updated: 2024-05-20T02:47:38.524Z
 tags: 
   - iphone transfer
 categories:
@@ -448,4 +448,5 @@ The above methods offer you valuable solutions to **transfer data from Apple iPh
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-xs-max-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone XS Max to iPad? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
 </ul></div>
+
 

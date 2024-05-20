@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Ways to Transfer Contacts from Apple iPhone 8 to Android | Dr.fone
-date: 2024-04-30T12:58:23.405Z
-updated: 2024-05-01T12:58:23.405Z
+date: 2024-05-19T02:47:36.665Z
+updated: 2024-05-20T02:47:36.665Z
 tags: 
   - iphone transfer
 categories:
@@ -431,4 +431,5 @@ In conclusion, the process to transfer contact from Apple iPhone 8 to iPhone wit
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-honor-100-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Honor 100 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-lava-yuva-3-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Lava Yuva 3 Without PUK Codes</u></a></li>
 </ul></div>
+
 

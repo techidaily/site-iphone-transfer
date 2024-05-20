@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 12 to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:58:23.005Z
-updated: 2024-05-01T12:58:23.005Z
+date: 2024-05-19T02:47:36.285Z
+updated: 2024-05-20T02:47:36.285Z
 tags: 
   - iphone transfer
 categories:
@@ -289,4 +289,5 @@ ZTE devices keep getting better; the following are some of the best ZTE phones i
 <li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-15-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/" ><u>4 Quick Ways to Transfer Contacts from Apple iPhone 15 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-2022-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/" ><u>How To Transfer From Apple iPhone SE (2022) to Samsung Simplified Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

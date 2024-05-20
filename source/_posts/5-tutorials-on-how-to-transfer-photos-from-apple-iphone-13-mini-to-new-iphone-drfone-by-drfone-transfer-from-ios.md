@@ -1,7 +1,7 @@
 ---
 title: 5 Tutorials on How to Transfer Photos From Apple iPhone 13 mini to New iPhone | Dr.fone
-date: 2024-04-30T12:58:23.423Z
-updated: 2024-05-01T12:58:23.423Z
+date: 2024-05-19T02:47:36.687Z
+updated: 2024-05-20T02:47:36.687Z
 tags: 
   - iphone transfer
 categories:
@@ -485,4 +485,5 @@ Where iTunes and iCloud are easy and go-to tools for many users, Dr.Fone - Phone
 <li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-poco-f5-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Poco F5 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-14-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 14 Lock Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

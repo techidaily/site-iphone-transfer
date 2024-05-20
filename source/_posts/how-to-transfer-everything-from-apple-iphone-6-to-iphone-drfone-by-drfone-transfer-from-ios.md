@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Everything from Apple iPhone 6 to iPhone | Dr.fone
-date: 2024-04-30T12:58:28.703Z
-updated: 2024-05-01T12:58:28.703Z
+date: 2024-05-19T02:47:37.869Z
+updated: 2024-05-20T02:47:37.869Z
 tags: 
   - iphone transfer
 categories:
@@ -417,4 +417,5 @@ We hope that our quick and smart guide would be able to help you export contacts
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Motorola Moto G84 5G | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y100-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y100 Devices</u></a></li>
 </ul></div>
+
 

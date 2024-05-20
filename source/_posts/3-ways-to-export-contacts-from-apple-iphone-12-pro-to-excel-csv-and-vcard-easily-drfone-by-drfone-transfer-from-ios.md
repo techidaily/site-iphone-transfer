@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 12 Pro to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:58:23.004Z
-updated: 2024-05-01T12:58:23.004Z
+date: 2024-05-19T02:47:36.264Z
+updated: 2024-05-20T02:47:36.264Z
 tags: 
   - iphone transfer
 categories:
@@ -374,4 +374,5 @@ After following these steps, you can learn how to transfer contacts from Apple i
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-14-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/" ><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 14 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-14-plus-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/" ><u>Fix Apple iPhone 14 Plus Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
 </ul></div>
+
 

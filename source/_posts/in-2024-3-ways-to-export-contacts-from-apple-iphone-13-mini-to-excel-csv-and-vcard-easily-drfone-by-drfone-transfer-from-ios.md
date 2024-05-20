@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone 13 mini to Excel CSV & vCard Easily | Dr.fone
-date: 2024-04-30T12:59:21.572Z
-updated: 2024-05-01T12:59:21.572Z
+date: 2024-05-19T02:47:38.575Z
+updated: 2024-05-20T02:47:38.575Z
 tags: 
   - iphone transfer
 categories:
@@ -379,4 +379,5 @@ For this process to complete, you need to import all songs from CD to iTunes at 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-honor-100-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Honor 100 Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-ace-2v-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Ace 2V to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

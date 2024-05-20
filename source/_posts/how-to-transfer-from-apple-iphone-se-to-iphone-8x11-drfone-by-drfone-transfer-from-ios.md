@@ -1,7 +1,7 @@
 ---
 title: How to Transfer from Apple iPhone SE to iPhone 8/X/11 | Dr.fone
-date: 2024-04-30T12:58:56.699Z
-updated: 2024-05-01T12:58:56.699Z
+date: 2024-05-19T02:47:38.215Z
+updated: 2024-05-20T02:47:38.215Z
 tags: 
   - iphone transfer
 categories:
@@ -419,4 +419,5 @@ If you do not want to use iCloud for data transfer, run Dr.Fone - Phone Transfer
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus with/without SIM Card</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-sizing-up-your-images-how-to-calculate-aspect-ratios-like-a-pro/"><u>Updated In 2024, Sizing Up Your Images How to Calculate Aspect Ratios Like a Pro</u></a></li>
 </ul></div>
+
 
