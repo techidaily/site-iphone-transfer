@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 6s Plus to Excel CSV & vCard Easily | Dr.fone
-date: 2024-06-23T01:35:27.371Z
-updated: 2024-06-24T01:35:27.371Z
+date: 2024-06-30T12:00:57.872Z
+updated: 2024-07-01T12:00:57.872Z
 tags: 
   - iphone transfer
 categories:
@@ -228,7 +228,7 @@ Dr.Fone is a perfect tool for transferring contacts from Apple iPhone 6s Plus to
 
 - Easy, fast, and safe.
 - Move data between devices with different operating systems, i.e., iOS to Android.
-- Supports iOS devices that run the latest iOS ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+- Supports iOS devices that run the latest iOS ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
 - Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 

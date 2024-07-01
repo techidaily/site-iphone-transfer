@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone XS Max to Excel CSV & vCard Easily | Dr.fone
-date: 2024-06-08T00:49:06.727Z
-updated: 2024-06-09T00:49:06.727Z
+date: 2024-06-30T12:00:54.298Z
+updated: 2024-07-01T12:00:54.298Z
 tags: 
   - iphone transfer
 categories:
@@ -24,7 +24,7 @@ It would be a one-stop solution to transfer all kinds of content between your iO
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Transfer MP3 to iPhone/iPad/iPod without iTunes
 
@@ -306,7 +306,7 @@ Dr.Fone - Phone Transfer is great phone to phone transfer tool to help you **tra
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Apple iPhone XS Max to iPhone 8 (Plus)/X/11 in 1 Click!.
 

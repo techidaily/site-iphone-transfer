@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Transfer Data from Apple iPhone 11 to New iPhone 15 | Dr.fone
-date: 2024-05-19T02:47:40.330Z
-updated: 2024-05-20T02:47:40.330Z
+date: 2024-06-30T12:00:53.968Z
+updated: 2024-07-01T12:00:53.968Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer Data from Apple iPhone 11 to New iPhone 15
 excerpt: This article describes How To Transfer Data from Apple iPhone 11 to New iPhone 15
 keywords: transfer data from ios to pc,transfer data from iphone to pc,transfer data from ios,transfer data from iphone to android,transfer data from ios to samsung,export data from iphone,transfer data from iphone to samsung,transfer data from iphone,export data from ios
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## How To Transfer Data from Apple iPhone 11 to New iPhone 15

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone 12 Pro to Excel CSV & vCard Easily | Dr.fone
-date: 2024-05-19T02:47:38.572Z
-updated: 2024-05-20T02:47:38.572Z
+date: 2024-06-30T12:00:55.738Z
+updated: 2024-07-01T12:00:55.738Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Ways to Export Contacts from Apple iPhone 12 Pro to Excel CSV & vCard Easily
 excerpt: This article describes 3 Ways to Export Contacts from Apple iPhone 12 Pro to Excel CSV & vCard Easily
 keywords: transfer data from iphone to android,transfer data from ios to android,transfer data from ios,transfer data from ios to samsung,transfer data from ios to pc,transfer data from iphone to pc,transfer data from iphone,transfer data from iphone to samsung,export data from ios,export data from iphone
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## 3 Ways to Export Contacts from Apple iPhone 12 Pro to Excel CSV & vCard Easily
@@ -24,7 +24,7 @@ It would be a one-stop solution to transfer all kinds of content between your iO
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Transfer MP3 to iPhone/iPad/iPod without iTunes
 
@@ -290,7 +290,7 @@ For calendar, one issue might be that the new calendar data are not shown on you
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Data from iOS Devices to Motorola Phones in 1 click!
 

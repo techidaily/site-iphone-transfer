@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone XR to Excel CSV & vCard Easily | Dr.fone
-date: 2024-06-08T00:49:06.710Z
-updated: 2024-06-09T00:49:06.710Z
+date: 2024-06-30T12:00:58.381Z
+updated: 2024-07-01T12:00:58.381Z
 tags: 
   - iphone transfer
 categories:
@@ -24,7 +24,7 @@ It would be a one-stop solution to transfer all kinds of content between your iO
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Transfer MP3 to iPhone/iPad/iPod without iTunes
 
@@ -116,13 +116,13 @@ Dr.Fone is a perfect tool for transferring contacts from Apple iPhone XR to iPho
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 1-Click Phone to Phone Transfer
 
 - Easy, fast, and safe.
 - Move data between devices with different operating systems, i.e., iOS to Android.
-- Supports iOS devices that run the latest iOS ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+- Supports iOS devices that run the latest iOS ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
 - Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 

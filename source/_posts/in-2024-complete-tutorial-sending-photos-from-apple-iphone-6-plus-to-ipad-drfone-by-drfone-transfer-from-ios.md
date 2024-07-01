@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Tutorial Sending Photos From Apple iPhone 6 Plus to iPad | Dr.fone
-date: 2024-05-19T02:47:39.568Z
-updated: 2024-05-20T02:47:39.568Z
+date: 2024-06-30T12:00:58.136Z
+updated: 2024-07-01T12:00:58.136Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Complete Tutorial Sending Photos From Apple iPhone 6 Plus to iPad
 excerpt: This article describes Complete Tutorial Sending Photos From Apple iPhone 6 Plus to iPad
 keywords: transfer data from ios,transfer data from iphone to samsung,export data from iphone,transfer data from iphone to android,transfer data from iphone,transfer data from ios to samsung,export data from ios,transfer data from ios to pc,transfer data from iphone to pc,transfer data from ios to android
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## Complete Tutorial: Sending Photos From Apple iPhone 6 Plus to iPad
@@ -146,7 +146,7 @@ Step 1 Open Settings and select iCloud
 
 Tap Settings > iCloud on both your iPhone and iPad.
 
-![How to Transfer Notes from Apple iPhone 6 Plus to iPad Using iCloud - step 1: select iCloud ](https://images.wondershare.com/drfone/others/tap-settings-icloud-on-iphone.jpg)
+![How to Transfer Notes from Apple iPhone 6 Plus to iPad Using iCloud - step 1: select iCloud](https://images.wondershare.com/drfone/others/tap-settings-icloud-on-iphone.jpg)
 
 Step 2 Turn on iCloud Drive
 
@@ -164,7 +164,7 @@ Now go to the Notes app on your iPhone, and you can see a folder named iCloud. N
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Transfer Files Between iPhone and iPad without iTunes
 
@@ -340,7 +340,7 @@ If you find the above methods difficult, there is a quick and easy way to transf
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Transfer Photos from Computer to iPod/iPhone/iPad without iTunes
 

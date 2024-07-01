@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone 7 Everything You Need to Know | Dr.fone
-date: 2024-05-19T02:47:41.979Z
-updated: 2024-05-20T02:47:41.979Z
+date: 2024-06-30T12:00:54.332Z
+updated: 2024-07-01T12:00:54.332Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Refurbished Apple iPhone 7 Everything You Need to Know
 excerpt: This article describes Refurbished Apple iPhone 7 Everything You Need to Know
 keywords: transfer data from iphone,transfer data from iphone to android,export data from iphone,transfer data from iphone to pc,transfer data from iphone to samsung,transfer data from ios,transfer data from ios to android
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## Refurbished Apple iPhone 7: Everything You Need to Know

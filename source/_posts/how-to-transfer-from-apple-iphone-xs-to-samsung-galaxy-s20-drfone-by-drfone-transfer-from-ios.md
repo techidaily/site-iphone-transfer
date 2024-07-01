@@ -1,7 +1,7 @@
 ---
 title: How to Transfer from Apple iPhone XS to Samsung Galaxy S20? | Dr.fone
-date: 2024-05-19T02:47:38.310Z
-updated: 2024-05-20T02:47:38.310Z
+date: 2024-06-30T12:00:55.248Z
+updated: 2024-07-01T12:00:55.248Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer from Apple iPhone XS to Samsung Galaxy S20?
 excerpt: This article describes How to Transfer from Apple iPhone XS to Samsung Galaxy S20?
 keywords: export data from ios,export data from iphone,transfer data from ios to pc,transfer data from ios to samsung,transfer data from iphone to samsung,transfer data from iphone to pc,transfer data from iphone,transfer data from ios to android,transfer data from ios,transfer data from iphone to android
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## How to Transfer from Apple iPhone XS to Samsung Galaxy S20?

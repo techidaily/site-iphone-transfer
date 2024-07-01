@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial Sending Photos From Apple iPhone 6s Plus to iPad | Dr.fone
-date: 2024-05-19T02:47:37.030Z
-updated: 2024-05-20T02:47:37.030Z
+date: 2024-06-30T12:00:59.463Z
+updated: 2024-07-01T12:00:59.463Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Complete Tutorial Sending Photos From Apple iPhone 6s Plus to iPad
 excerpt: This article describes Complete Tutorial Sending Photos From Apple iPhone 6s Plus to iPad
 keywords: export data from iphone,transfer data from iphone to android,transfer data from iphone to samsung,export data from ios,transfer data from ios,transfer data from ios to android,transfer data from iphone to pc,transfer data from ios to pc
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## Complete Tutorial: Sending Photos From Apple iPhone 6s Plus to iPad
@@ -164,7 +164,7 @@ NameDrop, integrated within iOS 17, enables the smooth sharing of contact inform
 
 - **Step 1:** To enable the NameDrop feature, open your iPhone settings and access the “AirDrop” option from the “General settings. Afterward, turn on the “Bringing Devices Together” feature to activate NameDrop on your iOS devices.
 
-![enable the namedrop feature ](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-4.jpg)
+![enable the namedrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-4.jpg)
 
 - **Step 2:** If Contact Posters are generated in iOS 17, they will display on both iPhones. You will be given the option to either "Share" or "Receive Only." If you wish to exchange contact information, select "Share." The recipient can opt for "Receive Only" to obtain your details. You can also perform these steps in the opposite direction to get contact information on your iPhone.
 

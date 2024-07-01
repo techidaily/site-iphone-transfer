@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone XS Max Everything You Need to Know | Dr.fone
-date: 2024-05-19T02:47:41.994Z
-updated: 2024-05-20T02:47:41.994Z
+date: 2024-06-30T12:00:53.905Z
+updated: 2024-07-01T12:00:53.905Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Refurbished Apple iPhone XS Max Everything You Need to Know
 excerpt: This article describes Refurbished Apple iPhone XS Max Everything You Need to Know
 keywords: transfer data from iphone to android,transfer data from iphone to pc,transfer data from iphone,transfer data from ios,export data from ios,export data from iphone,transfer data from ios to android,transfer data from iphone to samsung,transfer data from ios to samsung,transfer data from ios to pc
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## Refurbished Apple iPhone XS Max: Everything You Need to Know
@@ -286,7 +286,7 @@ Dr.Fone - Phone Transfer is great phone to phone transfer tool to help you **tra
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from Apple iPhone XS Max to iPhone 8 (Plus)/X/11 in 1 Click!.
 

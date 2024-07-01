@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Transfer Data from Apple iPhone XR to New iPhone 15 | Dr.fone
-date: 2024-05-19T02:47:40.423Z
-updated: 2024-05-20T02:47:40.423Z
+date: 2024-06-30T12:00:54.575Z
+updated: 2024-07-01T12:00:54.575Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer Data from Apple iPhone XR to New iPhone 15
 excerpt: This article describes How To Transfer Data from Apple iPhone XR to New iPhone 15
 keywords: transfer data from ios to samsung,export data from ios,transfer data from iphone to android,transfer data from ios,transfer data from iphone to pc,transfer data from iphone,transfer data from ios to pc,transfer data from ios to android,transfer data from iphone to samsung,export data from iphone
-thumbnail: https://www.lifewire.com/thmb/kSmIkt41HTX2fBvFrYUa0wu300k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TikTok-vs-YouTube-a42ac0c72a4f4b1d9da8b7ae85b4205e.jpg
+thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
 ---
 
 ## How To Transfer Data from Apple iPhone XR to New iPhone 15

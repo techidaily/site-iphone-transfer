@@ -1,7 +1,7 @@
 ---
 title: iPhone Transfer Transfer Contact from Apple iPhone 11 to iPhone without iCloud | Dr.fone
-date: 2024-05-19T02:47:41.779Z
-updated: 2024-05-20T02:47:41.779Z
+date: 2024-06-30T12:00:55.767Z
+updated: 2024-07-01T12:00:55.767Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes iPhone Transfer Transfer Contact from Apple iPhone 11 to iPhone without iCloud
 excerpt: This article describes iPhone Transfer Transfer Contact from Apple iPhone 11 to iPhone without iCloud
 keywords: transfer data from ios to pc,export data from ios,transfer data from iphone to samsung,transfer data from iphone to pc,transfer data from iphone,transfer data from ios to samsung,transfer data from ios to android
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## iPhone Transfer: Transfer Contact from Apple iPhone 11 to iPhone without iCloud
@@ -42,7 +42,7 @@ NameDrop, integrated within iOS 17, enables the smooth sharing of contact inform
 
 - **Step 1:** To enable the NameDrop feature, open your iPhone settings and access the “AirDrop” option from the “General settings. Afterward, turn on the “Bringing Devices Together” feature to activate NameDrop on your iOS devices.
 
-![enable the namedrop feature ](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-4.jpg)
+![enable the namedrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-4.jpg)
 
 - **Step 2:** If Contact Posters are generated in iOS 17, they will display on both iPhones. You will be given the option to either "Share" or "Receive Only." If you wish to exchange contact information, select "Share." The recipient can opt for "Receive Only" to obtain your details. You can also perform these steps in the opposite direction to get contact information on your iPhone.
 
@@ -179,13 +179,13 @@ Besides transferring your contacts, you can also move other data files like phot
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 1-Click to Transfer Contacts from Apple iPhone 11 to iPhone without iTunes
 
 1. Easy, fast, and safe.
 2. Move data between devices with different operating systems, i.e., iOS to Android.
-3. Supports iOS devices that run the latest iOS![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+3. Supports iOS devices that run the latest iOS ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 4. Transfer photos, text messages, contacts, notes, and many other file types.
 5. Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 

@@ -1,7 +1,7 @@
 ---
 title: Solved How To Transfer From Apple iPhone 12 Pro to iPhone 15 | Dr.fone
-date: 2024-05-19T02:47:42.038Z
-updated: 2024-05-20T02:47:42.038Z
+date: 2024-06-30T12:00:59.054Z
+updated: 2024-07-01T12:00:59.054Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Solved How To Transfer From Apple iPhone 12 Pro to iPhone 15
 excerpt: This article describes Solved How To Transfer From Apple iPhone 12 Pro to iPhone 15
 keywords: transfer data from iphone to samsung,transfer data from ios,transfer data from ios to samsung,transfer data from iphone,transfer data from iphone to pc,transfer data from iphone to android,transfer data from ios to android,export data from ios,export data from iphone
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## [Solved] How To Transfer From Apple iPhone 12 Pro to iPhone 15
@@ -185,7 +185,7 @@ For calendar, one issue might be that the new calendar data are not shown on you
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Data from iOS Devices to Motorola Phones in 1 click!
 

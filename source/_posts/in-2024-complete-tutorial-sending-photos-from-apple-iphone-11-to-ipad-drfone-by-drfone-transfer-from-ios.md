@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Tutorial Sending Photos From Apple iPhone 11 to iPad | Dr.fone
-date: 2024-05-19T02:47:39.522Z
-updated: 2024-05-20T02:47:39.522Z
+date: 2024-06-30T12:00:55.130Z
+updated: 2024-07-01T12:00:55.130Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes Complete Tutorial Sending Photos From Apple iPhone 11 to iPad
 excerpt: This article describes Complete Tutorial Sending Photos From Apple iPhone 11 to iPad
 keywords: export data from iphone,transfer data from iphone,transfer data from ios to android,transfer data from iphone to android,transfer data from ios to pc,transfer data from ios to samsung,transfer data from iphone to pc,transfer data from ios,export data from ios,transfer data from iphone to samsung
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## Complete Tutorial: Sending Photos From Apple iPhone 11 to iPad
@@ -146,7 +146,7 @@ Step 1 Open Settings and select iCloud
 
 Tap Settings > iCloud on both your iPhone and iPad.
 
-![How to Transfer Notes from Apple iPhone 11 to iPad Using iCloud - step 1: select iCloud ](https://images.wondershare.com/drfone/others/tap-settings-icloud-on-iphone.jpg)
+![How to Transfer Notes from Apple iPhone 11 to iPad Using iCloud - step 1: select iCloud](https://images.wondershare.com/drfone/others/tap-settings-icloud-on-iphone.jpg)
 
 Step 2 Turn on iCloud Drive
 
@@ -164,7 +164,7 @@ Now go to the Notes app on your iPhone, and you can see a folder named iCloud. N
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Transfer Files Between iPhone and iPad without iTunes
 
