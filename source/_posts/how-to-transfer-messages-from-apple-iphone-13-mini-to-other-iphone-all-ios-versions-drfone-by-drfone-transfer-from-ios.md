@@ -1,7 +1,7 @@
 ---
 title: How To Transfer Messages From Apple iPhone 13 mini to other iPhone All iOS Versions | Dr.fone
-date: 2024-05-19T02:47:38.324Z
-updated: 2024-05-20T02:47:38.324Z
+date: 2024-07-08T03:00:51.437Z
+updated: 2024-07-09T03:00:51.437Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How To Transfer Messages From Apple iPhone 13 mini to other iPhone All iOS Versions
 excerpt: This article describes How To Transfer Messages From Apple iPhone 13 mini to other iPhone All iOS Versions
 keywords: transfer data from ios,transfer data from ios to samsung,transfer data from iphone,transfer data from iphone to pc,transfer data from ios to pc,export data from ios,export data from iphone,transfer data from iphone to samsung
-thumbnail: https://www.lifewire.com/thmb/MgXYGqoMMbFkRcMCb9oaCyNjJGE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6g-4717cafbb03b4d0eb3dae878b5ad134e.png
+thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e6a52b60eb890177d543e794.png
 ---
 
 ## How To Transfer Messages From Apple iPhone 13 mini to other iPhone [All iOS Versions]

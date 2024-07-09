@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone XS Max to Excel CSV & vCard Easily | Dr.fone
-date: 2024-05-19T02:47:38.608Z
-updated: 2024-05-20T02:47:38.608Z
+date: 2024-07-08T03:00:50.276Z
+updated: 2024-07-09T03:00:50.276Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Ways to Export Contacts from Apple iPhone XS Max to Excel CSV & vCard Easily
 excerpt: This article describes 3 Ways to Export Contacts from Apple iPhone XS Max to Excel CSV & vCard Easily
 keywords: transfer data from iphone,transfer data from iphone to pc,export data from iphone,transfer data from iphone to android,transfer data from ios to pc,transfer data from ios,transfer data from ios to samsung,export data from ios,transfer data from iphone to samsung
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## 3 Ways to Export Contacts from Apple iPhone XS Max to Excel CSV & vCard Easily
@@ -24,7 +24,7 @@ It would be a one-stop solution to transfer all kinds of content between your iO
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Transfer MP3 to iPhone/iPad/iPod without iTunes
 
@@ -161,13 +161,13 @@ Besides transferring your contacts, you can also move other data files like phot
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 1-Click to Transfer Contacts from Apple iPhone XS Max to iPhone without iTunes
 
 1. Easy, fast, and safe.
 2. Move data between devices with different operating systems, i.e., iOS to Android.
-3. Supports iOS devices that run the latest iOS![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+3. Supports iOS devices that run the latest iOS ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 4. Transfer photos, text messages, contacts, notes, and many other file types.
 5. Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 
@@ -256,7 +256,7 @@ While we can’t learn how to copy contacts from Apple iPhone XS Max to SIM, we 
 
 
 
-### [Dr.Fone - Backup & Restore (iOS)](https://drfone.wondershare.com/iphone-backup-and-restore.html)
+### Dr.Fone - Backup & Restore (iOS)
 
 Save and Backup iPhone Contacts with 1-Click.
 

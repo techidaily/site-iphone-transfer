@@ -1,7 +1,7 @@
 ---
 title: In 2024, iPhone Transfer Transfer Contact from Apple iPhone 8 Plus to iPhone without iCloud | Dr.fone
-date: 2024-05-19T02:47:41.120Z
-updated: 2024-05-20T02:47:41.120Z
+date: 2024-07-08T03:00:47.833Z
+updated: 2024-07-09T03:00:47.833Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes iPhone Transfer Transfer Contact from Apple iPhone 8 Plus to iPhone without iCloud
 excerpt: This article describes iPhone Transfer Transfer Contact from Apple iPhone 8 Plus to iPhone without iCloud
 keywords: export data from ios,transfer data from iphone to samsung,transfer data from ios to pc,export data from iphone,transfer data from ios to samsung,transfer data from iphone to android,transfer data from ios to android,transfer data from iphone to pc,transfer data from ios,transfer data from iphone
-thumbnail: https://www.lifewire.com/thmb/CUKW3XFY7liGlZzhBQy-nvEFMFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frenchopen-4d320297828b413f84f9940d5bd258f9.jpg
+thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
 ## iPhone Transfer: Transfer Contact from Apple iPhone 8 Plus to iPhone without iCloud
@@ -42,7 +42,7 @@ NameDrop, integrated within iOS 17, enables the smooth sharing of contact inform
 
 - **Step 1:** To enable the NameDrop feature, open your iPhone settings and access the “AirDrop” option from the “General settings. Afterward, turn on the “Bringing Devices Together” feature to activate NameDrop on your iOS devices.
 
-![enable the namedrop feature ](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-4.jpg)
+![enable the namedrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-4.jpg)
 
 - **Step 2:** If Contact Posters are generated in iOS 17, they will display on both iPhones. You will be given the option to either "Share" or "Receive Only." If you wish to exchange contact information, select "Share." The recipient can opt for "Receive Only" to obtain your details. You can also perform these steps in the opposite direction to get contact information on your iPhone.
 
@@ -134,7 +134,7 @@ The easiest way to transfer data from Apple iPhone 8 Plus to Android is to use t
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "Phone to Phone Transfer")
+### Dr.Fone - Phone Transfer
 
 1-Click Phone to Phone Transfer
 

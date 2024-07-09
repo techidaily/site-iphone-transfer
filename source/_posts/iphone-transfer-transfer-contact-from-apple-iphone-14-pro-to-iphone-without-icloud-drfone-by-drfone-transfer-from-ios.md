@@ -1,7 +1,7 @@
 ---
 title: iPhone Transfer Transfer Contact from Apple iPhone 14 Pro to iPhone without iCloud | Dr.fone
-date: 2024-05-19T02:47:41.795Z
-updated: 2024-05-20T02:47:41.795Z
+date: 2024-07-08T03:00:50.149Z
+updated: 2024-07-09T03:00:50.149Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes iPhone Transfer Transfer Contact from Apple iPhone 14 Pro to iPhone without iCloud
 excerpt: This article describes iPhone Transfer Transfer Contact from Apple iPhone 14 Pro to iPhone without iCloud
 keywords: export data from ios,transfer data from iphone to android,transfer data from ios to samsung,transfer data from iphone to samsung,transfer data from ios to android,transfer data from iphone to pc,transfer data from ios to pc,transfer data from iphone,export data from iphone
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## iPhone Transfer: Transfer Contact from Apple iPhone 14 Pro to iPhone without iCloud
@@ -42,7 +42,7 @@ NameDrop, integrated within iOS 17, enables the smooth sharing of contact inform
 
 - **Step 1:** To enable the NameDrop feature, open your iPhone settings and access the “AirDrop” option from the “General settings. Afterward, turn on the “Bringing Devices Together” feature to activate NameDrop on your iOS devices.
 
-![enable the namedrop feature ](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-4.jpg)
+![enable the namedrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-4.jpg)
 
 - **Step 2:** If Contact Posters are generated in iOS 17, they will display on both iPhones. You will be given the option to either "Share" or "Receive Only." If you wish to exchange contact information, select "Share." The recipient can opt for "Receive Only" to obtain your details. You can also perform these steps in the opposite direction to get contact information on your iPhone.
 

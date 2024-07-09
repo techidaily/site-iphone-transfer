@@ -1,7 +1,7 @@
 ---
 title: How to Transfer/Sync Notes from Apple iPhone 11 Pro Max to iPad | Dr.fone
-date: 2024-05-19T02:47:38.485Z
-updated: 2024-05-20T02:47:38.485Z
+date: 2024-07-08T03:00:53.578Z
+updated: 2024-07-09T03:00:53.578Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Transfer/Sync Notes from Apple iPhone 11 Pro Max to iPad
 excerpt: This article describes How to Transfer/Sync Notes from Apple iPhone 11 Pro Max to iPad
 keywords: export data from iphone,transfer data from iphone to samsung,transfer data from ios,transfer data from ios to android,transfer data from iphone to android,export data from ios,transfer data from iphone,transfer data from ios to samsung
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## How to Transfer/Sync Notes from Apple iPhone 11 Pro Max to iPad
@@ -24,7 +24,7 @@ Step 1 Open Settings and select iCloud
 
 Tap Settings > iCloud on both your iPhone and iPad.
 
-![How to Transfer Notes from Apple iPhone 11 Pro Max to iPad Using iCloud - step 1: select iCloud ](https://images.wondershare.com/drfone/others/tap-settings-icloud-on-iphone.jpg)
+![How to Transfer Notes from Apple iPhone 11 Pro Max to iPad Using iCloud - step 1: select iCloud](https://images.wondershare.com/drfone/others/tap-settings-icloud-on-iphone.jpg)
 
 Step 2 Turn on iCloud Drive
 
@@ -42,7 +42,7 @@ Now go to the Notes app on your iPhone, and you can see a folder named iCloud. N
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Transfer Files Between iPhone and iPad without iTunes
 
@@ -278,13 +278,13 @@ A great tool for the purpose of easy transfer of music between iOS devices is [D
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/)
+### Dr.Fone - Phone Transfer
 
 1-Click Phone to Phone Transfer
 
 - Easy, fast, and safe.
 - Move data between devices with different operating systems, i.e iOS to Android.
-- Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+- Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
 - Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone 6 Plus to Excel CSV & vCard Easily | Dr.fone
-date: 2024-06-08T00:49:06.505Z
-updated: 2024-06-09T00:49:06.505Z
+date: 2024-07-08T03:00:52.540Z
+updated: 2024-07-09T03:00:52.540Z
 tags: 
   - iphone transfer
 categories:
@@ -24,7 +24,7 @@ It would be a one-stop solution to transfer all kinds of content between your iO
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Transfer MP3 to iPhone/iPad/iPod without iTunes
 
@@ -226,7 +226,7 @@ It would be a one-stop solution to transfer all kinds of content between your iO
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Transfer MP3 to iPhone/iPad/iPod without iTunes
 
