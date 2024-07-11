@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Export Contacts from Apple iPhone XS to Excel CSV & vCard Easily | Dr.fone
-date: 2024-06-08T00:49:06.743Z
-updated: 2024-06-09T00:49:06.743Z
+date: 2024-07-10T19:33:21.007Z
+updated: 2024-07-11T19:33:21.007Z
 tags: 
   - iphone transfer
 categories:
@@ -24,7 +24,7 @@ It would be a one-stop solution to transfer all kinds of content between your iO
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Transfer MP3 to iPhone/iPad/iPod without iTunes
 
@@ -110,7 +110,7 @@ We hope that our quick and smart guide would be able to help you export contacts
 
 Apple announced a line-up of iPhones with four new devices in 2020. The series is called the iPhone 12 series that has four handsets of different sizes and price ranges. The iPhone 12 series include iPhone 12, iPhone 12 Mini, iPhone 12 Pro, and iPhone 12 Pro Max. These are the company's first-ever 5G devices. They surely took a step into the future of technology with the 12 series.
 
-![ iphone 12 introduction](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-1.jpg)
+![iphone 12 introduction](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-1.jpg)
 
 The device is considered lighter than the iPhone SE launched in 2020. iPhone 12 Pro Max holds an outstanding camera system for high-quality image processing. Besides, the introduction of A14 SoC has encouraged the exceptional performance of all four models. Each of the series models is secured with suitable features and new capabilities. Let's take a glance at the relevant specifications and iPhone 12 price.
 
@@ -136,7 +136,7 @@ We know that the excitement of buying a new iPhone is real. However, it's import
 
 ### 2.1 Through iCloud
 
-![ transfer data through icloud](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-3.jpg)
+![transfer data through icloud](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-3.jpg)
 
 Before transferring, make sure your data is backed up. For that, connect the old iPhone with the WiFi and then go to "Settings." Next, tap your name and then on "iCloud." Next, select the "Backup Now" option and wait for the process to get completed. After completing the backup, follow the steps given below.
 
@@ -150,7 +150,7 @@ If you have bought iTunes or App store content with multiple IDs, sign in with t
 
 ### 2.2 Through iTunes or Finder
 
-![ transfer with itunes or finder](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-4.jpg)
+![transfer with itunes or finder](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-4.jpg)
 
 Start with the backup process by opening iTunes. Now, connect your iPhone with the PC. After it gets connected, choose your iPhone on the top toolbar. To transfer the data related to Health and Activity/saved passwords, choose the "Encrypt backup" option. Next, input a password and click "Back Up Now."
 
@@ -284,7 +284,7 @@ If you find the above methods difficult, there is a quick and easy way to transf
 
 
 
-### [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html "iphone transfer")
+### Dr.Fone - Phone Manager (iOS)
 
 Transfer Photos from Computer to iPod/iPhone/iPad without iTunes
 
@@ -360,3 +360,46 @@ For those who prefer a more traditional approach, iTunes provides a straightforw
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-se-2020-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone SE (2020) to Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-12-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 12 to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 14 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-xs-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone XS to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-6-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 6 to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-xs-max-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone XS Max to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-xs-max-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone XS Max to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-se-2022-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone SE (2022) to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-15-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 15 to SIM? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-13-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 13 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-13-pro-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 13 Pro Max to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 8 to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 14 Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-xs-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone XS Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-7-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 7 to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-12-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 12 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-14-pro-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 14 Pro Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-12-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 12 to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-11-pro-max-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 11 Pro Max to Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-7-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 7 to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-mini-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 12 mini to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-14-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 14 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-x-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone X to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-14-pro-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 14 Pro to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-se-2022-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone SE (2022) to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-mini-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 12 mini to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-assessing-streaming-quality-vlc-versus-mx/"><u>In 2024, Assessing Streaming Quality  VLC versus MX</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-pioneering-online-video-secrets-for-youtubes-spherical-livestreaming-techniques/"><u>[Updated] Pioneering Online Video  Secrets for YouTube's Spherical Livestreaming Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-captivating-intros-on-mobile-platforms/"><u>[Updated] In 2024, Crafting Captivating Intros on Mobile Platforms</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-stop-looking-for-filmora-coupon-code-on-reddit-weve-got-it-here/"><u>In 2024, Stop Looking for Filmora Coupon Code on Reddit - Weve Got It Here</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gopro-hero5-session-vs-hero-session/"><u>GoPro Hero5 Session Vs Hero Session</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-a-personalized-approach-developing-an-individualistic-tiktok-keyword/"><u>[Updated] 2024 Approved  A Personalized Approach  Developing an Individualistic TikTok Keyword</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-how-to-make-gif-stickers-for-whatsapp-100-the-easy-way/"><u>Updated 2024 Approved How to Make GIF Stickers for WhatsApp 100 The Easy Way</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-high-quality-live-streaming-with-logitech-camera/"><u>[Updated] 2024 Approved  A Comprehensive Guide to High-Quality Live Streaming with Logitech Camera</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/speedy-printer-solutions-unveiled/"><u>Speedy Printer Solutions Unveiled</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-storytellers-edge-integrating-youtube-vids-with-ig/"><u>The Storyteller's Edge  Integrating YouTube Vids with IG</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-screen-spectrum-your-gateway-to-gameplay/"><u>In 2024, Screen Spectrum  Your Gateway to Gameplay</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/crafting-quality-slow-motion-footage-on-tiktok-platforms-for-2024/"><u>Crafting Quality Slow Motion Footage on TikTok Platforms for 2024</u></a></li>
+</ul></div>

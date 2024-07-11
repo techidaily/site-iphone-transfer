@@ -1,7 +1,7 @@
 ---
 title: iPhone Transfer Transfer Contact from Apple iPhone XR to iPhone without iCloud | Dr.fone
-date: 2024-05-19T02:47:41.852Z
-updated: 2024-05-20T02:47:41.852Z
+date: 2024-07-10T21:07:11.272Z
+updated: 2024-07-11T21:07:11.272Z
 tags: 
   - iphone transfer
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes iPhone Transfer Transfer Contact from Apple iPhone XR to iPhone without iCloud
 excerpt: This article describes iPhone Transfer Transfer Contact from Apple iPhone XR to iPhone without iCloud
 keywords: transfer data from ios,export data from ios,export data from iphone,transfer data from iphone,transfer data from ios to samsung,transfer data from iphone to samsung,transfer data from ios to android
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## iPhone Transfer: Transfer Contact from Apple iPhone XR to iPhone without iCloud
@@ -42,7 +42,7 @@ NameDrop, integrated within iOS 17, enables the smooth sharing of contact inform
 
 - **Step 1:** To enable the NameDrop feature, open your iPhone settings and access the “AirDrop” option from the “General settings. Afterward, turn on the “Bringing Devices Together” feature to activate NameDrop on your iOS devices.
 
-![enable the namedrop feature ](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-4.jpg)
+![enable the namedrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-4.jpg)
 
 - **Step 2:** If Contact Posters are generated in iOS 17, they will display on both iPhones. You will be given the option to either "Share" or "Receive Only." If you wish to exchange contact information, select "Share." The recipient can opt for "Receive Only" to obtain your details. You can also perform these steps in the opposite direction to get contact information on your iPhone.
 
@@ -138,7 +138,7 @@ You may also put this software to good use to backup and restore your iPhone dat
 
 
 
-### [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/ "iPhone to iPhone Transfer")
+### Dr.Fone - Phone Transfer
 
 Transfer Everything from iPhone 5S to iPhone 8/11/11 Pro in 1 Click!
 
@@ -267,7 +267,7 @@ To address this concern, you can use [Dr.Fone - Screen Unlock (iOS)](https://drf
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://drfone.wondershare.com/iphone-unlock.html)
+### Dr.Fone - Screen Unlock (iOS)
 
 Best SIM Unlock for iPhone.
 
@@ -275,7 +275,7 @@ Best SIM Unlock for iPhone.
 - Fix SIM unlock with a few clicks.
 - Supports almost all carriers, from Vodafone to Sprint.
 - No tech knowledge required, everybody can handle it.
-- Supports iPhone 5S to iPhone X, which are running between iOS 12.0 and iOS 14.8.1![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+- Supports iPhone 5S to iPhone X, which are running between iOS 12.0 and iOS 14.8.1 ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **3,046,049** people have downloaded it
 
@@ -374,3 +374,49 @@ This article has provided a valuable overview of **switching SIM cards to new Ap
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-14-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 14 Plus Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-6-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 6 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-15-plus-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 15 Plus to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-x-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone X to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-14-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 14 Plus to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-15-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 15 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-12-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 12 mini to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-se-2022-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone SE (2022) to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-12-pro-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 12 Pro Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-7-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 7 to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-xs-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone XS Max to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 8 Plus to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-13-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 13 Pro to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone SE to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-15-pro-max-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 15 Pro Max Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-12-mini-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 12 mini to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-13-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 13 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-se-2022-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone SE (2022) to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-12-pro-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 12 Pro to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-se-2020-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone SE (2020) to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-13-pro-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 13 Pro to Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-14-plus-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 14 Plus and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-simplicity-to-spectacle-the-rise-of-hdr-in-video-editing-for-2024/"><u>From Simplicity to Spectacle  The Rise of HDR in Video Editing for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-optimizing-facebook-ads-with-a-structured-triple-layered-copywriting-approach/"><u>[Updated] In 2024, Optimizing Facebook Ads with a Structured, Triple-Layered Copywriting Approach</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-strategies-for-effective-video-markup-on-youtube/"><u>[New] In 2024, Strategies for Effective Video Markup on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-android-viewer-for-high-quality-3d/"><u>[New] Immersive Android Viewer for High-Quality 3D</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-beyond-the-buzz-the-top-10-competitive-video-editors-for-2024/"><u>[New] Beyond the Buzz  The Top 10 Competitive Video Editors for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/innovative-tech-for-your-instant-sharing-needs-on-facebook/"><u>Innovative Tech for Your Instant Sharing Needs on Facebook</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-7-must-listen-episodes-transform-your-strategy-with-todays-social-media-trends/"><u>Updated 7 Must-Listen Episodes Transform Your Strategy with Todays Social Media Trends</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-make-a-video-meme-for-facebook-and-instagram-for-2024/"><u>How to Make a Video Meme for Facebook and Instagram for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/age-old-artwork-free-from-modern-constraints-for-2024/"><u>Age-Old Artwork  Free From Modern Constraints for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-pure-visuals-guide-how-to-eliminate-sound-from-mp4-mkv-avi-mov-wmv-videos-for-2024/"><u>New Pure Visuals Guide How to Eliminate Sound From MP4, MKV, AVI, MOV, WMV Videos for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unleashing-the-full-potential-of-free-countdown-tools/"><u>[New] Unleashing the Full Potential of Free Countdown Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-personalize-videos-adding-captions-in-the-photos-app/"><u>[Updated] How to Personalize Videos  Adding Captions in the Photos App</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-sony-xperia-5-v-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Sony Xperia 5 V Phones</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Use Life360 on Windows PC For Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-horizons-where-is-the-new-frontier-of-vr/"><u>Virtual Horizons  Where Is the New Frontier of VR?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/optimal-solution-review-prime-action-recorder/"><u>Optimal Solution Review  Prime Action Recorder</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-taking-control-your-comprehensive-yt-studio-manual/"><u>In 2024, Taking Control  Your Comprehensive YT Studio Manual</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-top-free-m4a-audio-editing-software-reviews-and-downloads/"><u>Updated 2024 Approved Top Free M4A Audio Editing Software Reviews and Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-globalscreen-top-ranked-local-and-live-tv-streams/"><u>[Updated] GlobalScreen  Top-Ranked Local & Live TV Streams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-igtv-followers-essential-techniques-to-grow-your-audience-for-2024/"><u>[Updated] Mastering IGTV Followers  Essential Techniques to Grow Your Audience for 2024</u></a></li>
+</ul></div>
