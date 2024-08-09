@@ -1,7 +1,7 @@
 ---
 title: In 2024, Various Methods to Transfer Pictures from Apple iPhone 8 Plus to PC | Dr.fone
-date: 2024-07-10T21:05:30.098Z
-updated: 2024-07-11T21:05:30.098Z
+date: 2024-08-08T01:54:15.929Z
+updated: 2024-08-09T01:54:15.929Z
 tags: 
   - iphone transfer
 categories:
@@ -18,6 +18,9 @@ Capturing life's precious moments on the latest Apple iPhone 8 Plus  is a joy in
 
 It can be helpful in creating backups, freeing up storage space, and more. In this article, we will describe how to **transfer photos from Apple iPhone 8 Plus  to a PC**. It will explore step-by-step guides and tips for accommodating different preferences and comfort levels.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Part 1: How To Transfer Photos From Apple iPhone 8 Plus to PC With Windows Features
 
 With the Apple iPhone 8 Plus 's advanced camera, capturing life's beautiful moments is second nature. On the other hand, Windows OS has long been the backbone of personal computing. They come equipped with a range of tools to make the photo transfer process smooth and efficient. Explained below are two of the common method to **import photos from Apple iPhone 8 Plus to PC**:
@@ -30,10 +33,17 @@ Moreover, you can select the images you desire and move them to your computer. F
 
 - **Step 1:** Begin by connecting your Apple iPhone 8 Plus  to your Windows PC using an Apple-certified USB cable. Ensure that your iPhone is unlocked, and if prompted, tap "Trust This Computer" on your device's screen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on the trust option](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-1.jpg)
 
 - **Step 2:** On your Windows PC, press the “File Explorer” icon on your taskbar. In the left-hand panel of File Explorer, locate and click "This PC." Your connected Apple iPhone 8 Plus  should appear under the "Devices and Drives" section.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![open the apple storage](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-2.jpg)
 
 - **Step 3:** Here, double-click on your iPhone's icon to access its internal storage. Most of your iPhone's photos are stored in the "DCIM" folder. Browse the folder to select photos you want to move and copy them to your desired location.
@@ -50,6 +60,10 @@ Available in Windows 10 and later, the Photos app is a prime example of this con
 
 - **Step 2:** In the Photos app, click on the "Import" button located in the top-right corner. From the available options, choose "From a connected device" and select your iPhone. The Photos app will display the photos on your Apple iPhone 8 Plus  that are available for import. After selecting the images, select an existing folder or create a new one for the imported photos.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![import the photos](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-5.jpg)
 
 ## Part 2: How To Transfer Photos From Apple iPhone 8 Plus to PC With Cloud Storages
@@ -70,6 +84,9 @@ iCloud is Apple's cloud storage service which seamlessly knits together the Appl
 
 - **Step 3:** Browse your photos and select the ones you want to transfer to your PC. Click the “Download” icon (cloud with arrow) to download the selected pictures to your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![download the desired photos](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-8.jpg)
 
 #### Pros
@@ -87,6 +104,9 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 
 - **Step 1:** Download the Google Drive app from the App Store and log in using your Google account credentials. Tap the "+" button and select "Upload" to add the targeted photos to Google Drive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![tap on the upload option](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-9.jpg)
 
 - **Step 2:** Once photos are uploaded, move to your PC and open Google Drive using a web browser. Locate the folder where you uploaded the pictures from your Apple iPhone 8 Plus . Select the photos, right-click, and choose "Download" to initiate the download process.
@@ -108,6 +128,9 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 
 Wondershare Dr.Fone also serves as a great tool to back up your data to your computer. It allows you to create wireless auto-backups on your computer. This backed-up data can be quickly restored to your device at any time. Furthermore, this tool also offers a dedicated iCloud manager to manage your iCloud data.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Features of Wondershare Dr.Fone
 
 - If you want to sell your Apple iPhone 8 Plus , then with the help of Wondershare Dr.Fone Anti-Recovery Mode, you can ensure that your data is erased properly.
@@ -123,6 +146,9 @@ Transferring photos from Apple iPhone 8 Plus to PC is a breeze with Wondershare 
 
 With Wondershare Dr.Fone installed on your computer, connect to your Apple iPhone 8 Plus . Once the Apple iPhone 8 Plus device is detected, tap the Apple iPhone 8 Plus device from the left sidebar and click “Export All Data.”
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose export all data feature](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
 
 - **Step 2: Select Photos for Transfer**
@@ -139,12 +165,19 @@ Click “Verify” once you have created the process to start the transfer proce
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In our journey to uncover the most effective method for **how to transfer photos from Apple iPhone 8 Plus to PC**, we've explored a myriad of options. Each method offered a unique blend of convenience and functionality. Among these, one solution stands out as a true game-changer: Wondershare Dr.Fone. As we conclude our guide, we wholeheartedly recommend Wondershare Dr.Fone as the ultimate iOS management tool.
 
 It bridges the gap between devices with unparalleled features. Dr. Fone's capability to transcend the realm of mere photo transfer sets it apart. Its comprehensive suite of features empowers you to manage your Apple iPhone 8 Plus 's data with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 Easy Ways to Transfer Contacts from Apple iPhone 8 Plus to Android
 
 Whenever we move from one device to another, the first thing that we wish to do is transfer our contacts. After all, we can't communicate with anyone without our list of contacts. Surprisingly, a lot of people find it hard to **transfer contacts from Apple iPhone 8 Plus to Android**. Truth to be told - there can find countless ways to move contacts from Apple iPhone 8 Plus to Android. You don't need to worry a lot about the compatibility issues of different systems and can replace old phones at will when there is a new phone release, like the upcoming Samsung Galaxy S22 series. You can use a third-party app, a cloud service (like iCloud), and iTunes. Read on to learn how to transfer contacts from Apple iPhone 8 Plus to Android in 5 different ways.
@@ -159,6 +192,9 @@ The application also supports transferring all the leading data types such as vi
 
 **Step 1.** First of all, launch the Dr.Fone toolkit on your Mac or Windows PC, and from its welcome screen, visit the "Phone Transfer" module.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![move contacts from iphone to android-visit the “Switch” module](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** Connect your Android and iOS devices to the system and let the application detect them automatically. Since you wish to export iPhone contacts to Android, iPhone should be the source while Android should be the destination device. You can use the Flip button to interchange their positions.
@@ -169,18 +205,36 @@ The application also supports transferring all the leading data types such as vi
 
 **Step 4.** Sit back and wait for a couple of minutes as the application syncs contacts from Apple iPhone 8 Plus to Android. Make sure that both the Apple iPhone 8 Plus devices are kept connected to the system until the process is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![move contacts from iphone to android-import contacts from Apple iPhone 8 Plus to Android](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 **Step 5.** Once the transfer completes, you will be shown a message. In the end, you can remove the 2 devices safely from your system.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![move contacts from iphone to android-remove both the Apple iPhone 8 Plus devices from your system](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Move contacts from Apple iPhone 8 Plus to Android with Google Account
 
 Another fast and hassle-free way to sync contacts from Apple iPhone 8 Plus to Android is by using your Google Account. Since you can add your Google account on the iPhone, you can also use it to sync your contacts. While setting up your Android, you can use the same Google account. To learn how to import contacts from Apple iPhone 8 Plus to Android using your Google account, these quick steps can be implemented.
 
 **Step 1.** Unlock your iPhone and go to its **Settings > Mail, Contacts, Calendars > Add Account** and tap on "Google."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![move contacts from iphone to android-tap on “Google”](https://images.wondershare.com/drfone/article/2018/08/transfer-contacts-from-iphone-to-android-5.jpg)
 
 **Step 2.** Sign in with your Google account credentials and grant your phone the needed permissions to access your Gmail data.
@@ -191,6 +245,9 @@ Another fast and hassle-free way to sync contacts from Apple iPhone 8 Plus to An
 
 **Step 4.** Once your contacts are synced with your Google account, you can easily access them on any Android device. You can use the Google Contacts app or use the same account to set up your device for auto-sync contacts.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Import contacts from Apple iPhone 8 Plus to Android with iCloud
 
 Another simple way to sync contacts from Apple iPhone 8 Plus to Android is by using iCloud. Firstly, you need to sync the iPhone contacts with iCloud, and later you can export them a VCF file. To this end, the vCard can be imported to Google Contacts. Yes - it does sound a bit complicated. After all, the Dr.Fone tools provide such a hassle-free way to move contacts from Apple iPhone 8 Plus to Android compared to this technique. Though, this is a free solution and can be your plan B. To learn how to transfer contacts from Apple iPhone 8 Plus to Android via iCloud, follow these steps.
@@ -211,6 +268,9 @@ Another simple way to sync contacts from Apple iPhone 8 Plus to Android is by us
 
 **8.** Once you have imported these contacts to your Google account, you can easily access them on the connected device as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Copy contacts from Apple iPhone 8 Plus to Android using iTunes
 
 If you are an avid user of iTunes, you can try this technique to export iPhone contacts to Android. Earlier, iTunes has a feature to sync contacts with Google, Outlook, and Windows account. Now, the Google feature has been removed from iTunes. Therefore, you first need to sync your contacts to your Windows account and can later export them into a card. Needless to say, the technique can also be a bit complicated. Though, you can implement these steps to copy contacts from Apple iPhone 8 Plus to Android using iTunes.
@@ -229,6 +289,10 @@ If you are an avid user of iTunes, you can try this technique to export iPhone c
 
 **6.** In the end, you can manually copy the VCF file to your Apple iPhone 8 Plus or import it to your Google Contacts as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## Part 5: Switch contacts from Apple iPhone 8 Plus to Android without a computer
 
 Often, users don't wish to use a computer to export iPhone contacts to Android. If you have the same requirements, then you can use a data transfer app. While there are many apps out there that can help you move contacts from Apple iPhone 8 Plus to Android, I would recommend My Contacts Backup. This is because the app is available on both iOS [App Store](https://itunes.apple.com/in/app/my-contacts-backup/id446784593?mt=8) and [Google Play Store](https://play.google.com/store/apps/details?id=com.globile.mycontactbackup&hl=en_IN). To use this app to transfer contacts from Apple iPhone 8 Plus to Android, follow these steps.
@@ -239,6 +303,9 @@ Often, users don't wish to use a computer to export iPhone contacts to Android. 
 
 **3.** You can choose to email the contacts to your own Gmail account as well. A VCF file will be mailed to your account that can later be downloaded and synced.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![move contacts from iphone to android-email the contacts to your own Gmail account](https://images.wondershare.com/drfone/article/2018/08/transfer-contacts-from-iphone-to-android-13.jpg)
 
 **4.** Additionally, you can also upload the contacts to its server.
@@ -267,6 +334,9 @@ It’s true to say that Shared Album is a great iOS feature. However, it’s imp
 
 Do you find Shared Album a useful tool, though? If so, here are the tutorials on how to activate this feature and create one in the Photos app.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Activate Shared Album?
 
 Here’s how to activate Shared Album on Settings.
@@ -279,12 +349,21 @@ Here’s how to activate Shared Album on Settings.
 - **Step 3:** Click iCloud.
 - **Step 4:** Click Photos.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![icloud photos](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-2.jpg)
 
 - **Step 5:** Toggle on the radio button next to Shared Albums.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shared album settings](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### How to Create Shared Albums in Photos
 
 Here’s how to create Shared Albums in Photos.
@@ -297,6 +376,9 @@ Here’s how to create Shared Albums in Photos.
 
 - **Step 4:** Click New Shared Album.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![icloud photos](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-5.jpg)
 
 - **Step 5:** Rename the Shared Album and then click Create.
@@ -327,15 +409,24 @@ If you’re just sending a few pieces of photos, AirDrop is indeed a great trans
 
 - **Step 1:** Toggle on the Wi-Fi and Bluetooth connectivity on both iPhones. After that, find the AirDrop option on the two devices and then switch it on. Choose Everyone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![airdrop everyone](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-8.jpg)
 
 - **Step 2:** On the Apple iPhone 8 Plus device that contains the files, go to Photos. Select the images you want to transfer. After that, click the Share button at the bottom-left corner of your screen.
 - **Step 3:** Choose AirDrop.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![airdrop share](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-9.jpg)
 
 - **Step 4:** Select the recipient from the provided list. After that, accept the AirDrop request on the other device.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Transfer photos from Apple iPhone 8 Plus to iPhone via Mail
 
 Another reliable method you can try is to email the photos from one iPhone to another. Like AirDrop, it works great if you’re just moving a few bits of files to another device. Don’t work. The process will not take much time. Here’s how to transfer photos from Apple iPhone 8 Plus to iPhone via Mail.
@@ -361,6 +452,9 @@ Let’s say you’re sending one photo to another iPhone user. What is the best 
 
 - **Step 4:** Share the iCloud link via Messages, Mail, or internet messaging platform. On the other iPhone device, access the link and then download the photos from there.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Method 5: Transfer photos from Apple iPhone 8 Plus to iPhone using Wondershare Dr.Fone
 
 The first four tutorials above on how to transfer pictures from Apple iPhone 8 Plus to iPhone are very easy to follow. But if you wish to explore another convenient option, Wondershare Dr.Fone can help you with that. Its phone transfer feature has a powerful facility that can move your photos and other files between two mobile devices. Here’s how to use it in easy steps.
@@ -375,6 +469,10 @@ The first four tutorials above on how to transfer pictures from Apple iPhone 8 P
 
 - **Step 4:** Set the iPhone that contains the photos as the Source and the other iPhone as the Target. Alternatively, click the Flip button to modify the transfer path according to your liking.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![source and target](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
 - **Step 5:** Click Photos as the category of the files. Right after, click Start Transfer to proceed.
@@ -383,6 +481,9 @@ The first four tutorials above on how to transfer pictures from Apple iPhone 8 P
 
 - **Step 6:** Wait while Wondershare Dr.Fone is facilitating the transfer. If you wish to terminate the progress, simply click **Cancel.**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
 - **Step 7:** After completing the process, click **OK** to wrap it up. Check your files from their respective locations afterward.
@@ -398,10 +499,16 @@ The tutorials above on how to transfer all photos from Apple iPhone 8 Plus to iP
 - **Step 1:** Launch the Wondershare Dr.Fone on your computer. After it fully loads up, connect your iPhone using a data cable.
 - **Step 2:** Access the left-side panel and then click **My Backup.** On the main dashboard, click **Back Up Now.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare drfone backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
 - **Step 3:** Follow the on-screen instructions for SMS backup. After that, click **OK** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![sms backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-2.png)
 
 - **Step 4:** Wait while Wondershare Dr.Fone is backing up your files.
@@ -439,3 +546,64 @@ Transferring photos between two iOS devices is very easy. In fact, you can insta
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-logging-live-video-conversations/"><u>[New] 2024 Approved  Logging Live Video Conversations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-finder-high-speed-pics-on-win-11/"><u>[New] Expert Finder  High-Speed Pics on Win 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-elevate-your-facebook-ads-game-no-price-tag-for-video-kit/"><u>[New] In 2024, Elevate Your Facebook Ads Game - No Price Tag for Video Kit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-no-distractions-just-high-quality-webcam-recording/"><u>[New] No Distractions, Just High-Quality Webcam Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-commandments-of-eye-catching-podcast-album-imagery/"><u>[Updated] 10 Commandments of Eye-Catching Podcast Album Imagery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-youtubes-branded-entertainment-universe/"><u>[Updated] 2024 Approved  YouTube's Branded Entertainment Universe</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-studio-to-stage-stream-your-mp3-tunes-on-youtube-for-2024/"><u>[Updated] From Studio to Stage  Stream Your MP3 Tunes on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebook-live-cutting-edge-strategies-audiences/"><u>[Updated] In 2024, Facebook Live  Cutting-Edge Strategies Audiences</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-conversion-processes-from-xml-to-high-quality-srts/"><u>[Updated] Optimizing Conversion Processes From XML to High-Quality SRTs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-comprehensive-pathway-to-hidden-youtube-treasures/"><u>[Updated] Your Comprehensive Pathway to Hidden YouTube Treasures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-efficient-utilization-of-whiteboard-features-in-zoom-meetings/"><u>2024 Approved  Efficient Utilization of Whiteboard Features in Zoom Meetings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-play-with-perspective-learning-warp-effects-in-adobe-ph/"><u>2024 Approved  Play With Perspective  Learning Warp Effects in Adobe PH</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-unlocking-the-potential-of-quantum-hdr/"><u>2024 Approved  Unlocking the Potential of Quantum HDR</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-15-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 15 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-8-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 8 Plus to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-se-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone SE to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-a1-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A1 5G Fingerprint Lock</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-video-content-with-effective-srt-file-management-for-2024/"><u>Boosting Video Content with Effective SRT File Management for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-8-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 8 to PC | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/groundbreaking-feedback-vllo-review/"><u>Groundbreaking Feedback  VLLO Review</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-12-pro-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 12 Pro to SIM? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-se-2022-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone SE (2022) to SIM? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 14 Pro to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-6s-plus-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 6s Plus Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-xs-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone XS Max to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-14-pro-max-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 14 Pro Max to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-13-pro-max-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 13 Pro Max to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-vivo-t2-pro-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-13-pro-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 13 Pro to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-se-2022-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone SE (2022) to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-x-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone X to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-xs-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone XS Max to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-xr-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone XR to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 13 to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 15 Pro to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-14-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 14 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-6s-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 6s to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-14-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 14 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-13-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 13 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-14-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 14 to SIM? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-xs-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone XS to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-13-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 13 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-6-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 6 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-se-2020-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone SE (2020) to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-8-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 8 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unravel-the-complexity-of-background-removal-with-affinity-photo/"><u>In 2024, Unravel the Complexity of Background Removal with Affinity Photo</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-se-2022-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone SE (2022) to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-6-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 6 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-the-landscape-intricacies-of-using-the-background-eraser-feature-for-2024/"><u>Navigating the Landscape  Intricacies of Using the Background Eraser Feature for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/novices-guide-to-vectors-insight-into-types-and-software-choices-for-2024/"><u>Novice's Guide to Vectors  Insight Into Types & Software Choices for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pushing-boundaries-hps-z32x-4k-revelation/"><u>Pushing Boundaries  HP’s Z32X 4K Revelation</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-and-simple-how-to-erase-items-using-command-prompt-on-windows-experience/"><u>Quick and Simple: How to Erase Items Using Command Prompt on Windows eXperience</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-xs-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone XS Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-mac-speech-to-text-apps-youre-not-aware-of-for-2024/"><u>Top Mac Speech-to-Text Apps You're Not Aware Of for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-13-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 13 Pro Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/whats-the-best-cloud-storage-2024-know-these-5-for-your-needs/"><u>What’s the Best Cloud Storage 2024? Know These 5 for Your Needs</u></a></li>
+</ul></div>
