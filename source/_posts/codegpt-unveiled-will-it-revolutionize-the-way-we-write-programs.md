@@ -1,7 +1,7 @@
 ---
 title: "CodeGPT Unveiled: Will It Revolutionize the Way We Write Programs?"
-date: 2024-08-08T01:55:10.656Z
-updated: 2024-08-09T01:55:10.656Z
+date: 2024-09-04T06:32:04.601Z
+updated: 2024-09-05T06:32:04.601Z
 tags:
   - chatgpt
   - open-ai
@@ -21,14 +21,8 @@ thumbnail: https://thmb.techidaily.com/5c2d24edaaf4b6dd8b5262f3555ac32c929e36e44
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Do ChatGPT Plugins Work?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Monitor screen showing ChatGPT landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/monitor-screen-showing-chatgpt-landing-page.jpg)
 
  ChatGPT plugins are software components integrated into[the ChatGPT platform](https://www.makeuseof.com/how-does-chatgpt-work/) . They provide ChatGPT with additional information, such as up-to-date news or data from proprietary sources, and enable ChatGPT to perform specific actions on behalf of users.
@@ -39,14 +33,8 @@ thumbnail: https://thmb.techidaily.com/5c2d24edaaf4b6dd8b5262f3555ac32c929e36e44
 
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Do You Sign Up for ChatGPT Plugins?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can[sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on**Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -59,7 +47,10 @@ thumbnail: https://thmb.techidaily.com/5c2d24edaaf4b6dd8b5262f3555ac32c929e36e44
 4. Click**Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Joining ChatGPT's Plugins Waitlist
 

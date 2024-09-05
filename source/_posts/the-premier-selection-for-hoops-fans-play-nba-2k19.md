@@ -1,7 +1,7 @@
 ---
 title: The Premier Selection for Hoops Fans – Play NBA 2K19
-date: 2024-08-15T04:08:05.474Z
-updated: 2024-08-16T04:08:05.474Z
+date: 2024-09-04T06:32:04.541Z
+updated: 2024-09-05T06:32:04.541Z
 categories:
   - BestProducts
 description: This Article Describes The Premier Selection for Hoops Fans – Play NBA 2K19
@@ -67,28 +67,34 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
  It’s the 20th anniversary of 2K sports’ long-running basketball franchise with NBA 2K19\. The 2K series has earned its place among top tier sports games thanks to tight controls and advanced ball-handling techniques, as well as robust modes for a story-based career, a card-based[fantasy team](https://www.lifewire.com/how-to-put-together-a-winning-team-in-final-fantasy-xii-4066654) , and leading an entire franchise to legendary stardom. NBA 2K has weathered past complaints of focusing too much on the ever-prevalent virtual currency microtransactions, which continue to mar an otherwise solid basketball game.
 
 ![NBA 2K19](https://www.lifewire.com/thmb/YMXeWIxicIbj-86epw-TmdCR6Tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_04-8c4928a895a842cfa8abf52e0e1beb01.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  Lifewire / Eric Watson
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup Process: Just install**
 
  Getting things ready is just a matter of putting in the disc and waiting for updates to install or doing a digital download. Nothing more to it.
 
 ![NBA 2K19](https://www.lifewire.com/thmb/M0pJx3LQWfKzQz2c6Cn61WEoZGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_07-bbd2e90a40b241c097157fea5b64a6f7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Eric Watson
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Gameplay: Easy to Learn, Difficult to master**
 
@@ -102,11 +108,14 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![NBA 2K19](https://www.lifewire.com/thmb/Sy1Ow0C2SYcU7a6suicNTH7_juQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_03-328b17a765df4296b364ba758a1cb996.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Eric Watson
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Game Modes: Leagues, teams, and players**
 
  NBA 2k19 features the usual quick play modes where you can take your favorite team on a full season-long journey, or simply grab a few players for some casual blacktop basketball. Numbers range from one-on-one to five-on-five and everything in between.
@@ -121,9 +130,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
  Lifewire / Eric Watson
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## **The Way Back: Go mad Ants!**
 
  We were impressed with NBA 2K19’s career mode, which follows the story of a talented but undrafted young player named A.I., in a story called The Way Back. A.I. is fully customizable as we select his primary skill sets, attributes, and physical stature.
@@ -137,9 +143,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
  By completing games we can earn virtual currency, in order to boost our stats. It’s a major shame that VC is at all tied to a single player story campaign, as boosting A.I.’s stats by purchasing VC is a quick way to get ahead. We would have vastly preferred a normal XP system that was separated from the more competitive modes.
 
 ![NBA 2K19](https://www.lifewire.com/thmb/i0CH0_5PrBA7hMefnDah7sN9tL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_06-5d9dbed07cd6485ab0ffa086aa6159c8.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Eric Watson
 
@@ -151,8 +154,26 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![NBA 2K19](https://www.lifewire.com/thmb/GQqDajx1FiwtAGoQNa9kvOdWSm8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_02-ec4a0e03284c40609e12cab38f96f030.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Eric Watson
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Audio: Excellent commentary and soundtrack**
 
  Kevin Harlan and Greg Anthony continue to be fantastic commentators for NBA 2K19\. In NBA 2K19 they’re also joined by Bill Simmons, Kobe Bryant, and Kevin Garnett. NBA 2K19 features some of the best commentaries for any sports game, with insightful breakdowns, fun player anecdotes, and up tempo play-by-plays. The on-action commentary lags a bit behind when playing online, however, as Harlan shouts excitedly about a dunk after the other team is already at half court.
@@ -162,7 +183,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 [The soundtrack](https://www.liveabout.com/gaming-4842275) is also solid, featuring over 50 hip-hop and rock-pop tracks mixed and curated by rapper Travis Scott (who also provides five of the tracks). Other artists include Alison Wonderland, Migos, Bruno Mars, Brockhampton, and Angel the God.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Pricey anniversary edition**
 
