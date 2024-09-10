@@ -1,7 +1,7 @@
 ---
 title: The Premier Selection for Hoops Fans – Play NBA 2K19
-date: 2024-09-04T06:32:04.541Z
-updated: 2024-09-05T06:32:04.541Z
+date: 2024-09-09T01:34:33.117Z
+updated: 2024-09-10T01:34:33.117Z
 categories:
   - BestProducts
 description: This Article Describes The Premier Selection for Hoops Fans – Play NBA 2K19
@@ -9,6 +9,12 @@ excerpt: This Article Describes The Premier Selection for Hoops Fans – Play NB
 thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f07504ad9ddbf600b0c76aae.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Premier Selection for Hoops Fans – Play NBA 2K19
 
 4.2
@@ -17,6 +23,12 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![NBA 2K19](https://www.lifewire.com/thmb/_uesF1Rk1gzjvzZAGzjTXOSkWPM=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353-HeroSquare-3b0318500db84677b58649cacfa1d321.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Eric Watson
 
  What We Like
@@ -43,6 +55,12 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![NBA 2K19](https://www.lifewire.com/thmb/F87icpH4iTJJpiVp_cNJbOlHFPQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353-HeroSquare-3b0318500db84677b58649cacfa1d321.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Eric Watson
 
 [View On Amazon $20](https://www.amazon.com/NBA-2K19-PlayStation-4/dp/B07DQMMPML?th=1&tag=lifewire-onsite-prod-20&ascsubtag=4770699%7Cn3230f2562d9d4a7e9a8ed63b2a327ba914%7CB07DQMMPML) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/products/nba-2k19---playstation-4/10164167.html)
@@ -68,13 +86,19 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![NBA 2K19](https://www.lifewire.com/thmb/YMXeWIxicIbj-86epw-TmdCR6Tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_04-8c4928a895a842cfa8abf52e0e1beb01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Eric Watson
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Setup Process: Just install**
 
@@ -82,20 +106,8 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![NBA 2K19](https://www.lifewire.com/thmb/M0pJx3LQWfKzQz2c6Cn61WEoZGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_07-bbd2e90a40b241c097157fea5b64a6f7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Eric Watson
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Gameplay: Easy to Learn, Difficult to master**
 
  Basketball is a relatively simple sport to grasp, and the same can be applied to the video game adaptation. Shooting can either be done by holding a button or holding the right stick while a shot meter begins to fill up. The goal is to let go the second the meter is full, which is surprisingly challenging. The speed of the bar can change depending on where on the court you’re shooting from, and how good your shooting stats are.
@@ -108,14 +120,14 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![NBA 2K19](https://www.lifewire.com/thmb/Sy1Ow0C2SYcU7a6suicNTH7_juQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_03-328b17a765df4296b364ba758a1cb996.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Eric Watson
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Game Modes: Leagues, teams, and players**
 
  NBA 2k19 features the usual quick play modes where you can take your favorite team on a full season-long journey, or simply grab a few players for some casual blacktop basketball. Numbers range from one-on-one to five-on-five and everything in between.
@@ -128,6 +140,12 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![NBA 2K19](https://www.lifewire.com/thmb/fQL8t4zVGC3TbDs-So90d2zQRUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_05-f274e7c4b78f4b329eb75f1baf368922.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Eric Watson
 
 ## **The Way Back: Go mad Ants!**
@@ -146,6 +164,12 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
  Lifewire / Eric Watson
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Graphics: Impressive player models**
 
  With a small number of on-screen players and little in the way of padding or helmets, an NBA sports game demands some of the best and most realistic player models and physics. Fortunately, NBA 2K19 delivers. Animations are fluid, with exciting dunks and realistic player collisions. Players are modeled well, even in close-ups. The only cringey moments occur when players are interviewed.
@@ -154,26 +178,8 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![NBA 2K19](https://www.lifewire.com/thmb/GQqDajx1FiwtAGoQNa9kvOdWSm8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_02-ec4a0e03284c40609e12cab38f96f030.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Eric Watson
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Audio: Excellent commentary and soundtrack**
 
  Kevin Harlan and Greg Anthony continue to be fantastic commentators for NBA 2K19\. In NBA 2K19 they’re also joined by Bill Simmons, Kobe Bryant, and Kevin Garnett. NBA 2K19 features some of the best commentaries for any sports game, with insightful breakdowns, fun player anecdotes, and up tempo play-by-plays. The on-action commentary lags a bit behind when playing online, however, as Harlan shouts excitedly about a dunk after the other team is already at half court.
@@ -183,10 +189,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 [The soundtrack](https://www.liveabout.com/gaming-4842275) is also solid, featuring over 50 hip-hop and rock-pop tracks mixed and curated by rapper Travis Scott (who also provides five of the tracks). Other artists include Alison Wonderland, Migos, Bruno Mars, Brockhampton, and Angel the God.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Price: Pricey anniversary edition**
 
@@ -194,6 +200,18 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
  NBA 2K19 20th Anniversary Edition is a much steeper asking price of $99, including a substantial head start with 100,000 Virtual Currency, 50,000 MyTeam points, 30 MyTeam card packs and more. If you have money to burn and want to catch up with friends and other players online, the 20th anniversary edition can provide a big boost, and like the standard edition, is also heavily discounted throughout the year.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Competition: Close match between NBA Live and 2K**
 
  Basketball is one of the few major sports games to have two major competitors between NBA 2K19 and[EA’s NBA Live](https://www.easports.com/nba-live) . Ultimately both games have more similarities than differences. Live looks a bit more realistic in its color palette and superior-looking courts but 2K19 features more defined player models. NBA Live’s controls and gameplay are a bit more new player friendly and arcade-like, while 2K19 is more technical and advanced, and ultimately a better basketball simulator. One point we’ll definitely give to NBA Live: no microtransactions in its single player story mode.
