@@ -1,7 +1,7 @@
 ---
 title: Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
-date: 2024-09-07T21:51:01.086Z
-updated: 2024-09-14T23:57:42.739Z
+date: 2024-09-18T17:39:57.463Z
+updated: 2024-09-19T22:34:40.606Z
 categories:
   - repair-tools
 description: This Article Describes Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
@@ -161,28 +161,28 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-free-video-tools-working-across-systems-seamlessly/"><u>[New] 2024 Approved Free VIDEO Tools Working Across Systems Seamlessly</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-pocket-safari-androids-selection-of-best-simulators-for-2024/"><u>[New] Pocket Safari Android's Selection of Best Simulators for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-11-pro-max-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 11 Pro Max to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-missing-configuration-backup-by-nvidia-cp/"><u>Addressing Missing Configuration Backup by Nvidia CP</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/evaluating-the-lattepanda-mu-faster-than-raspberry-pi-4-but-carries-higher-expense/"><u>Evaluating the LattePanda Mu: Faster than Raspberry Pi 4 but Carries Higher Expense</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/freedom-of-access-effective-techniques-for-drm-free-conversion-of-pdf-and-ebook-formats/"><u>Freedom of Access: Effective Techniques for DRM-Free Conversion of PDF and eBook Formats</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-12-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 12 to Samsung | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-conduct-an-audiovisual-symphony-for-ppt/"><u>In 2024, Conduct an Audiovisual Symphony for PPT</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-12-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 12 Pro to PC | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-6s-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 6s Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-defy-2-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola Defy 2 Is Unlocked</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 11 Pro to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-se-2020-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone SE (2020) to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-5-essential-filming-accessories-for-online-creators-for-2024/"><u>Top 5 Essential Filming Accessories for Online Creators for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-14-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 14 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-oppo-f25-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo F25 Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-farm-fantasy-a-decade-of-dirt-digging-delights/"><u>[New] Farm Fantasy A Decade of Dirt Digging Delights</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-mastery-of-digital-recording-step-by-step-insight/"><u>[New] Mastery of Digital Recording - Step-by-Step Insight</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-finest-line-mice-your-complete-guide-to-choosing-the-best-one/"><u>2024'S Finest Line Mice: Your Complete Guide to Choosing the Best One</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-14-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 14 Plus to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-guide-the-best-mouse-drivers-for-optimal-windows-7-performance/"><u>Download & Install Guide: The Best Mouse Drivers for Optimal Windows 7 Performance</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-14-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 14 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-realme-11-proplus-phone-by-drfone-android/"><u>How to Reset a Locked Realme 11 Pro+ Phone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 6 Plus to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-se-2022-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone SE (2022) to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-14-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 14 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-8-plus-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 8 Plus to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-new-horizons-in-video-codecs-comparing-av1-and-vp9/"><u>In 2024, New Horizons in Video Codecs Comparing Av1 and VP9</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-15-pro-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 15 Pro Max to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-break-free-from-windows-10-photos-discover-the-best-image-editing-software/"><u>New In 2024, Break Free From Windows 10 Photos Discover the Best Image Editing Software</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/speech-to-mp3-conversion-tool-windows-mac-android-and-ios-compatibility/"><u>Speech-to-MP3 Conversion Tool Windows, Mac, Android & iOS Compatibility</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

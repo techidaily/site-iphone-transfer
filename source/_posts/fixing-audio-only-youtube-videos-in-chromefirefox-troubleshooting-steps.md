@@ -1,7 +1,7 @@
 ---
 title: Fixing Audio-Only YouTube Videos in Chrome/Firefox - Troubleshooting Steps
-date: 2024-09-08T21:03:21.173Z
-updated: 2024-09-14T22:10:39.679Z
+date: 2024-09-16T19:27:33.830Z
+updated: 2024-09-20T06:17:36.465Z
 tags:
   - win11
   - win10
@@ -58,6 +58,19 @@ Check if the problem is resolved. If not, try Solution 2, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Reset Chrome settings to default
 
  Resetting Chrome to its default settings is another useful solution to Chrome high CPU usage. This rules out all man-made causes. You can follow these steps to reset Chrome settings to default:
@@ -71,10 +84,10 @@ Check if the problem is resolved. If not, try Solution 2, below.
 4. Relaunch Chrome and test. If the problem still exists, try Solution 4, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -91,29 +104,16 @@ Check if the problem is resolved. If not, try Solution 2, below.
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bec022d24e36.jpg)
 4. Restart your computer and check if Chrome high CPU usage is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Solution 5, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Uninstall Chrome, delete its installation folder and reinstall Chrome
 
@@ -147,17 +147,21 @@ Check if the problem is resolved. If not, try Solution 2, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-data-driven-decision-making-in-your-youtube-shorts-strategy-for-2024/"><u>[New] Data-Driven Decision Making in Your YouTube Shorts Strategy for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-social-media-insta-to-tiksync/"><u>[New] Mastering Social Media Insta-To-TikSync</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-accelerate-conversion-srt-to-text-txt-in-minutes-only/"><u>[Updated] Accelerate Conversion SRT to Text (TXT) in Minutes Only</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-updates-for-your-brother-mfc-l2690dw-printer-driver/"><u>Get the Latest Updates for Your Brother MFC-L2690DW Printer Driver</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-audio-trouble-heres-how-to-restore-your-mic/"><u>HyperX Cloud Stinger Audio Trouble? Here's How to Restore Your Mic</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-13-mini-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 13 mini to PC | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reactivate-your-iphones-control-center-8-fixes-for-common-issues-and-problems/"><u>Reactivate Your iPhone's Control Center: 8 Fixes for Common Issues and Problems</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-14-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 14 Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/resolving-the-android-system-3e-problem-a-step-by-step-guide-for-file-recovery/"><u>Resolving the Android System 3E Problem: A Step-by-Step Guide for File Recovery</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-xs-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone XS and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-network-server-cabinets-and-rack-systems-2024-edition/"><u>Top-Rated Network Server Cabinets & Rack Systems - 2024 Edition</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-the-mystery-getting-your-wireless-keyboard-functional-again-on-windows/"><u>Unlocking the Mystery: Getting Your Wireless Keyboard Functional Again on Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-revealing-instagram-lurkers-the-exit-list/"><u>[New] Revealing Instagram Lurkers The Exit List</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-the-spectrum-expert-color-calibration/"><u>2024 Approved Understanding the Spectrum Expert Color Calibration</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unraveling-the-secrets-of-iphone-hdr/"><u>2024 Approved Unraveling the Secrets of iPhone HDR</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-15-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 15 to Android | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipating-the-arrival-of-oneplus-10-a-closer-look-at-estimated-price-launch-date-and-speculative-features/"><u>Anticipating the Arrival of OnePlus 10 – A Closer Look at Estimated Price, Launch Date, and Speculative Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capturing-content-live-review-of-premium-obs-options/"><u>Capturing Content Live Review of Premium OBS Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-code-31-bugs-a-complete-guide-for-windows-users/"><u>Fixing Code 31 Bugs: A Complete Guide for Windows Users</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-15-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 15 to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-15-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 15 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-13-mini-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 13 mini to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-11-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 11 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 6 to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-14-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 14 to Android | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-updates-for-hp-officejet-pro-cuintilla-8720-windows-printing-software-and-driver-downloads/"><u>Latest Updates for HP OfficeJet Pro Cuintilla 8720 Windows Printing Software and Driver Downloads</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-honor-90-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Honor 90</u></a></li>
 </ul></div>
 

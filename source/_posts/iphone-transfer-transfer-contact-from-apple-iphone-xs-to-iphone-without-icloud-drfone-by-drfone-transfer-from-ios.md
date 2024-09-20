@@ -1,7 +1,7 @@
 ---
 title: iPhone Transfer Transfer Contact from Apple iPhone XS to iPhone without iCloud | Dr.fone
-date: 2024-09-12T17:55:31.126Z
-updated: 2024-09-14T18:08:00.076Z
+date: 2024-09-17T16:35:48.354Z
+updated: 2024-09-20T02:20:24.745Z
 tags: 
   - iphone transfer
 categories:
@@ -56,13 +56,6 @@ If you want a more traditional approach to copying contacts from Apple iPhone XS
 
 ![access ios device in itunes](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Move to the "Backups" section on iTunes/Finder and click "Back Up Now." Before this, confirm the selection of "This Computer" in iTunes and for Finder" or "Back up all data from your iPhone to this Mac."
 
 ![back up latest data on computer](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-7.jpg)
@@ -78,6 +71,13 @@ Another simple way to move contacts between iPhones is through email. This appro
 - **Step 1:** Open the Contacts app and move to the targeted contact you want to share. Select the contact and tap "Share Contact." From the available sharing options, select "Email" and enter your email address in the recipient field.
 
 ![access ios device in itunes](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Tap "Send" to email the selected contacts and open the email app on your target iPhone. Find the email you sent with the contacts attached and open it. Now, retrieve the attached vCard from the email. The contact will appear in your Contacts app but won't be added directly. To save the contact, tap "Create New Contact," write any contact details, and select "Done" to finish saving the contact.
 
@@ -101,6 +101,13 @@ With it, you can even transfer data directly to an iOS device or computer. Here 
 
 ![choose the contacts option](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Transfer the Selected Contacts. Once in the “Contacts” tab, choose the ones you want to transfer to the other device. After you have made the choice, click "To Device" from the top toolbar and select the targeted iOS device. Your chosen contacts will be immediately transferred to the other device.
 
 ![transfer contacts to targeted device](https://images.wondershare.com/drfone/guide/manage-ios-call-history-1.png)
@@ -118,13 +125,6 @@ The process is user-friendly, requiring simple clicks to initiate. It can transf
 - **Step 2:** Make a Data Selection and Tap Start Transfer. After the Apple iPhone XS devices are configured, select the data you want to transfer alongside Contacts. When you have selected the desired data, click "Start Transfer" to proceed. A prompt will soon be displayed on the screen, requesting the deactivation of the Find My feature on iOS devices. Access the iOS device's Settings and tap on the name located at the top.
 
 ![select the data to start transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** Turn Off Find My and Complete the Transfer Process. Then, navigate to "iCloud" and access "Find My" to proceed to deactivate it. After deactivating the feature, the data transfer begins. The progress bar indicates the process's completion. Once finished, the foremost window exhibits the finalized phone transfer. Press "OK" to conclude the process fully.
 
@@ -169,19 +169,6 @@ Let us see the steps on how to transfer photos from Android to iPhone using Dr.F
 Step 1. Download and install Dr.Fone - Phone Transfer and launch it. Then select the Switch option from the main interface.
 
 ![transfer photos from android to iphone-lauch Dr.Fone - switch](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2. Now, connect your Android and iPhone to the computer.
 
@@ -228,19 +215,6 @@ Now to proceed, first of all, you need to do some settings on your iPhone device
 On your iPhone, go to a screen called ‘Apps & Data’ > choose ‘Move Data from Android’ option.
 
 ![how to transfer photos from android to iphone-app and data](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-6.jpg) ![how to transfer photos from android to iphone-move data from android](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The next step is to take your Apple iPhone XS to complete the transfer process with the “Move to iOS” app.
 
@@ -304,6 +278,13 @@ The best part of Shareit is the freedom allowed to users because you can transfe
 
 Thus, after going through the article, we are sure that you got a wide range of options to choose from to transfer your Apple iPhone XS photos to the iPhone. Well, every method is good in itself; however, we would like to say that one of the best options for you would be the Dr.Fone tool without a doubt.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Transfer from Apple iPhone XS to iPhone 8/X/11
 
 If you're one of those who is fond of new phones, then making the [transfer to a new iPhone from your old phone](https://drfone.wondershare.com/transfer-to-new-iphone.html) can be a real struggle. The biggest problem comes when you need to **transfer data from Apple iPhone XS to iPhone 8 (Plus)/X/11** and data include your photos, documents, contacts, etc.
@@ -311,6 +292,13 @@ If you're one of those who is fond of new phones, then making the [transfer to a
 Cell phone data is highly important and no matter what, no one wants to be in a state where they have to lose their precious data. Having all the personal and professional contacts, documents, messages, music as well as all the memories which you have captured in the form of pictures.. no one can give it just like that.
 
 Imagine getting a surprise on your birthday and here you have your brand new iPhone 8 (Plus)/X/11. The only thing that irritates you is the complex process to transfer your data from old iPhone to a newer one. Well, if you have ever faced such problem where transferring your data from one phone to another phone have been a nightmare for you, then this article is for you..
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Transfer Everything from Apple iPhone XS to iPhone 8 (Plus)/X/11
 
@@ -352,19 +340,6 @@ iTunes have been used traditionally to transfer the data. Let’s learn how iTun
 
 ![Transfer Everything from Apple iPhone XS to iPhone X/iPhone 8 (Plus) with iTunes](https://images.wondershare.com/drfone/article/2017/09/transfer-from-iphone-to-iphone-x-1.jpg "Transfer Everything from Apple iPhone XS to iPhone X/iPhone 8 (Plus) with iTunes")
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Open your new device. Press home button once you see "Hello" Screen.
 2. Connect your phone to the laptop, where you have already backup your data with the iTunes.
 3. Open the iTunes application and then select your latest device to restore the backup.
@@ -372,6 +347,13 @@ iTunes have been used traditionally to transfer the data. Let’s learn how iTun
 ![Transfer Everything from Apple iPhone XS to iPhone X/iPhone 8 (Plus) with iTunes](https://images.wondershare.com/drfone/article/2017/09/transfer-from-iphone-to-iphone-x-2.jpg "Transfer Everything from Apple iPhone XS to iPhone X/iPhone 8 (Plus) with iTunes")
 
 1. Wait until the process is completed.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Transfer Everything from Apple iPhone XS to iPhone 8 (Plus)/X/11 with iCloud
 
@@ -408,21 +390,20 @@ We know the emotions and sentiments attached with one’s personal information a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-streaming-wars-recap-fb-live-yt-live-and-twitter-spaces/"><u>[New] In 2024, Streaming Wars Recap FB LIVE, YT Live & Twitter Spaces</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-understanding-the-shift-navigating-posting-in-an-algorithm-world/"><u>[New] In 2024, Understanding the Shift Navigating Posting in an Algorithm World</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-serpent-soundtrack-comprehensive-guide-to-tts-resources-online/"><u>[New] Serpent Soundtrack Comprehensive Guide to TTS Resources Online</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-untangling-the-video-jams-in-digital-portfolits-for-2024/"><u>[Updated] Untangling the Video Jams in Digital Portfolits for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-11-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 11 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-15-pro-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 15 Pro Max to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-x-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone X to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-11-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 11 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-a58-4g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo A58 4G Phone When You Forget the Password</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-13-mini-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 13 mini to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-se-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone SE to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-11-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 11 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-14-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 14 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/priorities-for-a-smooth-ai-conversation-experience/"><u>Priorities for a Smooth AI Conversation Experience</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-key-to-youtube-stardom-reaching-submillion-status-for-2024/"><u>The Key to YouTube Stardom Reaching Submillion Status for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-shining-up-your-videos-on-android/"><u>[New] In 2024, Shining Up Your Videos on Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-digital-purity-unveil-our-6-best-signature-background-removers/"><u>[Updated] In 2024, Digital Purity Unveil Our 6 Best Signature Background Removers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-quality-edits-the-ultimate-guide-to-pixlr/"><u>2024 Approved Quick, Quality Edits The Ultimate Guide to Pixlr</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-15-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 15 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-troubleshooting-keeping-the-conversation-history-intact/"><u>ChatGPT Troubleshooting: Keeping the Conversation History Intact</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-11-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 11 Pro Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/edge-and-elegance-in-figure-skating/"><u>Edge and Elegance in Figure Skating</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-12-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 12 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-13-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 13 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-14-pro-max-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 14 Pro Max to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-12-pro-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 12 Pro to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-15-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 15 Plus Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-buzz-around-meta-quest-3-lite-latest-rumors-on-release-date-cost-estimates-and-device-specifications-revealed/"><u>The Buzz Around Meta Quest 3 Lite - Latest Rumors on Release Date, Cost Estimates & Device Specifications Revealed</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-realme-narzo-60x-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Realme Narzo 60x 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 
