@@ -1,7 +1,7 @@
 ---
 title: iPhone Transfer Transfer Contact from Apple iPhone 12 Pro to iPhone without iCloud | Dr.fone
-date: 2024-09-17T06:36:10.937Z
-updated: 2024-09-19T23:07:20.029Z
+date: 2024-09-28T20:08:28.927Z
+updated: 2024-09-30T20:35:32.388Z
 tags: 
   - iphone transfer
 categories:
@@ -24,6 +24,13 @@ In this comprehensive guide, you'll discover how to transfer contacts from Apple
 
 We will start by exploring the 4 basic methods to transfer contacts from Apple iPhone 12 Pro to iPhone without iCloud. Each method offers its advantages and is tailored to suit different preferences. By understanding these methods, you can choose the most suitable one for your needs:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1. AirDrop
 
 AirDrop is a convenient built-in feature on iPhones. It allows quick and wireless transfer of various data types, including contacts. Moreover, it ensures a hassle-free and direct exchange without extra apps or services. Follow these steps to copy contacts from Apple iPhone 12 Pro to iPhone without iCloud using AirDrop:
@@ -35,6 +42,13 @@ AirDrop is a convenient built-in feature on iPhones. It allows quick and wireles
 - **Step 2:** Following this, press "Share Contact" and select "AirDrop" as the sharing method. From the available devices on AirDrop, choose the targeted device. Finally, "Accept" the incoming AirDrop on your target iPhone to complete the process.
 
 ![share contact using airdrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2. NameDrop
 
@@ -84,13 +98,6 @@ Using email or other online methods may raise security concerns. This is due to 
 
 Local backups created through iTunes or Finder might require ample storage space. Moreover, the iTunes/Finder backups are used to restore the entire device's data. You cannot use them to transfer contacts with your friends or colleagues.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: 2 Advanced Solutions To Transfer Contacts From Apple iPhone 12 Pro to iPhone Without iCloud
 
 Want to know how to copy contacts from Apple iPhone 12 Pro to iPhone without iCloud in one click? There is good news for you as a tool exists that can make the whole transfer process a breeze. When it comes to data transfer among smartphones, the number one phone transfer tool is [<u>Wondershare Dr.Fone. </u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) .
@@ -100,6 +107,13 @@ With it, you can even transfer data directly to an iOS device or computer. Here 
 - **Step 1:** Access Contacts from The Left Panel. The first action is to download and install the latest Wondershare Dr.Fone version on your computer. Now, launch it and connect both of your iOS devices to the system. Choose the source iPhone from the left side panel and click "Contacts" from the expanded options.
 
 ![choose the contacts option](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Transfer the Selected Contacts. Once in the “Contacts” tab, choose the ones you want to transfer to the other device. After you have made the choice, click "To Device" from the top toolbar and select the targeted iOS device. Your chosen contacts will be immediately transferred to the other device.
 
@@ -127,6 +141,13 @@ The process is user-friendly, requiring simple clicks to initiate. It can transf
 
 In conclusion, the process to transfer contact from Apple iPhone 12 Pro to iPhone without iCloud presents various challenges. However, advanced solutions like Wondershare Dr.Fone present efficient, secure, and comprehensive options. Moreover, Dr.Fone streamlines the process, overcoming the limitations of basic methods. Its intuitive interface and dedicated transfer features make it a recommended choice. With its reliability and effectiveness, Dr.Fone stands out as a trusted solution for hassle-free data transfer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Quick Ways to Transfer Contacts from Apple iPhone 12 Pro to iPhone With/Without iTunes
 
 _“How to transfer contacts from Apple iPhone 12 Pro to iPhone without using iTunes? I have got a new iPhone, but can’t seem to transfer contacts from Apple iPhone 12 Pro to iPhone without iTunes.”_
@@ -147,13 +168,6 @@ This is the easiest approach to learn how to transfer contacts from Apple iPhone
 - **4.** In the end, click on the “Backup Now” button and wait for iTunes to backup your device entirely.
 
 ![backup iphone with itunes](https://images.wondershare.com/drfone/article/2018/01/15150777847838.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **5.** Once you have taken a backup locally, you can connect the target device and go to its Summary.
 - **6.** From here, click on the “Restore Backup” and select the target backup and device.
@@ -213,6 +227,19 @@ Besides transferring your contacts, you can also move other data files like phot
 
 ![start transfering contacts without itunes](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **6.** Once the process is complete, you will be notified. In the end, you can safely remove both the Apple iPhone 12 Pro devices and use them the way you like.
 
 ![transfer contacts from iphone to iphone complete](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-03.jpg)
@@ -220,6 +247,13 @@ Besides transferring your contacts, you can also move other data files like phot
 **Here is the video tutorial for you:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VpH1bgezTKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Transfer iPhone contacts to iPhone Including iPhone 12/ 12 Pro (Max)/ 12 Mini without iTunes using Gmail
 
@@ -236,16 +270,16 @@ As you can see, Dr.Fone Phone Transfer provides a one-click solution to transfer
 
 ![export contacts from gmail](https://images.wondershare.com/drfone/article/2018/01/15150779319650.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **6.** Choose to export your contacts to a vCard format. Once a vCard is created, you can manually move it to the target iPhone to import contacts from it.
 
 ![import vcard contacts to iphone](https://images.wondershare.com/drfone/article/2018/01/15150779615006.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Transfer Contacts from Apple iPhone 12 Pro to iPhone Including iPhone 12/ 12 Pro (Max)/ 12 Mini without iTunes using Bluetooth
 
@@ -295,13 +329,6 @@ The wireless method will free you up from the need for a cable. However, you mus
 - **Step 1:** First, you need to sync your iOS device to iCloud. You can do this by accessing "Settings" and tapping your Apple ID. After that, select the "iCloud" option and toggle on the data you want to sync.
 
 ![sync data with icloud](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-samsung-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2:** Now, move to your Samsung device and open the “Smart Switch” application. Then, tap the “Continue” option followed by the “Allow” button to accept the terms of service.
 
@@ -403,10 +430,10 @@ Finally, monitor the progress bar displayed in the subsequent window to track th
 ![tap ok on successful transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Transfer iCloud Data to Samsung
@@ -473,5 +500,17 @@ In a nutshell, the Samsung Smart Switch application provides an efficient and co
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-cant-see-cursor-only-sony-a6400-glitch/"><u>[New] 2024 Approved Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unlock-potential-the-best-hr-vlogs-1-10/"><u>[Updated] 2024 Approved Unlock Potential The Best HR Vlogs #1-10</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-12-mini-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 12 mini to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/effortless-meal-times-with-arf-pets-auto-feeders/"><u>Effortless Meal Times with Arf Pet's Auto Feeders</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-forsaken-world-of-dying-light-a-captivating-first-person-co-op-survival-journey/"><u>Exploring the Forsaken World of Dying Light: A Captivating First-Person, Co-Op Survival Journey</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6s-plus-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 6s Plus to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Without Passcode?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-12-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 12 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-13-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 13 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-your-vision-the-premier-6-for-artists-nfts/"><u>Unleash Your Vision The Premier 6 for Artists' NFTs</u></a></li>
+</ul></div>
 

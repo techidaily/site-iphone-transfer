@@ -1,7 +1,7 @@
 ---
 title: Switch Cards Between Apple iPhone 11 and other iPhones Will Move All Phone Services? | Dr.fone
-date: 2024-09-21T17:14:17.191Z
-updated: 2024-09-25T16:28:07.044Z
+date: 2024-09-28T19:39:04.624Z
+updated: 2024-10-01T11:54:08.725Z
 tags: 
   - iphone transfer
 categories:
@@ -28,6 +28,13 @@ Whenever you consider switching your SIM card to iPhone, you must keep a few thi
 - **Unlocked iPhone:** If you have an unlocked iPhone, you can utilize third-party SIM cards for this purpose. An unlocked iPhone is a best-case scenario for using such SIMs.
 - **Backup iPhone Data:** Although there is no direct involvement of iPhone data in the process, it is best to back up the data. It includes all essential contacts and media that might get physically damaged while changing SIM cards.
 - **Turn Off iPhone While Switching SIM Cards:** It is best to turn off your iOS device during such processes. To avoid any software anomaly, turning off the Apple iPhone 11 device can save you the drill.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: What Happens If You Switch Two SIM Cards in iPhone
 
@@ -70,14 +77,14 @@ Best SIM Unlock for iPhone.
 - No tech knowledge required, everybody can handle it.
 - Supports iPhone 5S to iPhone X, which are running between iOS 12.0 and iOS 14.8.1 ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3,046,049** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps To Remove iPhone SIM Lock via Dr.Fone - Screen Unlock (iOS)
 
@@ -101,13 +108,6 @@ Go to the Wi-Fi network you are connected to and choose "Forget This Network." T
 
 ![click on continue button](https://images.wondershare.com/drfone/guide/remove-iphone-sim-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How To Switch All Data to New iPhone in One Click
 
 Whenever you consider changing your SIM card on your new iPhone, there are certain things you must look out for. Maintaining all the data is one appropriate consideration that can be effective for your operations. Keeping data backups under such circumstances is the best-case scenario to avoid discrepancies. Although you are **switching SIM cards between Apple iPhone 11 and other iPhones,** what if you are required to shift data?
@@ -117,6 +117,13 @@ If you have bought a new iPhone and need to switch all data along with the SIM c
 - You can transfer various data between devices, ranging between 8 to 15. It entirely depends on the nature of the transfer between devices.
 - The process of transferring data is straightforward. You are not required to put in any effort to transfer data.
 - The results provided in the data transfer are incredibly high. Dr.Fone reports concluding proceedings within 3 minutes.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps To Switch Data to New iPhone With Dr.Fone - Phone Transfer
 
@@ -139,13 +146,6 @@ As you connect both devices in the transfer process, define the source and desti
 Select the file types that you wish to transfer from the center section. Select “Start Transfer” to initiate the process. The data will be successfully transferred in a few minutes.
 
 ![data transfer process initiated](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Frequently Asked Questions
 
@@ -184,19 +184,6 @@ A great tool for the purpose of easy transfer of music between iOS devices is [D
 
 **4,495,115** people have downloaded it
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to use transfer music from Apple iPhone 11 to iPod
 
 Step 1. Download and install Dr.Fone on your computer. Run it and select Phone Transfer. Connect your iPhone and iPod with your computer, and Dr.Fone will detect your iOS devices automatically.
@@ -228,10 +215,17 @@ iTunes match is another way to process of transfer music purchased or unpurchase
 ![transfer music from Apple iPhone 11 to iPod - using iTunes match](https://images.wondershare.com/drfone/article/transfer-music-from-iphone-to-ipod-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Transfer Music imported from a CD or other source from Apple iPhone 11 to iPod
@@ -239,13 +233,6 @@ iTunes match is another way to process of transfer music purchased or unpurchase
 For this process to complete, you need to import all songs from CD to iTunes at first. Here is the process for the complete transfer of Music from CD and other sources.
 
 ![transfer music from Apple iPhone 11 to iPod - using cd step 1](https://images.wondershare.com/drfone/article/transfer-music-from-iphone-to-ipod-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Open iTunes and insert the CD that you wish to import into the disc drive
 - The options might appear in an instant. If you want to import every song on the disc, select **yes** and click **No**, in case you want specific music to import.
@@ -258,6 +245,13 @@ For this process to complete, you need to import all songs from CD to iTunes at 
 - In case, the music library already contains tracks from the album, which you are importing, you will receive a prompt window to overwrite them. You can select either **Replace Existing** or **Don’t Replace** as your wish.
 
     ![transfer music from Apple iPhone 11 to iPod - using cd step 3](https://images.wondershare.com/drfone/article/transfer-music-from-iphone-to-ipod-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Then you have to wait till the music is ripped to the iTunes library.
 - As soon as the import is complete, attach your device to the computer.
@@ -282,6 +276,13 @@ However, fortunately, there are plenty of high-quality third-party programs that
 If you are confused over which method you should choose for transferring photos from Android to iPhone, then compare the quality and the quickness of the chosen method. Well, to be frank, the tool that qualifies all these criteria is the Dr.Fone toolkit, which is a comprehensive solution that is well designed to tackle all mobile-related issues and tasks.
 
 Dr.Fone is perfect because you can transfer across multiple devices regardless of OS. As an example, if you want to transfer photos from Android to iPad /iPhone and vice versa, it can be done easily by following two ways as mentioned below:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1.1 One-click to Transfer Photos from Android to iPhone using Dr.Fone - Phone Transfer
 
@@ -310,13 +311,6 @@ Step 2. Now, connect your Android and iPhone to the computer.
 Step 3. As soon as you connect the Apple iPhone 11 device, it will start recognizing it and mentioned it as the ‘Source’ phone or ‘Destination’ phone accordingly. In this case, make sure the Android phone is the Source, and the iPhone is the Destination. You can change their position using the Flip button.
 
 ![transfer photos from android to iphone-make sure the source and destination](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4. Finally, select the files you want to transfer (photos) and click on ‘Start Transfer’.
 
@@ -385,6 +379,13 @@ To go with the transfer of photos and videos from Android to iPhone with Google 
 
 ![how to transfer photos from android to iphone-use google drive](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Now, move to your iPhone.
 - Here, download and install the Google Drive app onto your iPhone.
 
@@ -410,13 +411,6 @@ The photo transfer app is an incredibly popular app and with a good reason. You 
 
 ![how to transfer photos from android to iphone-Photo Transfer](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Shareit
 
 Shareit is a special application developed to transfer files between two devices. You can use Shareit to transfer pictures from Android to iPhone in seconds. The software is free and completely secure, so you do not have to worry about how to transfer photos from one device to another. You can share individual photos or entire folders on Shareit. However, it should be noted that sharing folders can make slow down the process.
@@ -441,20 +435,24 @@ Thus, after going through the article, we are sure that you got a wide range of 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-defending-your-videos-against-youtube-copyright-strikes-for-2024/"><u>[Updated] Defending Your Videos Against YouTube Copyright Strikes for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-postmycam-seeking-top-notch-alternatives/"><u>[Updated] In 2024, PostMyCam Seeking Top-Notch Alternatives</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-swiftly-share-your-fb-films-in-whatsapp-messages/"><u>[Updated] Swiftly Share Your FB Films in WhatsApp Messages</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-7-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 7 Plus to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-14-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 14 Pro Max to PC | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-13-mini-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 13 mini Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 11 Pro Max to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-xs-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone XS to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-14-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 14 to PC | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-14-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 14 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/"><u>In 2024, Steps to Instagram Verification & Fan Growth in Under 150 Characters</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-videoleap-on-macbook-download-installation-and-getting-started-tips/"><u>New In 2024, Videoleap on MacBook Download, Installation, and Getting Started Tips</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-techniques-for-effortlessly-downloading-videos-from-firefox/"><u>Top Techniques for Effortlessly Downloading Videos From Firefox</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/vector-image-basics-unveiled-categories-types-and-tools-guide/"><u>Vector Image Basics Unveiled Categories, Types & Tools Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-efficiency-boost-discover-the-top-5-youtube-shorteners-for-2024/"><u>[New] Efficiency Boost Discover the Top 5 YouTube Shorteners for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-the-art-of-sports-highlight-filming/"><u>[New] In 2024, Mastering the Art of Sports Highlight Filming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-depth-study-of-video-tech-outside-manycam-for-2024/"><u>[New] In-Depth Study of Video Tech Outside ManyCam for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/accelerate-your-synaptics-psn-touchpad-driver-upgrade-with-these-quick-tips/"><u>Accelerate Your Synaptics PS/N Touchpad Driver Upgrade with These Quick Tips</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-guide-accessing-and-operating-whatsapp-via-mac/"><u>Essential Guide: Accessing and Operating WhatsApp via Mac</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808204180-how-to-start-windows-10-in-safe-mode-4-different-methods-with-screenshots/"><u>How to Start Windows 10 in Safe Mode - 4 Different Methods (with Screenshots)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-15-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 15 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 6 to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-8-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 8 to iPad | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-turn-on-your-ps5-in-6-different-ways/"><u>How to Turn On Your PS5 in 6 Different Ways</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-se-2020-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone SE (2020) to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-12-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 12 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-6-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 6 Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-image-potential-the-importance-of-luts/"><u>In 2024, Unlocking Image Potential The Importance of LUTs</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-11-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 11 to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/starfield-storage-universe-restoration-base/"><u>Starfield Storage - Universe Restoration Base</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-12-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 12 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unlocking-the-potential-of-youtubes-cc-for-content-creators/"><u>Unlocking the Potential of YouTube’s CC for Content Creators</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-15-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 15 to PC | Dr.fone</u></a></li>
 </ul></div>
 

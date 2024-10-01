@@ -1,7 +1,7 @@
 ---
 title: Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
-date: 2024-09-19T23:24:27.408Z
-updated: 2024-09-26T03:41:59.842Z
+date: 2024-09-24T08:37:25.852Z
+updated: 2024-09-30T18:45:26.129Z
 categories:
   - repair-tools
 description: This Article Describes Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
@@ -161,31 +161,37 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-can-you-make-outstanding-youtube-outro-for-2024/"><u>[New] How Can You Make Outstanding YouTube Outro for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-tips-for-crafting-impactful-video-thumbnails-on-youtube/"><u>[New] In 2024, Tips for Crafting Impactful Video Thumbnails on YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-aural-archive-download-preserve-and-examine-tracks/"><u>[Updated] 2024 Approved Aural Archive Download, Preserve & Examine Tracks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-free-mp4-conversion-tutorial-from-facebooks-high-definition-videos/"><u>[Updated] Free MP4 Conversion Tutorial From Facebook's High-Definition Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-cutting-edge-tools-free-youtube-intro-creators/"><u>2024 Approved Cutting-Edge Tools Free YouTube Intro Creators</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-14-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 14 Plus to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/broadcasting-brevity-news-outro-tips/"><u>Broadcasting Brevity News Outro Tips</u></a></li>
-<li><a href="https://extra-information.techidaily.com/disabling-or-enabling-pip-mode-youtube-on-iphone-guide/"><u>Disabling or Enabling PIP Mode YouTube on iPhone Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-boundaries-of-ai-how-natural-language-processing-is-unique-from-machine-learning/"><u>Exploring the Boundaries of AI: How Natural Language Processing Is Unique From Machine Learning</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/immediate-strategies-for-enhancing-your-thumbnail-designs-for-2024/"><u>Immediate Strategies for Enhancing Your Thumbnail Designs for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-xs-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone XS to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-12-pro-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 12 Pro to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-15-pro-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 15 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-8-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 8 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-12-mini-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 12 mini to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-14-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 14 Pro Max to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-14-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 14 Pro to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-15-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 15 Pro Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-humor-potential-with-kapwings-designer-for-2024/"><u>Unlock Humor Potential with Kapwing’s Designer for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-screen-capture-google-meet-quick-mobile-guide-for-2024/"><u>[New] How to Screen Capture Google Meet Quick Mobile Guide for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-12-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 12 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/winxvideoai4k8k/"><u>以WinXVideoAI提高图片分辨率并回复为4K、8K或更高</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/create-unique-audio-trailers-at-zero-expense-for-2024/"><u>Create Unique Audio Trailers at Zero Expense for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-top-tier-pc-components-through-toms-in-depth-hardware-analysis/"><u>Discover Top-Tier PC Components Through Tom's In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/dive-deep-into-data-stellar-recoverys-embrace/"><u>Dive Deep Into Data: Stellar Recovery's Embrace</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-13-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 13 Pro to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhancing-productivity-with-azure-voice-recognition-for-2024/"><u>Enhancing Productivity with Azure Voice Recognition for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/fascinating-film-categories-to-lure-viewers-for-2024/"><u>Fascinating Film Categories to Lure Viewers for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 6 Plus to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 11 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-6s-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 6s Plus to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-11-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus 11 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-12-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 12 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-13-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 13 to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-unnecessary-batch-jobs/"><u>Reducing Unnecessary Batch Jobs</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-13-pro-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 13 Pro Max Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-x-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone X and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone SE Everything You Need to Know | Dr.fone
-date: 2024-09-21T06:57:55.774Z
-updated: 2024-09-25T20:49:50.010Z
+date: 2024-09-25T06:56:31.595Z
+updated: 2024-10-01T10:24:12.115Z
 tags: 
   - iphone transfer
 categories:
@@ -42,19 +42,6 @@ One of the major benefits of purchasing a refurbished Apple iPhone SE is the cos
 
 ![An illustration of saving cost.](https://images.wondershare.com/drfone/article/2023/10/Refurbished-iPhone-2.png)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Quality Assurance**
 
 Refurbished iPhones are carefully inspected and tested to ensure that they meet Apple's high standards. They are also thoroughly repaired and cleaned. Often, a refurbished Apple iPhone SE will look and perform like a new iPhone.
@@ -75,6 +62,13 @@ Refurbished iPhones are usually available in a variety of models. They also come
 
 Well, we have explored the benefits, but is it safe to buy a refurbished iPhone? Let's find out!
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Part 3. Is It Safe to Buy a Refurbished iPhone?**
 
 Safety is a natural concern when buying a pre-owned iPhone. You might wonder if it is a gamble or a secure choice. The answer is that it can be very safe. However, there are a few things that you should consider before making a purchase. If you are buying it from a retailer or third-party source, make sure that they are doing refurbishing in-house. If they are outsourcing it, then it will be less secure.
@@ -82,6 +76,19 @@ Safety is a natural concern when buying a pre-owned iPhone. You might wonder if 
 On the contrary, if you are buying a refurbished Apple iPhone SE from a private seller, make sure that it's not a scam. You can take someone who has tech knowledge. Otherwise, make sure that he is offering you a warranty period.
 
 It is always suggested to buy second-hand things, especially tech related, from a legitimate source. If you are about to buy a used iPhone, make sure to follow the factors discussed in the next section.
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 4. Factors to Consider Before Buying a Refurbished iPhone.**
 
@@ -126,13 +133,6 @@ By considering these factors, you can make the right decision when buying a refu
 If you have planned to buy a refurbished iPhone, you must be wondering how to transfer your essential data to your new phone. This is where [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) comes into play. It is a reliable and powerful tool developed by Wondershare. With this tool, you can transfer your data in just a few clicks.
 
 ![Official logo of Dr.Fone.](https://www.tuneskit.com/images/resource/dr-fone-alternatives.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dr.Fone's features are not just limited to transferring your data. There are plenty of other features that can enhance the performance of your iPhone. The best part? It has a user-friendly interface that simplifies all the processes. You can navigate to different features and use them without any tech knowledge.
 
@@ -189,10 +189,10 @@ Once you turn off the feature, the data transfer process will begin. You will al
 ![Transferring the data.](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 6:**
@@ -249,23 +249,9 @@ The application also supports transferring all the leading data types such as vi
 
 ![move contacts from iphone to android-Start Transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4.** Sit back and wait for a couple of minutes as the application syncs contacts from Apple iPhone SE to Android. Make sure that both the Apple iPhone SE devices are kept connected to the system until the process is completed.
 
 ![move contacts from iphone to android-import contacts from Apple iPhone SE to Android](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5.** Once the transfer completes, you will be shown a message. In the end, you can remove the 2 devices safely from your system.
 
@@ -307,6 +293,13 @@ Another simple way to sync contacts from Apple iPhone SE to Android is by using 
 
 **8.** Once you have imported these contacts to your Google account, you can easily access them on the connected device as well.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Copy contacts from Apple iPhone SE to Android using iTunes
 
 If you are an avid user of iTunes, you can try this technique to export iPhone contacts to Android. Earlier, iTunes has a feature to sync contacts with Google, Outlook, and Windows account. Now, the Google feature has been removed from iTunes. Therefore, you first need to sync your contacts to your Windows account and can later export them into a card. Needless to say, the technique can also be a bit complicated. Though, you can implement these steps to copy contacts from Apple iPhone SE to Android using iTunes.
@@ -323,7 +316,21 @@ If you are an avid user of iTunes, you can try this technique to export iPhone c
 
 ![move contacts from iphone to android-select the location to save the VCF file](https://drfone.wondershare.com/2020/select-location-to-save-contacts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6.** In the end, you can manually copy the VCF file to your Apple iPhone SE or import it to your Google Contacts as well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: Switch contacts from Apple iPhone SE to Android without a computer
 
@@ -376,10 +383,10 @@ Step 1: Download the Dr.Fone software, open it, and you can see the following in
 ![transfer photos from iphone to iphone in one click](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2: Connect both iPhones to your PC and click "Phone Transfer".
@@ -408,6 +415,13 @@ First, you need to install Wondershare Dr.Fone on your computer and connect both
 
 ![choose your old iphone](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Perform the Selective Photos Transfer**
 
 Once Dr.Fone detects all the photos in your iPhone, it will categorize them in the albums like they are in your iDevice. Choose the pictures you want to transfer and tap the “To Device” option. Then, click on the iPhone on which you want to send all the selected images and complete the photo transfer process.
@@ -422,23 +436,9 @@ Using iCloud for transferring data is convenient, but it is not always practical
 
 ![tap back up now button](https://images.wondershare.com/drfone/article/2023/11/transfer-photos-from-iphone-to-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Once the backup process is complete, disconnect the old iDevice. Next, you need to connect your new iPhone and proceed to the "Backups" section in the "Summary" tab. Here, tap "Restore Backup" and go on to choose the most recent backup. To complete the photo transfer process, tap "Restore" and wait for the backup to be restored.
 
 ![restore the iphone backup](https://images.wondershare.com/drfone/article/2023/11/transfer-photos-from-iphone-to-iphone-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Transfer Photos from Apple iPhone SE to iPhone without iCloud via AirDrop \[iPhone 15 Included\]
 
@@ -483,21 +483,22 @@ If you do not want to use iCloud for data transfer, run Dr.Fone - Phone Transfer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-secrets-to-high-quality-sims-4-gameplay-recordings/"><u>[New] Secrets to High-Quality Sims 4 Gameplay Recordings</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones/"><u>[New] Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tutorial-on-utilizing-googles-automatic-speech-transcription/"><u>[Updated] Expert Tutorial on Utilizing Google's Automatic Speech Transcription</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-13-pro-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 13 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/8-best-film-cameras-for-beginners-from-35mm-to-point-and-shoot/"><u>8 Best Film Cameras for Beginners (From 35Mm to Point-and-Shoot)</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-tips-for-a-wireless-mouse-that-stops-working-intermittently-on-windows/"><u>Comprehensive Troubleshooting Tips for a Wireless Mouse That Stops Working Intermittently on Windows</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/digital-dive-capturing-the-days-lifelike-snapshots-on-fb-for-2024/"><u>Digital Dive Capturing the Day's Lifelike Snapshots on FB for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enjoy-these-10-cost-free-movie-platforms-instead-of-netflix/"><u>Enjoy These 10 Cost-Free Movie Platforms Instead of Netflix</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-more-than-just-storage-experts-review-patriot-viper-vp4300-lite-for-ultimate-ssd-capacity-at-cost-efficient-prices/"><u>Get More Than Just Storage: Experts Review Patriot Viper VP4300 Lite for Ultimate SSD Capacity at Cost-Efficient Prices</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-se-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone SE to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-6-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 6 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-15-pro-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 15 Pro Max to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-14-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 14 to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-13-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 13 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-xs-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone XS Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-macos-2023-update-from-youtube-to-high-quality-mp3s/"><u>[New] 2024 Approved MacOS 2023 Update From YouTube to High-Quality MP3s</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-best-tiktok-earning-tools-top-earnings-predictors/"><u>[New] In 2024, Best TikTok Earning Tools Top Earnings Predictors</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-streamlining-social-media-facebook-video-auto-play-for-2024/"><u>[New] Streamlining Social Media Facebook Video Auto-Play for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-optimizing-vimeo-media-velocity/"><u>[Updated] 2024 Approved Optimizing Vimeo Media Velocity</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-how-to-embed-youtube-in-google-slides-presentations/"><u>2024 Approved How to Embed YouTube in Google Slides Presentations</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-8-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 8 Plus to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-7-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 7 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-rca-video-doorbell-evaluation-exceptional-home-security-on-a-budget/"><u>Comprehensive RCA Video Doorbell Evaluation: Exceptional Home Security on a Budget</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-14-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 14 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-se-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone SE to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-se-2022-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone SE (2022) to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 14 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-13-mini-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 13 mini and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-x-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone X Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/islem-baslangicilari-ve-etkilesim-calismalari-movavi-adimlar-acma-kullanim-bilgileri/"><u>İşlem Başlangıcıları Ve Etkileşim Çalışmaları | Movavi - Adımlar Açma Kullanım Bilgileri</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-rectify-the-situation-where-microsoft-outlook-wont-start-up-properly/"><u>Steps to Rectify the Situation Where Microsoft Outlook Won't Start Up Properly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-setting-up-misfit-mods-wizard-and-custom-builds-in-kodi/"><u>Ultimate Guide: Setting Up Misfit Mods Wizard & Custom Builds in Kodi</u></a></li>
 </ul></div>
 
