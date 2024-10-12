@@ -1,7 +1,7 @@
 ---
 title: Solved How To Transfer From Apple iPhone 6s Plus to iPhone 15 | Dr.fone
-date: 2024-10-03T17:31:20.875Z
-updated: 2024-10-06T16:37:00.475Z
+date: 2024-10-07T01:40:27.836Z
+updated: 2024-10-11T22:56:33.484Z
 tags: 
   - iphone transfer
 categories:
@@ -64,10 +64,10 @@ The Quick Start feature from Apple offers a way to transfer data from your previ
 - ![restore iphone data from mac](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3. iCloud Backup
@@ -172,13 +172,6 @@ Opt for the latest Apple device, as the company provides software updates for it
 
 In conclusion, knowing **how to transfer data from Apple iPhone 6s Plus to iPhone** is crucial for a smooth transition. While Apple's native methods offer reliability, limitations exist. For an efficient, one-click alternative, Wondershare Dr.Fone stands out. Its comprehensive device-to-device transfer and versatile features make it the ideal choice. Embrace Dr.Fone for a hassle-free iPhone data transfer experience. Moreover, you can transfer between iOS devices without erasing the current data.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Effortless Ways to Transfer Data from Your Apple iPhone 6s Plus to iPhone 15
 
 With the arrival of the iPhone 15, Apple continues to redefine technological boundaries. It offers users a device that combines innovation and elegance. If you are also switching to iPhone 15 from your Apple iPhone 6s Plus, you will need to move data from one device to another. In this comprehensive guide, we explore **iPhone 15 transfer data** from your old phone.
@@ -231,15 +224,22 @@ When setting up a new iPhone 15, transferring data directly from the Apple iPhon
 ![input old iphone passcode](https://images.wondershare.com/drfone/article/2023/08/transfer-data-to-new-iphone-15-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 3:** When it asks you to choose a data transfer method, select "Transfer from iPhone." It will kickstart the process of transferring your Apple iPhone 6s Plus data to the new one. Keep the Apple iPhone 6s Plus devices close to each other to avoid any complications.
 
 ![tap on transfer from iphone](https://images.wondershare.com/drfone/article/2023/08/transfer-data-to-new-iphone-15-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Transfer Data from Android to iPhone 15
 
@@ -256,13 +256,6 @@ Transitioning from an Android device to the iPhone 15 is now a seamless process.
 - **Step 3:** Once both devices are connected to the temporary Wi-Fi network, wait for the data transfer screen to appear on the Android. Then, choose the old Android device data you want to transfer. Lastly, press "Continue" to start the Android to iPhone 15 transfer process.
 
 ![choose the android data to move](https://images.wondershare.com/drfone/article/2023/08/transfer-data-to-new-iphone-15-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: The Blazing Fast and Efficient Phone Transfer Tool for iPhone 15
 
@@ -285,10 +278,10 @@ To transfer data from your old phone to iPhone 15, start with launching Wondersh
 ![choose the phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 2: Assign Correct Positions to the Apple iPhone 6s Plus devices**
@@ -335,10 +328,10 @@ On accessing the Phone Transfer tool, continue to connect your iOS devices and l
 ![set ios data transfer path](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3 Choose Data Types**
@@ -375,13 +368,6 @@ These empower you to transfer your cherished data to the iPhone 15 easily. While
 
 Although the Apple iPods have been discontinued, many old users still use them as music players. As we all know, if you want to transfer music from Apple iPhone 6s Plus to iPod, you can just log in with the same Apple ID and then download the songs you purchased on the iPod touch. However, how can you transfer the music that is saved on other devices to your iPod? Don’t worry, this detailed guide introduces 4 ways to transfer music from Apple iPhone 6s Plus to iPod touch, just keep reading!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Easy and powerful way to transfer music from Apple iPhone 6s Plus to iPod
 
 A great tool for the purpose of easy transfer of music between iOS devices is [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). This tool makes life easy for people who want to switch to a new smartphone or are looking for solutions to sync not only music but also contacts, messages, call logs, photos, etc. between different smartphones.
@@ -404,6 +390,13 @@ Step 1. Download and install Dr.Fone on your computer. Run it and select Phone T
 
 ![transfer music from Apple iPhone 6s Plus to iPod - using Dr.Fone step 1](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2. Select Music and other file types you would like to transfer and click on Start Transfer.
 
 ![transfer music from Apple iPhone 6s Plus to iPod - using Dr.Fone step 2](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -411,6 +404,13 @@ Step 2. Select Music and other file types you would like to transfer and click o
 Step 3. Then just sit and have a cup of coffee. All music files will be transferred from Apple iPhone 6s Plus to iPod successfully.
 
 ![transfer music from Apple iPhone 6s Plus to iPod - using Dr.Fone step 2](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
@@ -427,19 +427,6 @@ Then you need to follow the following steps for the process to be done. On the c
 iTunes match is another way to process of transfer music purchased or unpurchased from iTunes from Apple iPhone 6s Plus to iPod. In fact, iTunes match determines the song, which is present in the iCloud and since there are over 43 million songs, iTunes match matches these unpurchased songs with the database and allows playing these music from the iCloud store. Now, you just need to tap the iCloud download button to download music from an artist, album or playlist. Thus, a person has immediate access to a huge music library without having to worry about the storage space on your device.
 
 ![transfer music from Apple iPhone 6s Plus to iPod - using iTunes match](https://images.wondershare.com/drfone/article/transfer-music-from-iphone-to-ipod-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Transfer Music imported from a CD or other source from Apple iPhone 6s Plus to iPod
 
@@ -465,6 +452,19 @@ For this process to complete, you need to import all songs from CD to iTunes at 
 
     ![transfer music from Apple iPhone 6s Plus to iPod - using cd step 4](https://images.wondershare.com/drfone/article/transfer-music-from-iphone-to-ipod-8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - All remains is to eject the iPod and enjoy your music
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
@@ -483,21 +483,24 @@ For this process to complete, you need to import all songs from CD to iTunes at 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-essential-manual-to-earning-from-youtube-videos/"><u>[New] 2024 Approved The Essential Manual to Earning From YouTube Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-tribute-spotlight/"><u>[Updated] Vimeo Tribute Spotlight</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-from-chaos-to-calm-quick-edits-for-your-overwhelming-tiktok-drafters/"><u>2024 Approved From Chaos to Calm Quick Edits for Your Overwhelming TikTok Drafters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-xml-and-ttml-for-cutting-edge-srt-creation-processes/"><u>2024 Approved Leveraging XML & TTML for Cutting-Edge SRT Creation Processes</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-6s-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 6s Plus to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-xs-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone XS Max to Android | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-usb-connection-issues-on-your-windows-pc/"><u>Comprehensive Solutions for USB Connection Issues on Your Windows PC</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-6-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 6 to PC | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-pro-max-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 11 Pro Max to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 14 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fastest-photo-view-in-windows-10/"><u>In 2024, Fastest Photo View in Windows 10</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6s-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 6s Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-s17-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo S17 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-automatic-start-of-spotify-in-windows/"><u>Preventing Automatic Start of Spotify in Windows</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-14-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 14 to PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-monthly-income-patterns-for-content-creators/"><u>[New] 2024 Approved Monthly Income Patterns for Content Creators</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-stand-out-with-custom-youtube-imagery/"><u>[New] 2024 Approved Stand Out with Custom YouTube Imagery</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-mastering-multitasking-firefox-picture-in-picture-explained/"><u>[New] Mastering Multitasking Firefox Picture-in-Picture Explained</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-creating-a-virtual-office-space-with-google-meet-for-2024/"><u>[Updated] Creating a Virtual Office Space with Google Meet for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-strategic-approaches-to-googles-podcast-submission-protocol/"><u>[Updated] Strategic Approaches to Google’s Podcast Submission Protocol</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-optimal-video-saver-best-chromebook-recorder/"><u>2024 Approved Optimal Video Saver Best Chromebook Recorder</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-15-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 15 to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/4k-innovation-top-10-mac-compatible-displays/"><u>4K Innovation Top 10 Mac-Compatible Displays</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-se-2022-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone SE (2022) to Android | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-qt-converter-naar-mov-online-movavi/"><u>Gratuit QT-Converter Naar MOV Online - Movavi</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-12-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 12 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-8-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 8 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-12-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 12 to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-xr-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone XR to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-2022-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone SE (2022) to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-your-journey-to-instagram-dominance-started-here/"><u>In 2024, Your Journey to Instagram Dominance, Started Here</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-8-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 8 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 8 to Android | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/renover-votre-gestion-de-documents-avec-abbyy-chez-rhenus-services-partages-optimises/"><u>Rénover Votre Gestion De Documents Avec ABBYY Chez Rhenus : Services Partagés Optimisés</u></a></li>
 </ul></div>
 

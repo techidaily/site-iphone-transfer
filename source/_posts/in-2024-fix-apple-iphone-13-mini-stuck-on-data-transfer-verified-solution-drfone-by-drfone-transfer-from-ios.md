@@ -1,7 +1,7 @@
 ---
 title: In 2024, Fix Apple iPhone 13 mini Stuck on Data Transfer Verified Solution! | Dr.fone
-date: 2024-08-27T02:29:22.198Z
-updated: 2024-08-28T02:29:22.198Z
+date: 2024-10-11T06:31:01.313Z
+updated: 2024-10-11T20:50:54.025Z
 tags: 
   - iphone transfer
 categories:
@@ -35,11 +35,22 @@ It is possible that the Move to iOS app may cause problems while transferring da
 Sometimes, the backup stored in the iTunes/Finder turns out to be corrupted due to various issues. If you are restoring data from such a corrupted backup, it can cause the Apple iPhone 13 mini to get stuck while transferring data. You have to identify corrupted backups in order to avoid this issue in your iPhone data process.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **3\. Poor Wi-Fi Connection**
 
 If you are transferring the data to your Apple iPhone 13 mini using iCloud, you need a good Wi-Fi connection to ensure a smooth process. A slow Wi-Fi connection can stop or delay the data transfer process if your iCloud backup is in 100+ GBs.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **4\. Problem in the iOS Version**
 
@@ -51,17 +62,12 @@ To cater to all these data transfer issues from Android or old iPhone to iPhone 
 
 It is a single-click data transfer tool that can transfer 12 types of data from iOS to iOS and 8 from Android to iOS. Furthermore, you don’t have to worry about which phone brands this phone transfer app supports because it supports over 8000+ devices, including all iPhone models, Samsung, LG, Huawei, OPPO, Redmi, etc.
 
-
-
 ### **Key Features**
 
 - •Wondershare Dr.Fone promises to transfer the data within 3 minutes.
 - •It doesn’t have the requirement of factory resetting the Apple iPhone 13 mini for transferring the data.
 - •Unlike iTunes/Finder, Wondershare Dr.Fone doesn't overwrite the data saved on your iPhone 15.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Simplified Guide To Transfer Data From Old Smartphone to New iPhone 15**
 
 Following are the straightforward step-by-step instructions you need to follow to transfer from your old iPhone or Android to the new Apple iPhone 13 mini series model:
@@ -72,17 +78,19 @@ Download and install the latest version of Wondershare Dr.Fone from the official
 
 ![tap on phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Initiate the Data Transfer Procedure
 
 Wondershare Dr.Fone will automatically detect the positions of your old smartphone and Apple iPhone 13 mini and assign them the positions. If the positions assigned are incorrect, press the “Flip” option and choose the data you want to transfer to iPhone 15. After this, press the “Start Transfer” button, and the procedure of transferring the data will initiate.
 
 ![press the start transfer button](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 As we have discussed in the article, some initial Apple iPhone 13 mini users are facing this screen stuck issue while transferring data. As explained in the article, you can avoid this problem by identifying the root cause. If you want a tool to prevent all such issues in the future, we have a perfect all-in-one mobile solution provider for you.
@@ -90,8 +98,12 @@ As we have discussed in the article, some initial Apple iPhone 13 mini users are
 [Wondershare Dr.Fone](https://drfone.wondershare.com/ios-system-repair.html) will not only solve this Apple iPhone 13 mini stuck on data transfer issue but also deal with any future iPhone problem. So, download Wondershare Dr.Fone now to optimize your Apple iPhone 13 mini using top-notch features.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Transfer/Sync Notes from Apple iPhone 13 mini to iPad
 
 The Notes app comes pre-installed on iPhone and iPad, and it proves to be very handy and useful when you need to jot down some ideas, details, plans, or any other important information which can be reviewed whenever you need. Sometimes you will need more to check your note from your iPhone on iPad. In this case, transferring/syncing notes from Apple iPhone 13 mini to iPad plays an important role. This article will provide the ways with and without iCloud to transfer notes from Apple iPhone 13 mini to iPad in detail.
@@ -106,9 +118,6 @@ Tap Settings > iCloud on both your iPhone and iPad.
 
 ![How to Transfer Notes from Apple iPhone 13 mini to iPad Using iCloud - step 1: select iCloud](https://images.wondershare.com/drfone/others/tap-settings-icloud-on-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 Step 2 Turn on iCloud Drive
 
 Click on _iCloud Drive_ option and then turn it on. You need to turn the option on both your iPhone and iPad.
@@ -122,15 +131,14 @@ Now go to the Notes app on your iPhone, and you can see a folder named iCloud. N
 ![How to Transfer Notes from Apple iPhone 13 mini to iPad Using iCloud - step 3: Go to Notes on iPhone](https://images.wondershare.com/drfone/others/open-notes-app-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2. Sync Notes from Apple iPhone 13 mini to iPad Using Third-Party Software
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Phone Manager (iOS)
 
 Transfer Files Between iPhone and iPad without iTunes
@@ -167,12 +175,6 @@ User reviews
 
 ![How to Transfer Notes from Apple iPhone 13 mini to iPad Using Third Party Software - CopyTrans](https://images.wondershare.com/drfone/others/copytrans-transfer-notes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### 2\. iExplorer
 
 This is another app that allows you to sync notes from Apple iPhone 13 mini to iPad. The app allows you to transfer images, music, notes, SMS and all other information respectively without any need to sync the entire file every time. iExplorer helps to manage folders and transfer data for iOS devices, and it is a great iTunes alternative.
@@ -196,9 +198,6 @@ User Reviews
 
 ![How to Transfer Notes from Apple iPhone 13 mini to iPad  - iExplorer](https://images.wondershare.com/drfone/others/Transfer-Notes-from-iPhone-to-iPad-iexplorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### 3\. Syncios
 
 Syncios also works as a decent iTunes alternative to transfer data between iOS devices and PC. The app allows users to transfer videos, photos, ringtones. TV shows, playlist, notes and all other data between iPhone/iPad/iPod and PC easily and quickly.
@@ -220,20 +219,12 @@ User Reviews
 
 ![How to Sync Notes from Apple iPhone 13 mini to iPad Using Third Party Software - Syncios](https://images.wondershare.com/drfone/others/syncios-transfer-notes.jpg)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## How to Transfer Apple iPhone 13 mini Data to iPhone 12: A Complete Guide
 
 Apple announced a line-up of iPhones with four new devices in 2020. The series is called the iPhone 12 series that has four handsets of different sizes and price ranges. The iPhone 12 series include iPhone 12, iPhone 12 Mini, iPhone 12 Pro, and iPhone 12 Pro Max. These are the company's first-ever 5G devices. They surely took a step into the future of technology with the 12 series.
 
 ![iphone 12 introduction](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The device is considered lighter than the iPhone SE launched in 2020. iPhone 12 Pro Max holds an outstanding camera system for high-quality image processing. Besides, the introduction of A14 SoC has encouraged the exceptional performance of all four models. Each of the series models is secured with suitable features and new capabilities. Let's take a glance at the relevant specifications and iPhone 12 price.
 
 ## Part 1: Apple iPhone 12 Series Specifications
@@ -253,8 +244,12 @@ To mention the iPhone 12 series specifications, these models are secured with an
 iPhone Series devices hold dual-SIM support with nano-SIM and eSIM. Both iPhone 12 Mini and iPhone 12 come in distinct storage capacities like 64 GB, 128 GB, and 256 FB. The iPhone 12 Pro and Pro Max are available in the storage of 128 GB, 256 GB, and 512 GB.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Transfer old iPhone data to iPhone 12
 
 We know that the excitement of buying a new iPhone is real. However, it's important to do one thing before jumping into the camera quality. And that's data transfer. You do not want your old phone data to be gone with the old device, do you? We hope not. Here are some of the tactics by which you can transfer the old iPhone data to the new iPhone 12
@@ -264,8 +259,12 @@ We know that the excitement of buying a new iPhone is real. However, it's import
 ![transfer data through icloud](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Before transferring, make sure your data is backed up. For that, connect the old iPhone with the WiFi and then go to "Settings." Next, tap your name and then on "iCloud." Next, select the "Backup Now" option and wait for the process to get completed. After completing the backup, follow the steps given below.
 
 **Step 1:** First, turn on the new device to see the "Hello" screen. Now, follow the instructions appearing on the screen. Once you notice the WiFi screen, tap a WiFi network to join. Keep following the steps till the "Apps & Data" screen shows up. Tap on "Restore from iCloud."
@@ -276,16 +275,10 @@ If you have bought iTunes or App store content with multiple IDs, sign in with t
 
 **Step 3:** The restore process will be initiated. Make sure to be connected and wait till the process gets completed successfully. Once done, continue with the other steps to complete the setup process successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### 2.2 Through iTunes or Finder
 
 ![transfer with itunes or finder](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Start with the backup process by opening iTunes. Now, connect your iPhone with the PC. After it gets connected, choose your iPhone on the top toolbar. To transfer the data related to Health and Activity/saved passwords, choose the "Encrypt backup" option. Next, input a password and click "Back Up Now."
 
 To transfer the data through iTunes or Finder, launch your new device. Once the "Hello" screen appears, follow the instructions appearing on the screen. As soon as you note the "Apps & Data Screen," tap on "Restore from Mac or PC." Connect the new device to PC/Mac and open the iTunes/Finder window. Once your device name is visible on the screen, tap it.
@@ -316,10 +309,22 @@ To transfer data through Dr. Fone, follow the easy steps mentioned below.
 
 You can select "Clear data before copy" to delete the data from the destination device before transferring. It will speed up the entire process.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Hopefully, you got a clear idea of how to transfer data to iPhone 12. Dr. Fone - Phone Transfer is one of the finest names for data recovery and data transfer between devices. They have distinct outstanding products that are efficient and useful for the users. One of the best things about the application is that you can transfer the data regardless of the mobile operating system. Be it an iOS or Android device, follow the steps provided above, and that's it. The iPhone 12 data transfer process is quick, easy, and requires less effort.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -333,11 +338,18 @@ Hopefully, you got a clear idea of how to transfer data to iPhone 12. Dr. Fone -
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-enabling-youtube-and-facebook-on-apple-tv/"><u>[New] 2024 Approved Enabling YouTube and Facebook on Apple TV</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-zooming-skills-for-clearer-google-meets-for-2024/"><u>[Updated] Essential Zooming Skills for Clearer Google Meets for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-11-pro-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 11 Pro Max to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/budget-conscious-skydrive-keepers-mass-file-basket-savings/"><u>Budget-Conscious Skydrive Keepers Mass File Basket Savings</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-se-2020-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone SE (2020) to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-word-2007-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature field to a Word 2007</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 13 Pro Max to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-70-lite-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor 70 Lite 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-13-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 13 Pro to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-12-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 12 to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/screenstreamer-breaking-down-the-newest-recorder-for-2024/"><u>ScreenStreamer Breaking Down the Newest Recorder for 2024</u></a></li>
+</ul></div>
 

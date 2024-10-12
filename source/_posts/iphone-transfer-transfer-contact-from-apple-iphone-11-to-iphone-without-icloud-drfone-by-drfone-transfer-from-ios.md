@@ -1,7 +1,7 @@
 ---
 title: iPhone Transfer Transfer Contact from Apple iPhone 11 to iPhone without iCloud | Dr.fone
-date: 2024-09-28T07:01:48.892Z
-updated: 2024-09-30T19:21:46.441Z
+date: 2024-10-08T03:16:17.361Z
+updated: 2024-10-12T08:59:43.922Z
 tags: 
   - iphone transfer
 categories:
@@ -72,6 +72,13 @@ Another simple way to move contacts between iPhones is through email. This appro
 
 ![access ios device in itunes](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Tap "Send" to email the selected contacts and open the email app on your target iPhone. Find the email you sent with the contacts attached and open it. Now, retrieve the attached vCard from the email. The contact will appear in your Contacts app but won't be added directly. To save the contact, tap "Create New Contact," write any contact details, and select "Done" to finish saving the contact.
 
 ![back up latest data on computer](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-10.jpg)
@@ -94,13 +101,6 @@ With it, you can even transfer data directly to an iOS device or computer. Here 
 
 ![choose the contacts option](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Transfer the Selected Contacts. Once in the “Contacts” tab, choose the ones you want to transfer to the other device. After you have made the choice, click "To Device" from the top toolbar and select the targeted iOS device. Your chosen contacts will be immediately transferred to the other device.
 
 ![transfer contacts to targeted device](https://images.wondershare.com/drfone/guide/manage-ios-call-history-1.png)
@@ -119,9 +119,23 @@ The process is user-friendly, requiring simple clicks to initiate. It can transf
 
 ![select the data to start transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Turn Off Find My and Complete the Transfer Process. Then, navigate to "iCloud" and access "Find My" to proceed to deactivate it. After deactivating the feature, the data transfer begins. The progress bar indicates the process's completion. Once finished, the foremost window exhibits the finalized phone transfer. Press "OK" to conclude the process fully.
 
 ![data transfer completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -136,6 +150,13 @@ Lately, we have got plenty of queries like this from our readers who like to lea
 ## Part 1: Transfer Contacts from Apple iPhone 11 to iPhone Including iPhone 12/ 12 Pro (Max)/ 12 Mini with iTunes
 
 To start with, let’s learn how to transfer contacts from Apple iPhone 11 to iPhone using iTunes. If you have an updated version of iTunes, you can transfer and sync your data between various devices. Ideally, you can either sync your contacts or backup and restore them. We have discussed both of these techniques to transfer contacts from Apple iPhone 11 to iPhone with iTunes.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Backup and Restore iPhone contacts with iTunes
 
@@ -165,6 +186,19 @@ If you only wish to transfer your contacts, then it can be achieved by syncing y
 
 ![sync contacts with itunes](https://images.wondershare.com/drfone/article/2018/01/15150778515016.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **4.** Now, disconnect the Apple iPhone 11 device and connect your target iPhone to it.
 - **5.** Follow the same drill, go to its Info tab, and enable the option to “Sync Contacts”.
 - **6.** Additionally, you can visit its Advanced section and replace the old contacts with the new ones as well.
@@ -188,13 +222,6 @@ Besides transferring your contacts, you can also move other data files like phot
 2. Move data between devices with different operating systems, i.e., iOS to Android.
 3. Supports iOS devices that run the latest iOS ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 4. Transfer photos, text messages, contacts, notes, and many other file types.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 
@@ -222,13 +249,6 @@ Besides transferring your contacts, you can also move other data files like phot
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VpH1bgezTKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Transfer iPhone contacts to iPhone Including iPhone 12/ 12 Pro (Max)/ 12 Mini without iTunes using Gmail
 
 As you can see, Dr.Fone Phone Transfer provides a one-click solution to transfer your data from one iPhone to another. Though, if you want to try another option, then you can take the assistance of Gmail. Even though this is a more cumbersome process, it will meet your basic requirements. To learn how to transfer contacts from Apple iPhone 11 to iPhone without iTunes, you can try this approach.
@@ -248,20 +268,6 @@ As you can see, Dr.Fone Phone Transfer provides a one-click solution to transfer
 
 ![import vcard contacts to iphone](https://images.wondershare.com/drfone/article/2018/01/15150779615006.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Transfer Contacts from Apple iPhone 11 to iPhone Including iPhone 12/ 12 Pro (Max)/ 12 Mini without iTunes using Bluetooth
 
 If nothing else would work, you can transfer contacts from one iPhone to another using Bluetooth. It might be time-consuming, but it is also one of the easiest ways to learn how to transfer contacts from Apple iPhone 11 to iPhone without iTunes.
@@ -280,25 +286,11 @@ If nothing else would work, you can transfer contacts from one iPhone to another
 
 After following these steps, you can learn how to transfer contacts from Apple iPhone 11 to iPhone with iTunes and without it. Besides these methods, you can also AirDrop the contacts or sync them via iCloud as well. As you can see, there are numerous ways to transfer contacts from Apple iPhone 11 to iPhone with iTunes (and without it) that you can try. We recommend Dr.Fone Phone Transfer as it is one of the easiest and fastest ways to transfer data between different devices.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How To Transfer Data from Apple iPhone 11 to New iPhone 15
 
 Upgrading to a new iPhone 15 is always an exciting prospect. However, the thought of transferring all your data from your Apple iPhone 11  to the new iPhone 15 model might seem like a daunting task. Luckily, there is no need to worry, as this guide will resolve all your concerns on **how to transfer to the new iPhone 15**.
 
 In this detailed article, we explore the process of transferring data from an old iPhone to a new one. Our step-by-step approach will equip you with the knowledge to move your valuable data.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Why Should You Shift From Your Apple iPhone 11 to iPhone 15?
 
@@ -312,16 +304,16 @@ The iPhone 15 is an example of Apple's commitment to pushing the boundaries of t
 
 For photography fans, the iPhone 15's camera system is nothing short of revolutionary. From improved low-light performance to detailed zoom capabilities, it reaches a whole new level of quality.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Seamless Connectivity
 
 The new iPhone 15 comes integrated with 5G technology. This ensures that you'll be at the forefront of high-speed connectivity. You can say goodbye to buffering and lag because iPhone 15 promises smoother streaming, faster downloads, and a more responsive online experience.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Extended Software Support
 
@@ -352,6 +344,20 @@ While iCloud offers a seamless way to transfer data, some users prefer a more di
 - **Step 3:** This animation contains security information and establishes a connection between devices. On the new iPhone, you will be required to provide the old phone passcode. Enter the passcode and log in using your Apple ID. Subsequently, select "Transfer from iPhone" and patiently await the process to finish.
 
 ![select transfer from iphone feature](https://images.wondershare.com/drfone/article/2023/08/transfer-old-iphone-to-iphone-15-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How To Transfer Apple iPhone 11 iTunes/Finder Backup to iPhone 15?
 
@@ -438,18 +444,18 @@ However, one solution that truly stands out for its speed, ease, and efficiency 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastering-the-art-of-zoom-filters-for-premium-sessions/"><u>[Updated] 2024 Approved Mastering the Art of Zoom Filters for Premium Sessions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-utilizing-multiframe-view-an-in-depth-look-at-edges-pip/"><u>2024 Approved Utilizing Multiframe View An In-Depth Look at Edge’s PIP</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-13-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 13 Pro? How to Fix it?</u></a></li>
-<li><a href="https://os-tips.techidaily.com/effortless-file-transfer-using-airdrop-from-your-mac-iphone-ipad-and-ipod-comprehensive-tips-and-tricks/"><u>Effortless File Transfer Using AirDrop From Your Mac, iPhone, iPad & iPod - Comprehensive Tips & Tricks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevating-speech-synthesis-converting-ssaxml-to-professional-srts/"><u>Elevating Speech Synthesis Converting SSA/XML to Professional SRTs</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-12-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 12 Pro Max to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-6-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 6 Plus to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-13-mini-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 13 mini to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-6-plus-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 6 Plus to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-11-pro-max-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 11 Pro Max to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-14-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 14 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-start-recording-your-games-today-3-easy-steps/"><u>New 2024 Approved Start Recording Your Games Today 3 Easy Steps</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-magic-vs-2-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Magic Vs 2 on Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-navigating-your-way-through-screen-recording-on-mac-os-x-for-2024/"><u>[New] Navigating Your Way Through Screen Recording on Mac OS X for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-ultimate-compilation-winning-16-free-media-players/"><u>[New] Ultimate Compilation Winning 16 Free Media Players</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-tempo-a-guide-to-instagram-story-adjustments/"><u>[Updated] Mastering Tempo A Guide to Instagram Story Adjustments</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-renowned-experts-exquisite-insta-highlight-creators-for-2024/"><u>[Updated] Renowned Experts Exquisite Insta Highlight Creators for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guide-fixing-continuous-restarts-and-crashes-while-running-flight-simulator-x-on-pc/"><u>Expert Guide: Fixing Continuous Restarts and Crashes While Running Flight Simulator X on PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-gionee-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Gionee FRP Locks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hevc-format-not-working-on-pc-unveil-these-2-key-strategies-to-resolve-video-compatibility-problems-in-various-windows-systems/"><u>HEVC Format Not Working on PC? Unveil These 2 Key Strategies to Resolve Video Compatibility Problems in Various Windows Systems</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-6-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 6 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-12-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 12 to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-14-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 14 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-xr-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone XR to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-uncooperative-controllers-on-pc/"><u>Quick Fixes for Uncooperative Controllers on PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-world-communication-with-a-95-discount-on-language-learning/"><u>Unlock World Communication with a 95% Discount on Language Learning</u></a></li>
 </ul></div>
 

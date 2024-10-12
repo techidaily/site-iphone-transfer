@@ -1,7 +1,7 @@
 ---
 title: Methods to Transfer from Apple iPhone 12 to Android | Dr.fone
-date: 2024-09-30T08:27:10.736Z
-updated: 2024-10-01T11:35:28.773Z
+date: 2024-10-10T21:02:02.743Z
+updated: 2024-10-12T02:50:50.591Z
 tags: 
   - iphone transfer
 categories:
@@ -51,13 +51,6 @@ Connect your iPhone and Android device to the computer. Two devices will be soon
 
 ![iphone to android contacts transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3. Start Data Transfer from Apple iPhone 12 to Android
 
 Scan the supported files to ensure what you're going to transfer. Click "Start Transfer". If you have many useless files on your Apple iPhone 12, you can check "Clear data before copy".
@@ -78,13 +71,6 @@ Search Google Play on the internet and then search the apps that you play on you
 
 ![download app from google play](https://images.wondershare.com/drfone/others/download-apps-from-google-play.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Part 2. Transfer Contacts from Apple iPhone 12 to Android via iCloud
 
 When switching from Apple iPhone 12 to Android, one of the most important content you want to transfer is contacts. Unfortunately, the iPhone sim card is smaller than the one on Android phone and iPhone contacts are usually saved in a phone memory card. Although Many Android phones have also the nano sim card for changing sim card between Android and iOS flexibility, there are still some Android phone adapt bigger sim cards. That means, it's not available to just insert iPhone sim card on Android phone, which usually works in [transferring contacts from Android to Android](https://drfone.wondershare.com/transfer/transfer-contacts-from-phone-to-phone.html).
@@ -100,13 +86,6 @@ Step 2. Sign in to your iCloud account and turn on _Contacts_ to sync contacts 
 Step 3. Open the browser and land iCloud main page. Then, click _Contacts_ to enter the contact management panel. Click _Show Actions Menu_ and click _Export vCard…_. Then, contacts in iCloud will be saved as a vCard file on the computer.
 
 ![transfer iphone contacts to android](https://images.wondershare.com/drfone/others/export-icloud-contacts-from-pc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4. Plug a USB cable to connect your Apple iPhone 12 or tablet to computer. When it's recognized, go and open the SD card of your Apple iPhone 12. Cut and paste the exported vCard file to the SD card folder.
 
@@ -124,6 +103,13 @@ Step 1. Open iTunes and connect your iPhone to the computer via a USB cable. In 
 
 ![transfer sms from iphone to android](https://images.wondershare.com/drfone/others/itunes-backup.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2. Connect your Apple iPhone 12 to computer with a USB cable. Copy the exported iTunes backup file to the SD card of your Apple iPhone 12.
 
 Step 3. Go to Google Play on your Apple iPhone 12 or tablet and download [iSMS2droid](https://play.google.com/store/apps/details?id=org.faked.isms2droid) on your Apple iPhone 12. Open iSMS2droid and tap _Select iPhone SMS Database_. Then, choose the imported iTunes backup file. Choose all or selected text messages and convert them to an XML file.
@@ -133,6 +119,13 @@ Step 3. Go to Google Play on your Apple iPhone 12 or tablet and download [iSMS2d
 Step 4. Download and install SMS [Backup & Restore](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en) on your Apple iPhone 12. Use it to restore your iPhone's SMS in an XML file to the Android's SMS database.
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/sms-backup-app-1.jpg)![move sms from iphone to android](https://images.wondershare.com/drfone/others/sms-backup-app-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 4. Transfer Photos from Apple iPhone 12 to Android
 
@@ -144,6 +137,13 @@ Plug-in USB cables to connect your iPhone and Android phone to computer. Your iP
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/delete-ipad-photos-from-computer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Part 5. Transfer Video and Music from Apple iPhone 12 to Android
 
 Have purchased hundreds of thousands of songs and videos and now want to transfer to your new Android phone or tablet. It's a piece of cake. iTunes can do that for you. Just follow the easy tutorial below.
@@ -151,6 +151,13 @@ Have purchased hundreds of thousands of songs and videos and now want to transfe
 Step 1. Open iTunes. Click _Store_ > _Authorize This Computer…_. Fill out your Apple ID and password. Get your iPhone and Android phone connected with a USB cable and open iTunes. Right click your iPhone. In the pull-down list, choose _Transfer Purchased_ to transfer iPhone music and video back to iTunes. Navigate to the iTunes media folder on the computer. C: UsersAdministratorMusiciTunesiTunes Media. Find your wanted music and video and copy them to your Apple iPhone 12 SD card.
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/itunes-media-folder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 6. Transfer Calendars from Apple iPhone 12 to Android
 
@@ -173,13 +180,6 @@ The above methods offer you valuable solutions to **transfer data from Apple iPh
 ## Transfer your Apple iPhone 12 Apps to New iPhone
 
 We would be very excited to buy a new iPhone like iPhone 15/15 Pro(Max) whenever possible. Just think, what makes us emotional and enthusiastic towards buying and using a new iPhone? Maybe the new and advanced features are better than the old one? Exactly! Once you have bought a new iPhone like iPhone 15/15 Pro(Max), definitely the next step would be to transfer all your applications, games, movies, photos, files, videos, etc. Now the question arises, how to transfer apps from Apple iPhone 12 to iPhone? There must be some solution for every query so, let us research the ways of transfer by using iTunes, iCloud, and the iPhone app store. To know more about the process let us go in-depth.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## One-click to transfer apps between iPhone \[iPhone 13 Included\]
 
@@ -280,11 +280,25 @@ Note: Doing so will erase any old setup.
 
 ![select icloud backup file](https://images.wondershare.com/drfone/article/2018/01/15169292663640.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6: After entering the credentials, you will have the choice to select the backup process. Ensure the date/time of the backup process for verification.
 
 7: The backup process starts on your new phone and you do not interrupt or stop the wifi connection while the backup process continues.
 
 8: Your photos, videos, files, etc will be automatically downloaded into your new Phone using iCloud.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to transfer apps from Apple iPhone 12 to iPhone with the help of the App store?
 
@@ -300,13 +314,6 @@ In this part, we are going to transfer apps from Apple iPhone 12 to iPhone 15/15
 
 ![check my purchased apps](https://images.wondershare.com/drfone/article/2018/01/15169314968668.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4: After entering the credential, you have the two options such as all and not on this phone.
 
 5: Select the option “not on this phone” present on the right upper side of the window. You will get the list of applications that you have purchased using the iCloud account.
@@ -321,6 +328,13 @@ We have given and explained to you 3 methods to **transfer apps from Apple iPhon
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Transfer from Apple iPhone 12 to iPhone 8/X/11
 
 If you're one of those who is fond of new phones, then making the [transfer to a new iPhone from your old phone](https://drfone.wondershare.com/transfer-to-new-iphone.html) can be a real struggle. The biggest problem comes when you need to **transfer data from Apple iPhone 12 to iPhone 8 (Plus)/X/11** and data include your photos, documents, contacts, etc.
@@ -334,13 +348,6 @@ Imagine getting a surprise on your birthday and here you have your brand new iPh
 We have come up with a solution which will make **transfer data from Apple iPhone 12 to iPhone 8 (Plus)/X/11** extremely easy. You might be wondering what we have. Well.. Dr.Fone is your ultimate stop and the best thing that can help you to transfer from Apple iPhone 12 to iPhone 8 (Plus)/X/11 without any kind of hassle.
 
 Dr.Fone - Phone Transfer is great phone to phone transfer tool to help you **transfer data from Apple iPhone 12 to iPhone 8 (Plus)/X/11** extremely easy with just one click. It is different from the traditional way of transfer data from Apple iPhone 12 to iPhone 8 (Plus)/X/11 by using iTunes. Comparative to iTunes, Dr.Fone is highly user-friendly and very easy to use. Thereby, making the transition and transfer data from old iPhone to iPhone 8 (Plus)/X/11 extremely easy. It works by following the very simple steps and you don’t even have to worry about backup and the restore things.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Phone Transfer
 
@@ -367,6 +374,13 @@ Still confused? Let us tell you easy steps that will help you to learn **how to 
 
 There are other methods too which enables the **transfer data from old iPhone to iPhone 8 (Plus)/X/11**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Transfer Everything from Apple iPhone 12 to iPhone 8 (Plus)/X/11 with iTunes
 
 iTunes have been used traditionally to transfer the data. Let’s learn how iTunes works:
@@ -381,13 +395,6 @@ iTunes have been used traditionally to transfer the data. Let’s learn how iTun
 3. Open the iTunes application and then select your latest device to restore the backup.
 
 ![Transfer Everything from Apple iPhone 12 to iPhone X/iPhone 8 (Plus) with iTunes](https://images.wondershare.com/drfone/article/2017/09/transfer-from-iphone-to-iphone-x-2.jpg "Transfer Everything from Apple iPhone 12 to iPhone X/iPhone 8 (Plus) with iTunes")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Wait until the process is completed.
 
@@ -404,13 +411,6 @@ iCould is another software which also enables the transfer of data from Apple iP
 3. To restore from iCloud backup, sign in to iCloud with the help of apple id and password.
 
 ![Transfer from Apple iPhone 12 to iPhone X/iPhone 8 (Plus) with iCloud](https://images.wondershare.com/drfone/article/2017/09/transfer-from-iphone-to-iphone-x-4.jpg "Transfer from Apple iPhone 12 to iPhone X/iPhone 8 (Plus) with iCloud")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. The application will ask for the backup. Once you've checked that the backup is correct you can click on it.
 2. Make sure your device is connected to it until the process is completed.
@@ -433,14 +433,19 @@ We know the emotions and sentiments attached with one’s personal information a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discovering-if-quick-youtube-subscriptions-really-work/"><u>[New] In 2024, Discovering if Quick YouTube Subscriptions Really Work</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-from-live-to-legacy-preserving-facebook-events/"><u>[New] In 2024, From Live to Legacy Preserving Facebook Events</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-harnessing-tools-for-fb-content-extraction/"><u>[Updated] 2024 Approved Harnessing Tools for FB Content Extraction</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-14-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 14 to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-picks-for-powerful-and-user-friendly-twitter-client-applications/"><u>Best Picks for Powerful and User-Friendly Twitter Client Applications</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 14 Plus | Stellar</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-6s-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 6s to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-14-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 14 Pro Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-xs-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone XS Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-skills-for-quiet-movie-production/"><u>[Updated] In 2024, Essential Skills for Quiet Movie Production</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-worlds-finest-screen-recording-software-no-deadline/"><u>[Updated] World's Finest Screen Recording Software (No Deadline)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-x-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone X to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypassreset-motorola-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Motorola Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/composing-channel-overview-teaser-clips-for-2024/"><u>Composing Channel Overview Teaser Clips for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-itel-p55plus-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Itel P55+ Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 12 mini to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-15-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 15 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-8-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 8 to iPad | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/improve-your-ebooks-using-emeditor-expert-editing-advice-needed/"><u>Improve Your Ebooks Using EmEditor - Expert Editing Advice Needed!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-6s-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 6s Plus Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-digital-innovations-with-guidance-from-toms-tech-corner/"><u>Navigating Digital Innovations with Guidance From Tom's Tech Corner</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/shake-it-off-best-phones-for-unshakable-visual-experience-for-2024/"><u>Shake It Off! Best Phones for Unshakable Visual Experience for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-15-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 15 to PC | Dr.fone</u></a></li>
 </ul></div>
 
