@@ -1,7 +1,7 @@
 ---
 title: Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
-date: 2024-10-10T00:50:13.118Z
-updated: 2024-10-11T21:29:55.153Z
+date: 2024-10-11T06:21:08.255Z
+updated: 2024-10-17T18:23:11.831Z
 categories:
   - repair-tools
 description: This Article Describes Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
@@ -161,27 +161,33 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-the-duel-of-durability-hero-5-black-versus-keymission-for-2024/"><u>[New] The Duel of Durability HERO 5 Black Versus Keymission for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>[New] Ultimate Reddit Triumphs Highly Upvoted Threads Compilation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-2023-how-to-fix-live-video-interrupted-on-facebook/"><u>[Updated] 2024 Approved 2023 | How to Fix Live Video Interrupted on Facebook?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-funding-fantasies-or-fiscal-facts/"><u>[Updated] In 2024, Funding Fantasies or Fiscal Facts?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-15-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 15 to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/aprender-a-leer-el-reloj-correctamente-en-espanol/"><u>Aprender a Leer El Reloj Correctamente en Espaňol</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-13-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 13 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-se-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone SE to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-ditch-adobe-premiere-rush-top-4-video-editing-software-alternatives/"><u>In 2024, Ditch Adobe Premiere Rush Top 4 Video Editing Software Alternatives</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-13-pro-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 13 Pro Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-14-pro-max-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 14 Pro Max to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-infinix-zero-30-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Infinix Zero 30 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-15-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 15 Plus Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimize-web-insights-with-cookiebot-technology-advanced-user-engagement-tools/"><u>Optimize Web Insights with Cookiebot Technology – Advanced User Engagement Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pro-level-hdr-techniques-elevate-your-photography-skills-for-2024/"><u>Pro-Level HDR Techniques Elevate Your Photography Skills for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-taming-echoes-syncing-voices-to-obs-channel/"><u>[New] Taming Echoes Syncing Voices to OBS Channel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-android-slow-motion-video-magic/"><u>2024 Approved The Ultimate Guide to Android Slow Motion Video Magic</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-se-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone SE to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/correcting-errors-in-receiving-facebooks-two-factor-authentication-code/"><u>Correcting Errors in Receiving Facebook's Two-Factor Authentication Code</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficiently-pinpoint-locations-mastering-the-art-of-placing-multiples-points-in-google-map/"><u>Efficiently Pinpoint Locations: Mastering the Art of Placing Multiples Points in Google Map</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-11-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 11 to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-xr-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone XR to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone SE to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-13-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 13 Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-screening-success-10-movies-that-energize-and-empower/"><u>In 2024, Screening Success 10 Movies That Energize & Empower</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-13-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 13 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-universal-control-seamlessly-linking-your-ipad-and-mac-with-apples-magic-feature-a-comprehensive-guide-by-zdnet/"><u>Mastering Universal Control: Seamlessly Linking Your iPad and Mac with Apple’s Magic Feature - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/standard-process-of-data-erasure-with-stellar-eraser-app-a-must-have-tool-for-your-mac-on-the-go/"><u>Standard Process of Data Erasure with Stellar Eraser App: A Must-Have Tool for Your Mac, On The Go</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-se-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone SE Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/aac-webm-movavi/"><u>오토바이오에서 AAC로 WEBM 파일 변환: 무료, 가용성 최대화 - Movavi</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

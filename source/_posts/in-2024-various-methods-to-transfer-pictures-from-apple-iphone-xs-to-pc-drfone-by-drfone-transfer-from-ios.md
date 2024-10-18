@@ -1,7 +1,7 @@
 ---
 title: In 2024, Various Methods to Transfer Pictures from Apple iPhone XS to PC | Dr.fone
-date: 2024-09-24T16:01:11.269Z
-updated: 2024-10-01T01:54:14.085Z
+date: 2024-10-16T08:43:55.798Z
+updated: 2024-10-18T00:44:01.541Z
 tags: 
   - iphone transfer
 categories:
@@ -22,13 +22,6 @@ It can be helpful in creating backups, freeing up storage space, and more. In th
 
 With the Apple iPhone XS 's advanced camera, capturing life's beautiful moments is second nature. On the other hand, Windows OS has long been the backbone of personal computing. They come equipped with a range of tools to make the photo transfer process smooth and efficient. Explained below are two of the common method to **import photos from Apple iPhone XS to PC**:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: File Explorer
 
 When it comes to simplicity and direct control, File Explorer stands out as an excellent option. It is a steadfast companion for transferring photos from your Apple iPhone XS  to your Windows PC. This method gives you the freedom to navigate through your device's internal storage.
@@ -47,6 +40,13 @@ Moreover, you can select the images you desire and move them to your computer. F
 
 ![access the dcim folder](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Photos App
 
 Available in Windows 10 and later, the Photos app is a prime example of this convenience. It provides an elegant solution for transferring photos from your Apple iPhone XS  to your PC. Using this app, you can directly import photos and videos from your iPhone to the computer. Follow these simple instructions to utilize the power of the Photos app to learn **how to transfer photos from Apple iPhone XS to PC**:
@@ -58,6 +58,13 @@ Available in Windows 10 and later, the Photos app is a prime example of this con
 - **Step 2:** In the Photos app, click on the "Import" button located in the top-right corner. From the available options, choose "From a connected device" and select your iPhone. The Photos app will display the photos on your Apple iPhone XS  that are available for import. After selecting the images, select an existing folder or create a new one for the imported photos.
 
 ![import the photos](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How To Transfer Photos From Apple iPhone XS to PC With Cloud Storages
 
@@ -96,15 +103,22 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 
 ![tap on the upload option](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Once photos are uploaded, move to your PC and open Google Drive using a web browser. Locate the folder where you uploaded the pictures from your Apple iPhone XS . Select the photos, right-click, and choose "Download" to initiate the download process.
 
 ![click on the download option](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Pros
@@ -145,18 +159,18 @@ Here you will be asked to choose the data you want to export. Select “Photos�
 
 ![press the export button](https://images.wondershare.com/drfone/guide/export-data-from-ios-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3: Complete the Photo Transfer Process**
 
 Click “Verify” once you have created the process to start the transfer process of photos. The process will require a certain amount of time to finish. Once it is completed, you can click “Open in Folder” to view the backed-up data.
 
 ![photos album exported](https://images.wondershare.com/drfone/guide/export-data-from-ios-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -170,14 +184,14 @@ Apple announced a line-up of iPhones with four new devices in 2020. The series i
 
 ![iphone 12 introduction](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The device is considered lighter than the iPhone SE launched in 2020. iPhone 12 Pro Max holds an outstanding camera system for high-quality image processing. Besides, the introduction of A14 SoC has encouraged the exceptional performance of all four models. Each of the series models is secured with suitable features and new capabilities. Let's take a glance at the relevant specifications and iPhone 12 price.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Apple iPhone 12 Series Specifications
 
@@ -194,13 +208,6 @@ To mention the iPhone 12 series specifications, these models are secured with an
 **Camera:** The high-quality telephoto camera of the iPhone 12 Pro is 12 MP, 52mm eq. f/2.0 OIS. For iPhone 12 Pro Max is 12 MP, 65mm eq. f/2.2 OIS. The entire iPhone series model has an ultra-wide camera of 12 MP 13mm eq. f/2.4. The splash, water, and dust resistance feature with IP68 for up to 6m and 30 minutes keeps the phone durable.
 
 iPhone Series devices hold dual-SIM support with nano-SIM and eSIM. Both iPhone 12 Mini and iPhone 12 come in distinct storage capacities like 64 GB, 128 GB, and 256 FB. The iPhone 12 Pro and Pro Max are available in the storage of 128 GB, 256 GB, and 512 GB.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Transfer old iPhone data to iPhone 12
 
@@ -220,13 +227,6 @@ If you have bought iTunes or App store content with multiple IDs, sign in with t
 
 **Step 3:** The restore process will be initiated. Make sure to be connected and wait till the process gets completed successfully. Once done, continue with the other steps to complete the setup process successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.2 Through iTunes or Finder
 
 ![transfer with itunes or finder](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-4.jpg)
@@ -236,6 +236,13 @@ Start with the backup process by opening iTunes. Now, connect your iPhone with t
 To transfer the data through iTunes or Finder, launch your new device. Once the "Hello" screen appears, follow the instructions appearing on the screen. As soon as you note the "Apps & Data Screen," tap on "Restore from Mac or PC." Connect the new device to PC/Mac and open the iTunes/Finder window. Once your device name is visible on the screen, tap it.
 
 Select "Restore Backup" to choose a "Backup." Ensure that the size and data are accurate. To restore from an encrypted backup, input the password. The restoration process will start. Now, wait for the entire process to get completed and then move on to the remaining setup steps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Transfer Android Data to iPhone 12
 
@@ -330,10 +337,10 @@ User reviews
 ![How to Transfer Notes from Apple iPhone XS to iPad Using Third Party Software - CopyTrans](https://images.wondershare.com/drfone/others/copytrans-transfer-notes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. iExplorer
@@ -358,13 +365,6 @@ User Reviews
 - _I forgot my login information for my old iTunes account and had no way of obtaining it since I was also using a new email address. I downloaded this program and it transferred all 600-something of my files within a minute or two. Saved me so much money!_
 
 ![How to Transfer Notes from Apple iPhone XS to iPad  - iExplorer](https://images.wondershare.com/drfone/others/Transfer-Notes-from-iPhone-to-iPad-iexplorer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Syncios
 
@@ -401,16 +401,18 @@ User Reviews
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-virtual-anonymity-to-facebook-fame-how-to-expand-your-audience/"><u>[New] In 2024, From Virtual Anonymity to Facebook Fame How to Expand Your Audience</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-video-selfie-verfication-is-it-really-useful/"><u>[New] In 2024, Instagram Video Selfie Verfication - Is It Really Useful?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-the-world-of-fbx-for-gamers-for-2024/"><u>[New] Navigating the World of FBX for Gamers for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-hot-30-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Hot 30 5G Face Lock?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-8-plus-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 8 Plus to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-12-mini-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 12 mini to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-honor-x9b-easily-by-drfone-android/"><u>How To Unlock a Honor X9b Easily?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-6-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 6 Plus to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-11-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 11 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/overcoming-canvas-upload-limitations-11-effective-strategies-for-successful-video-sharing/"><u>Overcoming Canva's Upload Limitations: 11 Effective Strategies for Successful Video Sharing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-drone-shopping-simplified-key-takeaways-for-beginners/"><u>[Updated] In 2024, Drone Shopping Simplified Key Takeaways for Beginners</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-turn-any-youtube-experience-into-a-fun-animated-gif-on-devices/"><u>2024 Approved Turn Any YouTube Experience Into a Fun, Animated GIF on Devices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-8-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 8 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-7-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 7 Plus to iPad | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-8-plus-how-to-unlock-a-disabled-apple-iphone-8-plus-by-drfone-ios/"><u>Disabled Apple iPhone 8 Plus How to Unlock a Disabled Apple iPhone 8 Plus?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-and-download-the-right-hp-networking-drivers-for-your-windows-pc-windows-11-windows-7-and-8/"><u>Find and Download the Right HP Networking Drivers for Your Windows PC (Windows 11, Windows 7 & 8)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-xr-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone XR to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-psd-borderline-elegance/"><u>In 2024, Expert PSD Borderline Elegance</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-6-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 6 to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/maximizing-your-time-online-embracing-facebook-fully/"><u>Maximizing Your Time Online Embracing Facebook Fully</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigating-dual-display-the-netflix-floating-window-guide/"><u>Navigating Dual Display The Netflix Floating Window Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-7-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 7 Plus Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-6-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 6 Plus to PC | Dr.fone</u></a></li>
 </ul></div>
 

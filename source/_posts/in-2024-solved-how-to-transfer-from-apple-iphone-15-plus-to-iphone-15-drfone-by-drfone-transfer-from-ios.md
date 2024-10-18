@@ -1,7 +1,7 @@
 ---
 title: In 2024, Solved How To Transfer From Apple iPhone 15 Plus to iPhone 15 | Dr.fone
-date: 2024-09-27T22:46:31.369Z
-updated: 2024-10-01T02:02:31.078Z
+date: 2024-10-15T06:17:10.282Z
+updated: 2024-10-18T05:01:25.596Z
 tags: 
   - iphone transfer
 categories:
@@ -55,33 +55,20 @@ The Quick Start feature from Apple offers a way to transfer data from your previ
 - **Step 3.** Click the “Device” icon in iTunes when it loads the new iPhone, and you will come across the "Welcome to Your New iPhone" screen. Here, select "Restore from this Backup," select the targeted backup, and click "Continue." It will commence the backup restoration process, which takes some time, depending on the backup size.
 - ![restore required backup](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Using Finder (On macOS Catalina and Later Versions)
 
 - **Step 1.** To start, use a USB cable to connect your old iPhone to your Mac and open Finder. In Finder, select your iPhone under the "Locations" section. Click "Back Up Now" to create a backup of your old iPhone on your Mac. Ensure that the "Back up all of the data on your iPhone to this Mac" box is checked, and when the process is completed, unplug the old device.
 - ![back up iphone data on mac](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Now connect the new iPhone with "Restore from Mac or PC" selected from the "Apps & Data" screen. Choose your device in Finder and click "Restore Backup." Then, select the targeted backup and wait for the backup restoration process to complete.
 - ![restore iphone data from mac](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3. iCloud Backup
 
@@ -91,19 +78,6 @@ The Quick Start feature from Apple offers a way to transfer data from your previ
 
 - **Step 1.** Confirm that your former iPhone is connected to a reliable Wi-Fi network. Then, access the Settings app on your previous iPhone and tap your name, which is located at the top of the screen. Select "iCloud" and proceed to choose "iCloud Backup." Ensure the "iCloud Backup" option is activated if it's not switched on. Finally, click "Back Up Now" and wait for the backup process to finalize.
 - ![iphone data backup on icloud](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-10.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Turn on your newly obtained iPhone and follow the initial setup instructions until you reach the "Apps & Data" display. Once there, select "Restore from iCloud Backup" and sign into your iCloud account. Ensure it is the same Apple ID you utilized to back up your previous iPhone. Afterward, select the latest backup of your previous iPhone and follow the on-screen instructions to complete the process.
 - ![restore latest backup from icloud](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-11.jpg)
@@ -131,6 +105,13 @@ iCloud offers 5 GB of free storage, which might not be sufficient for users with
 ### 5\. Compatibility Issues
 
 Older iPhone models might not support the latest iOS versions or certain features. It leads to compatibility issues when transferring data between devices. This is a prominent issue when dealing with different iOS versions.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. One-Click Alternative to Official Methods To Transfer Data From Apple iPhone 15 Plus to iPhone
 
@@ -160,18 +141,18 @@ Your old iPhone from which you are transferring data will be the "Source" device
 
 ![set source and targeted device position](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3. Start and Complete the Data Transfer Process**
 
 The last part includes selecting the data you want to transfer. You can select the data within the transfer screen and, upon making your choices, proceed by clicking "Start Transfer." It's important to note that during this process, you'll need to deactivate the "Find My" feature on iOS devices. When done, the data process will commence automatically.
 
 ![select data to start transfer process](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tip. Want To Buy a New iPhone? Tips and Tricks To Select the Best iPhone for Your Use
 
@@ -197,9 +178,23 @@ iPhones come in different sizes, from compact models like the iPhone 15 to large
 
 If photography holds significance for you, examine the camera capabilities. Seek out attributes such as multiple lenses, improved low-light performance, and advanced camera functionalities.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. Consider Future Updates and Longevity
 
 Opt for the latest Apple device, as the company provides software updates for its products over an extended period. Selecting a model with longer update support ensures that your device stays compatible with the latest software and features.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -228,6 +223,13 @@ To mention the iPhone 12 series specifications, these models are secured with an
 **Camera:** The high-quality telephoto camera of the iPhone 12 Pro is 12 MP, 52mm eq. f/2.0 OIS. For iPhone 12 Pro Max is 12 MP, 65mm eq. f/2.2 OIS. The entire iPhone series model has an ultra-wide camera of 12 MP 13mm eq. f/2.4. The splash, water, and dust resistance feature with IP68 for up to 6m and 30 minutes keeps the phone durable.
 
 iPhone Series devices hold dual-SIM support with nano-SIM and eSIM. Both iPhone 12 Mini and iPhone 12 come in distinct storage capacities like 64 GB, 128 GB, and 256 FB. The iPhone 12 Pro and Pro Max are available in the storage of 128 GB, 256 GB, and 512 GB.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Transfer old iPhone data to iPhone 12
 
@@ -258,10 +260,10 @@ To transfer the data through iTunes or Finder, launch your new device. Once the 
 Select "Restore Backup" to choose a "Backup." Ensure that the size and data are accurate. To restore from an encrypted backup, input the password. The restoration process will start. Now, wait for the entire process to get completed and then move on to the remaining setup steps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Transfer Android Data to iPhone 12
@@ -292,13 +294,6 @@ You can select "Clear data before copy" to delete the data from the destination 
 
 Hopefully, you got a clear idea of how to transfer data to iPhone 12. Dr. Fone - Phone Transfer is one of the finest names for data recovery and data transfer between devices. They have distinct outstanding products that are efficient and useful for the users. One of the best things about the application is that you can transfer the data regardless of the mobile operating system. Be it an iOS or Android device, follow the steps provided above, and that's it. The iPhone 12 data transfer process is quick, easy, and requires less effort.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Refurbished Apple iPhone 15 Plus: Everything You Need to Know
 
 Are you planning to buy a new Apple iPhone 15 Plus but feeling a pinch in your wallet? Have you ever wondered if there is a more affordable way to own the latest iPhone? If yes, then you are at the right place.
@@ -310,6 +305,13 @@ You must be familiar with the idea of recycled furniture and clothes, but not ma
 In this article, you will explore all about refurbished iPhones. What are they, and how they can be a budget-friendly alternative? We will answer everything you need to know.
 
 But before starting, let’s shed some light on what refurbished iPhones actually are because some people aren’t aware of this term.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 1. What does a Refurbished Apple iPhone 15 Plus mean?**
 
@@ -328,13 +330,6 @@ No doubt, refurbished iPhones are the same as the new ones. So, you will enjoy a
 One of the major benefits of purchasing a refurbished Apple iPhone 15 Plus is the cost savings. These devices are more affordable than brand-new ones. You can enjoy the latest features without breaking the bank.
 
 ![An illustration of saving cost.](https://images.wondershare.com/drfone/article/2023/10/Refurbished-iPhone-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Quality Assurance**
 
@@ -438,13 +433,6 @@ Connect your iOS devices (source and target) to your PC via a lightning cable or
 
 ![Open Toolbox from the left pane.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:**
 
 Once the Apple iPhone 15 Plus devices are connected, wait and let them load their data. Then, specify the **"Source"** and **"Target"** of the data transfer. You can also flip the locations by clicking the **"Flio"** button.
@@ -515,18 +503,21 @@ However, don't forget to download [Dr.Fone](https://tools.techidaily.com/wonders
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-icons-of-illusion-youtubes-most-influential-gurus/"><u>[Updated] 2024 Approved Icons of Illusion YouTube's Most Influential Gurus</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-outstanding-10-screenshot-and-recording-titles-for-gamers/"><u>[Updated] 2024 Approved Outstanding 10 Screenshot and Recording Titles for Gamers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-best-firefox-screencasting-extensions-for-2024/"><u>[Updated] Best FireFox Screencasting Extensions for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/8-pioneering-open-source-platforms-revolutionizing-business-calls/"><u>8 Pioneering Open-Source Platforms Revolutionizing Business Calls</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/comprehensive-guide-to-fixing-and-accessing-deleted-data-segments-with-specialized-applications/"><u>Comprehensive Guide to Fixing and Accessing Deleted Data Segments with Specialized Applications</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-day-to-day-with-these-9-chatgpt-strategies/"><u>Effortless Day-to-Day with These 9 ChatGPT Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/grab-the-deal-asus-tuf-165-hz-fps-24-inch-ips-gaming-screen-at-only-99-from-newegg/"><u>Grab the Deal! Asus TUF - 165 Hz FPS, 24-Inch IPS Gaming Screen at Only $99 From Newegg</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-13-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 13 to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-7-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 7 Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-11-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 11 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/taming-audio-volume-peaks-using-fl-studios-mastery/"><u>Taming Audio Volume Peaks Using FL Studio's Mastery</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-15-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 15 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-chorus-climaxes-ultimate-hits-to-accompany-your-promise/"><u>[New] 2024 Approved Chorus Climaxes Ultimate Hits to Accompany Your Promise</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-download-youtube-gallery-files-instantly/"><u>[New] In 2024, Download YouTube Gallery Files Instantly</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-15-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 15 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-efficiency-in-human-resources-discover-5-game-changing-chatgpt-shortcuts/"><u>Boost Efficiency in Human Resources: Discover 5 Game-Changing ChatGPT Shortcuts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/clearing-up-printer-conflicts-in-windows/"><u>Clearing Up Printer Conflicts in Windows</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-se-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone SE to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 13 Pro Max to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 12 to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-xr-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone XR to Android | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-y27s-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y27s Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-13-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 13 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-8-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 8 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mssql-revival-story-damian-wideras-testimonial/"><u>MSSQL Revival Story: Damian Widera's Testimonial</u></a></li>
+<li><a href="https://change-location.techidaily.com/step-by-step-guide-viewing-your-website-content-pre-upload/"><u>Step-by-Step Guide: Viewing Your Website Content Pre-Upload</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/targeted-ads-spreading-awareness-in-the-medical-sphere/"><u>Targeted Ads Spreading Awareness in the Medical Sphere</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unleashing-long-conversations-analyzing-jabras-speak-25/"><u>Unleashing Long Conversations: Analyzing Jabra's Speak 25</u></a></li>
 </ul></div>
 

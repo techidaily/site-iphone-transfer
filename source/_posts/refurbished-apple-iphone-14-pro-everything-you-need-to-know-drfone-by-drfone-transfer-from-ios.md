@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone 14 Pro Everything You Need to Know | Dr.fone
-date: 2024-10-04T21:30:38.701Z
-updated: 2024-10-11T22:16:23.057Z
+date: 2024-10-11T05:52:05.976Z
+updated: 2024-10-18T07:59:24.021Z
 tags: 
   - iphone transfer
 categories:
@@ -32,13 +32,6 @@ When making a purchase, check the Apple iPhone 14 Pro device to see if all its f
 
 Let’s shed some light on the benefits of buying a refurbished or second-hand iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 2. What are the Benefits of Buying a Refurbished iPhone?**
 
 No doubt, refurbished iPhones are the same as the new ones. So, you will enjoy all the benefits that come with the brand-new Apple iPhone 14 Pro at a lower price. If you are fine with a few scratches, refurbished iPhones have a lot more to offer you. The benefits of buying a used Apple iPhone 14 Pro are as follows:
@@ -48,6 +41,19 @@ No doubt, refurbished iPhones are the same as the new ones. So, you will enjoy a
 One of the major benefits of purchasing a refurbished Apple iPhone 14 Pro is the cost savings. These devices are more affordable than brand-new ones. You can enjoy the latest features without breaking the bank.
 
 ![An illustration of saving cost.](https://images.wondershare.com/drfone/article/2023/10/Refurbished-iPhone-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Quality Assurance**
 
@@ -76,13 +82,6 @@ Safety is a natural concern when buying a pre-owned iPhone. You might wonder if 
 On the contrary, if you are buying a refurbished Apple iPhone 14 Pro from a private seller, make sure that it's not a scam. You can take someone who has tech knowledge. Otherwise, make sure that he is offering you a warranty period.
 
 It is always suggested to buy second-hand things, especially tech related, from a legitimate source. If you are about to buy a used iPhone, make sure to follow the factors discussed in the next section.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 4. Factors to Consider Before Buying a Refurbished iPhone.**
 
@@ -158,6 +157,13 @@ Connect your iOS devices (source and target) to your PC via a lightning cable or
 
 ![Open Toolbox from the left pane.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:**
 
 Once the Apple iPhone 14 Pro devices are connected, wait and let them load their data. Then, specify the **"Source"** and **"Target"** of the data transfer. You can also flip the locations by clicking the **"Flio"** button.
@@ -182,25 +188,11 @@ Once you turn off the feature, the data transfer process will begin. You will al
 
 ![Transferring the data.](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 6:**
 
 Once completed, you will see the interface as shown below. Click **"OK"** to conclude the process entirely.
 
 ![Data transfer completed.](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Similarly, you can also transfer data from Android to Apple iPhone 14 Pro and Apple iPhone 14 Pro to Android. There's no need to try complex methods when you have Dr.Fone just a click away.
 
@@ -237,10 +229,10 @@ If you are seeking to change your iPhone, you will have to shift everything, inc
 ![switch sim card featured image](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: Things To Know Before Switching SIM Cards in iPhone
@@ -268,6 +260,13 @@ Once you have learned the implications of switching your SIM card to your new iP
 **Step 1:** Turn off your iPhone to remove the current SIM card from your device. For that, lead into the "Settings" and look for the "General" section. Follow through the screen and scroll down to find the option of "Shut Down" to turn off your iOS device.
 
 ![tap on shut down option](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** As the Apple iPhone 14 Pro device turns off, use a proper pin to open the SIM tray on your iPhone, which completely depends on your model. For the latest and newest Apple iPhone 14 Pro and other iPhones, the SIM tray is present on the bottom-left side of the Apple iPhone 14 Pro device. Remove the old SIM card and replace it with the new one according to the position. Re-insert the SIM tray back into the Apple iPhone 14 Pro device.
 
@@ -310,6 +309,13 @@ Start installing and launching Wondershare Dr.Fone on your computer and selectin
 On the following screen, tap "Start" and follow it by clicking "Unlock Now" as Wondershare Dr.Fone recognizes your device. Now, you will need to jailbreak your device, for which the instructions are given on the screen. Remove the SIM card from the phone and access "WLAN" through device Settings.
 
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/remove-iphone-sim-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3: Complete the SIM Lock Removal Process**
 
@@ -361,13 +367,6 @@ Yes, you can use the same eSIM card to switch between different Apple iPhone 14 
 
 Physical SIM cards are tangible, removable chips that need to be inserted into a SIM card tray, whereas eSIMs are integrated directly into the Apple iPhone 14 Pro device's hardware. Swapping physical SIM cards involves physically removing and inserting the card into the new device, whereas transferring an eSIM between devices can be done remotely. Physical SIM cards can store limited contact information and some network settings, whereas eSIMs can store multiple network profiles.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article has provided a valuable overview of **switching SIM cards to new Apple iPhone 14 Pro and other iPhones**. With a proper understanding of the repercussions involved in the process, a guide has been discussed. Along with its thorough discussion, you have also figured out how to transfer data to a new iPhone. For that, Dr.Fone - Phone Transfer is the best option in the market.
@@ -377,13 +376,6 @@ This article has provided a valuable overview of **switching SIM cards to new Ap
 Apple announced a line-up of iPhones with four new devices in 2020. The series is called the iPhone 12 series that has four handsets of different sizes and price ranges. The iPhone 12 series include iPhone 12, iPhone 12 Mini, iPhone 12 Pro, and iPhone 12 Pro Max. These are the company's first-ever 5G devices. They surely took a step into the future of technology with the 12 series.
 
 ![iphone 12 introduction](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The device is considered lighter than the iPhone SE launched in 2020. iPhone 12 Pro Max holds an outstanding camera system for high-quality image processing. Besides, the introduction of A14 SoC has encouraged the exceptional performance of all four models. Each of the series models is secured with suitable features and new capabilities. Let's take a glance at the relevant specifications and iPhone 12 price.
 
@@ -402,6 +394,13 @@ To mention the iPhone 12 series specifications, these models are secured with an
 **Camera:** The high-quality telephoto camera of the iPhone 12 Pro is 12 MP, 52mm eq. f/2.0 OIS. For iPhone 12 Pro Max is 12 MP, 65mm eq. f/2.2 OIS. The entire iPhone series model has an ultra-wide camera of 12 MP 13mm eq. f/2.4. The splash, water, and dust resistance feature with IP68 for up to 6m and 30 minutes keeps the phone durable.
 
 iPhone Series devices hold dual-SIM support with nano-SIM and eSIM. Both iPhone 12 Mini and iPhone 12 come in distinct storage capacities like 64 GB, 128 GB, and 256 FB. The iPhone 12 Pro and Pro Max are available in the storage of 128 GB, 256 GB, and 512 GB.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Transfer old iPhone data to iPhone 12
 
@@ -431,13 +430,6 @@ To transfer the data through iTunes or Finder, launch your new device. Once the 
 
 Select "Restore Backup" to choose a "Backup." Ensure that the size and data are accurate. To restore from an encrypted backup, input the password. The restoration process will start. Now, wait for the entire process to get completed and then move on to the remaining setup steps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Transfer Android Data to iPhone 12
 
 The methods mentioned above can be time-consuming. In that case, it's best to opt for a simple process that does not require too much work. For example, [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) all is an efficient and easy-to-use phone switch app.
@@ -445,6 +437,13 @@ The methods mentioned above can be time-consuming. In that case, it's best to op
 As the name signifies, this App can help you with iPhone 12 transfer data in a few minutes. Experienced developers develop it for both iOS and Android users. So, you can transfer data from any of the Apple iPhone 14 Pro devices to the new iPhone 12.
 
 ![switch](https://images.wondershare.com/drfone/mobiletrans/df-phone-transfer.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 With Dr. Fone, you can migrate 13 files of distinct size to the new iPhone 12. Here's a glimpse of the files below
 
@@ -461,6 +460,13 @@ To transfer data through Dr. Fone, follow the easy steps mentioned below.
 **Step 4:** After selecting the Apple iPhone 14 Pro device status, mark the checkboxes beside the files for transferring. Once done, tap on the "Start Transfer" button appearing on the screen.
 
 You can select "Clear data before copy" to delete the data from the destination device before transferring. It will speed up the entire process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -480,18 +486,18 @@ Hopefully, you got a clear idea of how to transfer data to iPhone 12. Dr. Fone -
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-for-mac-users-install-and-enjoy/"><u>[New] In 2024, Snapchat for MAC Users - Install and Enjoy</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-a-step-by-step-approach-for-creating-and-merging-stunning-hdr-photos-for-2024/"><u>[Updated] A Step-by-Step Approach for Creating & Merging Stunning HDR Photos for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-ipad-slow-motion-techniques-for-filming-and-video-modification/"><u>2024 Approved The Ultimate iPad Slow Motion Techniques for Filming and Video Modification</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-7-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 7 to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-productivity-in-prose-write-smarter-with-the-assistance-of-hix-ai-and-gpt-4-technology/"><u>Boost Productivity in Prose: Write Smarter with the Assistance of HIX AI and GPT-4 Technology</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1724766863631-dvd-decrypter/"><u>DVD Decrypter 使用中に発生する書き込み障害:解決策とその詳細を学ぶ！</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-7-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 7 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-f04-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy F04 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone SE to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://win-great.techidaily.com/next-level-tech-showdown-predicting-apples-move-to-surpass-competitors-at-wwdc-2024/"><u>Next-Level Tech Showdown: Predicting Apple's Move to Surpass Competitors at WWDC 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-7-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 7 to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-se-2020-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone SE (2020) to PC | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-steps-for-filming-using-logitech-webcam/"><u>[Updated] 2024 Approved Essential Steps for Filming Using Logitech Webcam</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-phone-imaging-choose-the-best-camera-additions/"><u>2024 Approved Perfect Phone Imaging Choose the Best Camera Additions</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-xr-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone XR to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/avoiding-pitfalls-understanding-youtube-standards/"><u>Avoiding Pitfalls Understanding YouTube Standards</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/google-pixel-tablet-preview-official-launch-detailed-specifications-and-whats-new-for-tech-enthusiasts/"><u>Google Pixel Tablet Preview: Official Launch, Detailed Specifications, and What's New for Tech Enthusiasts</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-8-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 8 Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-mini-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 12 mini to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-13-mini-5-ways-to-get-into-a-locked-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 13 mini? 5 Ways to get into a Locked Apple iPhone 13 mini</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-realistic-quantum-leaps-a-vfx-perspective/"><u>In 2024, Realistic Quantum Leaps A VFX Perspective</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-12-pro-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 12 Pro Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-the-top-12-common-challenges-with-your-iphone-12-a-comprehensive-guide/"><u>Resolving the Top 12 Common Challenges with Your iPhone 12: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-editors-guide-to-responsible-ai-engagement/"><u>The Editor's Guide to Responsible AI Engagement</u></a></li>
 </ul></div>
 

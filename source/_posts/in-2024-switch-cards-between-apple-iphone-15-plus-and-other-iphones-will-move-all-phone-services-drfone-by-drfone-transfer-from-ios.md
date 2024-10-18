@@ -1,7 +1,7 @@
 ---
 title: In 2024, Switch Cards Between Apple iPhone 15 Plus and other iPhones Will Move All Phone Services? | Dr.fone
-date: 2024-09-24T23:00:43.856Z
-updated: 2024-10-01T07:31:08.276Z
+date: 2024-10-11T03:27:11.180Z
+updated: 2024-10-17T22:35:01.868Z
 tags: 
   - iphone transfer
 categories:
@@ -46,6 +46,19 @@ Once you have learned the implications of switching your SIM card to your new iP
 
 ![tap on shut down option](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** As the Apple iPhone 15 Plus device turns off, use a proper pin to open the SIM tray on your iPhone, which completely depends on your model. For the latest and newest Apple iPhone 15 Plus and other iPhones, the SIM tray is present on the bottom-left side of the Apple iPhone 15 Plus device. Remove the old SIM card and replace it with the new one according to the position. Re-insert the SIM tray back into the Apple iPhone 15 Plus device.
 
 ![switch the sim card between iphones](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-3.jpg)
@@ -61,10 +74,10 @@ If you switch to an iPhone locked to a specific carrier, you might encounter sev
 To address this concern, you can use [Dr.Fone - Screen Unlock (iOS)](https://drfone.wondershare.com/iphone-unlock.html), a cutting-edge solution. It is designed to unlock SIM locks and enable the use of the iPhone with any compatible carrier. Dr.Fone provides a reliable and user-friendly method to unlock various locks. This also includes SIM locks on Apple iPhone 15 Plus and other iPhones, allowing you to switch between carriers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
@@ -111,13 +124,6 @@ If you have bought a new iPhone and need to switch all data along with the SIM c
 - The process of transferring data is straightforward. You are not required to put in any effort to transfer data.
 - The results provided in the data transfer are incredibly high. Dr.Fone reports concluding proceedings within 3 minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps To Switch Data to New iPhone With Dr.Fone - Phone Transfer
 
 As you seek to know the steps to switch data to a new iPhone with Dr.Fone - Phone Transfer, follow the steps as provided next:
@@ -133,19 +139,6 @@ Launch [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/pho
 As you connect both devices in the transfer process, define the source and destination. Set your old device as the "Source" and the new iPhone as the "Target." To change the Apple iPhone 15 Plus devices, use the “Flip” button.
 
 ![connect your iphone devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Select File Types and Transfer**
 
@@ -194,13 +187,6 @@ Here’s how to activate Shared Album on Settings.
 
 ![apple id settings](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Click iCloud.
 - **Step 4:** Click Photos.
 
@@ -209,6 +195,13 @@ Here’s how to activate Shared Album on Settings.
 - **Step 5:** Toggle on the radio button next to Shared Albums.
 
 ![shared album settings](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Create Shared Albums in Photos
 
@@ -219,13 +212,6 @@ Here’s how to create Shared Albums in Photos.
 - **Step 3:** Click the + icon at the top-left corner of your screen to add a new folder.
 
 ![add new folde](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** Click New Shared Album.
 
@@ -262,10 +248,16 @@ If you’re just sending a few pieces of photos, AirDrop is indeed a great trans
 ![airdrop everyone](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 2:** On the Apple iPhone 15 Plus device that contains the files, go to Photos. Select the images you want to transfer. After that, click the Share button at the bottom-left corner of your screen.
@@ -284,13 +276,6 @@ Another reliable method you can try is to email the photos from one iPhone to an
 - **Step 3:** Choose Mail among the given options.
 
 ![mail share option](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** Key in the email address of the recipient. Subsequently, click the Send icon.
 - **Step 5:** Open the email on the other iPhone. Then, download the photos sent as email attachments.
@@ -317,6 +302,13 @@ The first four tutorials above on how to transfer pictures from Apple iPhone 15 
 
 ![wondershare drfone phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Set the iPhone that contains the photos as the Source and the other iPhone as the Target. Alternatively, click the Flip button to modify the transfer path according to your liking.
 
 ![source and target](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
@@ -333,6 +325,13 @@ The first four tutorials above on how to transfer pictures from Apple iPhone 15 
 
 ![phone transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## BONUS TIP: Back Up Your Photos First
 
 The tutorials above on how to transfer all photos from Apple iPhone 15 Plus to iPhone are safe to initiate. You can be sure about that. But as an additional layer of protection, it’s best to back up your iPhone first before the transfer. Don’t worry. [<u>Wondershare Dr.Fone. </u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) simplifies the backup process for you. Here’s a quick tutorial to get you started.
@@ -341,6 +340,13 @@ The tutorials above on how to transfer all photos from Apple iPhone 15 Plus to i
 - **Step 2:** Access the left-side panel and then click **My Backup.** On the main dashboard, click **Back Up Now.**
 
 ![wondershare drfone backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Follow the on-screen instructions for SMS backup. After that, click **OK** to proceed.
 
@@ -393,13 +399,6 @@ iTunes/Finder presents a reliable and customizable option for data transfer to a
 
 ![choose restore from mac or pc](https://images.wondershare.com/drfone/article/2023/08/transfer-data-to-new-iphone-15-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** In Finder or iTunes, select your iPhone 15 from the sidebar or top. Enable the "Restore from this Backup" option and choose the most recent backup you created. Afterward, click "Continue" to begin the process of transferring the old iPhone data to iPhone 15.
 
 ![choose the old iphone backup](https://images.wondershare.com/drfone/article/2023/08/transfer-data-to-new-iphone-15-5.jpg)
@@ -427,6 +426,19 @@ Transitioning from an Android device to the iPhone 15 is now a seamless process.
 - **Step 1:** Turn on your new iPhone and set it up until you reach the "Apps & Data" screen. Here, tap "Move Data from Android" and move to the Android device.
 
 ![choose move data from android](https://images.wondershare.com/drfone/article/2023/08/transfer-data-to-new-iphone-15-9.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** On your Apple iPhone 15 Plus, install and launch the Move to iOS app. Agree to the terms and conditions, and on the iOS device, press "Continue" once the Move to Android screen appears. It will display a code that you need to put on the Android device to establish a connection.
 
@@ -543,22 +555,15 @@ These empower you to transfer your cherished data to the iPhone 15 easily. While
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-livestream-and-record-software-face-off-obs-vs-bandicam/"><u>[New] 2024 Approved Livestream & Record Software Face-Off OBS vs Bandicam</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-engagement-youtube-links-as-a-catalyst/"><u>[New] In 2024, Maximizing Engagement YouTube Links as a Catalyst</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-novices-path-to-professional-gopro-video-editing/"><u>[New] Novice's Path to Professional GoPro Video Editing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-precision-in-screen-recording-a-comprehensively-reviewed-list/"><u>[Updated] In 2024, Precision in Screen Recording A Comprehensively Reviewed List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-infusing-instagram-reels-with-tunes-and-narration-for-2024/"><u>[Updated] Infusing Instagram Reels with Tunes & Narration for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-lg-bp350-review-audiovisual-performance-analysis/"><u>2024 Approved The LG BP350 Review Audiovisual Performance Analysis</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone SE to Android | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/brother-hl-l2360dw-driver-downloads-update-your-printer-software-now/"><u>Brother HL-L2360DW Driver Downloads: Update Your Printer Software Now</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-11-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 11 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-12-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 12 to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-pro-max-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 13 Pro Max to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-8-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 8 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 6 to Android | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-14-pro-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 14 Pro Prevention & Solution</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-t-series-youtube-earnings/"><u>In 2024, Unveiling T-Series' Youtube Earnings</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-13-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 13 to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-12-pro-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 12 Pro Max to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-complete-setup-blueprint-for-wm6/"><u>[New] In 2024, Complete Setup Blueprint for WM6</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-pursuit-of-perfection-the-in-depth-review-of-benqs-27-high-def-display-bl2711u/"><u>[Updated] In Pursuit of Perfection The In-Depth Review of BenQ’s 27” High-Def Display, BL2711U</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-13-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 13 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cost-effective-obs-setup-tips-for-2024/"><u>Cost-Effective OBS Setup Tips for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-poco-c51-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Poco C51 Phones with/without a PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-honor-magic-v2-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Honor Magic V2 Phone that is Locked?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-13-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 13 to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-se-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone SE to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-xr-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone XR to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-social-sphere-with-facebook-twitter-instagram-and-youtube/"><u>Mastering the Social Sphere with Facebook, Twitter, Instagram & YouTube</u></a></li>
 </ul></div>
 

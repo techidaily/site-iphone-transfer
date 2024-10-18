@@ -1,7 +1,7 @@
 ---
 title: Various Methods to Transfer Pictures from Apple iPhone 13 mini to PC | Dr.fone
-date: 2024-10-07T04:33:09.860Z
-updated: 2024-10-12T07:41:02.542Z
+date: 2024-10-17T00:18:02.742Z
+updated: 2024-10-18T03:30:25.873Z
 tags: 
   - iphone transfer
 categories:
@@ -21,13 +21,6 @@ It can be helpful in creating backups, freeing up storage space, and more. In th
 ## Part 1: How To Transfer Photos From Apple iPhone 13 mini to PC With Windows Features
 
 With the Apple iPhone 13 mini 's advanced camera, capturing life's beautiful moments is second nature. On the other hand, Windows OS has long been the backbone of personal computing. They come equipped with a range of tools to make the photo transfer process smooth and efficient. Explained below are two of the common method to **import photos from Apple iPhone 13 mini to PC**:
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: File Explorer
 
@@ -100,13 +93,6 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 
 ![click on the download option](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Pros
 
 - Google Drive permits offline access to your synced photos, even without a constant internet connection.
@@ -122,12 +108,26 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 
 Wondershare Dr.Fone also serves as a great tool to back up your data to your computer. It allows you to create wireless auto-backups on your computer. This backed-up data can be quickly restored to your device at any time. Furthermore, this tool also offers a dedicated iCloud manager to manage your iCloud data.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Features of Wondershare Dr.Fone
 
 - If you want to sell your Apple iPhone 13 mini , then with the help of Wondershare Dr.Fone Anti-Recovery Mode, you can ensure that your data is erased properly.
 - There is no need to jailbreak your iOS device for updating or downgrading it with the help of Wondershare Dr. Fone.
 - Fone is designed so that even a layman can use it easily to manage his iPhone without any technical skill.
 - You can use Wondershare Dr.Fone for almost all iOS versions and devices, including iPhone and iPod Touch.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Straightforward Step-by-Step Guide To Transfer Photos From Apple iPhone 13 mini to PC With Wondershare Dr.Fone
 
@@ -167,13 +167,6 @@ Photos are important because they reflect our memories, we have so many memories
 
 The top method to transfer photos from Apple iPhone 13 mini to iPhone without iCloud is to transfer all the photos in one click. With this method, you can complete the photo transfer even within seconds without any photo loss. All you need are two lightning cables to connect both iPhones to your PC or Mac, and the [Dr.Fone - Phone Transfer (iOS & Android)](https://tools.techidaily.com/wondershare/drfone/phone-switch/) software.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Phone Transfer
 
 Easiest Way to Transfer Photos from Apple iPhone 13 mini to iPhone without iCloud
@@ -196,29 +189,22 @@ Step 2: Connect both iPhones to your PC and click "Phone Transfer".
 
 ![transfer all photos from iphone to iphone without icloud using the software](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** _Confirm which iPhone is your destination device and which one is the source. Click "Flip" to swap their positions if necessary._
 
 Step 3: Select the "Photos" option and click "Start Transfer". Then you can find all photos are transferred from Apple iPhone 13 mini to iPhone without iCloud.
 
 ![transfer all photos from iphone to iphone without icloud](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Video Guide: Transfer photos from Apple iPhone 13 mini to iPhone without iCloud**
 
 <iframe width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/_Fhd5Vugoek"></iframe>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Transfer Photos from Apple iPhone 13 mini to iPhone without iCloud (Selective Transfer) \[iPhone 15 Included\]
 
@@ -232,18 +218,18 @@ First, you need to install Wondershare Dr.Fone on your computer and connect both
 
 ![choose your old iphone](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Perform the Selective Photos Transfer**
 
 Once Dr.Fone detects all the photos in your iPhone, it will categorize them in the albums like they are in your iDevice. Choose the pictures you want to transfer and tap the “To Device” option. Then, click on the iPhone on which you want to send all the selected images and complete the photo transfer process.
 
 ![transfer the selected images](https://images.wondershare.com/drfone/guide/manage-ios-photos-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Transfer Photos from Apple iPhone 13 mini to iPhone without iCloud via iTunes \[iPhone 15 Included\]
 
@@ -300,6 +286,13 @@ In the realm of smartphones, change is not just inevitable; it's a constant. Wit
 
 The iPhone 15 is an example of Apple's commitment to pushing the boundaries of technology. It offers advancements in processing power, camera capabilities, and display technology. This new iPhone promises to redefine what a smartphone can do.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Enhanced Camera Systems
 
 For photography fans, the iPhone 15's camera system is nothing short of revolutionary. From improved low-light performance to detailed zoom capabilities, it reaches a whole new level of quality.
@@ -319,6 +312,13 @@ Transitioning to the new iPhone 15 is an exciting experience. It means you need 
 - **Step 1:** On your Apple iPhone 13 mini , navigate to "Settings," tap on your Apple ID, select "iCloud," and then "iCloud Backup." Here tap "Back Up Now" to create an iCloud back of your iPhone data.
 
 ![access icloud backup feature](https://images.wondershare.com/drfone/article/2023/08/transfer-old-iphone-to-iphone-15-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Power on your iPhone 15 and follow the setup prompts until you reach the "Apps & Data" screen. Then, proceed with the "Restore from iCloud Backup" feature and sign in using your Apple ID credentials.
 - **Step 3:** A list of available iCloud backups will appear on the screen. Here you need to select the most recent backup from your Apple iPhone 13 mini . Keep in mind that a reliable Wi-Fi connection is essential for a smooth and speedy transfer.
@@ -355,10 +355,16 @@ Looking for a more hands-on approach to data transfer? Using iTunes/Finder can b
 ![choose old iphone backup file](https://images.wondershare.com/drfone/article/2023/08/transfer-old-iphone-to-iphone-15-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus Tips: Having Trouble When Transferring to iPhone 15 Stucks?
@@ -386,6 +392,13 @@ Initiate the process by launching Wondershare Dr.Fone on the computer. Continue 
 
 ![open phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2 Set Data Transfer Path**
 
 On accessing the Phone Transfer tool, continue to connect your iOS devices and let them load their data on the next screen. Here, define the **Source** and **Destination** of the transfer to specify the direction of the phone transfer. To change locations, use the **Flip** button on the top.
@@ -410,13 +423,6 @@ Once done, the window in the front shows the completed phone transfer. Click **O
 
 ![complete ios data transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In summary, we've explored various methods to **iPhone 15 transfer data**. These ranged from iCloud to direct device-to-device transfers and iTunes/Finder. Each method offers its own advantages, catering to different preferences and circumstances.
@@ -437,24 +443,17 @@ However, one solution that truly stands out for its speed, ease, and efficiency 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-visual-polishing-in-meetings-blurring-backgrounds-on-teammeeting/"><u>[New] 2024 Approved Visual Polishing in Meetings Blurring Backgrounds on TeamMeeting</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-breakthrough-techniques-for-building-intricate-iphone-photo-collages/"><u>[New] Breakthrough Techniques for Building Intricate iPhone Photo Collages</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-the-potential-of-youtube-shorts-advertising-for-2024/"><u>[New] Harnessing the Potential of YouTube Shorts Advertising for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-initial-glimpse-at-vectors-classifying-and-choosing-right-tech/"><u>2024 Approved Initial Glimpse at Vectors Classifying and Choosing Right Tech</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-xr-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone XR to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choosing-the-right-flagship-ipad-pro-x-vs-ipad-pro-y-a-comprehensive-guide/"><u>Choosing the Right Flagship: IPad Pro X vs iPad Pro Y – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fedora-os-extends-its-reach-to-include-every-m-powered-apple-computer-with-one-exception-discover-the-latest-updates-in-mac-os-integration-zdnet-news/"><u>Fedora OS Extends Its Reach to Include Every M-Powered Apple Computer (with One Exception) - Discover the Latest Updates in Mac OS Integration | ZDNET News</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-mod-files-into-mp3-format-with-movavi/"><u>Free Online Converter: Transform MOD Files Into MP3 Format with Movavi</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-12-mini-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 12 mini to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-xs-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone XS Max to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-8-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 8 Plus to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-6s-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 6s to Samsung | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-12-pro-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 12 Pro to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-11-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 11 to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-11-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 11 to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-12-mini-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 12 mini to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-proxy-perfection-top-video-editing-software-for-4k-creators/"><u>New In 2024, Proxy Perfection Top Video Editing Software for 4K Creators</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-changing-your-computer-screens-wallpaper-easily/"><u>Step-by-Step Guide: Changing Your Computer Screen's Wallpaper Easily</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-list-of-free-got-tune-sources-for-2024/"><u>Ultimate List of Free GoT Tune Sources for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unseen-horizons-hot-list-of-vr-peripherals-top-10/"><u>[New] Unseen Horizons Hot List of VR Peripherals (Top 10)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-navigating-skype-screen-sharing-during-home-office-workflows/"><u>[Updated] 2024 Approved Navigating Skype Screen Sharing During Home Office Workflows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-chill-bites-analysis-in-depth-review-of-ice-cream-recorder/"><u>[Updated] Chill Bites Analysis In-Depth Review of Ice Cream Recorder</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-crafting-captivating-edu-videos-essential-techniques-and-tips-for-youtube-success/"><u>2024 Approved Crafting Captivating Edu-Videos Essential Techniques and Tips for YouTube Success</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-elevate-your-message-with-these-30-video-suggestions/"><u>2024 Approved Elevate Your Message with These 30 Video Suggestions</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-8-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 8 to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-the-best-16-destinations-for-finding-top-trending-viral-meme-content-online/"><u>Discover the Best 16 Destinations for Finding Top-Trending, Viral Meme Content Online</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-6s-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 6s Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-samsung-galaxy-m34-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Samsung Galaxy M34 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-13-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 13 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-13-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 13 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-x-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone X Apps to New iPhone | Dr.fone</u></a></li>
 </ul></div>
 
