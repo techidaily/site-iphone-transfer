@@ -1,7 +1,7 @@
 ---
 title: Methods to Transfer from Apple iPhone 12 Pro Max to Android | Dr.fone
-date: 2024-10-15T11:24:57.140Z
-updated: 2024-10-18T06:47:48.729Z
+date: 2024-10-16T16:53:15.259Z
+updated: 2024-10-23T16:16:50.561Z
 tags: 
   - iphone transfer
 categories:
@@ -20,13 +20,6 @@ Ready to switch your old iPhone to an Android smartphone? I'm sure it will bring
 
 The easiest way to transfer data from Apple iPhone 12 Pro Max to Android is to use the smart iPhone to Android transfer tool, [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It enables you to easily transfer all contacts both in phone memory and cloud account, like iCloud, Exchange, and others, text messages, video, photos, and music from iPhone (iPhone 15 included) to Android phone or tablet.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Phone Transfer
 
 1-Click Phone to Phone Transfer
@@ -40,6 +33,13 @@ The easiest way to transfer data from Apple iPhone 12 Pro Max to Android is to u
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Transfer Data from Apple iPhone 12 Pro Max to Android
 
 **1\. Transfer Contacts in accounts:** To transfer contacts in Facebook, Twitter, Google and any accounts on your iPhone to Android phone or tablet, you should sign in the accounts on your iPhone.
@@ -52,6 +52,13 @@ Launch Dr.Fone - Phone Transfer on your Windows PC or Mac. On its homepage, choo
 
 ![iphone to android contacts transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2. Connect Your iPhone and Android Device to Computer with USB Cables
 
 Connect your iPhone and Android device to the computer. Two devices will be soon detected and shown in the window below.
@@ -63,13 +70,6 @@ Connect your iPhone and Android device to the computer. Two devices will be soon
 Scan the supported files to ensure what you're going to transfer. Click "Start Transfer". If you have many useless files on your Apple iPhone 12 Pro Max, you can check "Clear data before copy".
 
 ![transfer contacts from iphone to android](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Don't have a computer at hand? Just try the [Android app of Dr.Fone - Phone Transfer](https://play.google.com/store/apps/details?id=com.wondershare.mobiletrans&hl=en), which allows you to directly **transfer data from Apple iPhone 12 Pro Max to Android**, and bring iCloud data to Android without any hassle.
 
@@ -107,21 +107,7 @@ Step 5. Navigate to the Contacts app on your Apple iPhone 12 Pro Max. Tap the me
 
 ![copy contacts from iphone to android](https://images.wondershare.com/drfone/others/import-vcf-to-android2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Tips:** If you want to know more ways to transfer contacts from Apple iPhone 12 Pro Max to Android, you can find more satisfying answers on ways to transfer contacts from Apple iPhone 12 Pro Max to Samsung, and [switch contacts from Apple iPhone 12 Pro Max to Android](https://drfone.wondershare.com/iphone-transfer/how-to-transfer-contacts-from-iphone-to-android.html).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 3. Transfer iPhone text messages to Android with 2 Android apps
 
@@ -151,6 +137,13 @@ Plug-in USB cables to connect your iPhone and Android phone to computer. Your iP
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/delete-ipad-photos-from-computer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Part 5. Transfer Video and Music from Apple iPhone 12 Pro Max to Android
 
 Have purchased hundreds of thousands of songs and videos and now want to transfer to your new Android phone or tablet. It's a piece of cake. iTunes can do that for you. Just follow the easy tutorial below.
@@ -158,13 +151,6 @@ Have purchased hundreds of thousands of songs and videos and now want to transfe
 Step 1. Open iTunes. Click _Store_ > _Authorize This Computer…_. Fill out your Apple ID and password. Get your iPhone and Android phone connected with a USB cable and open iTunes. Right click your iPhone. In the pull-down list, choose _Transfer Purchased_ to transfer iPhone music and video back to iTunes. Navigate to the iTunes media folder on the computer. C: UsersAdministratorMusiciTunesiTunes Media. Find your wanted music and video and copy them to your Apple iPhone 12 Pro Max SD card.
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/itunes-media-folder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 6. Transfer Calendars from Apple iPhone 12 Pro Max to Android
 
@@ -184,13 +170,6 @@ Step 4. On your Apple iPhone 12 Pro Max or tablet, tap _Settings_ > _Account & s
 
 The above methods offer you valuable solutions to **transfer data from Apple iPhone 12 Pro Max to Android**. Whether you choose to use Dr.Fone - Phone Transfer, cloud services, or iTunes, these methods cater to a variety of preferences and ensure that your valuable data, including contacts, messages, photos, and apps, can seamlessly migrate to your new Android device. By using Dr.Fone - Phone Transfer, you can make the switch from Apple iPhone 12 Pro Max to Android with 1 click, try it now!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Transfer Everything from Apple iPhone 12 Pro Max to iPhone 8/X/11
 
 [![Bhavya Kaushik](https://drfone.wondershare.com/images/Bhavya_Kaushik.png)](https://drfone.wondershare.com/author/bhavya-kaushik/)
@@ -200,10 +179,10 @@ This article guide focuses on the techniques and tools you need to **transfer ev
 We have different kinds of files in our iPhone and almost all of the files are important to us. We would never want to stay out of touch with our important ones, and contacts help us to do that. All of that collection of your favorite music is not east to gather and you would certainly not like it if all of it is gone from your handset, So Contacts, Photos, SMS, Music all of these files are very important to us one can only understand the importance when they have no more access to these contents. Similarly, Photos are also important because they are the proof of our precious memories, and we don’t want to lose them. SMS messages are the records of every conversation we had with our contacts and sometimes we need record to continue the conversation regarding the subject. To transfer all of the content from one phone to another, we need a transfer tool because different handsets have different operating systems. And it is not easy to perform transfer functions between two devices. Most of the people hesitate to switch to a newer device because of the hassle they think they might have to go through to transfer data to new device, including the new iPhone 8/X/11.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to transfer everything from Apple iPhone 12 Pro Max to iPhone 8/X/11
@@ -237,6 +216,26 @@ Step 4: Simply click start transfer and the transfer process will begin make sur
 
 ![transfer from Apple iPhone 12 Pro Max to iPhone 8](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg "transfer from iPhone 5s to iPhone 8")
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to transfer everything from Apple iPhone 12 Pro Max to iPhone 8/X/11 with iCloud
 
 Initially signing up for ICloud gets you 5GB of storage, you can use this storage for IOS device backup, iCloud photo library, app data and documents stored in the ICloud. If you feel 5gb storage is not enough you, you can always upgrade your storage but then you will have to pay. iCloud as a backup is a great if anything happens to your phone you can get access to your data anywhere with the internet besides this you can also use this data to switch your new iPhone 8/X/11 device.
@@ -250,6 +249,13 @@ Step 3. You must be connected to the Wi-Fi until the backup process is completed
 ![transfer everything from Apple iPhone 12 Pro Max to iPhone 8](https://images.wondershare.com/drfone/article/2017/09/transfer-from-iphone-7-to-iphone-8-via-icloud.jpg "transfer everything from Apple iPhone 12 Pro Max to iPhone 8")
 
 Step 4. Now that your data has been backed up using your iCloud id you can always add this id to your new iPhone 8/X/11 device. Right after you add your iCloud id to your new iPhone 8/X/11, and **Restore from iCloud Backup**, all of the backed up data from Apple iPhone 12 Pro Max will be transferred to your new iPhone 8/X/11 device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to transfer everything from Apple iPhone 12 Pro Max to iPhone 8/X/11 with iTunes?
 
@@ -276,6 +282,13 @@ _"Is it hard to move custom ringtones from Apple iPhone 12 Pro Max to Android?"_
 Apple has always emphasized IOS’s superiority over Android. Making it easier to transfer music files, ringtones from Apple iPhone 12 Pro Max to Android was never Apple’s priority. There are times when people feel the urge to transfer iPhone ringtones for android. The process is easy but it requires a bit of manual intervention on user’s behalf. Sometimes the entire data needs to backed up or transferred to another device. In this article, we will explain clearly on how to move custom ringtones from Apple iPhone 12 Pro Max to Android without any fuss.
 
 ![Move Custom Ringtones from Apple iPhone 12 Pro Max to Android Easily](https://images.wondershare.com/drfone/others/move-custom-ringtones-from-iphone-to-android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1. How to move custom ringtones from Apple iPhone 12 Pro Max to Android?
 
@@ -314,13 +327,6 @@ Step 2 Choose the source device that you want to transfer from.
 Step 3 Go to the “Music” tab. Select the Ringtones option on the left sidebar. Choose the ringtone you want to transfer and go to “Exports” option and select the “Export to …….” Where “……” is your Samsung device in this example. You can export the files to as many IOS, Android devices you want.
 
 ![how to move iPhone ringtones to android easily](https://images.wondershare.com/drfone/drfone/export-music-to-pc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. How to Make Ringtones for iPhone?
 
@@ -366,14 +372,20 @@ In case of technical concern, you can always contact our customer representative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-cutting-edge-techniques-for-captivate-content/"><u>[New] 2024 Approved Cutting-Edge Techniques for Captivate Content</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigate-the-clouds-and-crowd-fb-livestreams-via-dji/"><u>[New] In 2024, Navigate the Clouds and Crowd FB Livestreams via DJI</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-simplify-your-design-process-how-to-remove-background-in-figma/"><u>[New] Simplify Your Design Process How To Remove Background in Figma</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-xr-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone XR to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/descargar-convertidor-de-archivos-de-audio-libres-de-derechos-de-autor-guia-completa-para-cambiar-flac-a-mp4/"><u>Descargar Convertidor De Archivos De Audio Libres De Derechos De Autor: Guía Completa Para Cambiar Flac a Mp4</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gemini-ai-versus-chatgpt-plus-which-delivers-better-results/"><u>Gemini AI Versus ChatGPT Plus: Which Delivers Better Results?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-14-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 14 Plus to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-12-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 12 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-11-pro-max-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 11 Pro Max Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mac-ready-detailed-screenflow-review-with-v4/"><u>[New] 2024 Approved Mac Ready Detailed ScreenFlow Review with V4</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-toolwiz-in-pictures-complete-review-unveiled/"><u>[New] Toolwiz in Pictures Complete Review Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-in-class-streaming-capture-software-for-youtubers/"><u>[Updated] 2024 Approved Best-in-Class Streaming Capture Software For YouTubers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-engaging-audiences-with-visual-uploads-youtube-insights/"><u>[Updated] Engaging Audiences with Visual Uploads YouTube Insights</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-6s-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 6s Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-14-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 14 Pro to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016334648-fixing-your-windows-1110-zoom-mic-issues-expert-solutions/"><u>Fixing Your Windows 11/10 Zoom Mic Issues: Expert Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-circumvent-ms-defender-block-on-other-av-tools/"><u>How to Circumvent MS Defender Block on Other AV Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X100 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-13-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 13 to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-7-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 7 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-6s-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 6s to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6s-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 6s to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-xs-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone XS to iPhone | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-image-recovery-with-stellar-photo-fix-specialized-windows-standard-solution/"><u>Mastering Image Recovery with Stellar Photo Fix - Specialized Windows Standard Solution</u></a></li>
 </ul></div>
 

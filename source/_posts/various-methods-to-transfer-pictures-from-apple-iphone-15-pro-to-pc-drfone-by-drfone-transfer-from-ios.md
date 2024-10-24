@@ -1,7 +1,7 @@
 ---
 title: Various Methods to Transfer Pictures from Apple iPhone 15 Pro to PC | Dr.fone
-date: 2024-10-12T10:07:34.762Z
-updated: 2024-10-18T06:42:02.646Z
+date: 2024-10-22T23:10:01.354Z
+updated: 2024-10-23T16:36:15.348Z
 tags: 
   - iphone transfer
 categories:
@@ -36,15 +36,28 @@ Moreover, you can select the images you desire and move them to your computer. F
 
 ![open the apple storage](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Here, double-click on your iPhone's icon to access its internal storage. Most of your iPhone's photos are stored in the "DCIM" folder. Browse the folder to select photos you want to move and copy them to your desired location.
 
 ![access the dcim folder](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Photos App
@@ -58,6 +71,13 @@ Available in Windows 10 and later, the Photos app is a prime example of this con
 - **Step 2:** In the Photos app, click on the "Import" button located in the top-right corner. From the available options, choose "From a connected device" and select your iPhone. The Photos app will display the photos on your Apple iPhone 15 Pro  that are available for import. After selecting the images, select an existing folder or create a new one for the imported photos.
 
 ![import the photos](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How To Transfer Photos From Apple iPhone 15 Pro to PC With Cloud Storages
 
@@ -115,6 +135,13 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 
 Wondershare Dr.Fone also serves as a great tool to back up your data to your computer. It allows you to create wireless auto-backups on your computer. This backed-up data can be quickly restored to your device at any time. Furthermore, this tool also offers a dedicated iCloud manager to manage your iCloud data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Features of Wondershare Dr.Fone
 
 - If you want to sell your Apple iPhone 15 Pro , then with the help of Wondershare Dr.Fone Anti-Recovery Mode, you can ensure that your data is erased properly.
@@ -150,13 +177,6 @@ In our journey to uncover the most effective method for **how to transfer photos
 
 It bridges the gap between devices with unparalleled features. Dr. Fone's capability to transcend the realm of mere photo transfer sets it apart. Its comprehensive suite of features empowers you to manage your Apple iPhone 15 Pro 's data with ease.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Transfer from Apple iPhone 15 Pro to iPhone 8/11/11 Pro
 
 Are you an Apple iPhone 15 Pro user? Well, iPhone 8/11/11 Pro will be a huge technological leap for you. In this article we will take you through **how to transfer everything from Apple iPhone 15 Pro to iPhone 8/11/11 Pro** easily in three sim-ple steps because we understand that no smartphone works up to our expectations if our data, such as contacts, music, photos, notes, etc is not fed in it.
@@ -186,6 +206,13 @@ Transfer Everything from iPhone 5S to iPhone 8/11/11 Pro in 1 Click!
 
 In this segment, we will learn **how to transfer everything from Apple iPhone 15 Pro to iPhone 8/11/11 Pro** with Dr.Fone. To do so, download and install the software on your computer and follow the steps given below:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Launch Dr.Fone software
 
 Once Dr.Fone - Phone Transfer is installed on your PC, launch the program and connect the Apple iPhone 15 Pro and iPhone 8/11/11 Pro to the PC with the help of two different USB cables. Next up, select “**Phone Transfer**” option on Dr.Fone toolkit and move on.
@@ -202,16 +229,16 @@ This is the last step which only requires you to hit the “**Start Transfer**�
 
 ![transfer from Apple iPhone 15 Pro to iPhone 8](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg "transfer from Apple iPhone 15 Pro to iPhone 8")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** The images above are of iPhone 6Plus. There is no difference in procedure to transfer Apple iPhone 15 Pro to iPhone 8/11/11 Pro.
 
 Simple, right? In just one click, all the data is moved from Apple iPhone 15 Pro to iPhone 8/11/11 Pro.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to transfer everything from Apple iPhone 15 Pro to iPhone 8/11/11 Pro with iTunes?
 
@@ -242,10 +269,10 @@ Step 2. Now on your old Phone 5s, visit “**Settings**” and tap on your name.
 ![transfer everything from Apple iPhone 15 Pro to iPhone 8 with iCloud](https://images.wondershare.com/drfone/article/2017/09/transfer-everything-from-iphone-5s-to-iphone-8-via-icloud.jpg "transfer everything from Apple iPhone 15 Pro to iPhone 8 with iCloud")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3. Now, on the iPhone 8/11/11 Pro, start setting it up once again and connect it to a WiFi network.
@@ -264,19 +291,6 @@ Where iTunes and iCloud are easy and go-to tools for many users, Dr.Fone - Phone
 
 Although the Apple iPods have been discontinued, many old users still use them as music players. As we all know, if you want to transfer music from Apple iPhone 15 Pro to iPod, you can just log in with the same Apple ID and then download the songs you purchased on the iPod touch. However, how can you transfer the music that is saved on other devices to your iPod? Don’t worry, this detailed guide introduces 4 ways to transfer music from Apple iPhone 15 Pro to iPod touch, just keep reading!
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Easy and powerful way to transfer music from Apple iPhone 15 Pro to iPod
 
 A great tool for the purpose of easy transfer of music between iOS devices is [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). This tool makes life easy for people who want to switch to a new smartphone or are looking for solutions to sync not only music but also contacts, messages, call logs, photos, etc. between different smartphones.
@@ -290,13 +304,6 @@ A great tool for the purpose of easy transfer of music between iOS devices is [D
 - Supports iOS devices that run the latest iOS version ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 
 **4,495,115** people have downloaded it
@@ -307,6 +314,13 @@ Step 1. Download and install Dr.Fone on your computer. Run it and select Phone T
 
 ![transfer music from Apple iPhone 15 Pro to iPod - using Dr.Fone step 1](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2. Select Music and other file types you would like to transfer and click on Start Transfer.
 
 ![transfer music from Apple iPhone 15 Pro to iPod - using Dr.Fone step 2](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -314,13 +328,6 @@ Step 2. Select Music and other file types you would like to transfer and click o
 Step 3. Then just sit and have a cup of coffee. All music files will be transferred from Apple iPhone 15 Pro to iPod successfully.
 
 ![transfer music from Apple iPhone 15 Pro to iPod - using Dr.Fone step 2](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
@@ -337,13 +344,6 @@ Then you need to follow the following steps for the process to be done. On the c
 iTunes match is another way to process of transfer music purchased or unpurchased from iTunes from Apple iPhone 15 Pro to iPod. In fact, iTunes match determines the song, which is present in the iCloud and since there are over 43 million songs, iTunes match matches these unpurchased songs with the database and allows playing these music from the iCloud store. Now, you just need to tap the iCloud download button to download music from an artist, album or playlist. Thus, a person has immediate access to a huge music library without having to worry about the storage space on your device.
 
 ![transfer music from Apple iPhone 15 Pro to iPod - using iTunes match](https://images.wondershare.com/drfone/article/transfer-music-from-iphone-to-ipod-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Transfer Music imported from a CD or other source from Apple iPhone 15 Pro to iPod
 
@@ -387,15 +387,22 @@ For this process to complete, you need to import all songs from CD to iTunes at 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-economical-audience-expansion-buy-subscribers-not-time/"><u>[New] In 2024, Economical Audience Expansion Buy Subscribers, Not Time</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-initiate-seamless-gaming-streams-mastering-obs-recording/"><u>[Updated] In 2024, Initiate Seamless Gaming Streams Mastering OBS Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-fast-track-on-friend-finding-in-facebook-land-for-2024/"><u>[Updated] Unlocking Fast Track on Friend-Finding in Facebook Land for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-optimize-frame-rates-for-maximum-gameplay-immersion/"><u>2024 Approved Optimize Frame Rates for Maximum Gameplay Immersion</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-7-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 7 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-12-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 12 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone SE to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rapid-remedies-for-when-fortnite-wont-load-correctly/"><u>Rapid Remedies for When Fortnite Won't Load Correctly</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-11r-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus 11R IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-se-2020-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone SE (2020) to PC | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-how-to-write-amazing-podcast-descriptions-with-examples-for-2024/"><u>[New] How to Write Amazing Podcast Descriptions (With Examples) for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-capturing-the-heart-of-sims-innovative-techniques-for-recording-realistic-gameplay/"><u>[New] In 2024, Capturing the Heart of Sims Innovative Techniques for Recording Realistic Gameplay</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-modern-uses-of-drones-to-coming-innovations-for-2024/"><u>[New] Modern Uses of Drones to Coming Innovations for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-essential-tips-and-tricks-for-creating-killer-short-videos-on-yt/"><u>[Updated] In 2024, Essential Tips and Tricks for Creating Killer Short Videos on YT</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-13-pro-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 13 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-7-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 7 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-x90s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo X90S Quickly? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-motorola-moto-g34-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Motorola Moto G34 5G</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-se-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone SE to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-6-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 6 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-15-pro-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 15 Pro Max to SIM? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-14-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 14 to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-13-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 13 Pro Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-xs-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone XS Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-swift-ft232r-driver-setup-universal-solution-for-serial-communication/"><u>Secure & Swift FT232R Driver Setup - Universal Solution for Serial Communication</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-8-leading-apps-for-managing-multiple-mobile-contact-numbers-effectively/"><u>The Ultimate List: 8 Leading Apps for Managing Multiple Mobile Contact Numbers Effectively</u></a></li>
+<li><a href="https://win-premium.techidaily.com/toshiba-tecra-a5nchdd/"><u>Toshiba Tecra A5nCのHDDを取り替えるための専門ガイド</u></a></li>
 </ul></div>
 

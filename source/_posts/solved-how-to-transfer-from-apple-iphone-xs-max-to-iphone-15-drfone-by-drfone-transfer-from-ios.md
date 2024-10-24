@@ -1,7 +1,7 @@
 ---
 title: Solved How To Transfer From Apple iPhone XS Max to iPhone 15 | Dr.fone
-date: 2024-10-11T18:18:02.370Z
-updated: 2024-10-18T08:32:13.616Z
+date: 2024-10-19T04:24:48.637Z
+updated: 2024-10-24T02:02:47.049Z
 tags: 
   - iphone transfer
 categories:
@@ -23,6 +23,13 @@ We'll offer detailed, step-by-step guidance and explore many methods to ensure a
 ## Part 1. How To Transfer Data From Apple iPhone XS Max to iPhone With Apple’s Built-In Methods
 
 Moving data from one iPhone to another can be easier using Apple's tools. These features are already on your iPhone and make it simple and reliable to transfer your data. Given below are the three built-in solutions from Apple for **how to transfer data from Apple iPhone XS Max to iPhone**:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1. Quick Start
 
@@ -49,6 +56,13 @@ The Quick Start feature from Apple offers a way to transfer data from your previ
 - **Step 1.** Initiate by connecting your old iPhone to your computer and launching the latest version of iTunes. Once your device is detected by iTunes, click the Apple iPhone XS Max device icon to access the "Summary" tab. Here, move to the "Backups" section and click "Back Up Now" to start creating the backup. Before pressing "Back Up Now," ensure that "This Computer" is selected as a backup location.
 - ![backup ios data on a computer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Once the backup is completed, disconnect the old device and start setting up the new one. When you reach the "Apps & Data" screen, select "Restore from Mac or PC," and connect to the computer with iTunes.
 - ![restore data from pc or mac](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-6.jpg)
 
@@ -59,6 +73,13 @@ The Quick Start feature from Apple offers a way to transfer data from your previ
 
 - **Step 1.** To start, use a USB cable to connect your old iPhone to your Mac and open Finder. In Finder, select your iPhone under the "Locations" section. Click "Back Up Now" to create a backup of your old iPhone on your Mac. Ensure that the "Back up all of the data on your iPhone to this Mac" box is checked, and when the process is completed, unplug the old device.
 - ![back up iphone data on mac](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** Now connect the new iPhone with "Restore from Mac or PC" selected from the "Apps & Data" screen. Choose your device in Finder and click "Restore Backup." Then, select the targeted backup and wait for the backup restoration process to complete.
 - ![restore iphone data from mac](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-9.jpg)
@@ -91,13 +112,6 @@ The transfer methods like iCloud and Quick Start can only be employed when setti
 
 Restoring iCloud Backup on your new iPhone requires a stable and relatively fast internet connection. This can be a limitation in areas with poor connectivity or limited data plans. If the internet is unstable, it could lead to issues during the iCloud backup restoration.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Limited Storage on iCloud
 
 iCloud offers 5 GB of free storage, which might not be sufficient for users with large amounts of data. Users might need to buy more iCloud storage to accommodate their backups, incurring extra costs.
@@ -105,6 +119,13 @@ iCloud offers 5 GB of free storage, which might not be sufficient for users with
 ### 5\. Compatibility Issues
 
 Older iPhone models might not support the latest iOS versions or certain features. It leads to compatibility issues when transferring data between devices. This is a prominent issue when dealing with different iOS versions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. One-Click Alternative to Official Methods To Transfer Data From Apple iPhone XS Max to iPhone
 
@@ -147,19 +168,6 @@ Choosing the right iPhone involves considering various factors. Ensuring alignme
 ### 1\. Identify Your Priorities
 
 Determine what matters most to you in an iPhone model. Are you more focused on camera quality, battery life, processers, or other features? Gaining clarity on your priorities will assist in focusing your choices.
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Consider the Latest Models
 
@@ -206,6 +214,13 @@ The easiest way to transfer data from Apple iPhone XS Max to Android is to use t
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Transfer Data from Apple iPhone XS Max to Android
 
 **1\. Transfer Contacts in accounts:** To transfer contacts in Facebook, Twitter, Google and any accounts on your iPhone to Android phone or tablet, you should sign in the accounts on your iPhone.
@@ -224,13 +239,6 @@ Connect your iPhone and Android device to the computer. Two devices will be soon
 
 ![iphone to android contacts transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 3. Start Data Transfer from Apple iPhone XS Max to Android
 
 Scan the supported files to ensure what you're going to transfer. Click "Start Transfer". If you have many useless files on your Apple iPhone XS Max, you can check "Clear data before copy".
@@ -242,19 +250,6 @@ Don't have a computer at hand? Just try the [Android app of Dr.Fone - Phone Tran
 ## Method 2. Transfer Data One by One from Apple iPhone XS Max to Android for Free
 
 Besides Dr.Fone - Phone Transfer, there are some useful ways that empower you to transfer files from Apple iPhone XS Max to Android. They're totally free but just take some time.
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 1. Transfer Apps from Apple iPhone XS Max to Android
 
@@ -280,19 +275,6 @@ Step 3. Open the browser and land iCloud main page. Then, click _Contacts_ to e
 
 ![transfer iphone contacts to android](https://images.wondershare.com/drfone/others/export-icloud-contacts-from-pc.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4. Plug a USB cable to connect your Apple iPhone XS Max or tablet to computer. When it's recognized, go and open the SD card of your Apple iPhone XS Max. Cut and paste the exported vCard file to the SD card folder.
 
 Step 5. Navigate to the Contacts app on your Apple iPhone XS Max. Tap the menu icon left to the main button and you get the menu list. Tap _Import/Export_ and choose _Import from USB storage_. Then, import the vCard file to your Apple iPhone XS Max.
@@ -309,6 +291,13 @@ Step 1. Open iTunes and connect your iPhone to the computer via a USB cable. In 
 
 ![transfer sms from iphone to android](https://images.wondershare.com/drfone/others/itunes-backup.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2. Connect your Apple iPhone XS Max to computer with a USB cable. Copy the exported iTunes backup file to the SD card of your Apple iPhone XS Max.
 
 Step 3. Go to Google Play on your Apple iPhone XS Max or tablet and download [iSMS2droid](https://play.google.com/store/apps/details?id=org.faked.isms2droid) on your Apple iPhone XS Max. Open iSMS2droid and tap _Select iPhone SMS Database_. Then, choose the imported iTunes backup file. Choose all or selected text messages and convert them to an XML file.
@@ -320,10 +309,10 @@ Step 4. Download and install SMS [Backup & Restore](https://play.google.com/stor
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/sms-backup-app-1.jpg)![move sms from iphone to android](https://images.wondershare.com/drfone/others/sms-backup-app-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Part 4. Transfer Photos from Apple iPhone XS Max to Android
@@ -336,6 +325,13 @@ Plug-in USB cables to connect your iPhone and Android phone to computer. Your iP
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/delete-ipad-photos-from-computer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Part 5. Transfer Video and Music from Apple iPhone XS Max to Android
 
 Have purchased hundreds of thousands of songs and videos and now want to transfer to your new Android phone or tablet. It's a piece of cake. iTunes can do that for you. Just follow the easy tutorial below.
@@ -343,20 +339,6 @@ Have purchased hundreds of thousands of songs and videos and now want to transfe
 Step 1. Open iTunes. Click _Store_ > _Authorize This Computer…_. Fill out your Apple ID and password. Get your iPhone and Android phone connected with a USB cable and open iTunes. Right click your iPhone. In the pull-down list, choose _Transfer Purchased_ to transfer iPhone music and video back to iTunes. Navigate to the iTunes media folder on the computer. C: UsersAdministratorMusiciTunesiTunes Media. Find your wanted music and video and copy them to your Apple iPhone XS Max SD card.
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/itunes-media-folder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 6. Transfer Calendars from Apple iPhone XS Max to Android
 
@@ -482,14 +464,20 @@ We hope that our quick and smart guide would be able to help you export contacts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-diving-into-video-quality-dslr-vs-mirrorless-cameras-for-2024/"><u>[New] Diving Into Video Quality DSLR vs Mirrorless Cameras for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-public-domain-soundtracks-downloadable-playing-games/"><u>[New] In 2024, Public Domain Soundtracks Downloadable, Playing Games</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-6-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 6 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-windows-pathways-to-filefolder-secrets/"><u>Expert Windows Pathways to File/Folder Secrets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-dells-malfunctioning-usb-port-step-by-step-solutions/"><u>Fixing Dell's Malfunctioning USB Port: Step-by-Step Solutions</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-14-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 14 Plus to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-14-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 14 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-se-2022-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone SE (2022) Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/unleash-joy-and-sadness-with-these-10-best-ig-meme-communities-for-2024/"><u>Unleash Joy and Sadness with These 10 Best IG Meme Communities for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-convenient-approach-to-downloading-the-funniest-tweets-gifs-on-pc/"><u>[New] Convenient Approach to Downloading the Funniest Tweets (GIFs) on PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-mastering-the-art-of-real-time-photography-on-google-meet/"><u>[New] In 2024, Mastering the Art of Real-Time Photography on Google Meet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-spotify-turning-off-automatic-podcast-recommendations/"><u>[New] Spotify Turning Off Automatic Podcast Recommendations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-the-yuneec-typhoon-hs-potential/"><u>Discovering the Yuneec Typhoon H's Potential</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-x-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone X to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-pro-max-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 14 Pro Max to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-8-plus-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 8 Plus to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-12-pro-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 12 Pro Max to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-digital-dimensions-metaverse-vs-omniverse-explained/"><u>In 2024, Digital Dimensions Metaverse Vs. Omniverse Explained</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-14-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 14 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-15-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 15 Plus to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rejuvenate-your-mouse-a-windows-update-walkthrough/"><u>Rejuvenate Your Mouse: A Windows Update Walkthrough</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-12-mini-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 12 mini and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vital-insights-before-overwriting-your-existing-windows/"><u>Vital Insights Before Overwriting Your Existing Windows</u></a></li>
 </ul></div>
 

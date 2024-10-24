@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Export Contacts from Apple iPhone 12 mini to Excel CSV & vCard Easily | Dr.fone
-date: 2024-08-31T04:52:37.981Z
-updated: 2024-09-01T04:52:37.981Z
+date: 2024-10-17T21:55:42.644Z
+updated: 2024-10-24T02:52:26.520Z
 tags: 
   - iphone transfer
 categories:
@@ -22,8 +22,6 @@ If you are looking for a hassle-free solution to export contacts from Apple iPho
 
 It would be a one-stop solution to transfer all kinds of content between your iOS device and computer. Besides exporting iPhone contacts to Excel, you can also move photos, messages, music, and more. It can also be used to transfer iTunes media as well. The best part is that you don’t need to use iTunes (or any other complicated tool) to export iPhone contacts to CSV. All you need to do is follow these simple steps:
 
-
-
 ### Dr.Fone - Phone Manager (iOS)
 
 Transfer MP3 to iPhone/iPad/iPod without iTunes
@@ -40,9 +38,23 @@ Transfer MP3 to iPhone/iPad/iPod without iTunes
 
 ![export iphone contacts to excel with Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Since the tool follows an intuitive process, it will automatically detect your iPhone and prepare it for the transfer process. Once it is ready, you will get the following interface.
 
 ![connect iphone to computer](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. Instead of selecting options from its home, go to the “Information” tab.
 
@@ -58,9 +70,6 @@ Transfer MP3 to iPhone/iPad/iPod without iTunes
 
 That’s it! In this way, you would be able to automatically export iPhone contacts to CSV. Now you can just visit the location and copy the file to any other device.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Export iPhone contacts to Excel free using SA Contacts Lite
 
 You can also try SA Contacts Lite to export iPhone contacts to Excel free as well. It is a freely available app that can be downloaded from the App Store. The app can be used to import and export your contacts in different formats. It makes the process of exporting iPhone contacts to Excel pretty easy. You can make it work with these simple steps:
@@ -95,9 +104,6 @@ If you don’t want to take the assistance of any third-party app to export iPho
 
 ![log in icloud account on computer](https://images.wondershare.com/drfone/article/2018/01/15154801044092.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3\. Click on the gear icon (Settings) on the bottom left corner. From here, you can select all contacts in one go. Though, if you wish, you can manually select the contacts you wish to export as well.
 
 ![select all contacts on icloud](https://images.wondershare.com/drfone/article/2018/01/15154801165153.jpg)
@@ -106,16 +112,10 @@ If you don’t want to take the assistance of any third-party app to export iPho
 
 ![export iphone contacts to vcard](https://images.wondershare.com/drfone/article/2018/01/15154801304112.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 5\. The exported vCard will automatically be saved in the Downloads folder (or any other default location). Now, you can simply go to a [vCard to CSV converter](http://labs.brotherli.ch/vcfconvert/) web tool to convert the vCard to a CSV file.
 
 ![convert vcard contacts to excel csv file](https://images.wondershare.com/drfone/article/2018/01/15154801441776.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 We hope that our quick and smart guide would be able to help you export contacts from Apple iPhone 12 mini to Excel. Dr.Fone Transfer provides a fast and easy solution export iPhone contacts to CSV and other formats. It can also be used to transfer other types of content between your iOS device and computer too. Give it a try and make the most of your iPhone without any trouble.
 
 ## 5 Tutorials on How to Transfer Photos From Apple iPhone 12 mini to New iPhone
@@ -143,18 +143,6 @@ Here’s how to activate Shared Album on Settings.
 
 ![apple id settings](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 3:** Click iCloud.
 - **Step 4:** Click Photos.
 
@@ -164,13 +152,6 @@ Here’s how to activate Shared Album on Settings.
 
 ![shared album settings](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Create Shared Albums in Photos
 
 Here’s how to create Shared Albums in Photos.
@@ -180,6 +161,13 @@ Here’s how to create Shared Albums in Photos.
 - **Step 3:** Click the + icon at the top-left corner of your screen to add a new folder.
 
 ![add new folde](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** Click New Shared Album.
 
@@ -207,9 +195,6 @@ How do I transfer photos from Apple iPhone 12 mini to iPhone? Well, the easiest 
 
 - **Step 5:** Do the same series of steps on the other iPhone. Once the synchronization has been completed, open the Photos app. Find the newly synced iCloud photos on the All Photos album.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Method 2: Transfer photos from Apple iPhone 12 mini to iPhone using AirDrop
 
 If you’re just sending a few pieces of photos, AirDrop is indeed a great transfer medium. It’s basically a wireless sharing option allowing users to send files between two iOS devices. Do you want to try it? Here’s how to transfer photos from Apple iPhone 12 mini to iPhone using AirDrop.
@@ -223,11 +208,22 @@ If you’re just sending a few pieces of photos, AirDrop is indeed a great trans
 
 ![airdrop share](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Select the recipient from the provided list. After that, accept the AirDrop request on the other device.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Transfer photos from Apple iPhone 12 mini to iPhone via Mail
 
 Another reliable method you can try is to email the photos from one iPhone to another. Like AirDrop, it works great if you’re just moving a few bits of files to another device. Don’t work. The process will not take much time. Here’s how to transfer photos from Apple iPhone 12 mini to iPhone via Mail.
@@ -238,15 +234,9 @@ Another reliable method you can try is to email the photos from one iPhone to an
 
 ![mail share option](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 4:** Key in the email address of the recipient. Subsequently, click the Send icon.
 - **Step 5:** Open the email on the other iPhone. Then, download the photos sent as email attachments.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Transfer photos from Apple iPhone 12 mini to iPhone using iCloud Link
 
 Let’s say you’re sending one photo to another iPhone user. What is the best transfer option in this case? If you’re currently using iCloud photos might as well send files through the iCloud link. Don’t worry. It’s not that hard to get such details. Here’s how to transfer photos from Apple iPhone 12 mini to iPhone using the iCloud link.
@@ -257,16 +247,11 @@ Let’s say you’re sending one photo to another iPhone user. What is the best 
 
 ![copy icloud link](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 4:** Share the iCloud link via Messages, Mail, or internet messaging platform. On the other iPhone device, access the link and then download the photos from there.
 
 ### Method 5: Transfer photos from Apple iPhone 12 mini to iPhone using Wondershare Dr.Fone
 
 The first four tutorials above on how to transfer pictures from Apple iPhone 12 mini to iPhone are very easy to follow. But if you wish to explore another convenient option, Wondershare Dr.Fone can help you with that. Its phone transfer feature has a powerful facility that can move your photos and other files between two mobile devices. Here’s how to use it in easy steps.
-
-
 
 - **Step 1:** Download Wondershare Dr.Fone from its [<u>official website.</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) Then, install it on your computer.
 - **Step 2:** Open the newly installed software on your desktop. After it fully loads, connect your two iPhones using a data cable.
@@ -286,9 +271,6 @@ The first four tutorials above on how to transfer pictures from Apple iPhone 12 
 
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 7:** After completing the process, click **OK** to wrap it up. Check your files from their respective locations afterward.
 
 ![phone transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
@@ -297,25 +279,11 @@ The first four tutorials above on how to transfer pictures from Apple iPhone 12 
 
 The tutorials above on how to transfer all photos from Apple iPhone 12 mini to iPhone are safe to initiate. You can be sure about that. But as an additional layer of protection, it’s best to back up your iPhone first before the transfer. Don’t worry. [<u>Wondershare Dr.Fone. </u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) simplifies the backup process for you. Here’s a quick tutorial to get you started.
 
-
-
 - **Step 1:** Launch the Wondershare Dr.Fone on your computer. After it fully loads up, connect your iPhone using a data cable.
 - **Step 2:** Access the left-side panel and then click **My Backup.** On the main dashboard, click **Back Up Now.**
 
 ![wondershare drfone backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 3:** Follow the on-screen instructions for SMS backup. After that, click **OK** to proceed.
 
 ![sms backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-2.png)
@@ -324,25 +292,21 @@ The tutorials above on how to transfer all photos from Apple iPhone 12 mini to i
 
 ![backup ongoing](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 5:** After completing the backup process, click **View Backups** or **Open in Folder** to check your files.
 
 ![backup done](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Transferring photos between two iOS devices is very easy. In fact, you can instantly complete the migration process with just the snap of a finger. Refer to the five tutorials above on how to transfer photos from Apple iPhone 12 mini to iPhone enumerated. One of them can certainly fit your situation and help you in this regard. For a more convenient file transfer option, download Wondershare Dr.Fone for free. It has a potent phone transfer feature that can aid in the transfer of your dearly cherished photos.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 4 Quick Ways to Transfer Contacts from Apple iPhone 12 mini to iPhone With/Without iTunes
 
 _“How to transfer contacts from Apple iPhone 12 mini to iPhone without using iTunes? I have got a new iPhone, but can’t seem to transfer contacts from Apple iPhone 12 mini to iPhone without iTunes.”_
@@ -353,9 +317,6 @@ Lately, we have got plenty of queries like this from our readers who like to lea
 
 To start with, let’s learn how to transfer contacts from Apple iPhone 12 mini to iPhone using iTunes. If you have an updated version of iTunes, you can transfer and sync your data between various devices. Ideally, you can either sync your contacts or backup and restore them. We have discussed both of these techniques to transfer contacts from Apple iPhone 12 mini to iPhone with iTunes.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Method 1: Backup and Restore iPhone contacts with iTunes
 
 This is the easiest approach to learn how to transfer contacts from Apple iPhone 12 mini to iPhone with iTunes. In this, we will first take a backup of our old phone (including contacts) and later restore the backup to a new device. Needless to say, all the existing data on the target device would be erased, and with your contacts, the entire backup will be restored.
@@ -367,9 +328,6 @@ This is the easiest approach to learn how to transfer contacts from Apple iPhone
 
 ![backup iphone with itunes](https://images.wondershare.com/drfone/article/2018/01/15150777847838.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 - **5.** Once you have taken a backup locally, you can connect the target device and go to its Summary.
 - **6.** From here, click on the “Restore Backup” and select the target backup and device.
 
@@ -377,9 +335,6 @@ This is the easiest approach to learn how to transfer contacts from Apple iPhone
 
 In this way, your entire backup (including contacts) would be restored, and you can transfer contacts from Apple iPhone 12 mini to iPhone with iTunes.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Sync Contacts with iTunes
 
 If you only wish to transfer your contacts, then it can be achieved by syncing your device. To learn how to transfer contacts from Apple iPhone 12 mini to iPhone using iTunes, follow these steps:
@@ -390,9 +345,6 @@ If you only wish to transfer your contacts, then it can be achieved by syncing y
 
 ![sync contacts with itunes](https://images.wondershare.com/drfone/article/2018/01/15150778515016.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - **4.** Now, disconnect the Apple iPhone 12 mini device and connect your target iPhone to it.
 - **5.** Follow the same drill, go to its Info tab, and enable the option to “Sync Contacts”.
 - **6.** Additionally, you can visit its Advanced section and replace the old contacts with the new ones as well.
@@ -400,9 +352,6 @@ If you only wish to transfer your contacts, then it can be achieved by syncing y
 
 ![drfone](https://images.wondershare.com/drfone/article/2018/01/15150778814273.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In this way, you would be able to learn how to transfer contacts from Apple iPhone 12 mini to iPhone with iTunes easily.
 
 ## Part 2: 1-Click to transfer contacts from Apple iPhone 12 mini to iPhone, Including iPhone 12/ 12 Pro (Max)/ 12 Mini without iTunes
@@ -410,8 +359,6 @@ In this way, you would be able to learn how to transfer contacts from Apple iPho
 As you can see, learning how to transfer contacts from Apple iPhone 12 mini to iPhone using iTunes can be a little complicated. Therefore, we recommend using trying [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It provides a one-click solution to transfer the data of your choice from one device to another. The tool comes with an intuitive process and has a free trial as well. It is compatible with every leading iOS device (including devices running on iOS 14).
 
 Besides transferring your contacts, you can also move other data files like photos, videos, calendars, messages, music, etc. It can also transfer data between different platforms (like Android to iOS, iOS to Windows, and more). To learn how to transfer contacts from Apple iPhone 12 mini to iPhone without iTunes, follow these steps:
-
-
 
 ### Dr.Fone - Phone Transfer
 
@@ -421,6 +368,20 @@ Besides transferring your contacts, you can also move other data files like phot
 2. Move data between devices with different operating systems, i.e., iOS to Android.
 3. Supports iOS devices that run the latest iOS ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 4. Transfer photos, text messages, contacts, notes, and many other file types.
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 
 **4,777,470** people have downloaded it
@@ -430,9 +391,12 @@ Besides transferring your contacts, you can also move other data files like phot
 ![transfer iphone contacts without itunes](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 - **2.** Now, connect the source and the target iOS device to your system and wait for them to be detected.
 - **3.** Dr.Fone - Phone Transfer follows an intuitive process and automatically lists the Apple iPhone 12 mini devices as Source and Destination. Though, you can click on the “Flip” button to exchange their positions.
 
@@ -443,16 +407,10 @@ The ultimate burning program for all your needs!</a>
 
 ![start transfering contacts without itunes](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 - **6.** Once the process is complete, you will be notified. In the end, you can safely remove both the Apple iPhone 12 mini devices and use them the way you like.
 
 ![transfer contacts from iphone to iphone complete](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Here is the video tutorial for you:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VpH1bgezTKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
@@ -466,9 +424,6 @@ As you can see, Dr.Fone Phone Transfer provides a one-click solution to transfer
 
 ![iphone mail contacts calendar settings](https://images.wondershare.com/drfone/article/2018/01/15150779105123.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **3.** Now, you can follow the same drill on the target device and sync your Gmail contacts.
 - **4.** Alternatively, you can visit your Gmail account on your desktop and go to its Contacts.
 - **5.** Select the contacts you wish to transfer and click on the “Export” button.
@@ -479,9 +434,6 @@ As you can see, Dr.Fone Phone Transfer provides a one-click solution to transfer
 
 ![import vcard contacts to iphone](https://images.wondershare.com/drfone/article/2018/01/15150779615006.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Transfer Contacts from Apple iPhone 12 mini to iPhone Including iPhone 12/ 12 Pro (Max)/ 12 Mini without iTunes using Bluetooth
 
 If nothing else would work, you can transfer contacts from one iPhone to another using Bluetooth. It might be time-consuming, but it is also one of the easiest ways to learn how to transfer contacts from Apple iPhone 12 mini to iPhone without iTunes.
@@ -491,23 +443,14 @@ If nothing else would work, you can transfer contacts from one iPhone to another
 
 ![pair bluetooth on both iphones](https://images.wondershare.com/drfone/article/2018/01/15150779909584.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 - **3.** Now, go to its Contacts and select the ones you wish to transfer.
 - **4.** Tap on the Share button and select the target device from the list of options.
 
 ![transfer contacts from iphone to iphone without itunes using bluetooth](https://images.wondershare.com/drfone/article/2018/01/15150780055178.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **5.** Accept the incoming data on the target iPhone to complete the process.
 
 After following these steps, you can learn how to transfer contacts from Apple iPhone 12 mini to iPhone with iTunes and without it. Besides these methods, you can also AirDrop the contacts or sync them via iCloud as well. As you can see, there are numerous ways to transfer contacts from Apple iPhone 12 mini to iPhone with iTunes (and without it) that you can try. We recommend Dr.Fone Phone Transfer as it is one of the easiest and fastest ways to transfer data between different devices.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -521,11 +464,19 @@ After following these steps, you can learn how to transfer contacts from Apple i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-review-dji-phantom-4-in-action/"><u>[New] In Depth Review DJI Phantom 4 in Action</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-enhance-your-page-posts-amidst-facebooks-shift/"><u>[Updated] In 2024, How to Enhance Your Page Posts Amidst Facebook's Shift</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-seamless-guest-entry-into-your-peers-tiktok-lives/"><u>[Updated] Seamless Guest Entry Into Your Peers' TikTok Lives</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-13-pro-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 13 Pro Max to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-honor-magic5-ultimate-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Honor Magic5 Ultimate.</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-8-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 8 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-6s-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 6s Plus to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-13-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 13 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-6-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 6 to Samsung | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-poco-c50-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Poco C50 Location | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-hidden-gems-the-top-14-facetime-tricks-youre-not-using/"><u>Unlocking Hidden Gems: The Top 14 FaceTime Tricks You're Not Using</u></a></li>
+</ul></div>
 
