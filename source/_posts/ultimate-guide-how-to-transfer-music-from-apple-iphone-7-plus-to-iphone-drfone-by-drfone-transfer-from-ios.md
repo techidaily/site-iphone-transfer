@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide, How to Transfer Music From Apple iPhone 7 Plus to iPhone | Dr.fone
-date: 2024-10-21T03:42:34.901Z
-updated: 2024-10-24T01:26:56.410Z
+date: 2024-10-25T00:06:47.234Z
+updated: 2024-10-29T22:24:52.321Z
 tags: 
   - iphone transfer
 categories:
@@ -26,13 +26,6 @@ When it comes to transferring music between iPhones, Wondershare Dr.Fone emerges
 
 This ensures that your favorite tunes are available on your new iPhone. The following are the detailed methods on how to **transfer music from Apple iPhone 7 Plus to iPhone** using Wondershare Dr.Fone:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: <u>Transfer Music Using Wondershare Dr.Fone – Phone Manager</u>
 
 Wondershare Dr.Fone offers a comprehensive solution for managing your iPhone. It allows you to handle your iPhone data efficiently. You can perform tasks like importing, exporting, and deleting files. With its intuitive drag-and-drop feature, you can move files into any desired app on your device. You can transfer a variety of data between your iOS device and computer. Here is **how to transfer music from Apple iPhone 7 Plus to iPhone** using the phone manager feature:
@@ -49,6 +42,13 @@ From the expanded options for the source iPhone, choose "Music." Now, go to the 
 
 ![tap to device option](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Transfer Music Using Wondershare Dr.Fone – Phone Transfer
 
 [<u>Wondershare Dr.Fone - Phone Transfer</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) simplifies transferring different data types between 8000+ devices. It ensures ease of use with a simple click-through process. Moreover, it is compatible with Apple, Samsung, HUAWEI, OPPO, Sony, Google, and more.
@@ -60,6 +60,13 @@ You also get full support for the latest iOS and Android versions. It supports t
 To begin, you need to connect both devices to the computer with Wondershare Dr.Fone. Within Dr.Fone, click "Toolbox" from the left panel and choose "Phone Transfer" as the option. It will lead to a new screen where you need to assign the positions to the iPhones.
 
 ![access the phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2: Select Music and Tap Start Transfer**
 
@@ -74,13 +81,6 @@ iTunes remains a reliable and widely used application for managing iOS devices. 
 - **Step 1.** Run the latest version of iTunes on your computer and connect the source iPhone. After accessing iTunes, click on “File," located in the top left corner, and choose “Devices.” Next, select “Transfer Purchases from iPhone” and let the process finish.
 
 ![choose transfer purchases from iphone](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Once all the purchased songs are transferred, disconnect the source iPhone. Now, connect the targeted iPhone and wait for iTunes to recognize it. Then tap the “Device" icon to access the iPhone window.
 - **Step 3.** Here, click the "Music" tab from the left side panel. Now check the "Sync Music" box and select "Entire Library" or another option depending on your choice. Finally, press "Sync" to commence the music transfer process.
@@ -126,6 +126,13 @@ Transitioning between music streaming platforms can be challenging. However, wit
 
 ![tap playlist transfer tool](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** On the following screen, log into both music streaming services. Once you are logged in, tap "Start" to commence the playlist transfer procedure. The time it will take depends upon the number of playlists and songs.
 
 ![press the start button](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-13.jpg)
@@ -147,6 +154,13 @@ Read on and learn how to transfer messages from Apple iPhone 7 Plus to iPhone in
 ## Which method to choose?
 
 There are 4 different ways on how to transfer messages to the new iPhone. But which one to choose? Chances are that you might get confused. To make things easier for you, we here provide a quick comparison.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 1: How to transfer messages from Apple iPhone 7 Plus to iPhone including iPhone 15/15 Pro (Max) in one click
 
@@ -188,10 +202,10 @@ Open software > Connect iPhones to PC > Select "Messages" > Click "Start Transfe
 ![transfer iphone messages with Dr.Fone - step 4](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png "view messages")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After following these easy steps, you can learn how to transfer texts from Apple iPhone 7 Plus to iPhone with Dr.Fone - Phone Transfer.
@@ -213,6 +227,13 @@ Transferring data, including crucial messages, from an old iPhone to a new one i
 
 ![tap on back up now](https://images.wondershare.com/drfone/article/2023/11/transfer-messages-from-iphone-to-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Afterward, start setting up your new iPhone until you reach the “Apps & Data” screen. Here, choose "Restore from iCloud Backup" and log in using your Apple ID. Then, go on to select the backup you want to restore and complete the process by following the on-screen instructions.
 
 ![restore the required icloud backup](https://images.wondershare.com/drfone/article/2023/11/transfer-messages-from-iphone-to-iphone-2.jpg)
@@ -228,6 +249,13 @@ Ensuring a smooth transition to the latest iPhone is made simple with the aid of
 **Step 2:** Here, tap “Show All” and go on to press “Messages in iCloud” from the list. On the following screen, enable the “Use on this iPhone” feature. It will sync iMessage with your iCloud account, allowing you to access them on your new iPhone.
 
 ![enable use on this iphone feature](https://images.wondershare.com/drfone/article/2023/11/transfer-messages-from-iphone-to-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: How to transfer messages from Apple iPhone 7 Plus to iPhone including iPhone 15/15 Pro (Max) using iTunes/Finder
 
@@ -246,19 +274,6 @@ Besides iCloud, one can also take the assistance of iTunes/Finder to move their 
 5\. Launch iTunes/Finder and wait for it to recognize the new iPhone. From here, you can choose to set up your device while restoring a previous backup.
 
 ![connect new iphone to restore backup](https://images.wondershare.com/drfone/article/2017/08/15017752921886.jpg "connect new iphone")
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6\. Alternatively, you can also go to its “Summary” page and click on the “Restore Backup” option to restore the existing backup on your target device.
 
@@ -311,13 +326,6 @@ Available in Windows 10 and later, the Photos app is a prime example of this con
 
 ![trust the computer](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** In the Photos app, click on the "Import" button located in the top-right corner. From the available options, choose "From a connected device" and select your iPhone. The Photos app will display the photos on your Apple iPhone 7 Plus  that are available for import. After selecting the images, select an existing folder or create a new one for the imported photos.
 
 ![import the photos](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-5.jpg)
@@ -325,6 +333,13 @@ Available in Windows 10 and later, the Photos app is a prime example of this con
 ## Part 2: How To Transfer Photos From Apple iPhone 7 Plus to PC With Cloud Storages
 
 Cloud storage offers a bridge between devices that goes beyond physical limitations. It lets you move photos from your Apple iPhone 7 Plus  to your desktop computer. This section will explore some of the popular cloud storage platforms since both of them offer their unique set of features and advantages. Described below are two cloud storage services to **import photos from Apple iPhone 7 Plus to PC**:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: iCloud
 
@@ -362,13 +377,6 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 - **Step 2:** Once photos are uploaded, move to your PC and open Google Drive using a web browser. Locate the folder where you uploaded the pictures from your Apple iPhone 7 Plus . Select the photos, right-click, and choose "Download" to initiate the download process.
 
 ![click on the download option](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Pros
 
@@ -408,25 +416,11 @@ Here you will be asked to choose the data you want to export. Select “Photos�
 
 ![press the export button](https://images.wondershare.com/drfone/guide/export-data-from-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3: Complete the Photo Transfer Process**
 
 Click “Verify” once you have created the process to start the transfer process of photos. The process will require a certain amount of time to finish. Once it is completed, you can click “Open in Folder” to view the backed-up data.
 
 ![photos album exported](https://images.wondershare.com/drfone/guide/export-data-from-ios-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -448,17 +442,20 @@ It bridges the gap between devices with unparalleled features. Dr. Fone's capabi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-secrets-of-swelling-youtube-supporters/"><u>[New] Unlocking the Secrets of Swelling YouTube Supporters</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-precision-toolkit-for-flawless-webp-to-jpg-changeover/"><u>[Updated] Precision Toolkit for Flawless WebP to JPG Changeover</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-14-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 14 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-problems-and-fixes-for-the-unresponsive-razer-kraken-headset-mic/"><u>Common Problems and Fixes for the Unresponsive Razer Kraken Headset Mic</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-15-plus-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 15 Plus Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-12-pro-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 12 Pro to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-8-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 8 to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-x-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone X to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-rated-free-online-video-production-tools/"><u>In 2024, Top-Rated Free Online Video Production Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic-6-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Magic 6 Pro Phone FRP Lock</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/master-your-documents-with-emeditor-the-powerful-open-source-text-editor/"><u>Master Your Documents with EmEditor, the Powerful Open-Source Text Editor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-youtube-top-rated-pc-and-mobile-video-extractors/"><u>[New] Unlocking YouTube Top-Rated PC & Mobile Video Extractors</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-the-count-why-user-numbers-dont-define-us/"><u>Beyond the Count: Why User Numbers Don't Define Us</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-13-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 13 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-f5-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco F5 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-11-pro-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 11 Pro Max to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 15 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-11-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 11 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-14-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 14 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/iphone-audio-augmentation-3-inexpensive-ways-for-clips-with-a-soundtrack/"><u>IPhone Audio Augmentation 3 Inexpensive Ways for Clips with a Soundtrack</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-youtube-video-composition-techniques/"><u>Mastering YouTube Video Composition Techniques</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-xr-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone XR to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-the-frustration-expert-solutions-for-ready-or-not-game-crashes-on-pc/"><u>Stop the Frustration! Expert Solutions for 'Ready or Not' Game Crashes on PC</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-xiaomi-redmi-12-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Xiaomi Redmi 12 without backup.</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-13-pro-max-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 13 Pro Max Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-strategies-for-dealing-with-madden-nfl-17-stuck-on-load-a-comprehensive-fix/"><u>Winning Strategies for Dealing With Madden NFL 17 Stuck on Load: A Comprehensive Fix</u></a></li>
 </ul></div>
 

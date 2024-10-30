@@ -1,7 +1,7 @@
 ---
 title: Transfer your Apple iPhone 15 Apps to New iPhone | Dr.fone
-date: 2024-10-20T04:49:55.729Z
-updated: 2024-10-23T18:55:16.465Z
+date: 2024-10-24T20:07:16.214Z
+updated: 2024-10-30T00:12:30.900Z
 tags: 
   - iphone transfer
 categories:
@@ -44,13 +44,6 @@ Another way that can assist you to move photos from Android to iPhone is the [Dr
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to transfer apps from iPhone apps to the new iPhone via iTunes?
 
 iTunes backup is one of the most commonly used transfer methods. All you have to do is take the backup from the old iPhone and using iTunes you can transfer it to the new iPhone like iPhone 15/15 Pro (Max). Very simply, you can transfer apps from the old iPhone to the iPhone 15/15 Pro(Max) or an earlier model.
@@ -69,6 +62,13 @@ The Whole Process is divided into two sections
 
 ![backup iphone apps to itunes](https://images.wondershare.com/drfone/article/2018/01/15169285481003.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Once the backup process is finished, you should check whether the backup was done in iTunes preferences in the old iPhone. You can check it by verifying your name, time, and date in the backup.
 
 Note: You have created the backup process on your old iPhone. Now, you should start the next work to transfer apps to the new iPhone like iPhone 15/15 Pro (Max).
@@ -80,25 +80,19 @@ Note: You have created the backup process on your old iPhone. Now, you should st
 
 ![restore iphone apps from itunes backup](https://images.wondershare.com/drfone/article/2017/07/15002815435966.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Now, you have to connect the new iPhone device to the PC where the backup from the old iPhone was done.
 4. View iTunes from the computer and choose your new iPhone like iPhone 15/15 Pro (Max).
 5. Choose the “Restore backup” and cross-check the date, time, iPhone old name, etc.
 6. If you set a passcode then enter it. Just wait for a few minutes to get complete the restore process. Keep On the Wifi support to the new iPhone like iPhone 15/15 Pro (Max) and your backup will automatically download to the new iPhone.
 
 Note: You have done the entire process to transfer apps to the new iPhone 15/15 Pro (Max) or an earlier model.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to transfer apps from Apple iPhone 15 to iPhone using iCloud?
 
@@ -131,6 +125,13 @@ Note: Doing so will erase any old setup.
 
 ![restore iphone apps from icloud backup](https://images.wondershare.com/drfone/article/2018/01/15169461257687.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5: You will get the screen to enter the iCloud credential details such as ID/ password.
 
 ![select icloud backup file](https://images.wondershare.com/drfone/article/2018/01/15169292663640.jpg)
@@ -154,19 +155,6 @@ In this part, we are going to transfer apps from Apple iPhone 15 to iPhone 15/15
 3: Once you tap on the update icon, it will show the option “My Purchase”. It will ask you to sign in the iCloud account.
 
 ![check my purchased apps](https://images.wondershare.com/drfone/article/2018/01/15169314968668.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4: After entering the credential, you have the two options such as all and not on this phone.
 
@@ -221,6 +209,19 @@ Step 4: Simply click start transfer and the transfer process will begin make sur
 
 ![transfer from Apple iPhone 15 to iPhone 8](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg "transfer from iPhone 5s to iPhone 8")
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to transfer everything from Apple iPhone 15 to iPhone 8/X/11 with iCloud
 
 Initially signing up for ICloud gets you 5GB of storage, you can use this storage for IOS device backup, iCloud photo library, app data and documents stored in the ICloud. If you feel 5gb storage is not enough you, you can always upgrade your storage but then you will have to pay. iCloud as a backup is a great if anything happens to your phone you can get access to your data anywhere with the internet besides this you can also use this data to switch your new iPhone 8/X/11 device.
@@ -249,16 +250,16 @@ Step 4. After you have backed up the data from your old Apple iPhone 15 device, 
 
 ![transfer everything from Apple iPhone 15 to iPhone 8 with iTunes](https://images.wondershare.com/drfone/article/2017/09/transfer-from-iphone-7-to-iphone-8-via-itunes.jpg "transfer everything from Apple iPhone 15 to iPhone 8 with iTunes")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 With the advancements in the mobile technology we are presented with the new and improved features every year, there is always a point where we need to change our device because we do need those new features. So in one of the cases iPhone users would want to change their device because of the extensive features iPhone 8/X/11 has to offer. So in this case we would want to **transfer the data from our Apple iPhone 15 to iPhone 8/X/11**. Apple users and techie’s are always up for new handset and they love to get their hands on the newer Apple’s device. This is where there is a need for an effective tool to transfer the data from the old Apple iPhone 15 to iPhone 8/X/11.
 
 After going through this article guide we can conclude that iPhone users can transfer their data to their latest iPhone 8/X/11 with the help of iTunes, iCloud and Dr.Fone - Phone Transfer (iOS & Android). However, Dr.Fone is very effective for data transfer operations. Plus, the **iPhone to iPhone Transfer** tool is very easy to use because of its user friendly interface design.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Copy Contacts from Apple iPhone 15 to SIM?
 
@@ -275,6 +276,13 @@ A lot of users take the assistance of SIM card to save their contacts. If you ar
 Though, the problem occurs when users wish to do vice versa and learn how to import contacts from Apple iPhone 15 to SIM. As of now, Apple doesn’t provide a direct solution to export contacts to SIM on iPhone. If you really wish to save contacts to SIM on iPhone, then you have to jailbreak your device once. After jailbreaking your device, you can use certain apps to move contacts to SIM easily.
 
 Though, if your device has not been jailbroken, then you can’t export contacts to SIM on iPhone directly. This is because Apple assumes the transfer of contacts via SIM card is an obsolete method. Don’t worry – you can try an alternative method to save and backup contacts on iPhone. We have discussed it in the next section.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to save iPhone contacts with Dr.Fone?
 
@@ -317,13 +325,6 @@ Save and Backup iPhone Contacts with 1-Click.
 
 ![iphone contacts backup complete](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7\. Whenever you need to restore your contacts, you can simply connect the Apple iPhone 15 device and click on the “Restore” option instead.
 
 ![restore iphone contacts backup](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
@@ -332,13 +333,6 @@ Save and Backup iPhone Contacts with 1-Click.
 
 ![view iphone backups](https://images.wondershare.com/drfone/guide/backup-history.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9\. Your backup will be listed under different categories here. Go to Privacy > Contacts and select the contacts you wish to restore.
 
 10\. After making your selection, you can export this data to your PC or restore it to the connected device. Simply click on the “Restore to Device” and wait for a while.
@@ -346,15 +340,22 @@ Save and Backup iPhone Contacts with 1-Click.
 ![restore contacts to device](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 11\. In no time, your contacts would be restored to your device. When the process is completed, you will be notified.
 
 That’s it! After restoring your contacts, you can safely remove the Apple iPhone 15 device and use it as per your wishes. Therefore, if you have Dr.Fone Backup & Restore, then you don’t need to worry about how to import contacts from Apple iPhone 15 to SIM.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Other solutions to transfer iPhone contacts
 
@@ -378,13 +379,6 @@ Just like iCloud, you can also sync your contacts with Gmail. If you don’t use
 
 ![sync iphone contacts with gmail](https://images.wondershare.com/drfone/article/2018/01/15151410687107.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want, you can access your Google Contacts and import them to a vCard as well. This would be a perfect alternative to learn how to import contacts from Apple iPhone 15 to SIM.
 
 ![export iphone contacts to vcard](https://images.wondershare.com/drfone/article/2018/01/15151410943416.jpg)
@@ -405,15 +399,22 @@ We hope this guide was able to answer your question of how to copy contacts from
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-cinematic-upgrade-gopro-hero5-black-vs-hero4-silver-edition/"><u>[New] Cinematic Upgrade GoPro Hero5 Black vs Hero4 Silver Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-techs-elite-selection-the-top-10-video-recorders-online-for-2024/"><u>[New] Tech's Elite Selection The Top 10 Video Recorders Online for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-xs-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone XS to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/4-simple-methods-seamlessly-moving-your-ibooks-from-one-iphone-to-another/"><u>4 Simple Methods: Seamlessly Moving Your iBooks From One iPhone to Another</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-se-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone SE to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-streamline-your-content-top-8-youtube-to-avi-solutions/"><u>In 2024, Streamline Your Content Top 8 YouTube-to-AVI Solutions</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-12-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 12 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/pixelwizard-a-comprehensive-top-10-list-of-replacements/"><u>PixelWizard A Comprehensive Top 10 List of Replacements</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-se-2022-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone SE (2022) to PC | Dr.fone</u></a></li>
-<li><a href="https://fox-where.techidaily.com/1728489471760-windows-11107/"><u>Windows 11/10/7におけるシステムリカバリディスクを作成する手順</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-how-to-take-landscape-photos-on-iphone-killer-tips/"><u>[New] 2024 Approved How to Take Landscape Photos on iPhone [Killer Tips]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-advanced-techniques-for-better-obs-encoding-for-2024/"><u>[New] Advanced Techniques for Better OBS Encoding for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-retrospective-viewing-inventive-approaches-for-backward-youtube-content/"><u>[New] Retrospective Viewing Inventive Approaches for Backward YouTube Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-stay-controlled-online-guide-to-blocking-distracting-youtube-channels/"><u>[New] Stay Controlled Online Guide to Blocking Distracting YouTube Channels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-years-most-loved-youtube-music-video-responses/"><u>[New] The Year's Most Loved YouTube Music Video Responses</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-12-mini-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 12 mini to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-6-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 6 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-11-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 11 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-se-2022-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone SE (2022) to iPad | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-drone-pilots-guide-to-best-vr-headsets/"><u>In 2024, Drone Pilots' Guide to Best VR Headsets</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-14-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 14 Plus to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-xs-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone XS Max to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-14-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 14 to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone XS to Android | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-search-troubleshooting-steps/"><u>Navigating Through Windows Search Troubleshooting Steps</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tablet-tug-of-war-making-the-right-choice-between-an-amazon-fire-or-a-samsung-device/"><u>Tablet Tug-of-War: Making the Right Choice Between an Amazon Fire or a Samsung Device</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upholding-confidentiality-amidst-custom-gpt-innovations/"><u>Upholding Confidentiality Amidst Custom GPT Innovations</u></a></li>
 </ul></div>
 
