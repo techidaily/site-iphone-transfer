@@ -1,7 +1,7 @@
 ---
 title: Transfer your Apple iPhone 12 mini Apps to New iPhone | Dr.fone
-date: 2024-10-27T20:25:23.625Z
-updated: 2024-10-29T16:36:36.285Z
+date: 2024-10-30T17:48:45.489Z
+updated: 2024-11-04T16:49:52.522Z
 tags: 
   - iphone transfer
 categories:
@@ -43,13 +43,6 @@ Connect both the two iPhones to your computer. Once both the iPhones are connect
 Another way that can assist you to move photos from Android to iPhone is the [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). What is incredibly convenient about Dr.Fone - Phone Manager (Android) is its ability to transfer photos selectively. You can also use it to transfer contacts, videos, messages, podcasts, and anything else stored on your Android in minutes. Dr.Fone - Phone Manager (Android) is a secure, trustworthy program, hence you can be reassured that your information will be kept safe while transferring from one device to another.
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How to transfer apps from iPhone apps to the new iPhone via iTunes?
 
@@ -150,6 +143,19 @@ In this part, we are going to transfer apps from Apple iPhone 12 mini to iPhone 
 
 ![download apps to new iphone](https://images.wondershare.com/drfone/article/2018/01/15169315338930.jpg)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Note: You have completed the installation of apps on your new iPhone.
 
 We have given and explained to you 3 methods to **transfer apps from Apple iPhone 12 mini to iPhone** with proper guidance. Each method describes a unique verification process along with the manual setup. You now do not need to wait in a queue to transfer apps to your new iPhone. We can assure you that you would also be in no need of any help from outside. All the best!
@@ -172,6 +178,13 @@ It’s true to say that Shared Album is a great iOS feature. However, it’s imp
 
 Do you find Shared Album a useful tool, though? If so, here are the tutorials on how to activate this feature and create one in the Photos app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Activate Shared Album?
 
 Here’s how to activate Shared Album on Settings.
@@ -190,13 +203,6 @@ Here’s how to activate Shared Album on Settings.
 
 ![shared album settings](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Create Shared Albums in Photos
 
 Here’s how to create Shared Albums in Photos.
@@ -212,6 +218,13 @@ Here’s how to create Shared Albums in Photos.
 ![icloud photos](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-5.jpg)
 
 - **Step 5:** Rename the Shared Album and then click Create.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Transfer Photos From Apple iPhone 12 mini to iPhone in Easy Steps?
 
@@ -233,6 +246,13 @@ How do I transfer photos from Apple iPhone 12 mini to iPhone? Well, the easiest 
 
 - **Step 5:** Do the same series of steps on the other iPhone. Once the synchronization has been completed, open the Photos app. Find the newly synced iCloud photos on the All Photos album.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Transfer photos from Apple iPhone 12 mini to iPhone using AirDrop
 
 If you’re just sending a few pieces of photos, AirDrop is indeed a great transfer medium. It’s basically a wireless sharing option allowing users to send files between two iOS devices. Do you want to try it? Here’s how to transfer photos from Apple iPhone 12 mini to iPhone using AirDrop.
@@ -246,13 +266,6 @@ If you’re just sending a few pieces of photos, AirDrop is indeed a great trans
 
 ![airdrop share](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Select the recipient from the provided list. After that, accept the AirDrop request on the other device.
 
 ### Method 3: Transfer photos from Apple iPhone 12 mini to iPhone via Mail
@@ -264,6 +277,13 @@ Another reliable method you can try is to email the photos from one iPhone to an
 - **Step 3:** Choose Mail among the given options.
 
 ![mail share option](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** Key in the email address of the recipient. Subsequently, click the Send icon.
 - **Step 5:** Open the email on the other iPhone. Then, download the photos sent as email attachments.
@@ -277,13 +297,6 @@ Let’s say you’re sending one photo to another iPhone user. What is the best 
 - **Step 3:** Scroll down and find the Copy iCloud Link. Click on it.
 
 ![copy icloud link](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** Share the iCloud link via Messages, Mail, or internet messaging platform. On the other iPhone device, access the link and then download the photos from there.
 
@@ -301,13 +314,6 @@ The first four tutorials above on how to transfer pictures from Apple iPhone 12 
 
 ![source and target](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5:** Click Photos as the category of the files. Right after, click Start Transfer to proceed.
 
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
@@ -319,13 +325,6 @@ The first four tutorials above on how to transfer pictures from Apple iPhone 12 
 - **Step 7:** After completing the process, click **OK** to wrap it up. Check your files from their respective locations afterward.
 
 ![phone transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## BONUS TIP: Back Up Your Photos First
 
@@ -339,6 +338,13 @@ The tutorials above on how to transfer all photos from Apple iPhone 12 mini to i
 - **Step 3:** Follow the on-screen instructions for SMS backup. After that, click **OK** to proceed.
 
 ![sms backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** Wait while Wondershare Dr.Fone is backing up your files.
 
@@ -357,13 +363,6 @@ Transferring photos between two iOS devices is very easy. In fact, you can insta
 Apple announced a line-up of iPhones with four new devices in 2020. The series is called the iPhone 12 series that has four handsets of different sizes and price ranges. The iPhone 12 series include iPhone 12, iPhone 12 Mini, iPhone 12 Pro, and iPhone 12 Pro Max. These are the company's first-ever 5G devices. They surely took a step into the future of technology with the 12 series.
 
 ![iphone 12 introduction](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The device is considered lighter than the iPhone SE launched in 2020. iPhone 12 Pro Max holds an outstanding camera system for high-quality image processing. Besides, the introduction of A14 SoC has encouraged the exceptional performance of all four models. Each of the series models is secured with suitable features and new capabilities. Let's take a glance at the relevant specifications and iPhone 12 price.
 
@@ -401,15 +400,22 @@ If you have bought iTunes or App store content with multiple IDs, sign in with t
 
 **Step 3:** The restore process will be initiated. Make sure to be connected and wait till the process gets completed successfully. Once done, continue with the other steps to complete the setup process successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.2 Through iTunes or Finder
 
 ![transfer with itunes or finder](https://images.wondershare.com/drfone/mobiletrans/iPhone-12-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Start with the backup process by opening iTunes. Now, connect your iPhone with the PC. After it gets connected, choose your iPhone on the top toolbar. To transfer the data related to Health and Activity/saved passwords, choose the "Encrypt backup" option. Next, input a password and click "Back Up Now."
@@ -460,20 +466,21 @@ Hopefully, you got a clear idea of how to transfer data to iPhone 12. Dr. Fone -
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-red-eye-remover-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>[New] 2024 Approved Red Eye Remover| How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-captureit-all-the-complete-screen-recorder-hack-for-2024/"><u>[New] CaptureIt All The Complete Screen Recorder Hack for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unleashing-voice-commands-with-top-mac-translation-programs-for-2024/"><u>[New] Unleashing Voice Commands with Top Mac Translation Programs for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-understanding-the-basics-of-ffxp-mode/"><u>[Updated] Understanding the Basics of FFXP Mode</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-xs-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone XS to PC | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-12-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 12 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-14-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 14 Plus to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-6s-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 6s Plus to Samsung | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-6s-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 6s Plus to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 13 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-6-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 6 to PC | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-fast-time-cinematography/"><u>Mastering Fast-Time Cinematography</u></a></li>
-<li><a href="https://fox-that.techidaily.com/recovering-lost-iphone-notetaking-sessions-expert-strategies-and-solutions/"><u>Recovering Lost iPhone Notetaking Sessions – Expert Strategies and Solutions</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/troubleshooting-continuous-glitches-in-emeditor-a-comprehensive-guide/"><u>Troubleshooting Continuous Glitches in EmEditor: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/unseen-favorites-hiding-facebook-affection/"><u>Unseen Favorites: Hiding Facebook Affection</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-frame-by-frame-filmmaking-to-financial-flourishing/"><u>[New] From Frame-by-Frame Filmmaking to Financial Flourishing</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-easy-path-from-spotify-to-youtube-discover-the-best-playlist-tools/"><u>[Updated] Easy Path From Spotify to YouTube Discover the Best Playlist Tools</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-15-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 15 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-13t-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi 13T Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-11-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 11 Pro Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/exclusive-guide-ranking-most-effective-ig-money-makers-for-2024/"><u>Exclusive Guide Ranking Most Effective IG Money Makers for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/guia-completa-como-arreglar-errores-en-windows-10-and-11-utilizando-la-herramienta-comando-prompt/"><u>Guía Completa: Cómo Arreglar Errores en Windows 10 & 11 Utilizando La Herramienta Comando Prompt</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-12-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 12 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-15-pro-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 15 Pro Max to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-xiaomi-redmi-note-12t-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Xiaomi Redmi Note 12T Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-12-pro-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 12 Pro to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/indiana-jones-franchise-a-comprehensive-guide-on-viewing-sequences/"><u>Indiana Jones Franchise: A Comprehensive Guide on Viewing Sequences</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-se-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone SE to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/origami-like-folded-havens-in-mc/"><u>Origami-Like Folded Havens in MC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sharing-laughter-iphone-memes/"><u>Sharing Laughter IPhone Memes</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-xr-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone XR to iPhone | Dr.fone</u></a></li>
 </ul></div>
 

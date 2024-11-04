@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone X Everything You Need to Know | Dr.fone
-date: 2024-10-25T21:00:56.005Z
-updated: 2024-10-29T19:15:42.383Z
+date: 2024-10-29T16:19:00.620Z
+updated: 2024-11-04T17:55:06.738Z
 tags: 
   - iphone transfer
 categories:
@@ -42,6 +42,13 @@ One of the major benefits of purchasing a refurbished Apple iPhone X is the cost
 
 ![An illustration of saving cost.](https://images.wondershare.com/drfone/article/2023/10/Refurbished-iPhone-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Quality Assurance**
 
 Refurbished iPhones are carefully inspected and tested to ensure that they meet Apple's high standards. They are also thoroughly repaired and cleaned. Often, a refurbished Apple iPhone X will look and perform like a new iPhone.
@@ -52,13 +59,6 @@ When you get a refurbished item, you're giving it a longer life. This means fewe
 
 ![An illustration of eco-friendly technology.](https://images.wondershare.com/drfone/article/2023/10/Refurbished-iPhone-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Warranty and Support**
 
 If you get a refurbished Apple iPhone X from Apple, you get a one-year warranty. You also get 90 days of free technical support. So, this warranty provides you peace of mind, just like you get when you buy a new iPhone.
@@ -68,19 +68,6 @@ If you get a refurbished Apple iPhone X from Apple, you get a one-year warranty.
 Refurbished iPhones are usually available in a variety of models. They also come with the latest software updates so that you can enjoy the newest features. These phones are reliable; you can trust that they will perform well.
 
 Well, we have explored the benefits, but is it safe to buy a refurbished iPhone? Let's find out!
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 3. Is It Safe to Buy a Refurbished iPhone?**
 
@@ -212,13 +199,6 @@ A certified refurbished Apple iPhone X is refurbished and certified by the manuf
 
 Refurbished iPhones come with the latest iOS software installed. They ensure that you have access to the newest features and security updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Final Thought**
 
 So, buying a refurbished Apple iPhone X is a wise way to get a good-quality Apple iPhone X at a lower cost. To make sure you're getting a good deal, choose trusted sellers and understand the warranty and return policies.
@@ -232,6 +212,20 @@ However, don't forget to download [Dr.Fone](https://tools.techidaily.com/wonders
 If you are willing to switch your phone from an iOS device to an android, the primary issue which restricts you to do so is your data loss and the data transferring from one device to another. In this article, we'll be learning How to Transfer Data from Apple iPhone X to Samsung Galaxy S20, with some easy and best techniques. The discussed techniques will ensure your data from not getting lost.
 
 ![transfer data from iphone to samsung s20](https://images.wondershare.com/drfone/article/2020/02/transfer-data-from-iphone-to-samsung-s20.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Transfer from Apple iPhone X to Samsung Galaxy S20 Directly (Easy and Fast)
 
@@ -345,6 +339,19 @@ It will give the option View backup history if you have used this function to ba
 
 ![ios device backup 01](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After that, Dr.Fone will display the backup history. Just pick the backup file you want and click on the Next on the bottom of the program or view button next to the backup file.
 
 ![ios device backup 04](https://images.wondershare.com/drfone/guide/backup-history.png)
@@ -365,21 +372,7 @@ If you want to export the chosen files to your computer, click on Export to PC. 
 
 ![ios device backup 07](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -433,10 +426,16 @@ Besides music files and formats of different kids, Dr.Fone - Phone Transfer also
 ![transfer music from iphone to android-complete the process](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to transfer music from Apple iPhone X to Android using Google Music Manager?
@@ -467,16 +466,16 @@ Another way to transfer music from Apple iPhone X to Android is by using Google 
 
 ![transfer music from iphone to android-upload selected songs](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-iphone-to-android-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8\. Wait for a while for your songs to be imported to Google Music Manager. Once it is done, you will be notified.
 
 ![transfer music from iphone to android-import songs to Google Music Manager](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-iphone-to-android-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9\. Great! You are almost there. In the end, you can download the Google Music app on your Android. From here, you can automatically access all the newly transferred songs on your Google Music library.
 
@@ -504,6 +503,13 @@ With Dr.Fone - Phone Manager (iOS), you can move data between your iOS device an
 
 ![transfer music from iphone to android-visit transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Connect your iPhone and the target Android device to the system. The interface will automatically detect both the Apple iPhone X devices in no time. From the top left option, make sure that you have selected your iPhone as a source device.
 
 ![transfer music from iphone to android-select your iPhone as a source device](https://images.wondershare.com/drfone/drfone/iphone-transfer-connect-two-devices.jpg)
@@ -513,13 +519,6 @@ With Dr.Fone - Phone Manager (iOS), you can move data between your iOS device an
 4\. Just select the files you wish to transfer to your Android and click on the export button on the toolbar.
 
 ![transfer music from iphone to android-click on the export button](https://images.wondershare.com/drfone/drfone/iphone-music-to-android.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5\. This will display a list of all the connected devices. Select the target Android device to commence the transfer process.
 
@@ -563,6 +562,13 @@ It might surprise you, but there are different ways to learn how to transfer mus
 
 ![transfer music from iphone to android-copy the selected songs](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-iphone-to-android-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After learning different moving music from Apple iPhone X to Android, you can certainly pick a preferred method. As you can see, Dr.Fone toolkit provides the fastest and easiest way to transfer music from Apple iPhone X to Android. With [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/), you can transfer all the music files from one device to another in a single click. In order to perform a selective transfer of data, you can try [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html) as well. Go ahead and try these tools and teach others how to move music from Apple iPhone X to Android by sharing this guide.
 
 <ins class="adsbygoogle"
@@ -579,22 +585,18 @@ After learning different moving music from Apple iPhone X to Android, you can ce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-from-ordinary-to-outstanding-unveiling-the-secrets-of-engaging-biographies/"><u>[New] From Ordinary to Outstanding Unveiling the Secrets of Engaging Biographies</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-perfect-loop-technique-for-all-your-youtube-favorites/"><u>[New] The Perfect Loop Technique for All Your YouTube Favorites</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-iphoneandroid-5-tactics-for-downloading-igtv/"><u>[Updated] In 2024, IPhone/Android 5 Tactics for Downloading IGTV</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-raw-footage-to-stunning-visuals-using-luts-in-obs-studio/"><u>2024 Approved From Raw Footage to Stunning Visuals Using LUTs in OBS Studio</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-pro-powerpoint-hacks-flawless-incorporation-of-vimeo-media-in-decks/"><u>2024 Approved Pro PowerPoint Hacks Flawless Incorporation of Vimeo Media in Decks</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-14-plus-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 14 Plus to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-6s-plus-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 6s Plus to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-11-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 11 to Android | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-honor-x8b-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Honor X8b</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-15-pro-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 15 Pro to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-8-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 8 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-6-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 6 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-xr-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone XR to Android | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/paint-jocular-visuals-with-giphy-in-mind-for-2024/"><u>Paint Jocular Visuals with Giphy in Mind for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723206789681-repairing-your-lenovos-unresponsive-mouse-pad-in-different-windows-environments-1187-expert-fixes/"><u>Repairing Your Lenovo's Unresponsive Mouse Pad in Different Windows Environments (11/8/7) - Expert Fixes!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-wallet-reviews-comprehensive-testing-by-tech-gurus-zdnet/"><u>Top-Rated MagSafe Wallet Reviews - Comprehensive Testing by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-8-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 8 to PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elevate-your-viewing-game-with-concurrent-channel-watches/"><u>[New] Elevate Your Viewing Game with Concurrent Channel Watches</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-crop-companion-chronicles-ultimate-agrigames-to-bond-with-buddies/"><u>[New] In 2024, Crop Companion Chronicles Ultimate AgriGames to Bond with Buddies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-picsart-app-analysis-and-tutorial-for-its-latest-release/"><u>[New] In 2024, PicsArt App Analysis & Tutorial for Its Latest Release</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unleashing-your-cellphones-potential-in-videography-for-2024/"><u>[Updated] Unleashing Your Cellphone's Potential in Videography for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-plus-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 12 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-xs-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone XS to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-xiaomi-redmi-note-12-pro-4g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Xiaomi Redmi Note 12 Pro 4G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-13-mini-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 13 mini to SIM? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-7-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 7 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone SE to Android | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sierra-users-meet-the-future-of-video-editing-tools-for-2024/"><u>Sierra Users, Meet the Future of Video Editing Tools for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-14-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 14 to iPhone | Dr.fone</u></a></li>
 </ul></div>
 

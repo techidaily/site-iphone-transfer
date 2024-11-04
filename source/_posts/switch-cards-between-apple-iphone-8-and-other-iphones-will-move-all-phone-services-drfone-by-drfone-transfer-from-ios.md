@@ -1,7 +1,7 @@
 ---
 title: Switch Cards Between Apple iPhone 8 and other iPhones Will Move All Phone Services? | Dr.fone
-date: 2024-10-22T16:53:15.769Z
-updated: 2024-10-29T17:22:00.601Z
+date: 2024-10-29T17:58:24.121Z
+updated: 2024-11-04T17:56:08.314Z
 tags: 
   - iphone transfer
 categories:
@@ -50,6 +50,13 @@ Once you have learned the implications of switching your SIM card to your new iP
 
 ![switch the sim card between iphones](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Use the “Power” button on your iOS device to turn it on. Once it turns on, you will find the cellular operations working according to the new SIM card.
 
 ![turn on the iphone](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-4.jpg)
@@ -82,19 +89,6 @@ Start installing and launching Wondershare Dr.Fone on your computer and selectin
 
 ![tap on screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Jailbreak Your iDevice**
 
 On the following screen, tap "Start" and follow it by clicking "Unlock Now" as Wondershare Dr.Fone recognizes your device. Now, you will need to jailbreak your device, for which the instructions are given on the screen. Remove the SIM card from the phone and access "WLAN" through device Settings.
@@ -117,13 +111,6 @@ If you have bought a new iPhone and need to switch all data along with the SIM c
 - The process of transferring data is straightforward. You are not required to put in any effort to transfer data.
 - The results provided in the data transfer are incredibly high. Dr.Fone reports concluding proceedings within 3 minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps To Switch Data to New iPhone With Dr.Fone - Phone Transfer
 
 As you seek to know the steps to switch data to a new iPhone with Dr.Fone - Phone Transfer, follow the steps as provided next:
@@ -139,13 +126,6 @@ Launch [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/pho
 As you connect both devices in the transfer process, define the source and destination. Set your old device as the "Source" and the new iPhone as the "Target." To change the Apple iPhone 8 devices, use the “Flip” button.
 
 ![connect your iphone devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3: Select File Types and Transfer**
 
@@ -164,6 +144,13 @@ Yes, you can use the same eSIM card to switch between different Apple iPhone 8 a
 2. **Is there a difference between switching physical SIM cards and using eSIM for transferring phone services between Apple iPhone 8 and other iPhones?**
 
 Physical SIM cards are tangible, removable chips that need to be inserted into a SIM card tray, whereas eSIMs are integrated directly into the Apple iPhone 8 device's hardware. Swapping physical SIM cards involves physically removing and inserting the card into the new device, whereas transferring an eSIM between devices can be done remotely. Physical SIM cards can store limited contact information and some network settings, whereas eSIMs can store multiple network profiles.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -215,19 +202,6 @@ Step 3 Go to the “Music” tab. Select the Ringtones option on the left sideba
 
 ![how to move iPhone ringtones to android easily](https://images.wondershare.com/drfone/drfone/export-music-to-pc.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2. How to Make Ringtones for iPhone?
 
 Creating Ringtones for iPhone is easy and convenient with Dr.Fone - Phone Manager (iOS).
@@ -245,6 +219,13 @@ Step 2 Then click on “Ringtone maker”. Or you can also select individual mus
 Step 3 A new window will pop up. To select the files from your computer, click on “Local Music”. To select files from your connected device, click “Save to Device”.
 
 ![how to custom ringtones for iPhone from local and device music](https://images.wondershare.com/drfone/drfone/select-local-music-to-make-ringtone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4 You can select the start and finish time for the duration of your ringtone. To preview the ringtone, you need to click on the “Ringtone Audition”. Once you have mentioned the start and finish time, click on “Save to PC” or “Save to Device”.
 
@@ -289,13 +270,6 @@ Launch [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/pho
 
 ![dr.fone for ios](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2: Click "Back Up Now" to Back up**
 
 After the iPhone is connected successfully, Dr.Fone will automatically detect the file types in it. Click on "Back Up Now" to back up your iPhone.
@@ -307,10 +281,10 @@ The backup process will start and take a few minutes to complete depending on th
 ![backup iphone contacts](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now that you have backed up all the contacts on the iPhone and then restoring them to the iPad is the way to it.
@@ -367,13 +341,6 @@ AirDrop is a convenient feature native to Apple devices. It presents a convenien
 
 ![enable wifi and bluetooth option](https://images.wondershare.com/drfone/article/2023/11/sync-contacts-from-iphone-to-ipad-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Here, enable AirDrop and set its visibility to "Everyone." Now, open the 'Contacts' app on your iPhone, select the contacts you want to transfer and tap the "Share" button.
 
 ![choose the everyone option](https://images.wondershare.com/drfone/article/2023/11/sync-contacts-from-iphone-to-ipad-4.jpg)
@@ -383,16 +350,10 @@ AirDrop is a convenient feature native to Apple devices. It presents a convenien
 ![tap on airdrop sharing option](https://images.wondershare.com/drfone/article/2023/11/sync-contacts-from-iphone-to-ipad-5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Sync Contacts from Apple iPhone 8 to iPad Using iTunes/Finder
@@ -403,13 +364,34 @@ iTunes/Finder serves as a robust option for users who prefer a traditional and r
 
 ![enable sync this iphone feature](https://images.wondershare.com/drfone/article/2023/11/sync-contacts-from-iphone-to-ipad-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** Subsequently, disconnect the iPhone and link your iPad to the computer. In iTunes/Finder, select the “Device” icon and switch to the "Info" tab. Here, ensure that the "Sync Contacts" box is checked, and then choose either "All Contacts" or "Selected Groups."
 
 ![enable sync contacts feature](https://images.wondershare.com/drfone/article/2023/11/sync-contacts-from-iphone-to-ipad-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Once you have made your selection, click on "Apply" to initiate the contacts synchronization process. Upon completion, you can disconnect the iPad and access the synced contacts from your iPhone.
 
 ![press the apply button](https://images.wondershare.com/drfone/article/2023/11/sync-contacts-from-iphone-to-ipad-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 So, these are four ways in which you can transfer contacts from Apple iPhone 8 to iPad. Since these methods are the outcome of thorough research, all the methods are absolutely safe, and there is absolutely no data loss in the process. However, we would recommend [Wondershare Dr.Fone](https://drfone.wondershare.com/iphone-backup-and-restore.html), considering its robust and efficient working design. It is one of the best and most popular tools to transfer data from Apple iPhone 8 to iPad and offers an amazing overall experience with a simple interface and fast process. What's imperative is to ensure that you follow all the steps properly and that's all, there you have it; all the contacts on the iPad.
 
@@ -427,22 +409,18 @@ So, these are four ways in which you can transfer contacts from Apple iPhone 8 t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-dive-into-dollars-15-online-stock-market-experts/"><u>[New] 2024 Approved Dive Into Dollars 15 Online Stock Market Experts</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-xs-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone XS to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/dynamic-igtv-covers-design-and-update-strategies/"><u>Dynamic IGTV Covers Design & Update Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722982798791-fixes-and-solutions-for-when-naraka-bladepoint-keeps-crashing-down/"><u>Fixes and Solutions for When Naraka: Bladepoint Keeps Crashing Down!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gigglegraphics-suite-for-2024/"><u>GiggleGraphics Suite for 2024</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/guia-sencilla-para-rescatar-tu-correspondencia-de-outlook-365-con-una-resena-de-backup/"><u>Guía Sencilla Para Rescatar Tu Correspondencia De Outlook 365 Con Una Reseña De Backup</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-asus-rog-phone-7-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Asus ROG Phone 7 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-15-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 15 to Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-15-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 15 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-13-pro-max-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 13 Pro Max online without SIM Card?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-13-mini-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 13 mini to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-se-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone SE to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-11-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 11 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 6 to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-14-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 14 to Android | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-optimize-social-media-visual-clarity-for-iphoneandroid-users/"><u>In 2024, Optimize Social Media Visual Clarity for iPhone/Android Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/machine-learning-vs-student-creativity-in-essay-composition/"><u>Machine Learning Vs. Student Creativity in Essay Composition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-how-to-use-screencastify-recorder/"><u>[New] 2024 Approved How to Use Screencastify Recorder</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-12-pro-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 12 Pro to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-xs-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone XS Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-motorola-moto-g34-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Motorola Moto G34 5G</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-6s-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 6s Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-x-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone X to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-indie-filmmakers-online-youtube-tutorials-for-growth/"><u>In 2024, Indie Filmmakers Online YouTube Tutorials for Growth</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-6s-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 6s to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-stealth-instagram-story-viewing-guide-for-desktops-android-and-ios/"><u>In 2024, Stealth Instagram Story Viewing Guide for Desktops, Android & iOS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-gloves-transforming-vr-playtime-for-2024/"><u>Leading Gloves Transforming VR Playtime for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ize-views-the-art-of-timestamp-integration-on-youtube-for-2024/"><u>Maximize Views The Art of Timestamp Integration on YouTube for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016227167-sonic-relief-for-chrome-users-sound-problems-now-solved/"><u>Sonic Relief for Chrome Users: Sound Problems Now Solved!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-of-affordable-microsoft-products-for-students/"><u>Unlocking the Secrets of Affordable Microsoft Products for Students</u></a></li>
 </ul></div>
 

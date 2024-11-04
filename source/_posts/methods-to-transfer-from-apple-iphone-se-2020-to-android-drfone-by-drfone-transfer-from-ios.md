@@ -1,7 +1,7 @@
 ---
 title: Methods to Transfer from Apple iPhone SE (2020) to Android | Dr.fone
-date: 2024-10-23T23:59:52.499Z
-updated: 2024-10-29T20:57:35.576Z
+date: 2024-10-29T16:48:49.953Z
+updated: 2024-11-04T17:55:15.614Z
 tags: 
   - iphone transfer
 categories:
@@ -19,6 +19,13 @@ Ready to switch your old iPhone to an Android smartphone? I'm sure it will bring
 ## Method 1. Transfer All Data from Apple iPhone SE (2020) to Android in 1 Click
 
 The easiest way to transfer data from Apple iPhone SE (2020) to Android is to use the smart iPhone to Android transfer tool, [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It enables you to easily transfer all contacts both in phone memory and cloud account, like iCloud, Exchange, and others, text messages, video, photos, and music from iPhone (iPhone 15 included) to Android phone or tablet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Phone Transfer
 
@@ -45,6 +52,13 @@ Launch Dr.Fone - Phone Transfer on your Windows PC or Mac. On its homepage, choo
 
 ![iphone to android contacts transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2. Connect Your iPhone and Android Device to Computer with USB Cables
 
 Connect your iPhone and Android device to the computer. Two devices will be soon detected and shown in the window below.
@@ -56,13 +70,6 @@ Connect your iPhone and Android device to the computer. Two devices will be soon
 Scan the supported files to ensure what you're going to transfer. Click "Start Transfer". If you have many useless files on your Apple iPhone SE (2020), you can check "Clear data before copy".
 
 ![transfer contacts from iphone to android](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Don't have a computer at hand? Just try the [Android app of Dr.Fone - Phone Transfer](https://play.google.com/store/apps/details?id=com.wondershare.mobiletrans&hl=en), which allows you to directly **transfer data from Apple iPhone SE (2020) to Android**, and bring iCloud data to Android without any hassle.
 
@@ -93,13 +100,6 @@ Step 2. Sign in to your iCloud account and turn on _Contacts_ to sync contacts 
 Step 3. Open the browser and land iCloud main page. Then, click _Contacts_ to enter the contact management panel. Click _Show Actions Menu_ and click _Export vCard…_. Then, contacts in iCloud will be saved as a vCard file on the computer.
 
 ![transfer iphone contacts to android](https://images.wondershare.com/drfone/others/export-icloud-contacts-from-pc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4. Plug a USB cable to connect your Apple iPhone SE (2020) or tablet to computer. When it's recognized, go and open the SD card of your Apple iPhone SE (2020). Cut and paste the exported vCard file to the SD card folder.
 
@@ -137,6 +137,13 @@ Plug-in USB cables to connect your iPhone and Android phone to computer. Your iP
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/delete-ipad-photos-from-computer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Part 5. Transfer Video and Music from Apple iPhone SE (2020) to Android
 
 Have purchased hundreds of thousands of songs and videos and now want to transfer to your new Android phone or tablet. It's a piece of cake. iTunes can do that for you. Just follow the easy tutorial below.
@@ -144,6 +151,13 @@ Have purchased hundreds of thousands of songs and videos and now want to transfe
 Step 1. Open iTunes. Click _Store_ > _Authorize This Computer…_. Fill out your Apple ID and password. Get your iPhone and Android phone connected with a USB cable and open iTunes. Right click your iPhone. In the pull-down list, choose _Transfer Purchased_ to transfer iPhone music and video back to iTunes. Navigate to the iTunes media folder on the computer. C: UsersAdministratorMusiciTunesiTunes Media. Find your wanted music and video and copy them to your Apple iPhone SE (2020) SD card.
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/itunes-media-folder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 6. Transfer Calendars from Apple iPhone SE (2020) to Android
 
@@ -191,13 +205,6 @@ Now go to the Notes app on your iPhone, and you can see a folder named iCloud. N
 
 ## Part 2. Sync Notes from Apple iPhone SE (2020) to iPad Using Third-Party Software
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Phone Manager (iOS)
 
 Transfer Files Between iPhone and iPad without iTunes
@@ -211,13 +218,6 @@ Transfer Files Between iPhone and iPad without iTunes
 **3981454** people have downloaded it
 
 Besides iCloud, there are several third-party softwares that also allow you to sync and transfer notes from Apple iPhone SE (2020) to iPad. This part will introduce the top programs which can help you to get the work done easily.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. CopyTrans
 
@@ -285,6 +285,13 @@ User Reviews
 
 ![How to Sync Notes from Apple iPhone SE (2020) to iPad Using Third Party Software - Syncios](https://images.wondershare.com/drfone/others/syncios-transfer-notes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Transfer Photos from Apple iPhone SE (2020) to other iPhone without iCloud
 
 This article's content focuses on the importance of photos, and the techniques and tools you require to **transfer photos from Apple iPhone SE (2020) to another iPhone without iCloud** including iPhone 15.
@@ -313,22 +320,29 @@ Step 1: Download the Dr.Fone software, open it, and you can see the following in
 
 ![transfer photos from iphone to iphone in one click](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Connect both iPhones to your PC and click "Phone Transfer".
 
 ![transfer all photos from iphone to iphone without icloud using the software](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** _Confirm which iPhone is your destination device and which one is the source. Click "Flip" to swap their positions if necessary._
 
 Step 3: Select the "Photos" option and click "Start Transfer". Then you can find all photos are transferred from Apple iPhone SE (2020) to iPhone without iCloud.
 
 ![transfer all photos from iphone to iphone without icloud](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Video Guide: Transfer photos from Apple iPhone SE (2020) to iPhone without iCloud**
 
@@ -351,19 +365,6 @@ First, you need to install Wondershare Dr.Fone on your computer and connect both
 Once Dr.Fone detects all the photos in your iPhone, it will categorize them in the albums like they are in your iDevice. Choose the pictures you want to transfer and tap the “To Device” option. Then, click on the iPhone on which you want to send all the selected images and complete the photo transfer process.
 
 ![transfer the selected images](https://images.wondershare.com/drfone/guide/manage-ios-photos-2.png)
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Transfer Photos from Apple iPhone SE (2020) to iPhone without iCloud via iTunes \[iPhone 15 Included\]
 
@@ -388,17 +389,16 @@ AirDrop gives its users the wireless facility to transfer iPhone photos in a qui
 ![press the accept button](https://images.wondershare.com/drfone/article/2023/11/transfer-photos-from-iphone-to-iphone-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tip: How to Transfer Photos from Apple iPhone SE (2020) to iPhone using iCloud
@@ -434,20 +434,21 @@ If you do not want to use iCloud for data transfer, run Dr.Fone - Phone Transfer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-optimal-methods-for-controlling-video-pace-on-snapchat/"><u>[New] Optimal Methods for Controlling Video Pace on Snapchat</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-snapshot-your-mobile-gamers-high-scores-on-samsungs/"><u>[Updated] In 2024, Snapshot Your Mobile Gamers' High Scores on Samsungs</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/1725290657948-gif2/"><u>美麗なGIF画像制作ガイド：2つの効果的な改善テクニック</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/can-you-stream-av1-format-videos-on-plex-a-comprehensive-guide/"><u>Can You Stream AV1 Format Videos on Plex? A Comprehensive Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/chilly-champs-beijings-best-of-the-2022-games/"><u>Chilly Champs Beijing's Best of the 2022 Games</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-13-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 13 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-13-mini-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 13 mini to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-15-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 15 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-13-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 13 Pro Max to PC | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-14-pro-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 14 Pro Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-12-pro-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 12 Pro Max Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quick-and-clean-method-to-live-podcast-for-2024/"><u>Quick & Clean Method to Live Podcast for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-7-plus-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 7 Plus Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-dark-screen-post-update-solution/"><u>Win11 Dark Screen Post-Update Solution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-9-fixes-for-firefox-videos-on-facebook-live/"><u>[Updated] 9 Fixes for Firefox Videos on Facebook Live</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-14-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi 14 Activity | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-11-pro-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 11 Pro to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-12-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 12 to Android | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-your-latest-amd-ati-radeon-hd-graphics-card-drivers-installed-today/"><u>Effortless Installation: Get Your Latest AMD ATI Radeon HD Graphics Card Drivers Installed Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-drivers-for-your-epson-xp-640-on-a-pc-with-windows-os/"><u>How to Install the Latest Drivers for Your Epson XP-640 on a PC with Windows OS</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-x-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone X to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone SE to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-12-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 12 Pro to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-boost-your-content-quality-the-ultimate-guide-for-impressive-mac-made-tiktok-openers/"><u>In 2024, Boost Your Content Quality The Ultimate Guide for Impressive Mac-Made TikTok Openers</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-11-pro-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 11 Pro to SIM? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-strategies-to-enhance-twitter-user-experience-with-ads/"><u>In 2024, Strategies to Enhance Twitter User Experience with Ads</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-reno-8t-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo Reno 8T</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-15-pro-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 15 Pro Max Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-honor-play-40c-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Honor Play 40C ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138571751-9780595888405-welcome-to-your-designer-planet/"><u>Welcome to Your Designer Planet! | Free Book</u></a></li>
 </ul></div>
 

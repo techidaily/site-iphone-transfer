@@ -1,7 +1,7 @@
 ---
 title: Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
-date: 2024-10-27T00:30:44.030Z
-updated: 2024-10-29T17:29:17.184Z
+date: 2024-10-28T17:30:50.819Z
+updated: 2024-11-04T16:04:30.825Z
 categories:
   - repair-tools
 description: This Article Describes Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
@@ -161,25 +161,31 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-journey-through-joint-video-viewing-the-youtube-way/"><u>[New] 2024 Approved Journey Through Joint Video Viewing The Youtube Way</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-unveiling-the-magic-of-seamless-sound-integration-in-videos/"><u>[New] In 2024, Unveiling the Magic of Seamless Sound Integration in Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-premium-lecture-transcribers-for-learning-institutions-for-2024/"><u>[New] Premium Lecture Transcribers for Learning Institutions for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-4k-perfection-selecting-youtubes-best-video-tools/"><u>2024 Approved 4K Perfection Selecting YouTube's Best Video Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722894210710-discover-the-best-imessage-gaming-trends-the-top-7-picks/"><u>Discover the Best iMessage Gaming Trends : The Top 7 Picks</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-14-plus-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 14 Plus to SIM? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-vivo-y100-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo Y100 5G Through Google Earth?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-13-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 13 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-8-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 8 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-pro-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 13 Pro Max to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-12-mini-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 12 mini to iPad | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intellects-frontier-outpacing-the-turing-evaluation/"><u>Intellect's Frontier: Outpacing the Turing Evaluation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-secure-and-ethical-methods-for-capturing-chat-calls/"><u>[New] In 2024, Secure and Ethical Methods for Capturing Chat Calls</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-videos-on-facebook-the-transfer-guide/"><u>[Updated] Twitter Videos on Facebook The Transfer Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-yt-outro-guidelines-keeping-viewers-hooked/"><u>2024 Approved YT Outro Guidelines Keeping Viewers Hooked</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/comprehensive-analysis-of-the-swagtron-swagboard-t1-a-fast-and-premium-choice/"><u>Comprehensive Analysis of the Swagtron Swagboard T1 – A Fast and Premium Choice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-hardware-with-toms-digital-world-your-guide-to-gadgets-and-components/"><u>Delving Into Hardware with Tom's Digital World: Your Guide to Gadgets and Components</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/experience-advanced-conversion-rates-powered-by-the-innovative-cookiebot-technology/"><u>Experience Advanced Conversion Rates Powered by the Innovative Cookiebot Technology</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fixed-why-your-iphone-cant-access-mobile-network-and-what-to-do-about-it/"><u>Fixed! Why Your iPhone Can't Access Mobile Network and What to Do About It</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-fix-device-not-set-up-right-problem-error-code-1/"><u>How to Fix 'Device Not Set Up Right' Problem - Error Code ^1</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Identify malfunctioning hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-radiant-reels-elevate-your-visuals-with-3-insta-tactics/"><u>In 2024, Radiant Reels Elevate Your Visuals with 3 Insta Tactics</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/overcoming-frequent-fuser-software-collapses-on-personal-computers/"><u>Overcoming Frequent Fuser Software Collapses on Personal Computers</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/warzone-20-lag-solutions-top-2024-tricks-to-lower-your-ping/"><u>Warzone 2.0 Lag Solutions: Top 2024 Tricks to Lower Your Ping</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: 6 Methods for Switching from Apple iPhone 12 mini to Samsung | Dr.fone
-date: 2024-09-09T01:34:16.426Z
-updated: 2024-09-10T01:34:16.426Z
+date: 2024-10-31T17:42:59.326Z
+updated: 2024-11-04T17:22:07.187Z
 tags: 
   - iphone transfer
 categories:
@@ -32,14 +32,6 @@ Proper preparation before switching from an iPhone to a Samsung device is essent
 
 If you don’t know how to transfer data from Apple iPhone 12 mini to Samsung, then this part is perfect for you. You can easily transfer data from Apple iPhone 12 mini to Samsung in 1 click with the help of [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It’s a great software that can help you when you are switching from Apple iPhone 12 mini to Samsung. Dr.Fone - Phone Transfer will help you to [transfer pictures](https://drfone.wondershare.com/iphone-transfer/how-to-transfer-photos-from-iphone-to-computer.html), music, contacts, apps, videos, call logs, etc. from Apple iPhone 12 mini to Samsung in a very short time. It supports various mobile brands that have been ruling the mobile industry nowadays and it’s fully compatible with iOS 17 and Android 14. With all the useful features, here is how to transfer from Apple iPhone 12 mini to Samsung in 1 click by using Dr.Fone –
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Phone Transfer
 
 Transfer Data from Apple iPhone 12 mini to Samsung in 1 Click!
@@ -62,25 +54,15 @@ Transfer Data from Apple iPhone 12 mini to Samsung in 1 Click!
 
 ![connect iphone and samsung to computer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3.** After a few minutes, all your data will be transferred to Samsung by using an iPhone.
 
 ![iphone to samsung transfer complete](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
 [Switch Data Now](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Switch Data Now](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
-
-
 ## Part 2: How to transfer data from iCloud to Samsung?
 
 If you don’t know anything about transferring data from Apple iPhone 12 mini to Samsung using iCloud backup, then this part is perfectly described for you. With the help of [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/), you can easily download, preview, and restore the iCloud backup to the Samsung phone in a very short time. So just don’t worry at all if you don’t have any idea about the iCloud transfer in iPhone to Samsung. Here is how you can transfer the iCloud backup to a Samsung phone.
-
-
 
 ### Wondershare Dr.Fone
 
@@ -97,12 +79,6 @@ Restore iCloud/iTunes Backup to Samsung Selectively.
 
 ![transfer icloud data to samsung](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2.** From the next page, you need to log into your iCloud account.
 
 ![login to icloud](https://images.wondershare.com/drfone/guide/icloud-manager-1.png)
@@ -115,42 +91,23 @@ Restore iCloud/iTunes Backup to Samsung Selectively.
 
 ![download icloud backup](https://images.wondershare.com/drfone/guide/icloud-manager-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 5.** Now Dr.Fone will transfer data on iCloud to your Samsung phone. Wait for the restore process to complete.
 
 ![restore icloud backup to samsung](https://images.wondershare.com/drfone/guide/icloud-manager-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [Restore iCloud Data to Samsung](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Restore iCloud Data to Samsungr](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to switch from Apple iPhone 12 mini to Samsung using Smart Switch?
 
 Switching from Apple iPhone 12 mini to Samsung can seem difficult. But with the help of the Samsung Smart Switch, you can switch from almost any smartphone, including an iOS device to a new Samsung smartphone efficiently. Samsung Smart Switch provides 3 ways to transfer data from Apple iPhone 12 mini to Samsung: Restore from iCloud, USB-OTG adapter, and restore from iTunes backup. Here is how you can transfer from Apple iPhone 12 mini to Samsung using Smart Switch.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.1 How to restore from iCloud to Samsung?
 
 1. First, from your iPhone, go to the “Settings” option and then choose “iCloud”.
@@ -164,13 +121,20 @@ Switching from Apple iPhone 12 mini to Samsung can seem difficult. But with the 
 
 ![backup iphone to icloud](https://images.wondershare.com/drfone/article/2018/iphone-to-samsung-transfer-01.jpg) ![restore icloud data to samsung](https://images.wondershare.com/drfone/article/2018/iphone-to-samsung-transfer-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Remember, you can’t transfer iTunes music and videos from iCloud. You need to use Smart Switch for PC or Mac to transfer iTunes music from Apple iPhone 12 mini to Samsung. But iTunes videos are encrypted and cannot transfer them.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.2 How to restore from iTunes backup to Samsung?
 
@@ -178,6 +142,13 @@ Remember, you can’t transfer iTunes music and videos from iCloud. You need to 
 2. Now download and install Smart Switch on your PC and restart your PC.
 3. Now connect your Samsung device to your PC and launch Smart Switch. Now click on the “Restore” button on the Smart Switch.
 4. On this final page, click on the “Restore Now” option to transfer data to your Samsung device.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.3 How to transfer to Samsung using a USB-OTG adapter?
 
@@ -189,22 +160,10 @@ Remember, you can’t transfer iTunes music and videos from iCloud. You need to 
 
 ![transfer from iphone to samsung using OTG](https://images.wondershare.com/drfone/article/2018/iphone-to-samsung-transfer-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Your files will be transferred to the Samsung device.
 
 **Data Can Be Transferred:** Contacts, Schedules, Calendar, Notes, Call History, Bookmarks, Live Photos, Photos, Documents, Recommended Apps, Videos (DRM-free content only), Voice Memos, Wi-Fi, and Alarms.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to Switch from Apple iPhone 12 mini to Samsung via USB cable?
 
 Migrating from an iPhone to a Samsung device using a USB cable presents a straightforward data transfer method. By using this method, you can transition from iOS to Android effortlessly. This even ensures that your important contacts, messages, and media move to your new Samsung device. The step-by-step process below outlines the detailed procedure for the hassle-free transfer of your data:
@@ -214,43 +173,33 @@ Migrating from an iPhone to a Samsung device using a USB cable presents a straig
 ![set up android phone](https://images.wondershare.com/drfone/article/2023/11/switching-from-samsung-to-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 2.** Now, connect both devices with a compatible USB cable and choose the "Trust" option on your iPhone. You might be required to enter your iPhone passcode a few times. Then, log into your Google account on the Samsung device.
 
 ![trust the connected device](https://images.wondershare.com/drfone/article/2023/11/switching-from-samsung-to-iphone-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 3.** After logging in, it is time to choose the data you want to transfer from your iPhone. Choose the data on your Samsung device and hit the "Copy" button to begin the process. Once data has been transferred, don't forget to turn off iMessage on your iPhone when prompted by hitting the “Done” button.
 
 ![copy selected data to android](https://images.wondershare.com/drfone/article/2023/11/switching-from-samsung-to-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Data Can Be Transferred:** Contacts, Photos, Videos, Calendar Events, Messages, Apps, Music, Call Logs, Alarms, and more.
 
 ## Part 5: How to transfer from Apple iPhone 12 mini to Samsung using email?
@@ -279,18 +228,6 @@ If you are interested in moving from Apple iPhone 12 mini to Samsung, then you c
 
 Remember, transferring data manually actually can only work for Photos. So if you want to transfer all of your photos, videos, music, call logs, messages, apps, etc. you need to choose Dr.Fone - Phone Transfer for this task.
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQS
 
 1. **How to Transfer WhatsApp data from Apple iPhone 12 mini to Samsung?**
@@ -327,8 +264,6 @@ If you are looking for a hassle-free solution to export contacts from Apple iPho
 
 It would be a one-stop solution to transfer all kinds of content between your iOS device and computer. Besides exporting iPhone contacts to Excel, you can also move photos, messages, music, and more. It can also be used to transfer iTunes media as well. The best part is that you don’t need to use iTunes (or any other complicated tool) to export iPhone contacts to CSV. All you need to do is follow these simple steps:
 
-
-
 ### Dr.Fone - Phone Manager (iOS)
 
 Transfer MP3 to iPhone/iPad/iPod without iTunes
@@ -345,15 +280,16 @@ Transfer MP3 to iPhone/iPad/iPod without iTunes
 
 ![export iphone contacts to excel with Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2\. Since the tool follows an intuitive process, it will automatically detect your iPhone and prepare it for the transfer process. Once it is ready, you will get the following interface.
 
 ![connect iphone to computer](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. Instead of selecting options from its home, go to the “Information” tab.
 
@@ -369,12 +305,6 @@ Transfer MP3 to iPhone/iPad/iPod without iTunes
 
 That’s it! In this way, you would be able to automatically export iPhone contacts to CSV. Now you can just visit the location and copy the file to any other device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Export iPhone contacts to Excel free using SA Contacts Lite
 
 You can also try SA Contacts Lite to export iPhone contacts to Excel free as well. It is a freely available app that can be downloaded from the App Store. The app can be used to import and export your contacts in different formats. It makes the process of exporting iPhone contacts to Excel pretty easy. You can make it work with these simple steps:
@@ -395,20 +325,8 @@ You can also try SA Contacts Lite to export iPhone contacts to Excel free as wel
 
 ![export iphone contacts excel file to dropbox](https://images.wondershare.com/drfone/article/2018/01/15154800927553.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7\. For instance, if you wish to upload the file to Dropbox, simply select the provided option and grant the app the needed permissions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Export iPhone contacts to CSV using iCloud
 
 If you don’t want to take the assistance of any third-party app to export iPhone contacts to Excel free, then you can also use iCloud. The process of exporting iPhone contacts to Excel using iCloud is a little tedious compared to other methods. Though, these steps will help you meet your requirements.
@@ -421,44 +339,20 @@ If you don’t want to take the assistance of any third-party app to export iPho
 
 ![log in icloud account on computer](https://images.wondershare.com/drfone/article/2018/01/15154801044092.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3\. Click on the gear icon (Settings) on the bottom left corner. From here, you can select all contacts in one go. Though, if you wish, you can manually select the contacts you wish to export as well.
 
 ![select all contacts on icloud](https://images.wondershare.com/drfone/article/2018/01/15154801165153.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4\. Once you have made your selection, go to the Settings again and click on the option of “Export vCard”.
 
 ![export iphone contacts to vcard](https://images.wondershare.com/drfone/article/2018/01/15154801304112.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5\. The exported vCard will automatically be saved in the Downloads folder (or any other default location). Now, you can simply go to a [vCard to CSV converter](http://labs.brotherli.ch/vcfconvert/) web tool to convert the vCard to a CSV file.
 
 ![convert vcard contacts to excel csv file](https://images.wondershare.com/drfone/article/2018/01/15154801441776.jpg)
 
 We hope that our quick and smart guide would be able to help you export contacts from Apple iPhone 12 mini to Excel. Dr.Fone Transfer provides a fast and easy solution export iPhone contacts to CSV and other formats. It can also be used to transfer other types of content between your iOS device and computer too. Give it a try and make the most of your iPhone without any trouble.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Transfer Data from iOS Devices to Motorola Phones
 
 **Issues about transferring data from Apple iPhone 12 mini to Motorola G5/G5Plus**
@@ -469,11 +363,16 @@ One bigger problem can be that you could have duplicate contacts after transferr
 
 For calendar, one issue might be that the new calendar data are not shown on your phone. If you cannot find the best method that works for you, like syncing the calendar from iCloud or syncing from your Google account, you should start over with the migration of data. It is a little embarrassing to start over and over again with transferring the data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Easy solution - 1 click to transfer data from Apple iPhone 12 mini to Motorola G5
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) can be used for transferring data from to phone to another phone like messages, contacts, call logs, calendar, photos, music, video and apps.  Also you can back up your iPhone and save the data on your pc, for example, and restore later when you wish. Basically all your necessary data can be transferred fast from a phone to another phone.
-
-
 
 ### Dr.Fone - Phone Transfer
 
@@ -501,11 +400,12 @@ Both your phones should have an USB cable. Take the USB cables and connect your 
 ![steps to transfer data from Apple iPhone 12 mini to Motorola](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 You can choose to flip between the two devices, also. You will see all your data like contacts, text messages, calendar, call logs, apps, photos, music, videos and you can select the data that you need to be transferred. If you wish, you can clean the data before to start copying the new data on your device.
 
 ![start to transfer data from Apple iPhone 12 mini to Motorola](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
@@ -518,12 +418,6 @@ As you know, iOS operating systems and the Android operating systems are differe
 
 ![Transfer data from Apple iPhone 12 mini to Motorola](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Which Motorola device do you use?
 
 List at least 10 popular Motorola devices in US.
@@ -550,9 +444,6 @@ Droid Maxx, is water – resistant and the rain should be no pain for you.
 
 Droid Mini, is the small phone that you can use fast for your needs having Android KitKat.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -565,11 +456,19 @@ Droid Mini, is the small phone that you can use fast for your needs having Andro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/2024-approved-parroting-perfection-dissecting-bebops-latest-flight-feature/"><u>2024 Approved Parroting Perfection Dissecting Bebop's Latest Flight Feature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-dvd-conversion-software-top-picks-seamless-hd-transfer-from-dvds-to-macpc/"><u>Best DVD Conversion Software Top Picks: Seamless HD Transfer From DVDs to Mac/PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/boosting-your-gameplay-tips-for-increased-zoom-range-for-2024/"><u>Boosting Your Gameplay Tips for Increased Zoom Range for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/enhancing-synchronization-between-cameras-and-obs/"><u>Enhancing Synchronization Between Cameras and OBS</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-15-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 15 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-se-2020-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone SE (2020) to Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 13 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 15 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-review-is-aurora-revolutionary-for-2024/"><u>In-Depth Review Is Aurora Revolutionary for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/resolved-troubleshooting-steps-for-running-civilization-vi-on-windows-11/"><u>Resolved: Troubleshooting Steps for Running Civilization VI on Windows 11</u></a></li>
+</ul></div>
 

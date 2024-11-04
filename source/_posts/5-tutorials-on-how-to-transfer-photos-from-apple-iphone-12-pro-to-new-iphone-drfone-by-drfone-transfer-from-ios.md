@@ -1,7 +1,7 @@
 ---
 title: 5 Tutorials on How to Transfer Photos From Apple iPhone 12 Pro to New iPhone | Dr.fone
-date: 2024-07-29T01:24:11.423Z
-updated: 2024-07-30T01:24:11.423Z
+date: 2024-11-01T17:29:35.387Z
+updated: 2024-11-04T16:13:07.159Z
 tags: 
   - iphone transfer
 categories:
@@ -28,6 +28,19 @@ It’s true to say that Shared Album is a great iOS feature. However, it’s imp
 
 Do you find Shared Album a useful tool, though? If so, here are the tutorials on how to activate this feature and create one in the Photos app.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Activate Shared Album?
 
 Here’s how to activate Shared Album on Settings.
@@ -44,14 +57,8 @@ Here’s how to activate Shared Album on Settings.
 
 - **Step 5:** Toggle on the radio button next to Shared Albums.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![shared album settings](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Create Shared Albums in Photos
 
 Here’s how to create Shared Albums in Photos.
@@ -60,9 +67,6 @@ Here’s how to create Shared Albums in Photos.
 - **Step 2:** Click the Album tab.
 - **Step 3:** Click the + icon at the top-left corner of your screen to add a new folder.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![add new folde](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-4.jpg)
 
 - **Step 4:** Click New Shared Album.
@@ -71,9 +75,6 @@ Here’s how to create Shared Albums in Photos.
 
 - **Step 5:** Rename the Shared Album and then click Create.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Transfer Photos From Apple iPhone 12 Pro to iPhone in Easy Steps?
 
 Undoubtedly, the Shared Album feature is a very convenient way to move media files from one iPhone to another. Imagine all you have to do is consolidate all the files in a Shared Album folder and add subscribers. From there, you can easily access the album on multiple iOS devices and download the files. But it’s important to note that there are other photo transfer methods you can try apart from using Shared Album. Check out the 5 tutorials below on how to transfer photos from Apple iPhone 12 Pro to iPhone.
@@ -90,26 +91,24 @@ How do I transfer photos from Apple iPhone 12 Pro to iPhone? Well, the easiest w
 
 - **Step 4:** Toggle on the radio button next to Sync This iPhone. From then on, your iPhone will sync your photos to iCloud.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![sync this iphone](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-7.jpg)
 
 - **Step 5:** Do the same series of steps on the other iPhone. Once the synchronization has been completed, open the Photos app. Find the newly synced iCloud photos on the All Photos album.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Transfer photos from Apple iPhone 12 Pro to iPhone using AirDrop
 
 If you’re just sending a few pieces of photos, AirDrop is indeed a great transfer medium. It’s basically a wireless sharing option allowing users to send files between two iOS devices. Do you want to try it? Here’s how to transfer photos from Apple iPhone 12 Pro to iPhone using AirDrop.
 
 - **Step 1:** Toggle on the Wi-Fi and Bluetooth connectivity on both iPhones. After that, find the AirDrop option on the two devices and then switch it on. Choose Everyone.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![airdrop everyone](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** On the Apple iPhone 12 Pro device that contains the files, go to Photos. Select the images you want to transfer. After that, click the Share button at the bottom-left corner of your screen.
 - **Step 3:** Choose AirDrop.
@@ -118,9 +117,6 @@ If you’re just sending a few pieces of photos, AirDrop is indeed a great trans
 
 - **Step 4:** Select the recipient from the provided list. After that, accept the AirDrop request on the other device.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Transfer photos from Apple iPhone 12 Pro to iPhone via Mail
 
 Another reliable method you can try is to email the photos from one iPhone to another. Like AirDrop, it works great if you’re just moving a few bits of files to another device. Don’t work. The process will not take much time. Here’s how to transfer photos from Apple iPhone 12 Pro to iPhone via Mail.
@@ -142,28 +138,20 @@ Let’s say you’re sending one photo to another iPhone user. What is the best 
 - **Step 2:** Select the specific group of images you want to transfer. Right after, click the Share icon at the bottom-left corner of your screen.
 - **Step 3:** Scroll down and find the Copy iCloud Link. Click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![copy icloud link](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** Share the iCloud link via Messages, Mail, or internet messaging platform. On the other iPhone device, access the link and then download the photos from there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Method 5: Transfer photos from Apple iPhone 12 Pro to iPhone using Wondershare Dr.Fone
 
 The first four tutorials above on how to transfer pictures from Apple iPhone 12 Pro to iPhone are very easy to follow. But if you wish to explore another convenient option, Wondershare Dr.Fone can help you with that. Its phone transfer feature has a powerful facility that can move your photos and other files between two mobile devices. Here’s how to use it in easy steps.
-
-
 
 - **Step 1:** Download Wondershare Dr.Fone from its [<u>official website.</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) Then, install it on your computer.
 - **Step 2:** Open the newly installed software on your desktop. After it fully loads, connect your two iPhones using a data cable.
@@ -181,26 +169,22 @@ The first four tutorials above on how to transfer pictures from Apple iPhone 12 
 
 - **Step 6:** Wait while Wondershare Dr.Fone is facilitating the transfer. If you wish to terminate the progress, simply click **Cancel.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![phone transfer ongoing](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 7:** After completing the process, click **OK** to wrap it up. Check your files from their respective locations afterward.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![phone transfer done](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## BONUS TIP: Back Up Your Photos First
 
 The tutorials above on how to transfer all photos from Apple iPhone 12 Pro to iPhone are safe to initiate. You can be sure about that. But as an additional layer of protection, it’s best to back up your iPhone first before the transfer. Don’t worry. [<u>Wondershare Dr.Fone. </u>](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) simplifies the backup process for you. Here’s a quick tutorial to get you started.
-
-
 
 - **Step 1:** Launch the Wondershare Dr.Fone on your computer. After it fully loads up, connect your iPhone using a data cable.
 - **Step 2:** Access the left-side panel and then click **My Backup.** On the main dashboard, click **Back Up Now.**
@@ -209,17 +193,10 @@ The tutorials above on how to transfer all photos from Apple iPhone 12 Pro to iP
 
 - **Step 3:** Follow the on-screen instructions for SMS backup. After that, click **OK** to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![sms backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-2.png)
 
 - **Step 4:** Wait while Wondershare Dr.Fone is backing up your files.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![backup ongoing](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
 - **Step 5:** After completing the backup process, click **View Backups** or **Open in Folder** to check your files.
@@ -229,8 +206,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ## Conclusion
 
 Transferring photos between two iOS devices is very easy. In fact, you can instantly complete the migration process with just the snap of a finger. Refer to the five tutorials above on how to transfer photos from Apple iPhone 12 Pro to iPhone enumerated. One of them can certainly fit your situation and help you in this regard. For a more convenient file transfer option, download Wondershare Dr.Fone for free. It has a potent phone transfer feature that can aid in the transfer of your dearly cherished photos.
-
-
 
 ## How to Copy Contacts from Apple iPhone 12 Pro to SIM?
 
@@ -242,22 +217,24 @@ Lately, lots of iPhone users have asked similar questions as they wish to save c
 
 A lot of users take the assistance of SIM card to save their contacts. If you are also doing the same, then you can easily learn how to import SIM contacts to iPhone. Simply go to your device’s Settings > Mail, Contacts, Calendar and tap on “Import SIM Contacts”.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![import sim contacts to iphone](https://images.wondershare.com/drfone/article/2018/01/15151409125783.jpg)
 
 Though, the problem occurs when users wish to do vice versa and learn how to import contacts from Apple iPhone 12 Pro to SIM. As of now, Apple doesn’t provide a direct solution to export contacts to SIM on iPhone. If you really wish to save contacts to SIM on iPhone, then you have to jailbreak your device once. After jailbreaking your device, you can use certain apps to move contacts to SIM easily.
 
 Though, if your device has not been jailbroken, then you can’t export contacts to SIM on iPhone directly. This is because Apple assumes the transfer of contacts via SIM card is an obsolete method. Don’t worry – you can try an alternative method to save and backup contacts on iPhone. We have discussed it in the next section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to save iPhone contacts with Dr.Fone?
 
 While we can’t learn how to copy contacts from Apple iPhone 12 Pro to SIM, we can try an alternative method to save our contacts. By taking the assistance of Dr.Fone - Backup & Restore (iOS), you can save your data by taking its backup. Later, you can restore the backup on any other iOS (or Android) device. In this way, you can easily move your contacts and don’t need to learn how to save contacts to SIM on iPhone.
 
 [Dr.Fone - Backup & Restore (iOS)](https://drfone.wondershare.com/iphone-backup-and-restore.html) is a highly advanced and intuitive tool that can backup and restore all the major data types like contacts, messages, photos, music, etc. It is compatible with every leading version of iOS (including iOS 17). Therefore, instead of learning how to transfer contacts from Apple iPhone 12 Pro to SIM, you can use Dr.Fone Backup & Restore by following these steps:
-
-
 
 ### Dr.Fone - Backup & Restore (iOS)
 
@@ -288,21 +265,22 @@ Save and Backup iPhone Contacts with 1-Click.
 
 5\. To backup contacts, make sure the option of “Contacts” (under the Privacy section) is enabled before you click on the Backup button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![select contacts to backup](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
 
 6\. Wait for a while as Dr.Fone will backup your selected data. Once it is done, you will be notified. You can either view the backup content or go to the Backup location as well.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone contacts backup complete](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-2.png)
 
 7\. Whenever you need to restore your contacts, you can simply connect the Apple iPhone 12 Pro device and click on the “Restore” option instead.
 
 ![restore iphone contacts backup](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 8\. This will automatically display a list of the previous backup files. Select the file you wish to restore and click on the “View” button.
 
@@ -313,6 +291,13 @@ Save and Backup iPhone Contacts with 1-Click.
 10\. After making your selection, you can export this data to your PC or restore it to the connected device. Simply click on the “Restore to Device” and wait for a while.
 
 ![restore contacts to device](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 11\. In no time, your contacts would be restored to your device. When the process is completed, you will be notified.
 
@@ -326,30 +311,25 @@ While you can’t learn how to copy contacts from Apple iPhone 12 Pro to SIM dir
 
 By default, every user gets a free space of 5 GB on iCloud (which can later be expanded). Therefore, you can easily take a backup of your contacts and other important files on iCloud. Just go to your device’s Settings > iCloud and turn the backup option on. Make sure that the backup for Contacts is turned on as well. This will sync your contacts to iCloud, letting you access them on the go. In this way, you don’t have to learn how to transfer contacts from Apple iPhone 12 Pro to SIM.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![save iphone contacts to icloud](https://images.wondershare.com/drfone/article/2018/01/15151410232814.jpg)
 
 ### Export iPhone contacts Via iTunes
 
 Another alternative to learning how to export contacts from Apple iPhone 12 Pro to SIM is by taking the assistance of iTunes. Simply connect your Apple iPhone 12 Pro to the system and launch iTunes. Select your iPhone and go to its “Info” tab. From here, you can sync its contacts with iTunes. This will keep your contacts safe and allow you to sync them with another iOS device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![export contacts from iphone using itunes](https://images.wondershare.com/drfone/article/2018/01/15151410449162.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Copy iPhone Contacts Using Gmail
 
 Just like iCloud, you can also sync your contacts with Gmail. If you don’t use Gmail, then go to your iPhone’s Accounts Settings and set up your Gmail account. Later, you can go to Settings > Mail, Contacts, Calendar > Gmail and toggle on the syncing option for Contacts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![sync iphone contacts with gmail](https://images.wondershare.com/drfone/article/2018/01/15151410687107.jpg)
 
 If you want, you can access your Google Contacts and import them to a vCard as well. This would be a perfect alternative to learn how to import contacts from Apple iPhone 12 Pro to SIM.
@@ -358,15 +338,6 @@ If you want, you can access your Google Contacts and import them to a vCard as w
 
 We hope this guide was able to answer your question of how to copy contacts from Apple iPhone 12 Pro to SIM. Since there is no ideal solution for it, you can try different alternatives. Dr.Fone Backup & Restore is one of the best ways to keep your contacts (and other types of data) safe and will certainly save the day during an emergency situation.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 5 Easy Ways to Transfer Contacts from Apple iPhone 12 Pro to Android
 
 Whenever we move from one device to another, the first thing that we wish to do is transfer our contacts. After all, we can't communicate with anyone without our list of contacts. Surprisingly, a lot of people find it hard to **transfer contacts from Apple iPhone 12 Pro to Android**. Truth to be told - there can find countless ways to move contacts from Apple iPhone 12 Pro to Android. You don't need to worry a lot about the compatibility issues of different systems and can replace old phones at will when there is a new phone release, like the upcoming Samsung Galaxy S22 series. You can use a third-party app, a cloud service (like iCloud), and iTunes. Read on to learn how to transfer contacts from Apple iPhone 12 Pro to Android in 5 different ways.
@@ -381,9 +352,6 @@ The application also supports transferring all the leading data types such as vi
 
 **Step 1.** First of all, launch the Dr.Fone toolkit on your Mac or Windows PC, and from its welcome screen, visit the "Phone Transfer" module.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![move contacts from iphone to android-visit the “Switch” module](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** Connect your Android and iOS devices to the system and let the application detect them automatically. Since you wish to export iPhone contacts to Android, iPhone should be the source while Android should be the destination device. You can use the Flip button to interchange their positions.
@@ -406,18 +374,6 @@ Another fast and hassle-free way to sync contacts from Apple iPhone 12 Pro to An
 
 **Step 1.** Unlock your iPhone and go to its **Settings > Mail, Contacts, Calendars > Add Account** and tap on "Google."
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![move contacts from iphone to android-tap on “Google”](https://images.wondershare.com/drfone/article/2018/08/transfer-contacts-from-iphone-to-android-5.jpg)
 
 **Step 2.** Sign in with your Google account credentials and grant your phone the needed permissions to access your Gmail data.
@@ -428,9 +384,6 @@ Another fast and hassle-free way to sync contacts from Apple iPhone 12 Pro to An
 
 **Step 4.** Once your contacts are synced with your Google account, you can easily access them on any Android device. You can use the Google Contacts app or use the same account to set up your device for auto-sync contacts.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Import contacts from Apple iPhone 12 Pro to Android with iCloud
 
 Another simple way to sync contacts from Apple iPhone 12 Pro to Android is by using iCloud. Firstly, you need to sync the iPhone contacts with iCloud, and later you can export them a VCF file. To this end, the vCard can be imported to Google Contacts. Yes - it does sound a bit complicated. After all, the Dr.Fone tools provide such a hassle-free way to move contacts from Apple iPhone 12 Pro to Android compared to this technique. Though, this is a free solution and can be your plan B. To learn how to transfer contacts from Apple iPhone 12 Pro to Android via iCloud, follow these steps.
@@ -451,9 +404,6 @@ Another simple way to sync contacts from Apple iPhone 12 Pro to Android is by us
 
 **8.** Once you have imported these contacts to your Google account, you can easily access them on the connected device as well.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Copy contacts from Apple iPhone 12 Pro to Android using iTunes
 
 If you are an avid user of iTunes, you can try this technique to export iPhone contacts to Android. Earlier, iTunes has a feature to sync contacts with Google, Outlook, and Windows account. Now, the Google feature has been removed from iTunes. Therefore, you first need to sync your contacts to your Windows account and can later export them into a card. Needless to say, the technique can also be a bit complicated. Though, you can implement these steps to copy contacts from Apple iPhone 12 Pro to Android using iTunes.
@@ -472,18 +422,6 @@ If you are an avid user of iTunes, you can try this technique to export iPhone c
 
 **6.** In the end, you can manually copy the VCF file to your Apple iPhone 12 Pro or import it to your Google Contacts as well.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: Switch contacts from Apple iPhone 12 Pro to Android without a computer
 
 Often, users don't wish to use a computer to export iPhone contacts to Android. If you have the same requirements, then you can use a data transfer app. While there are many apps out there that can help you move contacts from Apple iPhone 12 Pro to Android, I would recommend My Contacts Backup. This is because the app is available on both iOS [App Store](https://itunes.apple.com/in/app/my-contacts-backup/id446784593?mt=8) and [Google Play Store](https://play.google.com/store/apps/details?id=com.globile.mycontactbackup&hl=en_IN). To use this app to transfer contacts from Apple iPhone 12 Pro to Android, follow these steps.
@@ -494,9 +432,6 @@ Often, users don't wish to use a computer to export iPhone contacts to Android. 
 
 **3.** You can choose to email the contacts to your own Gmail account as well. A VCF file will be mailed to your account that can later be downloaded and synced.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![move contacts from iphone to android-email the contacts to your own Gmail account](https://images.wondershare.com/drfone/article/2018/08/transfer-contacts-from-iphone-to-android-13.jpg)
 
 **4.** Additionally, you can also upload the contacts to its server.
@@ -505,13 +440,9 @@ Often, users don't wish to use a computer to export iPhone contacts to Android. 
 
 **6.** Launch the app and choose to restore your contacts using an in-app vCard. In this way, all the saved contacts will be exported to your Apple iPhone 12 Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![move contacts from iphone to android-restore your contacts](https://images.wondershare.com/drfone/article/2018/08/transfer-contacts-from-iphone-to-android-14.jpg)
 
 Now that you have learned 7 different ways to move contacts from Apple iPhone 12 Pro to Android, you can easily fulfill your requirements. Out of all the 8 provided options, [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is the fastest and most convenient option to move all the contacts at once.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -525,11 +456,20 @@ Now that you have learned 7 different ways to move contacts from Apple iPhone 12
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-breakthrough-in-recording-nine-revolutionary-online-microphones-for-2024/"><u>[New] Breakthrough in Recording Nine Revolutionary Online Microphones for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-live-streaming-tools-head-to-head-obs-vs-fraps/"><u>[Updated] 2024 Approved Live Streaming Tools Head to Head OBS vs Fraps</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-5-best-racing-simulator-games-for-2024/"><u>[Updated] 5 Best Racing Simulator Games for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/10-trending-memes-right-now-include-image-gifvideo/"><u>10 Trending Memes Right Now (Include Image/ GIF/Video)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-14-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 14 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/best-no-cost-artificial-intelligence-programs-for-revitalizing-antique-photographs-top-10-selections/"><u>Best No-Cost Artificial Intelligence Programs for Revitalizing Antique Photographs: Top 10 Selections</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/find-out-your-cars-radio-security-code-tips-for-successful-entry/"><u>Find Out Your Car's Radio Security Code: Tips for Successful Entry</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-12-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 12 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-xr-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone XR to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-14-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 14 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/layers-in-asmr-youtube-world/"><u>Key Players in ASMR YouTube World</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/my-full-day-with-apple-vision-pro-an-incomplete-satisfaction-experience-insights/"><u>My Full Day with Apple Vision Pro: An Incomplete Satisfaction Experience - Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-vivo-v29-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Vivo V29.</u></a></li>
+</ul></div>
 
