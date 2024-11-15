@@ -1,7 +1,7 @@
 ---
 title: iPhone Transfer Transfer Contact from Apple iPhone 12 Pro to iPhone without iCloud | Dr.fone
-date: 2024-11-08T19:03:29.699Z
-updated: 2024-11-13T17:12:01.281Z
+date: 2024-11-07T19:14:19.928Z
+updated: 2024-11-14T18:44:03.299Z
 tags: 
   - iphone transfer
 categories:
@@ -24,6 +24,13 @@ In this comprehensive guide, you'll discover how to transfer contacts from Apple
 
 We will start by exploring the 4 basic methods to transfer contacts from Apple iPhone 12 Pro to iPhone without iCloud. Each method offers its advantages and is tailored to suit different preferences. By understanding these methods, you can choose the most suitable one for your needs:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1. AirDrop
 
 AirDrop is a convenient built-in feature on iPhones. It allows quick and wireless transfer of various data types, including contacts. Moreover, it ensures a hassle-free and direct exchange without extra apps or services. Follow these steps to copy contacts from Apple iPhone 12 Pro to iPhone without iCloud using AirDrop:
@@ -35,6 +42,13 @@ AirDrop is a convenient built-in feature on iPhones. It allows quick and wireles
 - **Step 2:** Following this, press "Share Contact" and select "AirDrop" as the sharing method. From the available devices on AirDrop, choose the targeted device. Finally, "Accept" the incoming AirDrop on your target iPhone to complete the process.
 
 ![share contact using airdrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2. NameDrop
 
@@ -71,13 +85,6 @@ Another simple way to move contacts between iPhones is through email. This appro
 - **Step 1:** Open the Contacts app and move to the targeted contact you want to share. Select the contact and tap "Share Contact." From the available sharing options, select "Email" and enter your email address in the recipient field.
 
 ![access ios device in itunes](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2:** Tap "Send" to email the selected contacts and open the email app on your target iPhone. Find the email you sent with the contacts attached and open it. Now, retrieve the attached vCard from the email. The contact will appear in your Contacts app but won't be added directly. To save the contact, tap "Create New Contact," write any contact details, and select "Done" to finish saving the contact.
 
@@ -165,6 +172,13 @@ If you only wish to transfer your contacts, then it can be achieved by syncing y
 
 ![sync contacts with itunes](https://images.wondershare.com/drfone/article/2018/01/15150778515016.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **4.** Now, disconnect the Apple iPhone 12 Pro device and connect your target iPhone to it.
 - **5.** Follow the same drill, go to its Info tab, and enable the option to “Sync Contacts”.
 - **6.** Additionally, you can visit its Advanced section and replace the old contacts with the new ones as well.
@@ -201,6 +215,13 @@ Besides transferring your contacts, you can also move other data files like phot
 
 ![connect both devices to transfer contacts](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **4.** Now, select the type of data you wish to transfer. For instance, if you want to move only contacts, select “Contacts” and click on the “Start Transfer” button. Additionally, you can select the option of “Clear data before copy” and delete the existing data on the target iPhone.
 - **5.** This will initiate the process and start the transfer process. You can view the progress from the on-screen indicator. Make sure that both the Apple iPhone 12 Pro devices are connected at this stage.
 
@@ -228,13 +249,6 @@ As you can see, Dr.Fone Phone Transfer provides a one-click solution to transfer
 - **5.** Select the contacts you wish to transfer and click on the “Export” button.
 
 ![export contacts from gmail](https://images.wondershare.com/drfone/article/2018/01/15150779319650.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **6.** Choose to export your contacts to a vCard format. Once a vCard is created, you can manually move it to the target iPhone to import contacts from it.
 
@@ -266,13 +280,6 @@ If the only thing stopping you from switching is the stress of transferring your
 
 ![transfer iphone to samsung](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-samsung-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: What Are the Pre-Requirements To Fulfill Before Transferring From Apple iPhone 12 Pro to Samsung?
 
 Before we discuss different methods to **transfer data from Apple iPhone 12 Pro to Samsung**, there are some things that you should not neglect. These attributes must be fulfilled before switching to ensure a smooth transition. That's why we want you to look at these prerequisites and fulfill them before moving to your new device. Here's a checklist of these pre-requirements before **transferring the iPhone to Samsung**.
@@ -281,6 +288,13 @@ Before we discuss different methods to **transfer data from Apple iPhone 12 Pro 
 2. **Battery Percentage:** Another critical aspect is to charge both your iPhone and Samsung device to an adequate battery level. This will prevent any interruption due to low battery during the transfer process. Also, the performance of the Apple iPhone 12 Pro devices will be optimum at the ideal battery percentage.
 3. **Update Software:** Furthermore, you should confirm that both your iPhone and Samsung devices are running the latest operating system software. You must update your iPhone to the latest iOS version and your Samsung device to the latest Android version.
 4. **Secure Your Data:** When you are done with the transferring process, it is necessary to clear your data from the old phone. Although the iPhone is one of the most secure devices, you should reset it before leaving. This will ensure that no one can access your files after you have wiped off all your data.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How To Transfer Data From Apple iPhone 12 Pro to Samsung Using Smart Switch App
 
@@ -304,13 +318,6 @@ The wireless method will free you up from the need for a cable. However, you mus
 
 ![choose to transfer data via icloud](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-samsung-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** Subsequently, enter your “Apple ID" and "Password" and tap on the "Sign In” option. Then, verify on your iPhone by choosing the "Allow" option, and you will get a verification code.
 
 ![sign in with icloud id](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-samsung-5.jpg)
@@ -318,6 +325,13 @@ The wireless method will free you up from the need for a cable. However, you mus
 - **Step 5:** Finally, you have to enter the verification code on your Samsung device and tap on the “Connect” option. After that, select the data you want to transfer and hit the “Transfer” option.
 
 ![select data to transfer from iphone](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-samsung-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Wired Method
 
@@ -330,13 +344,6 @@ Using a USB cable is essential for this data transfer process. To ensure seamles
 - **Step 2:** You have to connect both phones using the iOS device's lightning cable and a USB-OTG adapter. A menu will pop up for the verification process, so tap the "Trust" option and enter the unlock "Code" on the iPhone.
 
 ![trust your samsung device on iphone](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-samsung-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** After that, you have to tap the "Next" option on your Samsung device. Then, select the data you wish to transfer and press the "Transfer" option. Finally, when finished, hit the "Done" button followed by the "Go to Home Screen" button on your Samsung device and disconnect the cable.
 
@@ -356,13 +363,6 @@ Samsung Smart Switch is an efficient and convenient software for **transferring 
 We have described the methods to **transfer from Apple iPhone 12 Pro to Samsung** via the Samsung Smart Switch application. Despite that, some limitations can hinder your process. That's why we will provide you with the best one-click solution: [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). This software will **transfer data from Apple iPhone 12 Pro to Samsung** within no time.
 
 Dr.Fone is equipped with advanced tools that can understand the requirements and perform the task automatically. It assists in transferring, managing, and backing up data across devices. Ultimately, the software provides comprehensive solutions for your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Transfer iPhone Data to Samsung
 
@@ -434,29 +434,22 @@ In the next step, you have to select the data type from your iCloud backed-up da
 
 ![start the transfer process](https://images.wondershare.com/drfone/guide/icloud-manager-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3: Finish the Data Restoration Process on Your Samsung Device**
 
 The process will conclude within a few minutes and display the final message of completion. Then, you can press the “Done” button to conclude the iCloud to Samsung data transfer process.
 
 ![press done on complete restore](https://images.wondershare.com/drfone/guide/icloud-manager-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus Tip. What Are the Most Recommended Upcoming Smartphones of Samsung in 2024?
 
 Samsung is planning to add generative AI to its new products, and they will possibly share more details next year. They've introduced their generative AI and given hints regarding Galaxy AI's role in their 2024 phones. It's a major competitor and other big names in the mobile market. We’re expecting the following mobile products from Samsung next year based on their usual launch cycle and reports.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Galaxy S24 Series
 
@@ -471,6 +464,13 @@ The rumored Galaxy Z Flip 6 expects to overcome the Z Flip 5 by introducing a ne
 ### 3\. Galaxy Z Fold 6
 
 Samsung's Galaxy Z Fold is very similar to the Z Flip. This phone will probably have a slot for the S Pen stylus that will boost its productivity. Also, the Z Fold 6 might come with a new processor similar to the one in the Galaxy S24. Some fresh software features and slight design enhancements might be added, too.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Galaxy A55 5G
 
@@ -496,16 +496,17 @@ In a nutshell, the Samsung Smart Switch application provides an efficient and co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-demystifying-the-purpose-of-slug-lines-in-screenplay/"><u>[New] Demystifying the Purpose of Slug Lines in Screenplay</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-guiding-through-audio-transition-in-ableton-live/"><u>[Updated] Guiding Through Audio Transition in Ableton Live</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone XS Max to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-13-mini-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 13 mini to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-spark-10-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-se-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone SE to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-11-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 11 to PC | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unraveling-the-mystery-of-phantoms-velocity-inversion/"><u>In 2024, Unraveling the Mystery of Phantom's Velocity Inversion</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-attention-hack-building-an-alluring-puzzle-feed-for-2024/"><u>Instagram Attention Hack Building an Alluring Puzzle Feed for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-brother-l2740dx-printer-software-for-your-windows-machine-download-free-driver-packages-here/"><u>Install Brother L2740DX Printer Software for Your Windows Machine – Download Free Driver Packages Here</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/taking-your-book-habit-to-new-heights-with-kobo-forma-a-focused-review-for-the-avid-reader/"><u>Taking Your Book Habit to New Heights with Kobo Forma - A Focused Review for the Avid Reader</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-synergistic-partnerships-on-youtube-platforms/"><u>[New] In 2024, Discovering Synergistic Partnerships on YouTube Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-quick-and-easy-method-for-clearing-image-backdrops/"><u>[Updated] Quick and Easy Method for Clearing Image Backdrops</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-quick-tips-for-high-quality-audio-recordings-on-your-imac-for-2024/"><u>[Updated] Quick Tips for High-Quality Audio Recordings on Your iMac for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-14-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 14 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/explore-the-premier-3d-blu-ray-systems-of-today/"><u>Explore The Premier 3D Blu-Ray Systems of Today</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-12-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 12 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-utilize-facebooks-auto-video-functionality-for-2024/"><u>How to Utilize Facebook's Auto-Video Functionality for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-8-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 8 Plus to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-xr-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone XR to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-t2x-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo T2x 5G Phones</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-14-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 14 to iPhone | Dr.fone</u></a></li>
 </ul></div>
 

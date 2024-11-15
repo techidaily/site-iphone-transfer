@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 7 to iPhone | Dr.fone
-date: 2024-11-06T16:21:52.383Z
-updated: 2024-11-13T18:31:41.871Z
+date: 2024-11-13T19:50:18.710Z
+updated: 2024-11-14T22:57:57.652Z
 tags: 
   - iphone transfer
 categories:
@@ -42,6 +42,20 @@ From the expanded options for the source iPhone, choose "Music." Now, go to the 
 
 ![tap to device option](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Transfer Music Using Wondershare Dr.Fone – Phone Transfer
 
 [<u>Wondershare Dr.Fone - Phone Transfer</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) simplifies transferring different data types between 8000+ devices. It ensures ease of use with a simple click-through process. Moreover, it is compatible with Apple, Samsung, HUAWEI, OPPO, Sony, Google, and more.
@@ -74,10 +88,10 @@ iTunes remains a reliable and widely used application for managing iOS devices. 
 ![sync the music with new iphone](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How To Transfer Music From Apple iPhone 7 to iPhone via AirDrop
@@ -99,6 +113,13 @@ Syncing your Apple Music Library across iPhones offers a smooth way to transfer 
 
 ![enable the sync library feature](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: How To Transfer Music From Apple iPhone 7 to iPhone Using Google Drive
 
 Transferring music via Google Drive offers a convenient way to move your music collection. This allows a music exchange between iPhones without the need for cables. It's a particularly useful method for transferring a few select songs or albums. With it, you can transfer songs that you have downloaded from the internet. The following are the steps you need to follow to **transfer music from iDevices** via Google Drive:
@@ -110,13 +131,6 @@ Transferring music via Google Drive offers a convenient way to move your music c
 - **Step 2.** Once they are uploaded, move to the new iPhone and install the Google Drive app there. Here, log in using the same Google ID and access the songs you uploaded from the source device. Then tap the “Three dots” icon and select "Make available offline" to complete the process.
 
 ![choose make available offline feature](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6: How To Transfer Music Streaming Services Playlists From Apple iPhone 7 to iPhone
 
@@ -150,6 +164,13 @@ Though, the problem occurs when users wish to do vice versa and learn how to imp
 
 Though, if your device has not been jailbroken, then you can’t export contacts to SIM on iPhone directly. This is because Apple assumes the transfer of contacts via SIM card is an obsolete method. Don’t worry – you can try an alternative method to save and backup contacts on iPhone. We have discussed it in the next section.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to save iPhone contacts with Dr.Fone?
 
 While we can’t learn how to copy contacts from Apple iPhone 7 to SIM, we can try an alternative method to save our contacts. By taking the assistance of Dr.Fone - Backup & Restore (iOS), you can save your data by taking its backup. Later, you can restore the backup on any other iOS (or Android) device. In this way, you can easily move your contacts and don’t need to learn how to save contacts to SIM on iPhone.
@@ -175,24 +196,37 @@ Save and Backup iPhone Contacts with 1-Click.
 
 ![save iphone contacts with Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Now, connect your iPhone to the system and wait for the application to detect it automatically.
 
 3\. You can see that the tool can backup tons of applications as well. Simply click on the “Backup” button on the right panel to get things started.
 
 ![backup iphone contacts](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. From the next window, you can select the type of data that you wish to backup. You can also check the “Select all” option to take a comprehensive backup of your data. Additionally, you can alter the backup path from here as well.
 
 5\. To backup contacts, make sure the option of “Contacts” (under the Privacy section) is enabled before you click on the Backup button.
 
 ![select contacts to backup](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6\. Wait for a while as Dr.Fone will backup your selected data. Once it is done, you will be notified. You can either view the backup content or go to the Backup location as well.
 
@@ -201,13 +235,6 @@ Save and Backup iPhone Contacts with 1-Click.
 7\. Whenever you need to restore your contacts, you can simply connect the Apple iPhone 7 device and click on the “Restore” option instead.
 
 ![restore iphone contacts backup](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8\. This will automatically display a list of the previous backup files. Select the file you wish to restore and click on the “View” button.
 
@@ -232,13 +259,6 @@ While you can’t learn how to copy contacts from Apple iPhone 7 to SIM directly
 By default, every user gets a free space of 5 GB on iCloud (which can later be expanded). Therefore, you can easily take a backup of your contacts and other important files on iCloud. Just go to your device’s Settings > iCloud and turn the backup option on. Make sure that the backup for Contacts is turned on as well. This will sync your contacts to iCloud, letting you access them on the go. In this way, you don’t have to learn how to transfer contacts from Apple iPhone 7 to SIM.
 
 ![save iphone contacts to icloud](https://images.wondershare.com/drfone/article/2018/01/15151410232814.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Export iPhone contacts Via iTunes
 
@@ -272,13 +292,6 @@ As the full-fledged sale of the Apple iPhone 7 began, many people faced the **Ap
 
 In this section, we will try to identify the root cause of the problem. By understanding the cause of the issue, we can better find a suitable solution to your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **1\. Bugs in the Move to iOS App**
 
 It is possible that the Move to iOS app may cause problems while transferring data from your Apple iPhone 7 to your iPhone 15. This can happen because of two reasons: you haven't updated the app for a long time, or the updated version has some bugs in it.
@@ -290,13 +303,6 @@ Sometimes, the backup stored in the iTunes/Finder turns out to be corrupted due 
 ### **3\. Poor Wi-Fi Connection**
 
 If you are transferring the data to your Apple iPhone 7 using iCloud, you need a good Wi-Fi connection to ensure a smooth process. A slow Wi-Fi connection can stop or delay the data transfer process if your iCloud backup is in 100+ GBs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **4\. Problem in the iOS Version**
 
@@ -314,13 +320,6 @@ It is a single-click data transfer tool that can transfer 12 types of data from 
 - •It doesn’t have the requirement of factory resetting the Apple iPhone 7 for transferring the data.
 - •Unlike iTunes/Finder, Wondershare Dr.Fone doesn't overwrite the data saved on your iPhone 15.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Simplified Guide To Transfer Data From Old Smartphone to New iPhone 15**
 
 Following are the straightforward step-by-step instructions you need to follow to transfer from your old iPhone or Android to the new Apple iPhone 7 series model:
@@ -336,6 +335,13 @@ Download and install the latest version of Wondershare Dr.Fone from the official
 Wondershare Dr.Fone will automatically detect the positions of your old smartphone and Apple iPhone 7 and assign them the positions. If the positions assigned are incorrect, press the “Flip” option and choose the data you want to transfer to iPhone 15. After this, press the “Start Transfer” button, and the procedure of transferring the data will initiate.
 
 ![press the start transfer button](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -357,22 +363,19 @@ As we have discussed in the article, some initial Apple iPhone 7 users are facin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-juggling-jargons-an-experts-guide-to-multiple-youtube-views/"><u>[New] In 2024, Juggling Jargons An Expert's Guide to Multiple YouTube Views</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>[Updated] In 2024, Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-xr-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone XR to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-6-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 6 Plus to iPad | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v29-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo V29 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-6s-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 6s Plus to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-12-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 12 Pro to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-pro-max-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 15 Pro Max to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-7-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 7 to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-techniques-preventing-battlefield-1-from-crashing-instantly/"><u>Master the Techniques: Preventing Battlefield 1 From Crashing Instantly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximize-your-spotify-campaign-roi-an-expert-guide-for-2024/"><u>Maximize Your Spotify Campaign ROI - An Expert Guide for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 15 Plus to Android | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-fixing-the-unspecified-error-error-code-0x80004005/"><u>Resolved: Fixing the 'Unspecified Error' (Error Code 0X80004005)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-tutorial-transferring-youtube-videos-to-dailymotion-for-2024/"><u>The Ultimate Tutorial Transferring YouTube Videos to Dailymotion for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-8-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 8 Plus to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/virtual-frontiers-notable-vr-creators/"><u>Virtual Frontiers Notable VR Creators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-winning-in-media-creation-with-ease-movies-maker-secrets-for-windows-8-users/"><u>[Updated] In 2024, Winning in Media Creation with Ease Movies Maker Secrets for Windows 8 Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-perfect-path-from-srt-to-multiple-subtitle-standards/"><u>[Updated] The Perfect Path From SRT to Multiple Subtitle Standards</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-troubleshooting-obs-frame-loss/"><u>[Updated] Troubleshooting OBS Frame Loss</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-11-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 11 to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cant-access-video-feature-on-sony-a6400-camera-for-2024/"><u>Can't Access Video Feature on Sony A6400 Camera for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/expert-methods-for-flipping-image-colors-for-2024/"><u>Expert Methods for Flipping Image Colors for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-6s-plus-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 6s Plus Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-7-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 7 Plus to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-se-2020-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone SE (2020) to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-typefaces-for-effects-select-10-titles/"><u>In 2024, Mastering Typefaces for Effects Select 10 Titles</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-13-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 13 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-13-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 13 Pro to iPhone | Dr.fone</u></a></li>
 </ul></div>
 

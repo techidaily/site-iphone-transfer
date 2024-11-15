@@ -1,7 +1,7 @@
 ---
 title: iPhone Transfer Transfer Contact from Apple iPhone 8 to iPhone without iCloud | Dr.fone
-date: 2024-11-12T18:25:37.443Z
-updated: 2024-11-13T20:04:54.058Z
+date: 2024-11-08T23:32:34.121Z
+updated: 2024-11-15T00:36:14.476Z
 tags: 
   - iphone transfer
 categories:
@@ -36,6 +36,13 @@ AirDrop is a convenient built-in feature on iPhones. It allows quick and wireles
 
 ![share contact using airdrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2. NameDrop
 
 NameDrop, integrated within iOS 17, enables the smooth sharing of contact information. All you need to do is bring your iPhone close to another iPhone. This feature eliminates the need for manual input of contact details. One of the standout advantages of NameDrop is its direct integration with AirDrop. This ensures swift and effortless sharing. Below are the steps to effortlessly share your contact information using NameDrop:
@@ -43,13 +50,6 @@ NameDrop, integrated within iOS 17, enables the smooth sharing of contact inform
 - **Step 1:** To enable the NameDrop feature, open your iPhone settings and access the “AirDrop” option from the “General settings. Afterward, turn on the “Bringing Devices Together” feature to activate NameDrop on your iOS devices.
 
 ![enable the namedrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2:** If Contact Posters are generated in iOS 17, they will display on both iPhones. You will be given the option to either "Share" or "Receive Only." If you wish to exchange contact information, select "Share." The recipient can opt for "Receive Only" to obtain your details. You can also perform these steps in the opposite direction to get contact information on your iPhone.
 
@@ -79,9 +79,23 @@ Another simple way to move contacts between iPhones is through email. This appro
 
 ![access ios device in itunes](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Tap "Send" to email the selected contacts and open the email app on your target iPhone. Find the email you sent with the contacts attached and open it. Now, retrieve the attached vCard from the email. The contact will appear in your Contacts app but won't be added directly. To save the contact, tap "Create New Contact," write any contact details, and select "Done" to finish saving the contact.
 
 ![back up latest data on computer](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: What Are the Problems Linked With the Basic Methods To Transfer Contacts?
 
@@ -122,6 +136,13 @@ The process is user-friendly, requiring simple clicks to initiate. It can transf
 - **Step 3:** Turn Off Find My and Complete the Transfer Process. Then, navigate to "iCloud" and access "Find My" to proceed to deactivate it. After deactivating the feature, the data transfer begins. The progress bar indicates the process's completion. Once finished, the foremost window exhibits the finalized phone transfer. Press "OK" to conclude the process fully.
 
 ![data transfer completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -211,24 +232,18 @@ Go to the Start menu on your PC. Search and select Photos to open the Photos app
 
 ![Open the Photos app on your computer.](https://images.wondershare.com/drfone/article/2023/11/transfer-photos-from-iphone-to-pc-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Import your Photos to your PC.
 
 Within the Photos app, click on Import > From a USB device and follow the instructions on the screen. You can choose specific photos for the transfer and decide where to save them on your PC. Remember to make sure that the photos are saved on the Apple iPhone 8 device rather than stored in the cloud.
 
 Finally, allow a few moments for the system to detect and transfer the selected photos.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 4: How To Quick Transfer Pictures From Apple iPhone 8 to PC**
 
@@ -261,11 +276,25 @@ Start by Image nameing your iPhone device to the computer via a USB connection. 
 
 ![Launch Dr.Fone’s Export All Data feature.](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Choose file types for export
 
 When a new window appears, select the specific file types you wish to transfer (in this case, your photos). Then, click "Export" at the bottom of the screen to initiate the procedure. Choose the preferred location for saving the exported data.
 
 ![Choose file types for export.](https://images.wondershare.com/drfone/guide/export-data-from-ios-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Make a password for the backup file
 
@@ -284,19 +313,6 @@ Your iPhone will start exporting its data to the computer through Dr.Fone. You c
 After successful completion of exporting the data, a window will appear on your computer screen. Click "Open" to review the exported data at the specified location.
 
 ![Successfully transfer iPhone photos to a PC.](https://images.wondershare.com/drfone/guide/export-data-from-ios-5.png)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -327,13 +343,6 @@ For photography fans, the iPhone 15's camera system is nothing short of revoluti
 ### 3\. Seamless Connectivity
 
 The new iPhone 15 comes integrated with 5G technology. This ensures that you'll be at the forefront of high-speed connectivity. You can say goodbye to buffering and lag because iPhone 15 promises smoother streaming, faster downloads, and a more responsive online experience.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Extended Software Support
 
@@ -373,13 +382,6 @@ Looking for a more hands-on approach to data transfer? Using iTunes/Finder can b
 
 ![create old iphone backup](https://images.wondershare.com/drfone/article/2023/08/transfer-old-iphone-to-iphone-15-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** Now start setting up the new iPhone 15 and navigate to the "Apps & Data" screen. Here, choose "Restore from Mac or PC" and connect the Apple iPhone 8 device to the computer or MacBook with backup.
 
 ![tap on restore from mac or pc](https://images.wondershare.com/drfone/article/2023/08/transfer-old-iphone-to-iphone-15-6.jpg)
@@ -387,13 +389,6 @@ Looking for a more hands-on approach to data transfer? Using iTunes/Finder can b
 - **Step 3:** Launch iTunes/Finder on the computer after trusting the Apple iPhone 8 device and tap the “Device” icon. Then, from the “Welcome to Your New iPhone” screen, enable the “Restore from this backup” option and choose your Apple iPhone 8  backup file. Afterward, press the “Continue” button to restore the old iPhone backup to your iPhone 15.
 
 ![choose old iphone backup file](https://images.wondershare.com/drfone/article/2023/08/transfer-old-iphone-to-iphone-15-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tips: Having Trouble When Transferring to iPhone 15 Stucks?
 
@@ -420,18 +415,18 @@ Initiate the process by launching Wondershare Dr.Fone on the computer. Continue 
 
 ![open phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2 Set Data Transfer Path**
 
 On accessing the Phone Transfer tool, continue to connect your iOS devices and let them load their data on the next screen. Here, define the **Source** and **Destination** of the transfer to specify the direction of the phone transfer. To change locations, use the **Flip** button on the top.
 
 ![set ios data transfer path](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3 Choose Data Types**
 
@@ -450,13 +445,6 @@ Once done, a prompt appears on the front asking to turn off the Find My feature 
 Once done, the window in the front shows the completed phone transfer. Click **OK** to conclude the process entirely.
 
 ![complete ios data transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -478,15 +466,19 @@ However, one solution that truly stands out for its speed, ease, and efficiency 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hacking-the-process-instant-deletion-on-youtube/"><u>[New] In 2024, Hacking the Process Instant Deletion on Youtube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-auditory-evolution-at-your-fingertips-the-leading-5-chrome-extension-apps/"><u>[Updated] Auditory Evolution at Your Fingertips The Leading 5 Chrome Extension Apps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-top-gains-on-social-media-secure-and-scalable-tactics-for-2024/"><u>[Updated] The Top Gains on Social Media - Secure & Scalable Tactics for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/celebrity-evanescent-video-review-for-2024/"><u>Celebrity Evanescent Video Review for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-responses-not-coming-through-here-are-five-quick-ways-to-find-out-why/"><u>ChatGPT Responses Not Coming Through? Here Are Five Quick Ways to Find Out Why</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-oppo-a1x-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Oppo A1x 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-x-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone X to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-6s-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 6s to PC | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-13-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 13 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-13-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 13 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-zooming-into-success-syncing-with-fb-live-on-zoom/"><u>[New] In 2024, Zooming Into Success Syncing with FB Live on Zoom</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-7-best-sbt-to-srtr-conversion-software-for-desktop-use/"><u>2024 Approved 7 Best SBT to SRTR Conversion Software for Desktop Use</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfect-your-online-presence-with-these-18-elite-recording-systems/"><u>2024 Approved Perfect Your Online Presence with These 18 Elite Recording Systems</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-15-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 15 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-garmin-vivomove-hr-your-stylish-partner-in-health-and-activity-tracking/"><u>Exploring the Garmin Vivomove HR - Your Stylish Partner in Health and Activity Tracking</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/guide-transferring-your-redbox-rental-movies-onto-pc-or-mac-a-step-by-step-tutorial/"><u>Guide: Transferring Your Redbox Rental Movies Onto PC or Mac – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-m6-pro-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on M6 Pro 4G</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-6s-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 6s to Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-6s-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 6s to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-11-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 11 to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-15-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 15 Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/making-waves-in-the-tech-world-iphone-16-sets-new-standards-for-easy-fixes-insight/"><u>Making Waves in the Tech World: IPhone 16 Sets New Standards for Easy Fixes Insight</u></a></li>
+<li><a href="https://win-lab.techidaily.com/solving-the-issue-of-new-iphone-not-allowing-backup-restoration-at-setup-stage/"><u>Solving the Issue of New iPhone Not Allowing Backup Restoration at Setup Stage</u></a></li>
 </ul></div>
 

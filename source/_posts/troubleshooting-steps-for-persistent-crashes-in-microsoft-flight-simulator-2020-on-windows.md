@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Persistent Crashes in Microsoft Flight Simulator 2020 on Windows
-date: 2024-11-10T19:32:03.925Z
-updated: 2024-11-13T18:28:51.896Z
+date: 2024-11-11T16:55:55.878Z
+updated: 2024-11-14T16:13:37.676Z
 tags:
   - win11
   - win10
@@ -33,19 +33,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -57,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -64,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  The good new is, the Origin client and the Steam client will automatically download available updates and install them for you, so you don’t actually have to worry. However, if you’ve turned off the automatic updating option at some point before, make sure you turn it on or manually install the updates for your Apex Legends.
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
 
@@ -76,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
@@ -93,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -117,18 +104,18 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -141,20 +128,21 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -179,21 +167,20 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-top-6-downloads-unlocked-with-free-online-and-global-viewing/"><u>[Updated] In 2024, Top 6 Downloads – Unlocked with Free Online & Global Viewing</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-understanding-and-managing-video-layouts-in-zoom-for-windows-11-users/"><u>[Updated] Understanding and Managing Video Layouts in Zoom for Windows 11 Users</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-15-pro-max-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 15 Pro Max to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-13-pro-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 13 Pro to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-6-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 6 Plus to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/from-novice-to-pro-streamlining-your-win11-zoom-sessions-for-2024/"><u>From Novice to Pro Streamlining Your Win11 Zoom Sessions for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-8-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 8 to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 without Passcode</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-14-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 14 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-colorful-canvas-basic-adobe-corrections-guide/"><u>In 2024, Colorful Canvas Basic Adobe Corrections Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-online-marketing-for-newcomers/"><u>In 2024, Mastering the Art of Online Marketing for Newcomers</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-8-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 8 Plus Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-7-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 7 Plus to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-free-wmv-video-concatenation-software/"><u>Updated The Best Free WMV Video Concatenation Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-cut-trim-and-enhance-youtube-editing-tips-for-the-rookie/"><u>[New] 2024 Approved Cut, Trim & Enhance YouTube Editing Tips for the Rookie</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rapid-techniques-mix-up-and-shuffle-youtube-listings/"><u>[Updated] Rapid Techniques Mix Up and Shuffle YouTube Listings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-spotting-social-scene-shifters-videos-shared-across-platforms-for-2024/"><u>[Updated] Spotting Social Scene-Shifters Videos Shared Across Platforms for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-14-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 14 to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-how-to-share-and-save-apple-notes-across-devices/"><u>Complete Tutorial: How to Share and Save Apple Notes Across Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-6s-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 6s Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-exclusive-guide-10-immersive-youtube-vr-films/"><u>In 2024, Exclusive Guide 10 Immersive YouTube VR Films</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-se-2022-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone SE (2022) to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-6s-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 6s to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-14-pro-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 14 Pro Max to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-14-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 14 Pro Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-xs-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone XS Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-recovering-battlenet-login-on-pcs/"><u>Mastering the Art of Recovering Battle.net Login on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-mobile-gaming-to-your-desktop-win-11-and-google-play-alliance/"><u>Navigate Mobile Gaming to Your Desktop: Win 11 & Google Play Alliance</u></a></li>
+<li><a href="https://media-tips.techidaily.com/seamless-screen-mirroring-from-ios-13-devices-to-pcs-and-macs/"><u>Seamless Screen Mirroring From iOS 13 Devices to PCs and Macs</u></a></li>
 </ul></div>
 

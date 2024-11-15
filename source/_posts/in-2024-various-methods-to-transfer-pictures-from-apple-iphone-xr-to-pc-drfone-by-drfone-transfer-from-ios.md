@@ -1,7 +1,7 @@
 ---
 title: In 2024, Various Methods to Transfer Pictures from Apple iPhone XR to PC | Dr.fone
-date: 2024-11-07T16:39:52.907Z
-updated: 2024-11-13T16:02:49.878Z
+date: 2024-11-10T18:06:24.255Z
+updated: 2024-11-14T19:39:01.430Z
 tags: 
   - iphone transfer
 categories:
@@ -22,6 +22,13 @@ It can be helpful in creating backups, freeing up storage space, and more. In th
 
 With the Apple iPhone XR 's advanced camera, capturing life's beautiful moments is second nature. On the other hand, Windows OS has long been the backbone of personal computing. They come equipped with a range of tools to make the photo transfer process smooth and efficient. Explained below are two of the common method to **import photos from Apple iPhone XR to PC**:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: File Explorer
 
 When it comes to simplicity and direct control, File Explorer stands out as an excellent option. It is a steadfast companion for transferring photos from your Apple iPhone XR  to your Windows PC. This method gives you the freedom to navigate through your device's internal storage.
@@ -36,22 +43,16 @@ Moreover, you can select the images you desire and move them to your computer. F
 
 ![open the apple storage](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Here, double-click on your iPhone's icon to access its internal storage. Most of your iPhone's photos are stored in the "DCIM" folder. Browse the folder to select photos you want to move and copy them to your desired location.
 
 ![access the dcim folder](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Photos App
 
@@ -61,16 +62,16 @@ Available in Windows 10 and later, the Photos app is a prime example of this con
 
 ![trust the computer](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** In the Photos app, click on the "Import" button located in the top-right corner. From the available options, choose "From a connected device" and select your iPhone. The Photos app will display the photos on your Apple iPhone XR  that are available for import. After selecting the images, select an existing folder or create a new one for the imported photos.
 
 ![import the photos](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How To Transfer Photos From Apple iPhone XR to PC With Cloud Storages
 
@@ -85,22 +86,15 @@ iCloud is Apple's cloud storage service which seamlessly knits together the Appl
 ![enable icloud photos sync feature](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 2:** Move to your computer and on your Windows PC, open a web browser, and go to the iCloud website. Log in with your Apple ID and password and click the "Photos" icon to access your iCloud Photo Library.
 
 ![open the photos app](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** Browse your photos and select the ones you want to transfer to your PC. Click the “Download” icon (cloud with arrow) to download the selected pictures to your PC.
 
@@ -114,6 +108,13 @@ iCloud is Apple's cloud storage service which seamlessly knits together the Appl
 #### Con
 
 - The provided 5GB of free cloud storage falls significantly short of meeting the requirements for adequate data backup.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Google Drive
 
@@ -135,13 +136,6 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 #### Con
 
 - Unlike iCloud, which automatically backs up photos, you have to upload all images manually to Google Drive.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: The Best iOS Management Tool To Transfer Photos From Apple iPhone XR to PC
 
@@ -212,16 +206,22 @@ Step 1: Download the Dr.Fone software, open it, and you can see the following in
 
 ![transfer photos from iphone to iphone in one click](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Connect both iPhones to your PC and click "Phone Transfer".
 
 ![transfer all photos from iphone to iphone without icloud using the software](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** _Confirm which iPhone is your destination device and which one is the source. Click "Flip" to swap their positions if necessary._
 
@@ -232,13 +232,6 @@ Step 3: Select the "Photos" option and click "Start Transfer". Then you can find
 **Video Guide: Transfer photos from Apple iPhone XR to iPhone without iCloud**
 
 <iframe width="800" height="450" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/_Fhd5Vugoek"></iframe>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Transfer Photos from Apple iPhone XR to iPhone without iCloud (Selective Transfer) \[iPhone 15 Included\]
 
@@ -259,10 +252,10 @@ Once Dr.Fone detects all the photos in your iPhone, it will categorize them in t
 ![transfer the selected images](https://images.wondershare.com/drfone/guide/manage-ios-photos-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Transfer Photos from Apple iPhone XR to iPhone without iCloud via iTunes \[iPhone 15 Included\]
@@ -286,6 +279,19 @@ AirDrop gives its users the wireless facility to transfer iPhone photos in a qui
 **Step 2:** Following this, you will have to tap the “Share” icon, followed by selecting the targeted “AirDrop” recipient iPhone. Then, on the target iPhone, you have to choose “Accept” to receive them.
 
 ![press the accept button](https://images.wondershare.com/drfone/article/2023/11/transfer-photos-from-iphone-to-iphone-6.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tip: How to Transfer Photos from Apple iPhone XR to iPhone using iCloud
 
@@ -391,22 +397,22 @@ After going through this article guide we can conclude that iPhone users can tra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rom-noob-to-pro-selecting-webcams-that-make-a-difference-in-youtube-livestreams/"><u>[New] From Noob to Pro Selecting Webcams That Make a Difference in YouTube Livestreams</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-beat-coffee-stain-effects-with-ioss-complimentary-red-eye-fix-app/"><u>[Updated] In 2024, Beat Coffee Stain Effects with iOS's Complimentary Red-Eye Fix App</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-15-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 15 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daily-routine-learning-urdu-in-moments/"><u>Daily Routine: Learning Urdu in Moments</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/elite-three-in-learning-languages-speak-worldwide-anytime/"><u>Elite Three in Learning Languages: Speak Worldwide, Anytime</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-12-mini-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 12 mini to iPhone | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-10-best-video-calling-app-for-android-and-iphone/"><u>In 2024, 10 Best Video Calling App for Android and iPhone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-xs-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone XS Max to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-6s-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 6s to Samsung | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-12-pro-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 12 Pro to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-6s-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 6s to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-11-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 11 to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-15-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 15 Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/leaders-in-likeability-the-best-app-list-on-androidiphone-for-2024/"><u>Leaders in Likeability The Best App List on Android/iPhone for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-the-art-of-holiday-season-promotional-emails-a-complete-guide-by-massmail/"><u>Mastering the Art of Holiday Season Promotional Emails: A Complete Guide by MassMail</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-zte-axon-40-lite-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to ZTE Axon 40 Lite FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unleashing-full-potential-of-zoom-with-chromebook-for-2024/"><u>Unleashing Full Potential of Zoom with Chromebook for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-enhancing-your-playback-quality-tips-for-roblox-recordings-mac-for-2024/"><u>[New] Enhancing Your Playback Quality Tips for Roblox Recordings (Mac) for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-facebooks-micro-video-revolution-insights-into-2023-landscape/"><u>[New] Facebook's Micro-Video Revolution Insights Into 2023 Landscape</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/avigating-youtube-triumphs-an-in-depth-guide-to-creator-studio/"><u>[New] Navigating YouTube Triumphs An In-Depth Guide to Creator Studio</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-melodious-feed-infusing-ig-stories-with-music/"><u>[Updated] Melodious Feed Infusing IG Stories With Music</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-7-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 7 to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-x-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone X to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/essential-tips-building-an-instagram-money-machine/"><u>Essential Tips Building an Instagram Money Machine</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-se-2020-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone SE (2020) to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-7-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 7 to SIM? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-pro-max-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 13 Pro Max to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-15-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 15 to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-8-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 8 Plus to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/premier-non-udemy-platforms-for-personalized-e-learning-for-2024/"><u>Premier Non-Udemy Platforms for Personalized E-Learning for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-win10-whiteout-after-new-cu/"><u>Resolving Win10 Whiteout After New CU</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722845451646-solutions-for-restoring-your-invisible-wi-fi-connection/"><u>Solutions for Restoring Your Invisible Wi-Fi Connection</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-11-pro-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 11 Pro Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Transfer your Apple iPhone XR Apps to New iPhone | Dr.fone
-date: 2024-11-10T19:13:37.401Z
-updated: 2024-11-13T17:57:12.577Z
+date: 2024-11-11T21:29:15.094Z
+updated: 2024-11-14T19:11:46.383Z
 tags: 
   - iphone transfer
 categories:
@@ -43,6 +43,13 @@ Connect both the two iPhones to your computer. Once both the iPhones are connect
 Another way that can assist you to move photos from Android to iPhone is the [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). What is incredibly convenient about Dr.Fone - Phone Manager (Android) is its ability to transfer photos selectively. You can also use it to transfer contacts, videos, messages, podcasts, and anything else stored on your Android in minutes. Dr.Fone - Phone Manager (Android) is a secure, trustworthy program, hence you can be reassured that your information will be kept safe while transferring from one device to another.
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: How to transfer apps from iPhone apps to the new iPhone via iTunes?
 
@@ -96,10 +103,10 @@ Here also, we have summed up the transferring process via iCloud under two secti
 ![backup iphone apps to icloud](https://images.wondershare.com/drfone/article/2018/01/15169459451134.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Note: You have taken the backup from the old iPhone using the iCloud application.
@@ -127,6 +134,13 @@ Note: Doing so will erase any old setup.
 7: The backup process starts on your new phone and you do not interrupt or stop the wifi connection while the backup process continues.
 
 8: Your photos, videos, files, etc will be automatically downloaded into your new Phone using iCloud.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to transfer apps from Apple iPhone XR to iPhone with the help of the App store?
 
@@ -163,6 +177,13 @@ Among the array of iOS devices, the iPhone and iPad stand as popular companions 
 Now, the process can be managed with various methods and tools available at your disposal. The guide aims to effortlessly transfer your photos from an iPhone to an iPad. From utilizing iCloud and AirDrop to exploring third-party applications, we'll cover step-by-step instructions.
 
 ![transfer photos from iphone to ipad](https://images.wondershare.com/drfone/article/2023/12/iph-to-ipad-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: How To Transfer Photos From Apple iPhone XR to iPad Using AirDrop
 
@@ -212,20 +233,6 @@ From the expanded options, choose "Photos" to access your iPhone's photos. Here,
 
 ![select your photos to transfer](https://images.wondershare.com/drfone/guide/manage-ios-videos-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3.2 Transfer All Photos From Apple iPhone XR to iPad
 
 When moving photos in bulk from Apple iPhone XR to iPad, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/phone-switch/) also got you covered. It offers a powerful phone transfer feature that can transfer over 18 types of data from one device to another. Dr.Fone simplifies the process of transferring data between phones with just one click. It facilitates the smooth transfer of various data types, like photos. You can follow these simplified steps to **transfer photos from Apple iPhone XR to iPad**:
@@ -251,10 +258,10 @@ iTunes or Finder can also be used to transfer photos from your iPhone to your iP
 ![import photos from iphone](https://images.wondershare.com/drfone/article/2023/12/iph-to-ipad-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 2.** When photos are moved to your computer, unplug the iPhone and link your iPad. Now run the latest version of iTunes/Finder on your PC/Mac and tap the Apple iPhone XR device icon. Here, choose "Photos" from the left panel and check the box next to "Sync Photos."
@@ -264,13 +271,6 @@ iTunes or Finder can also be used to transfer photos from your iPhone to your iP
 - **Step 3.** Now, choose the folder where you moved photos from the iPhone in the drop-down box. After that, hit the "Apply" button and wait for the images to sync with the iPad.
 
 ![press the apply button](https://images.wondershare.com/drfone/article/2023/12/iph-to-ipad-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: How To Transfer Photos From Apple iPhone XR to iPad Using Social Media Apps
 
@@ -285,10 +285,10 @@ Social media apps can serve as a convenient platform for transferring photos. Nu
 ![access whatsapp web on ipad](https://images.wondershare.com/drfone/article/2023/12/iph-to-ipad-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 6: How To Transfer Photos From Apple iPhone XR to iPad Using Email
@@ -298,13 +298,6 @@ Utilizing email provides a direct and frequently used approach for transferring 
 - **Step 1.** Access the email app on your iPhone and initiate a new email. Input your iPad email address in the recipient field. Next, tap on the "Attachment" icon to select the images you want to send.
 
 ![upload the image](https://images.wondershare.com/drfone/article/2023/12/iph-to-ipad-16.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Move to your iPad and on the "Mail" app there. Now navigate to "Inbox" and open the newly received email. Tap the attachments and save them to your device to complete the transfer process.
 
@@ -366,10 +359,16 @@ Open software > Connect iPhones to PC > Select "Messages" > Click "Start Transfe
 ![transfer iphone messages with Dr.Fone - step 3](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png "iphone message transfer process")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5\. Once it is done, you can disconnect your iPhones from the PC, and view the messages on the target iPhone.
@@ -423,6 +422,13 @@ Besides iCloud, one can also take the assistance of iTunes/Finder to move their 
 
 ![backup now](https://images.wondershare.com/drfone/article/2017/08/15017752581497.jpg "backup old iphone")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. After taking a backup of your device, disconnect it, and connect the target phone to the computer.
 
 5\. Launch iTunes/Finder and wait for it to recognize the new iPhone. From here, you can choose to set up your device while restoring a previous backup.
@@ -458,24 +464,24 @@ Go ahead and follow this stepwise tutorial to transfer your messages from one iP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-broadcasting-wisdom-share-screen-seamlessly-on-fb-live-for-2024/"><u>[Updated] Broadcasting Wisdom Share Screen Seamlessly on FB Live for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-brainy-battles-ultimate-gk-video-channel-guide/"><u>2024 Approved Brainy Battles - Ultimate GK Video Channel Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pre-upgrade-knowledge-key-elements-explained/"><u>2024 Approved Pre-Upgrade Knowledge Key Elements Explained</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728469672758-onedrive/"><u>雲端存儲OneDrive消去了我的桌面文件：如何重建和復原？</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mpegavi-webm-movavi/"><u>直接在線上MPEG/AVI 變更成WEBM - 精選 Movavi 影片編排器</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/discover-the-basics-with-the-lg-um73eighty-nine-in-depth-look-at-a-value-49-inch-4k-tv/"><u>Discover the Basics with the LG UM73eighty-Nine: In-Depth Look at a Value 49-Inch 4K TV</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone SE to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-6s-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 6s Plus to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 11 to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-se-2022-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone SE (2022) to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-14-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 14 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-13-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 13 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-6-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 6 to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-13-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 13 to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-8-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 8 Plus to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-value-laptops-find-the-ultimate-windows-powered-machine-under-1k-techspot/"><u>Top Value Laptops: Find the Ultimate Windows-Powered Machine Under $1K | TechSpot</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/zdnet-reveals-ios-18s-built-in-feature-for-direct-phone-call-recording-no-need-for-third-parties/"><u>ZDNet Reveals iOS 18'S Built-In Feature for Direct Phone Call Recording | No Need for Third Parties</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-professional-insights-into-magix-acid-pro-and-alternatives/"><u>[New] In 2024, Professional Insights Into Magix ACID Pro and Alternatives</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-stream-smoothly-with-nook-miles-tactics-for-2024/"><u>[Updated] How to Stream Smoothly with Nook Miles Tactics for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-15-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 15 Plus to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beginners-drone-racing-handbook-plus-leading-fpv-drones/"><u>Beginner's Drone Racing Handbook + Leading FPV Drones</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/best-value-video-doorbells-unveiling-the-features-of-remobell-for-less-than-100/"><u>Best Value Video Doorbells: Unveiling the Features of RemoBell for Less Than $100</u></a></li>
+<li><a href="https://games-able.techidaily.com/breaking-down-the-framework-for-virtual-creation/"><u>Breaking Down the Framework for Virtual Creation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-7-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 7 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-6s-plus-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 6s Plus to SIM? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-realme-c51-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Realme C51 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-13c-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 13C 5G Bootloader Easily</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-6-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 6 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-14-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 14 Pro to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 14 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-se-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone SE Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 15 to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-6-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 6 Plus to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-14-plus-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 14 Plus and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rapid-execution-instant-clearance-of-signature-bg-for-2024/"><u>Rapid Execution Instant Clearance of Signature Bg for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uniting-disparate-iphone-media-into-one-feed/"><u>Uniting Disparate iPhone Media Into One Feed</u></a></li>
 </ul></div>
 

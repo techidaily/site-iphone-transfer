@@ -1,7 +1,7 @@
 ---
 title: Various Methods to Transfer Pictures from Apple iPhone 12 Pro to PC | Dr.fone
-date: 2024-11-10T17:25:47.892Z
-updated: 2024-11-13T16:51:05.318Z
+date: 2024-11-12T16:17:41.787Z
+updated: 2024-11-15T00:31:08.057Z
 tags: 
   - iphone transfer
 categories:
@@ -22,19 +22,6 @@ It can be helpful in creating backups, freeing up storage space, and more. In th
 
 With the Apple iPhone 12 Pro 's advanced camera, capturing life's beautiful moments is second nature. On the other hand, Windows OS has long been the backbone of personal computing. They come equipped with a range of tools to make the photo transfer process smooth and efficient. Explained below are two of the common method to **import photos from Apple iPhone 12 Pro to PC**:
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: File Explorer
 
 When it comes to simplicity and direct control, File Explorer stands out as an excellent option. It is a steadfast companion for transferring photos from your Apple iPhone 12 Pro  to your Windows PC. This method gives you the freedom to navigate through your device's internal storage.
@@ -53,6 +40,19 @@ Moreover, you can select the images you desire and move them to your computer. F
 
 ![access the dcim folder](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Photos App
 
 Available in Windows 10 and later, the Photos app is a prime example of this convenience. It provides an elegant solution for transferring photos from your Apple iPhone 12 Pro  to your PC. Using this app, you can directly import photos and videos from your iPhone to the computer. Follow these simple instructions to utilize the power of the Photos app to learn **how to transfer photos from Apple iPhone 12 Pro to PC**:
@@ -60,13 +60,6 @@ Available in Windows 10 and later, the Photos app is a prime example of this con
 - **Step 1:** Connect your Apple iPhone 12 Pro  to your Windows PC using a USB cable, and if prompted, tap "Trust This Computer." On your Windows PC, locate and open the "Photos" app.
 
 ![trust the computer](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2:** In the Photos app, click on the "Import" button located in the top-right corner. From the available options, choose "From a connected device" and select your iPhone. The Photos app will display the photos on your Apple iPhone 12 Pro  that are available for import. After selecting the images, select an existing folder or create a new one for the imported photos.
 
@@ -128,6 +121,13 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 
 Wondershare Dr.Fone also serves as a great tool to back up your data to your computer. It allows you to create wireless auto-backups on your computer. This backed-up data can be quickly restored to your device at any time. Furthermore, this tool also offers a dedicated iCloud manager to manage your iCloud data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Features of Wondershare Dr.Fone
 
 - If you want to sell your Apple iPhone 12 Pro , then with the help of Wondershare Dr.Fone Anti-Recovery Mode, you can ensure that your data is erased properly.
@@ -144,13 +144,6 @@ Transferring photos from Apple iPhone 12 Pro to PC is a breeze with Wondershare 
 With Wondershare Dr.Fone installed on your computer, connect to your Apple iPhone 12 Pro . Once the Apple iPhone 12 Pro device is detected, tap the Apple iPhone 12 Pro device from the left sidebar and click “Export All Data.”
 
 ![choose export all data feature](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2: Select Photos for Transfer**
 
@@ -199,6 +192,13 @@ No doubt, refurbished iPhones are the same as the new ones. So, you will enjoy a
 One of the major benefits of purchasing a refurbished Apple iPhone 12 Pro is the cost savings. These devices are more affordable than brand-new ones. You can enjoy the latest features without breaking the bank.
 
 ![An illustration of saving cost.](https://images.wondershare.com/drfone/article/2023/10/Refurbished-iPhone-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Quality Assurance**
 
@@ -266,18 +266,18 @@ Compare prices among different sellers to ensure you're getting a competitive de
 
 By considering these factors, you can make the right decision when buying a refurbished iPhone. In the next section, you will explore where you can buy second-hand iPhones.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 5. Your One-Stop Solution - Dr.Fone**
 
 If you have planned to buy a refurbished iPhone, you must be wondering how to transfer your essential data to your new phone. This is where [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) comes into play. It is a reliable and powerful tool developed by Wondershare. With this tool, you can transfer your data in just a few clicks.
 
 ![Official logo of Dr.Fone.](https://www.tuneskit.com/images/resource/dr-fone-alternatives.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dr.Fone's features are not just limited to transferring your data. There are plenty of other features that can enhance the performance of your iPhone. The best part? It has a user-friendly interface that simplifies all the processes. You can navigate to different features and use them without any tech knowledge.
 
@@ -365,29 +365,9 @@ By doing your homework and picking a reliable seller, you can make a safe and mo
 
 However, don't forget to download [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)! It is going to be very helpful to transfer and manage data on your new iPhone.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 Ways to Export Contacts from Apple iPhone 12 Pro to Excel CSV & vCard Easily
 
 A lot of readers have asked us how to export contacts from Apple iPhone 12 Pro to Excel. After all, it allows them to keep their contacts handy and transfer them to any other device pretty easily. Though, if you are using an iOS device, then you might find it hard to export iPhone contacts to CSV at first. Nevertheless, there are some smart and quick ways of exporting iPhone contacts to Excel that every iOS user should know. In this guide, we will teach you in three different ways, how to export iPhone contacts to Excel free.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How to export contacts from Apple iPhone 12 Pro to Excel using Dr.Fone - Phone Manager (iOS)
 
@@ -427,14 +407,14 @@ Transfer MP3 to iPhone/iPad/iPod without iTunes
 
 ![export iphone contacts to excel csv](https://images.wondershare.com/drfone/drfone/iphone-transfer-export-contacts.jpg)
 
-That’s it! In this way, you would be able to automatically export iPhone contacts to CSV. Now you can just visit the location and copy the file to any other device.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+That’s it! In this way, you would be able to automatically export iPhone contacts to CSV. Now you can just visit the location and copy the file to any other device.
 
 ## Part 2: Export iPhone contacts to Excel free using SA Contacts Lite
 
@@ -456,14 +436,14 @@ You can also try SA Contacts Lite to export iPhone contacts to Excel free as wel
 
 ![export iphone contacts excel file to dropbox](https://images.wondershare.com/drfone/article/2018/01/15154800927553.jpg)
 
-7\. For instance, if you wish to upload the file to Dropbox, simply select the provided option and grant the app the needed permissions.
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+7\. For instance, if you wish to upload the file to Dropbox, simply select the provided option and grant the app the needed permissions.
 
 ## Part 3: Export iPhone contacts to CSV using iCloud
 
@@ -477,9 +457,23 @@ If you don’t want to take the assistance of any third-party app to export iPho
 
 ![log in icloud account on computer](https://images.wondershare.com/drfone/article/2018/01/15154801044092.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Click on the gear icon (Settings) on the bottom left corner. From here, you can select all contacts in one go. Though, if you wish, you can manually select the contacts you wish to export as well.
 
 ![select all contacts on icloud](https://images.wondershare.com/drfone/article/2018/01/15154801165153.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. Once you have made your selection, go to the Settings again and click on the option of “Export vCard”.
 
@@ -505,18 +499,16 @@ We hope that our quick and smart guide would be able to help you export contacts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-broadcast-battle-royale-deciding-between-vmix-and-wirecast/"><u>[New] 2024 Approved Broadcast Battle Royale Deciding Between VMix and Wirecast</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youth-empowerment-your-life-story-can-inspire/"><u>[Updated] Youth Empowerment Your Life Story Can Inspire</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unlocking-the-art-of-extended-frame-shooting/"><u>2024 Approved Unlocking the Art of Extended Frame Shooting</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-13-mini-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 13 mini to Samsung | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discover-the-unmatched-excellence-of-the-latest-microsoft-surface-laptop/"><u>Discover the Unmatched Excellence of the Latest Microsoft Surface Laptop</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-15-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 15 Pro Max to PC | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-12-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 12 Pro to Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 15 Pro Max to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 11 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-8-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 8 to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722875427456-kids-ultimate-game-list-7-amazing-online-adventures-awaits/"><u>Kids' Ultimate Game List: 7 Amazing Online Adventures Awaits</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-deploying-intelligent-bots-using-agentgpt-through-any-browser-interface/"><u>Mastering the Art of Deploying Intelligent Bots Using AgentGPT Through Any Browser Interface</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-android-wi-fi-login-issues-step-by-step-guide/"><u>Solving Android Wi-Fi Login Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-sound-shaping-techniques-for-mobile-top-7-vocal-editing-app-recommendations/"><u>[Updated] Sound Shaping Techniques for Mobile Top 7 Vocal Editing App Recommendations</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-15-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 15 to Android? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-12plus-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted 12+ 5G Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-15-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 15 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-13-mini-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 13 mini to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-11-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 11 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 6 to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-honor-by-fonelab-android-recover-data/"><u>Recover lost data from Honor</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/speed-up-or-slow-down-your-camtasia-recordings-for-2024/"><u>Speed Up or Slow Down Your Camtasia Recordings for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-password-entry-woes-for-android-wi-fi-access/"><u>Troubleshooting Password Entry Woes for Android Wi-Fi Access</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/unveiling-the-basics-your-comprehensive-guide-to-understanding-heic-file-formats/"><u>Unveiling the Basics: Your Comprehensive Guide to Understanding HEIC File Formats</u></a></li>
 </ul></div>
 

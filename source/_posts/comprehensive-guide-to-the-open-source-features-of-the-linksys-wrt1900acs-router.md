@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to the Open Source Features of the Linksys WRT1900ACS Router
-date: 2024-11-12T18:06:47.113Z
-updated: 2024-11-13T19:43:47.150Z
+date: 2024-11-08T19:56:31.860Z
+updated: 2024-11-14T22:25:27.488Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to the Open Source Features of the Linksys WRT1900ACS Router
@@ -44,13 +44,6 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Erika Rawes
 
 [View On Walmart $68](https://www.walmart.com/ip/124219534) [View On Target $100](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.target.com%2Fp%2Ftp-link-ac1900-mu-mimo-mesh-compatible-dual-band-router%2F-%2FA-79847605%3Fslfpid%3D3) [View On Staples $91](https://www.staples.com/tp-link-archer-c80-ac1900-dual-band-wireless-and-ethernet-router-black/product%5F24467939?cid=AFF%3A24467939&slfpid=3)
@@ -78,6 +71,13 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
  Overall, the C80 feels pretty sturdy. There are four antennas, and they don’t feel flimsy or easily breakable. The antennas are exceptionally long—disproportionately so when compared to the router’s body—but the length of the antennas is advantageous for performance. You can move the antennas 90 degrees up and down and roughly 180 degrees side to side, which lets you appropriately adjust them for placement on a wall or table. The Gigabit Ethernet ports (one WAN, four LAN) and power adapter port are located on the back of the device, which is ideal for placement on a flat surface, but not as great for mounting on a wall because the cables come out of the top of the router, and they’re difficult to hide or organize.
@@ -94,13 +94,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Network Performance: Fast speeds, No USB port**
 
  Although this is a low to mid-tier level device, I was quite impressed with its speed and performance. I live in a suburb about 20 minutes away from Raleigh, NC, and I have Spectrum as my internet service provider. The Wi-Fi speeds in my home max out at 400 Mbps. I have a smart box that sits in a utility closet where the router connects. I mounted the router on the wall in that closet, which has a solid door that acts as an immediate signal obstruction. In spite of the presence of this solid door, I was still able to get between 340 and 350 Mbps all throughout the entire downstairs (on the 5GHz band). On the 2.4GHz band, I could get up to 90Mbps all throughout the first floor and in my garage.
@@ -110,13 +103,20 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Range: Even better than advertised**
 
@@ -134,18 +134,18 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
 
 ## **Price: Around 100 bucks**
 
  The TP-Link Archer C80 sells for $100, which is a reasonable price for the unit considering it offers fast speeds, dual-band connectivity, and technologies like MU-MIMO to enhance performance.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **TP-Link Archer C80 vs. TP-Link Archer A9**
 
@@ -158,10 +158,16 @@ Lifewire / Erika Rawes
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -199,22 +205,18 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-downloadable-instagram-footage-tech-tips-for-computers-and-macs/"><u>[New] 2024 Approved Downloadable Instagram Footage Tech Tips for Computers & Macs</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-enhancements-in-windows-11-unveiled/"><u>[Updated] 2024 Approved The Enhancements in Windows 11 Unveiled</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-enhance-your-media-experience-by-learning-vlcs-rotation-feature/"><u>[Updated] Enhance Your Media Experience by Learning VLC's Rotation Feature</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-sharexs-competitors-unveiled/"><u>[Updated] ShareX's Competitors Unveiled</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-social-streaming-breaking-the-virality-chain-on-twitter/"><u>[Updated] Social Streaming Breaking the Virality Chain on Twitter</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-optimize-your-telegram-web-experience/"><u>2024 Approved How to Optimize Your Telegram Web Experience</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-12-pro-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 12 Pro Max to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-xr-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone XR to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-xs-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone XS Max to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 6 to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-xs-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone XS to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-13-pro-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 13 Pro Max to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-6-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 6 Plus to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-13-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 13 to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/master-iphone-photography-rotate-tilt-and-flip-effortlessly-for-2024/"><u>Master iPhone Photography Rotate, Tilt & Flip Effortlessly for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-unresponsive-dvd-bd-and-cd-drives/"><u>Troubleshooting Steps for Unresponsive DVD, BD, and CD Drives</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-insights-on-engaging-top-tier-visual-storytellers/"><u>[New] 2024 Approved Insights on Engaging Top-Tier Visual Storytellers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-loop-video-liftoff-engaging-audiences-on-ig/"><u>[New] Loop Video Liftoff Engaging Audiences on IG</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-get-the-best-of-both-worlds-with-top-asymmetric-microphones-for-2024/"><u>[Updated] Get the Best of Both Worlds with Top Asymmetric Microphones for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-swift-simplified-steps-mastering-iphone-screen-recordings/"><u>2024 Approved Swift, Simplified Steps Mastering Iphone Screen Recordings</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-12-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 12 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-free-uhd-uefa-champions-league-qf-and-sf-matches-high-quality-1080p-footage/"><u>Download Free UHD UEFA Champions League QF & SF Matches - High-Quality 1080P Footage</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/french-refers-to-the-nationality-of-some-interests-classified-under-miscellaneous-misc-since-its-at-the-beginning-it-is-given-a-label-b-misc/"><u>French - Refers to the Nationality of some Interests, Classified Under Miscellaneous (MISC). Since It's at the Beginning, It Is Given a Label B-MISC.</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-13-pro-max-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 13 Pro Max to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-15-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 15 Pro to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 8 to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-se-2022-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone SE (2022) to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-14-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 14 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-perfect-match-freestyle2s-blue-edition-tailored-for-mac-enthusiasts/"><u>Unveiling the Perfect Match: Freestyle2's Blue Edition Tailored for Mac Enthusiasts</u></a></li>
 </ul></div>
 

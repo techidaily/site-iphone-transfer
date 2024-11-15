@@ -1,7 +1,7 @@
 ---
 title: In 2024, Transfer your Apple iPhone 15 Apps to New iPhone | Dr.fone
-date: 2024-11-12T16:08:20.657Z
-updated: 2024-11-13T18:54:28.393Z
+date: 2024-11-09T23:44:57.110Z
+updated: 2024-11-15T00:56:56.949Z
 tags: 
   - iphone transfer
 categories:
@@ -73,19 +73,19 @@ Note: You have created the backup process on your old iPhone. Now, you should st
 
 ![restore iphone apps from itunes backup](https://images.wondershare.com/drfone/article/2017/07/15002815435966.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Now, you have to connect the new iPhone device to the PC where the backup from the old iPhone was done.
 4. View iTunes from the computer and choose your new iPhone like iPhone 15/15 Pro (Max).
 5. Choose the “Restore backup” and cross-check the date, time, iPhone old name, etc.
 6. If you set a passcode then enter it. Just wait for a few minutes to get complete the restore process. Keep On the Wifi support to the new iPhone like iPhone 15/15 Pro (Max) and your backup will automatically download to the new iPhone.
 
 Note: You have done the entire process to transfer apps to the new iPhone 15/15 Pro (Max) or an earlier model.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to transfer apps from Apple iPhone 15 to iPhone using iCloud?
 
@@ -101,6 +101,13 @@ Here also, we have summed up the transferring process via iCloud under two secti
 - Select the backup now button and don’t turn off the wifi till the process gets completed.
 
 ![backup iphone apps to icloud](https://images.wondershare.com/drfone/article/2018/01/15169459451134.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Note: You have taken the backup from the old iPhone using the iCloud application.
 
@@ -118,13 +125,6 @@ Note: Doing so will erase any old setup.
 
 ![restore iphone apps from icloud backup](https://images.wondershare.com/drfone/article/2018/01/15169461257687.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5: You will get the screen to enter the iCloud credential details such as ID/ password.
 
 ![select icloud backup file](https://images.wondershare.com/drfone/article/2018/01/15169292663640.jpg)
@@ -134,6 +134,19 @@ Note: Doing so will erase any old setup.
 7: The backup process starts on your new phone and you do not interrupt or stop the wifi connection while the backup process continues.
 
 8: Your photos, videos, files, etc will be automatically downloaded into your new Phone using iCloud.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to transfer apps from Apple iPhone 15 to iPhone with the help of the App store?
 
@@ -198,6 +211,13 @@ Besides music files and formats of different kids, Dr.Fone - Phone Transfer also
 
 ![transfer music from iphone to android-use the Flip button](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. Select the type of data you wish to transfer. For instance, in this scenario, make sure that the option of “Music” is selected. Once you have made the selection, click on the “Start Transfer” button.
 
 ![transfer music from iphone to android-Start Transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -218,46 +238,26 @@ Another way to transfer music from Apple iPhone 15 to Android is by using Google
 
 ![transfer music from iphone to android-Click on the “Apply” button](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-iphone-to-android-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Once all your music is synced to iTunes, you can disconnect your iPhone.
 
 4\. Go to the official website of Google Music and download Google Music Manager on your system.
 
 ![transfer music from iphone to android-download Google Music Manager](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-iphone-to-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5\. Launch the Music Manager application and choose to upload songs to Google Play.
 
 ![transfer music from iphone to android-upload songs to Google Play](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-iphone-to-android-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6\. Select the source as “iTunes” and click on the “Continue” button.
 
 ![transfer music from iphone to android-click on the “Continue” button](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-iphone-to-android-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7\. The Music Manager will automatically sync your iTunes library and display the available songs. From here, you can choose to upload selected songs or the entire library.
 
@@ -303,6 +303,19 @@ With Dr.Fone - Phone Manager (iOS), you can move data between your iOS device an
 
 ![transfer music from iphone to android-click on the export button](https://images.wondershare.com/drfone/drfone/iphone-music-to-android.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5\. This will display a list of all the connected devices. Select the target Android device to commence the transfer process.
 
 ## Part 4: How to transfer music from Apple iPhone 15 to Android without computer?
@@ -320,6 +333,13 @@ Too often, users don’t wish to use a computer for moving music from Apple iPho
 4\. Similarly, on your target Android device, mark it as a receiving device. It will automatically start looking for the nearby devices.
 
 ![transfer music from iphone to android-start looking for the nearby devices](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-iphone-to-android-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5\. On your iPhone, you will be prompted regarding the target device. Select it to initiate the transfer.
 
@@ -347,13 +367,6 @@ It might surprise you, but there are different ways to learn how to transfer mus
 
 After learning different moving music from Apple iPhone 15 to Android, you can certainly pick a preferred method. As you can see, Dr.Fone toolkit provides the fastest and easiest way to transfer music from Apple iPhone 15 to Android. With [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/), you can transfer all the music files from one device to another in a single click. In order to perform a selective transfer of data, you can try [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html) as well. Go ahead and try these tools and teach others how to move music from Apple iPhone 15 to Android by sharing this guide.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Ways to Transfer Music from Apple iPhone 15 to iPod touch
 
 Although the Apple iPods have been discontinued, many old users still use them as music players. As we all know, if you want to transfer music from Apple iPhone 15 to iPod, you can just log in with the same Apple ID and then download the songs you purchased on the iPod touch. However, how can you transfer the music that is saved on other devices to your iPod? Don’t worry, this detailed guide introduces 4 ways to transfer music from Apple iPhone 15 to iPod touch, just keep reading!
@@ -361,6 +374,13 @@ Although the Apple iPods have been discontinued, many old users still use them a
 ## Part 1: Easy and powerful way to transfer music from Apple iPhone 15 to iPod
 
 A great tool for the purpose of easy transfer of music between iOS devices is [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). This tool makes life easy for people who want to switch to a new smartphone or are looking for solutions to sync not only music but also contacts, messages, call logs, photos, etc. between different smartphones.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Phone Transfer
 
@@ -380,13 +400,6 @@ Step 1. Download and install Dr.Fone on your computer. Run it and select Phone T
 
 ![transfer music from Apple iPhone 15 to iPod - using Dr.Fone step 1](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2. Select Music and other file types you would like to transfer and click on Start Transfer.
 
 ![transfer music from Apple iPhone 15 to iPod - using Dr.Fone step 2](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
@@ -404,13 +417,6 @@ In case, you have purchased music from iTunes and want it to transfer from your 
 ![transfer music from Apple iPhone 15 to iPod - using iTunes](https://images.wondershare.com/drfone/article/transfer-music-from-iphone-to-ipod-3.jpg)
 
 Then you need to follow the following steps for the process to be done. On the computer, in iTunes, go to the iTunes Store.  Then you need to click ‘Purchased’, which is available in the Quick Links on the _Home_ screen. Then you need to find the songs that are on the iPhone, but not in your computer's iTunes library.  Then, click the ‘cloud’ button next to the song name to download it.  The last step of syncing remains which can be done as desired. Just sync those songs from your iTunes library to your iPod as desired and you are done with the job of Transfer Music Purchased from the iTunes store from Apple iPhone 15 to iPod.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Transfer Music purchased from the iTunes Store from Apple iPhone 15 to iPod using iTunes match
 
@@ -460,20 +466,16 @@ For this process to complete, you need to import all songs from CD to iTunes at 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-12-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 12 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/achieve-high-quality-recordings-with-these-5-windows-11-tips/"><u>Achieve High-Quality Recordings with These 5 Windows 11 Tips</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/crossing-the-slavic-divide-uk-and-rus-languages/"><u>Crossing the Slavic Divide: Uk & Rus Languages</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/dell-g15-drivers-download-and-install-for-windows/"><u>Dell G15 Drivers Download & Install for Windows</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/explore-boundless-literature-with-amazons-kindle-unlimited-plan/"><u>Explore Boundless Literature with Amazon's Kindle Unlimited Plan</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-15-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone 15 Pro Max in the Best Ways</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-13-pro-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 13 Pro Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-15-pro-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 15 Pro to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-13-mini-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 13 mini to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-6s-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 6s and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-uncharted-waters-openai-leader-calls-for-guidance/"><u>Navigating Uncharted Waters - OpenAI Leader Calls for Guidance</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-tackle-stranded-error-on-xbox-app-windows-devices/"><u>Steps to Tackle 'Stranded' Error on Xbox App Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/time-travel-in-tech-flipping-old-games-with-dosbox-x/"><u>Time Travel in Tech: Flipping Old Games with DOSBox-X</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tricks-to-perfect-time-lapses-using-samsung-cameras/"><u>Tricks to Perfect Time-Lapses Using Samsung Cameras</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-13-mini-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 13 mini to iPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-adaptive-gaming-techniques-by-pros/"><u>[New] 2024 Approved Adaptive Gaming Techniques by Pros</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beyond-wonders-the-unseen-disadvantages-in-vr/"><u>[New] Beyond Wonders The Unseen Disadvantages in VR</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-12-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 12 to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209541299-9780008319342-gemini-2020-your-personal-horoscope/"><u>Gemini 2020: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-11-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 11 to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-15-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 15 to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-xr-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone XR to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211775888-pubg-2024-master-the-art-of-fixing-game-launch-issues-and-start-enjoying-now/"><u>PUBG 2024: Master the Art of Fixing Game Launch Issues and Start Enjoying Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202375904-resolving-the-critical-installer-crash-how-to-fix-error-code-1603/"><u>Resolving the Critical Installer Crash - How to Fix Error Code 1603</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-se-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone SE to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-grove-plug-ins-for-enhanced-raspberry-pi-and-arduino-control/"><u>Top Grove Plug-Ins for Enhanced Raspberry Pi & Arduino Control</u></a></li>
 </ul></div>
 
