@@ -1,7 +1,7 @@
 ---
 title: "Masterful Remedies: Overcoming Halo E 3'S Persistent Crashes During Playtime on Desktop"
-date: 2024-10-29T17:21:53.153Z
-updated: 2024-11-04T17:05:24.267Z
+date: 2024-11-09T16:43:42.391Z
+updated: 2024-11-13T16:03:02.426Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 7. **[Set the Power Plan of your PC for high performance](https://tools.techidaily.com/drivereasy/download/)**
 8. [**Adjust your Windows system for the best performance**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
  Updating drivers should always be your go-to option when you’re experiencing in-game fps drops. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -60,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -98,6 +105,13 @@ For AMD users, follow the steps below:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch the game to see the fps increases. If not, move on to modify Windows 10 OS graphics settings.
 
 ### Step 2: Modify Windows 10 OS graphics settings
@@ -109,30 +123,29 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 2. In the Graphics settings window, click **Browse** to open **File Explorer** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows 10 graphics settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Windows-10-graphics-settings.jpg)
 3. Then go to **the drive where you save Resident Evil Village game files** \> **Program Files (x86)** or **Program Files** \> **Steam** \> **steamapps** \> **common** \> **Resident Evil Village** game folder, double-click **the .exe file** of Resident Evil Village to add the game.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Once added, click the**Options** button under re8.exe, then select **High performance** and click **Save** .  
 ![Windows 10 graphics settings high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Windows-10-graphics-settings-high-performance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart the game to see if it runs smoothly. If not, you may need to move on and modify the in-game graphics settings.
@@ -154,13 +167,6 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run Resident Evil Village again to see whether the FPS is back to normal. If it didn’t work, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Disable the Steam Overlay
 
@@ -185,20 +191,14 @@ To set Resident Evil Village to High priority:
 3. Navigate to the **Detail** tab. **Right-click** the **main process of Resident Evil Village** and select **High** .  
 ![Resident Evil Village high priority](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-high-priority.jpg)
 
- Restart the game to see if the in-game FPS improves. If the FPS is still the same, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart the game to see if the in-game FPS improves. If the FPS is still the same, try the next fix, below.
 
 ## Fix 6: Close resource-hogging apps
 
@@ -222,6 +222,13 @@ To set Resident Evil Village to High priority:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the window that pops up, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 Launch Resident Evil Village to check if the in-game fps improves.
@@ -234,24 +241,17 @@ Launch Resident Evil Village to check if the in-game fps improves.
 ![run SystemPropertiesAdvanced](https://images.drivereasy.com/wp-content/uploads/2021/05/run-SystemPropertiesAdvanced.jpg)
 2. Under the**Advanced** tab, click the Settings… button in the**Performance** section.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Advanced Performance Settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Advanced-Performance-Settings.jpg)
 3. Under the**Visual Effects** tab, select**Adjust for best performance** and click**OK** .  
 
-![Adjust Windows for best performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Adjust-Windows-for-best-performance.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Adjust Windows for best performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Adjust-Windows-for-best-performance.jpg)
 
 Launch Resident Evil Village to see if you get a better in-game fps.
 
@@ -281,22 +281,20 @@ Launch Resident Evil Village to see if you get a better in-game fps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-getting-live-on-instagram-a-simple-how-to/"><u>[New] 2024 Approved Getting Live on Instagram A Simple How-To</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-playcapture-pro-your-own-screen-recorder-free/"><u>[New] 2024 Approved PlayCapture Pro Your Own Screen Recorder, Free</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-decipherment-insiders-look-at-xvideo-hub-review-for-2024/"><u>[New] The Ultimate Decipherment Insider's Look at XVideo Hub Review for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-14-pro-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 14 Pro Max to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-12-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 12 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-7-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 7 Plus to Samsung | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-12-pro-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 12 Pro Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-11-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 11 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-pro-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 12 Pro Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-x-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone X to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-11-pro-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 11 Pro to Samsung | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-enhance-your-play-mastering-kinemaster-and-the-top-10-alternative-games/"><u>In 2024, Enhance Your Play Mastering KineMaster & The Top 10 Alternative Games</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-x-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone X to Android? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-tab-s3-timeless-excellence-or-outdated-tech-reviews-and-insights/"><u>Samsung Galaxy Tab S3: Timeless Excellence or Outdated Tech? Reviews & Insights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/srt-deep-dive-knowledge-at-your-fingertips/"><u>SRT Deep Dive Knowledge at Your Fingertips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unleash-your-imagination-review-of-the-garmin-virb-ultra-30/"><u>Unleash Your Imagination Review of the Garmin VIRB Ultra 30</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/your-ultimate-guide-to-choosing-the-best-magsafe-wallets-of-2-tested-and-reviewed/"><u>Your Ultimate Guide to Choosing the Best MagSafe Wallets of 2# - Tested & Reviewed</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-djis-sky-high-creativity-with-pro-drone-review/"><u>[New] 2024 Approved DJI's Sky-High Creativity with Pro Drone Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seeking-awareness-complete-view-of-sharable-media-in-messages/"><u>[New] In 2024, Seeking Awareness Complete View of Sharable Media in Messages</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-quest-for-enchanted-speech-is-the-magic-app-real-uncover-other-pathways/"><u>[Updated] In 2024, The Quest for Enchanted Speech Is the Magic App Real? Uncover Other Pathways</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comparing-standard-and-hdr-screens-the-case-for-aurora/"><u>2024 Approved Comparing Standard and HDR Screens The Case for Aurora</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-higher-rankings-essential-tips-to-elevate-your-yt-content/"><u>2024 Approved Unlock Higher Rankings Essential Tips to Elevate Your YT Content</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-15-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 15 Plus to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-6s-plus-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 6s Plus to SIM? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-mini-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 mini To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-xs-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone XS in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-14-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 14 Pro to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-se-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone SE Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-6-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 6 Plus to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-14-plus-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 14 Plus and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-podcast-storytelling-writing-tips-and-example-guides/"><u>In 2024, The Art of Podcast Storytelling Writing Tips & Example Guides</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-effortless-setup-for-your-razer-mamba-game-controller-drivers/"><u>Quick & Effortless Setup for Your Razer Mamba Game Controller Drivers</u></a></li>
 </ul></div>
 

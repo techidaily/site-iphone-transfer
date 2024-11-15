@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Persistent Crashes in Microsoft Flight Simulator 2020 on Windows
-date: 2024-10-29T17:16:11.311Z
-updated: 2024-11-04T16:42:47.053Z
+date: 2024-11-10T19:32:03.925Z
+updated: 2024-11-13T18:28:51.896Z
 tags:
   - win11
   - win10
@@ -34,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
@@ -67,15 +73,15 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
@@ -87,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -111,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -128,21 +141,20 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,18 +179,21 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-proven-tactics-for-unblemished-image-sourcing/"><u>[Updated] Proven Tactics for Unblemished Image Sourcing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultra-hd-marvel-hp-dreamcolor-z32-x-analysis/"><u>2024 Approved Ultra HD Marvel HP DreamColor Z32 X Analysis</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-15-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 15 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-se-2020-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone SE (2020) to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/comment-formater-et-installer-de-nouveau-un-systeme-dexploitation-windows-via-le-bios/"><u>Comment Formater Et Installer De Nouveau Un Système D'Exploitation Windows via Le BIOS</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/efficiently-documenting-your-fb-chats-and-meets/"><u>Efficiently Documenting Your FB Chats & Meets</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100i-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y100i Phone without Any Data Loss</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-brush-up-your-skills-the-definitive-list-of-top-10-drawing-apps-for-android/"><u>In 2024, Brush Up Your Skills The Definitive List of Top 10 Drawing Apps for Android</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-xs-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone XS Max to SIM? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-insights-on-gopro-hero5-adventure-series/"><u>In 2024, Insights on GoPro Hero5 Adventure Series</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-smart-7-hd-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix Smart 7 HD Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-xs-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone XS Max Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/abbyy-ai-ocr-4/"><u>パーソルグループの名刺管理システムにABBYY AI OCRを実装: モバイル且つ4枚まとめて高精度読み取り</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-top-6-downloads-unlocked-with-free-online-and-global-viewing/"><u>[Updated] In 2024, Top 6 Downloads – Unlocked with Free Online & Global Viewing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-understanding-and-managing-video-layouts-in-zoom-for-windows-11-users/"><u>[Updated] Understanding and Managing Video Layouts in Zoom for Windows 11 Users</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-15-pro-max-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 15 Pro Max to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-13-pro-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 13 Pro to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-6-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 6 Plus to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/from-novice-to-pro-streamlining-your-win11-zoom-sessions-for-2024/"><u>From Novice to Pro Streamlining Your Win11 Zoom Sessions for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-8-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 8 to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-locked-iphone-13-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock locked iPhone 13 without Passcode</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-14-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 14 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-colorful-canvas-basic-adobe-corrections-guide/"><u>In 2024, Colorful Canvas Basic Adobe Corrections Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-online-marketing-for-newcomers/"><u>In 2024, Mastering the Art of Online Marketing for Newcomers</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-8-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 8 Plus Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-7-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 7 Plus to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-best-free-wmv-video-concatenation-software/"><u>Updated The Best Free WMV Video Concatenation Software</u></a></li>
 </ul></div>
 

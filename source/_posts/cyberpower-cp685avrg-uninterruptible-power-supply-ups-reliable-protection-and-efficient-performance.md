@@ -1,7 +1,7 @@
 ---
 title: CyberPower CP685AVRG Uninterruptible Power Supply (UPS) - Reliable Protection and Efficient Performance
-date: 2024-10-29T16:01:56.495Z
-updated: 2024-11-04T17:14:02.977Z
+date: 2024-11-07T18:19:05.838Z
+updated: 2024-11-13T18:51:32.024Z
 categories:
   - BestProducts
 description: This Article Describes CyberPower CP685AVRG Uninterruptible Power Supply (UPS) - Reliable Protection and Efficient Performance
@@ -37,16 +37,16 @@ Lifewire / Jonno Hill
 
 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mohu Leaf 30
 
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/xXK31GRLX2h6w0vFc9K2Ps_ufqk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -71,6 +71,13 @@ Lifewire / Jonno Hill
 
  Mohu might not be breaking new ground with this antenna, but it’s more than sufficient for most city dwellers and perhaps even a few buyers in the suburbs with a relatively unobstructed path to the broadcast source.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Basic but effective**
 
  You can find a dozen identical versions of this unpowered antenna by doing a quick search for TV antennas online, and not for no reason. It’s a very uncomplicated design, doesn’t take up too much space, and doesn’t have a lot of points of failure. The 9x11.5-inch rectangular antenna surface is thin, pliable, and features two small punch-holes towards the top which can be used to pin the antenna to an appropriate surface.
@@ -78,22 +85,15 @@ Lifewire / Jonno Hill
  The matte surface is white on one side and black on the other, which could be useful for helping blend the device in with your surroundings. The Mohu Leaf 30 TV Antenna is neither the thickest or the thinnest version of this design that we’ve seen. Some are closer to paper thin and extremely flexible, and others were more rigid. If you need to be able to bend the antenna quite a bit to fit it where you need to, this might not be the right one for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Setup: Dead simple**
 
  Setup of the Mohu Leaf 30 TV Antenna is as easy as it gets with antennas. Since there is no external power to connect, you only need to worry about connecting the included coaxial cable to the device and to your TV and using the included pins or adhesive tabs to affix the device to a surface. Ease of setup is one of the benefits of a non-amplified antenna such as the Mohu Leaf.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Acceptable but not incredible**
 
@@ -111,6 +111,19 @@ Lifewire / Jonno Hill
 
  Buyers probably wouldn’t be wise to spend more money unless they live a bit further from their signal source and have had trouble with similar antennas in the past. I think that for most people living in cities, the Mohu Leaf 30 TV Antenna should be more than enough.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Mohu Leaf 30 TV Antenna vs Mohu Blade TV Antenna**
 
  Mohu also makes the[Mohu Blade](https://www.lifewire.com/mohu-blade-tv-antenna-review-4843106) , a powered antenna with a slightly more unique design for a minor premium of $40\. This antenna managed to reliably acquire an average of 69 channels in my tests, a big leap from the performance of the Mohu Leaf 30 TV Antenna. That having been said, the Blade does require a power source, and installation is slightly more cumbersome than that of the Leaf. If I wasn’t having any trouble getting the channels I watch with the Leaf, I probably wouldn’t upgrade to the Blade personally.
@@ -119,13 +132,6 @@ Lifewire / Jonno Hill
 
 **No fuss, good value.**
  The Mohu Leaf 30 TV Antenna is a great entry point into the TV antenna space, providing a nice mix of performance and value in a dead-simple package that won’t burden buyers during setup. It might not be powerful enough to suit the needs of suburban users and beyond, but if you’re close enough to the signal source, it’s a nice option.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -154,22 +160,22 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-navigating-posting-strategies-after-instagrams-revisions/"><u>[New] In 2024, Navigating Posting Strategies After Instagram’s Revisions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-ultimate-deck-to-deck-users-manual-for-durecorder/"><u>[New] In 2024, The Ultimate Deck-to-Deck User's Manual for DuRecorder</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-recording-made-simple-a-compreenasite-for-capturing-netflix-content/"><u>[New] Recording Made Simple A Compreenasite for Capturing Netflix Content</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-top-5-ios-downloader-tools-seamless-access-to-fb-videos-and-events/"><u>[Updated] 2024 Approved Top 5 iOS Downloader Tools Seamless Access to FB Videos & Events</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-13-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 13 to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-x-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone X to PC | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fixing-synaptic-mouse-and-touchpad-driver-issues-in-windows-11-a-complete-guide/"><u>Fixing Synaptic Mouse & Touchpad Driver Issues in Windows 11: A Complete Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-15-pro-max-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 15 Pro Max to Avoid Privacy Leak | Stellar</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-13-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 13 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-8-plus-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 8 Plus to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-15-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 15 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-14-pro-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 14 Pro Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-15-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 15 Plus to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-change-the-impact-of-smart-lens-technology-on-biking-displays-cyclistinnovations/"><u>Navigating Change: The Impact of Smart Lens Technology on Biking Displays | CyclistInnovations</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-7-plus-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 7 Plus Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-office-2013-files-word-excel-and-powerpointon-windows-stellar-by-stellar-guide/"><u>Repair Office 2013 Files (Word, Excel and PowerPoint)on Windows | Stellar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-resolve-non-working-usb-mobile-hotspot-functions/"><u>Steps To Resolve Non-Working USB Mobile Hotspot Functions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-enhancing-visual-effects-with-movie-maker-for-animation-projects/"><u>[New] 2024 Approved Enhancing Visual Effects with Movie Maker for Animation Projects</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-android-and-iphones-essential-apps-to-elevate-fb-likes-count-quickly-for-2024/"><u>[Updated] Android & iPhone's Essential Apps to Elevate FB Likes Count Quickly for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719327784213-fixing-the-common-wwinplusp-errors-on-windows-devices/"><u>Fixing the Common WWin+P Errors on Windows Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-apple-is-elevating-vision-the-surprising-appeal-of-wearables-uncovered-on-zdnet/"><u>How Apple Is Elevating Vision: The Surprising Appeal of Wearables Uncovered on ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-oppo-a59-5g-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Oppo A59 5G?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-client-reviews-the-heart-of-modern-marketing-strategies/"><u>In 2024, Client Reviews The Heart of Modern Marketing Strategies</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-11-pro-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 11 Pro Max to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-12-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 12 to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-11-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 11 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-se-2020-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone SE (2020) to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 15 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-11-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 11 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-15-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 15 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/in-depth-analysis-of-adobe-premiere-rush-strengths-weaknesses-and-competitor-solutions/"><u>In-Depth Analysis of Adobe Premiere Rush - Strengths, Weaknesses, and Competitor Solutions</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-xr-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone XR to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-audio-issues-on-iphone-xs-effective-ways-to-sync-and-play-music/"><u>Troubleshooting Audio Issues on iPhone XS: Effective Ways to Sync and Play Music</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-new-potentials-the-best-chatgpt-tools-available-now/"><u>Unlock New Potentials: The Best ChatGPT Tools Available Now</u></a></li>
 </ul></div>
 

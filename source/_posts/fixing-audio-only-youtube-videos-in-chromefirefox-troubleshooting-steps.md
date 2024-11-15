@@ -1,7 +1,7 @@
 ---
 title: Fixing Audio-Only YouTube Videos in Chrome/Firefox - Troubleshooting Steps
-date: 2024-11-02T16:24:27.507Z
-updated: 2024-11-04T17:28:07.874Z
+date: 2024-11-09T18:04:36.441Z
+updated: 2024-11-13T17:53:49.356Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 4. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Uninstall Chrome, delete its installation folder and reinstall Chrome](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Free up drive space
 
  If your C: drive is less than 2 GB, freeing space would help drop the CPU usage. As soon as the free space is more than 2 GB, you’ll see the difference. Click to learn[how to free up drive space](https://tools.techidaily.com/drivereasy/download/) .  
@@ -46,19 +39,6 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-Clear-cache1.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select the types of information you want to remove. Make sure **Cookies and other site data** ,**Cache images and files** are selected.![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-Clear-cache-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Clear data** .
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
@@ -66,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 Check if the problem is resolved. If not, try Solution 2, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable unnecessary extensions
 
@@ -83,10 +56,10 @@ Check if the problem is resolved. If not, try Solution 2, below.
 2. **Toggle off** all extensions to disable them.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-extension.jpg)
@@ -105,10 +78,24 @@ Check if the problem is resolved. If not, try Solution 2, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/chrome-reset2.jpg)
 3. Click **Reset settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/chrome-reset3.jpg)
 4. Relaunch Chrome and test. If the problem still exists, try Solution 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your device drivers
 
@@ -121,14 +108,21 @@ Check if the problem is resolved. If not, try Solution 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bec023ebc384.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bec022d24e36.jpg)
 4. Restart your computer and check if Chrome high CPU usage is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Solution 5, below.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -142,10 +136,10 @@ Check if the problem is resolved. If not, try Solution 2, below.
 2. Delete this folder to completely remove Chrome from your computer:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `C:\Users\**<username>** \AppData\Local\Google\Chrome\`
@@ -173,19 +167,24 @@ Check if the problem is resolved. If not, try Solution 2, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-close-up-clarity-mastering-the-art-of-intense-focus/"><u>[New] Close-Up Clarity Mastering the Art of Intense Focus</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-streamlined-mac-package-audio-plus-video-capture-for-2024/"><u>[Updated] Streamlined Mac Package Audio + Video Capture for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-12-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 12 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/doubt-on-zerogpt-are-other-ai-detectors-trusted-equally/"><u>Doubt on ZeroGPT: Are Other AI Detectors Trusted Equally?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/icebound-duelists-celebrating-the-best-of-winter-olympics-snowboard-x-for-2024/"><u>Icebound Duelists Celebrating the Best of Winter Olympics Snowboard X for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-10-superior-soundspeed-apps-for-devices/"><u>In 2024, 10 Superior Soundspeed Apps for Devices</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-14-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 14 Plus to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-grandest-meme-makeover-utility/"><u>In 2024, Grandest Meme Makeover Utility</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-se-2020-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone SE (2020) to Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-14-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 14 Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-13-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 13 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-recommended-electronics-from-best-buy-for-the-holidays-insider-tips-by-zdnet/"><u>Top Recommended Electronics From Best Buy for the Holidays - Insider Tips by ZDNet</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-facebooks-visual-library-the-ultimate-photo-search-tutorial/"><u>Unlocking Facebook's Visual Library: The Ultimate Photo Search Tutorial</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-exploring-hand-tracking-an-in-depth-look-for-2024/"><u>[Updated] Exploring Hand Tracking An In-Depth Look for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-transform-your-view-exclusive-alternative-video-websites/"><u>[Updated] In 2024, Transform Your View Exclusive Alternative Video Websites</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-viewpoint-visionaries-capturing-the-essence-with-3-viewpoint-strategies-in-reactions/"><u>[Updated] In 2024, Viewpoint Visionaries Capturing the Essence with 3 Viewpoint Strategies in Reactions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-straightening-drone-shake-a-video-guide/"><u>[Updated] Straightening Drone Shake A Video Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-13-pro-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 13 Pro Max to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/guide-comment-restaurer-votre-historique-supprime-sur-youtube/"><u>Guide : Comment Restaurer Votre Historique Supprimé Sur YouTube</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-12-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 12 mini to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-se-2020-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone SE (2020) Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-choices-7-best-mac-video-apps-for-2024/"><u>Ideal Choices 7 Best Mac Video Apps for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-13-pro-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 13 Pro to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-15-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 15 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 6 to Android | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-se-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone SE Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-15-pro-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 15 Pro to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-11-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 11 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-7-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 7 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-clearing-up-504-gateway-timeout-errors-quickly/"><u>Troubleshooting Tips: Clearing Up 504 Gateway Timeout Errors Quickly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-professional-grade-glitch-video-editors-top-paid-and-free-tools-for-windows-mac-and-online/"><u>Updated 2024 Approved Professional-Grade Glitch Video Editors Top Paid and Free Tools for Windows, Mac, and Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-drag-recover-lost-functionality-fast/"><u>Win11 Drag: Recover Lost Functionality Fast</u></a></li>
 </ul></div>
 

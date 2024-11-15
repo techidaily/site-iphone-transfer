@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to the Open Source Features of the Linksys WRT1900ACS Router
-date: 2024-10-28T16:06:11.028Z
-updated: 2024-11-04T16:30:18.131Z
+date: 2024-11-12T18:06:47.113Z
+updated: 2024-11-13T19:43:47.150Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to the Open Source Features of the Linksys WRT1900ACS Router
@@ -45,10 +45,10 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
@@ -70,13 +70,6 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -84,13 +77,6 @@ Lifewire / Erika Rawes
  The matte black color scheme allows it to blend in with other devices, so you’ll barely notice it on a desk or workstation. The surface is textured, with recesses to hide the venting. The texturing is both a blessing and a curse because it causes the C80 to collect a little extra dust, but it also hides fingerprints and smudges.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -108,6 +94,13 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Network Performance: Fast speeds, No USB port**
 
  Although this is a low to mid-tier level device, I was quite impressed with its speed and performance. I live in a suburb about 20 minutes away from Raleigh, NC, and I have Spectrum as my internet service provider. The Wi-Fi speeds in my home max out at 400 Mbps. I have a smart box that sits in a utility closet where the router connects. I mounted the router on the wall in that closet, which has a solid door that acts as an immediate signal obstruction. In spite of the presence of this solid door, I was still able to get between 340 and 350 Mbps all throughout the entire downstairs (on the 5GHz band). On the 2.4GHz band, I could get up to 90Mbps all throughout the first floor and in my garage.
@@ -116,14 +109,14 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
- Lifewire / Erika Rawes
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Erika Rawes
 
 ## **Range: Even better than advertised**
 
@@ -140,6 +133,13 @@ Lifewire / Erika Rawes
  If you want to control more advanced features, like NAT forwarding, DHCP servers, and IPv6, you’ll need to use the web management tool. The web management tool also provides more extensive parental control features, letting you filter out content by keywords (instead of just blocking websites). The web tool has a user-friendly interface, but it’s not as convenient as using the Tether app.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -158,10 +158,10 @@ Lifewire / Erika Rawes
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -199,16 +199,22 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-channel-charisma-standing-out-with-strategic-telegram-promotion/"><u>[New] 2024 Approved Channel Charisma Standing Out with Strategic Telegram Promotion</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-understanding-the-meaning-of-facebooks-blue-emoji/"><u>[Updated] 2024 Approved Understanding the Meaning of Facebook's Blue Emoji</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-xs-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone XS Max to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-xs-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone XS to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-14-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi 14</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-6-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 6 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-15-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 15 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 40 Bootloader Easily</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-xr-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone XR to PC | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-samsung-by-fonelab-android-recover-music/"><u>Undelete lost music from Samsung</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-downloadable-instagram-footage-tech-tips-for-computers-and-macs/"><u>[New] 2024 Approved Downloadable Instagram Footage Tech Tips for Computers & Macs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-enhancements-in-windows-11-unveiled/"><u>[Updated] 2024 Approved The Enhancements in Windows 11 Unveiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-enhance-your-media-experience-by-learning-vlcs-rotation-feature/"><u>[Updated] Enhance Your Media Experience by Learning VLC's Rotation Feature</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-sharexs-competitors-unveiled/"><u>[Updated] ShareX's Competitors Unveiled</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-social-streaming-breaking-the-virality-chain-on-twitter/"><u>[Updated] Social Streaming Breaking the Virality Chain on Twitter</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-optimize-your-telegram-web-experience/"><u>2024 Approved How to Optimize Your Telegram Web Experience</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-12-pro-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 12 Pro Max to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-xr-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone XR to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-xs-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone XS Max to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 6 to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-xs-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone XS to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-13-pro-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 13 Pro Max to SIM? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-6-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 6 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-13-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 13 to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/master-iphone-photography-rotate-tilt-and-flip-effortlessly-for-2024/"><u>Master iPhone Photography Rotate, Tilt & Flip Effortlessly for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-unresponsive-dvd-bd-and-cd-drives/"><u>Troubleshooting Steps for Unresponsive DVD, BD, and CD Drives</u></a></li>
 </ul></div>
 

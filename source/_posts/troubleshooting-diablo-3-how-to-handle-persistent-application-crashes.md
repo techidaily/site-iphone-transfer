@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Diablo 3: How to Handle Persistent Application Crashes"
-date: 2024-10-30T16:41:40.946Z
-updated: 2024-11-04T17:44:37.196Z
+date: 2024-11-12T19:54:37.280Z
+updated: 2024-11-13T19:58:24.605Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ Century: Age of Ashes system requirements
 
  If you’re using a powerful PC but still suffer from game crashes, don’t worry. Just read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Whether the game crashes on startup or crashes in the middle of the game, you’ll find a fix to try in this article. You don’t need to try them all. Just work your way down the list until you find the one that works for you.
@@ -60,13 +53,6 @@ Century: Age of Ashes system requirements
 6. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Verify integrity of game files
 
  Century: Age of Ashes will crash if some of the game files are broken. Before trying anything more complicated, you can verify and repair game files easily in Steam:
@@ -76,18 +62,18 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Century: Age of Ashes after the verifying process is complete. See if the game crashes again. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -111,6 +97,19 @@ Century: Age of Ashes system requirements
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The developer of Century: Age of Ashes releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -118,13 +117,6 @@ Century: Age of Ashes system requirements
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -136,13 +128,20 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Nvidia GeForce Experience, Discord, etc.), make sure you’ve disabled the in-game overlay in those apps feature:
@@ -170,13 +169,6 @@ Century: Age of Ashes system requirements
 
 If this fix didn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Repair corrupted system files
 
  Windows system file corruption sometimes will also lead to the game crashing issues. If you’ve played PC games for a long time, you may have already known that even a missing or corrupted .dll file (dynamic link libraries) would cause a game to crash.
@@ -199,6 +191,20 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)  
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  Century: Age of Ashes will crash when there’s a certain app conflicting with it. If you don’t know exactly which app is conflicting with the game, just follow the steps below to perform a clean boot:
@@ -207,18 +213,18 @@ If this fix didn’t work, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -261,22 +267,19 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-tips-iphones-secrets-to-perfect-movement-capture/"><u>[New] Expert Tips IPhone's Secrets to Perfect Movement Capture</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-charting-the-course-for-your-niche-in-the-youtube-world/"><u>[New] In 2024, Charting the Course for Your Niche in the YouTube World</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-avplayer-xpress-for-mobile-and-desktop-users/"><u>[New] Premium AVPlayer Xpress for Mobile & Desktop Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-fixes-for-storing-vimeo-video-files/"><u>[Updated] 2024 Approved Quick Fixes for Storing Vimeo Video Files</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-eagle-eye-recorder-insights-software/"><u>[Updated] In 2024, Eagle Eye Recorder Insights Software</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-streamlining-video-transmission-from-facebook-to-whatsapp/"><u>2024 Approved Streamlining Video Transmission From Facebook to WhatsApp</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-14-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 14 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 13 to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-12-mini-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 12 mini to PC | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-14-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 14 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-xs-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone XS to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-12-pro-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 12 Pro Max to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-15-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 15 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-11-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 11 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-concealment-start-menu-command-hideout/"><u>The Art of Concealment: Start Menu Command Hideout</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/top-tier-windows-10-screen-capture-programs-unveiled/"><u>Top-Tier Windows 10 Screen Capture Programs Unveiled</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-make-them-laugh-best-video-dubbing-apps-for-comedy-and-entertainment-for-2024/"><u>Updated Make Them Laugh Best Video Dubbing Apps for Comedy and Entertainment for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-tech-savvy-strategies-for-harvesting-and-saving-facebooks-most-trendy-gifs/"><u>[New] 2024 Approved Tech Savvy Strategies for Harvesting & Saving Facebook's Most Trendy GIFs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-social-sensation-strategies-crafting-fbs-topmusicvideos/"><u>[Updated] Social Sensation Strategies - Crafting FB's #TopMusicVideos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/h-impact-workout-videos-that-engage-and-energize-audiences-for-2024/"><u>7 High-Impact Workout Videos That Engage and Energize Audiences for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/conference-committees-resolve-differences-between-house-and-senate-versions-of-a-bill/"><u>Conference Committees Resolve Differences Between House and Senate Versions of a Bill.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-online-converter-de-arquivos-caf-para-mp4-com-o-software-de-edicao-de-video-da-movavi/"><u>Gratis Online Converter De Arquivos CAF Para MP4 Com O Software De Edição De Vídeo Da Movavi</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 13 mini to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 14 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-x-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone X to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 6 Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-s23-tactical-edition-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy S23 Tactical Edition FRP Bypass</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-depth-look-is-inshot-the-premier-editing-tool/"><u>In-Depth Look Is InShot the Premier Editing Tool?</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-convert-video-voice-to-text-online-for-free/"><u>New How To Convert Video Voice to Text Online for Free?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-could-not-find-or-unload-mapi32dll/"><u>Step-by-Step Solutions for 'Could Not Find or Unload mapi32.dll'</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-14-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 14 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
 </ul></div>
 
