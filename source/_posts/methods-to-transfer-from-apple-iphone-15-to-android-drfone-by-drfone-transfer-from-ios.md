@@ -1,7 +1,7 @@
 ---
 title: Methods to Transfer from Apple iPhone 15 to Android | Dr.fone
-date: 2024-11-11T20:17:22.583Z
-updated: 2024-11-14T20:43:12.994Z
+date: 2024-11-19T02:05:23.091Z
+updated: 2024-11-23T20:53:35.407Z
 tags: 
   - iphone transfer
 categories:
@@ -72,16 +72,7 @@ Search Google Play on the internet and then search the apps that you play on you
 ![download app from google play](https://images.wondershare.com/drfone/others/download-apps-from-google-play.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2. Transfer Contacts from Apple iPhone 15 to Android via iCloud
@@ -108,13 +99,6 @@ Step 5. Navigate to the Contacts app on your Apple iPhone 15. Tap the menu icon 
 
 **Tips:** If you want to know more ways to transfer contacts from Apple iPhone 15 to Android, you can find more satisfying answers on ways to transfer contacts from Apple iPhone 15 to Samsung, and [switch contacts from Apple iPhone 15 to Android](https://drfone.wondershare.com/iphone-transfer/how-to-transfer-contacts-from-iphone-to-android.html).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Part 3. Transfer iPhone text messages to Android with 2 Android apps
 
 To transfer iPhone SMS to Android, you can turn to two Android apps for help. With them, you can extract iPhone SMS from iTunes backup and transfer to Android phone.
@@ -130,15 +114,16 @@ Step 3. Go to Google Play on your Apple iPhone 15 or tablet and download [iSMS2d
 ![transfer messages from iphone to android](https://images.wondershare.com/drfone/others/isms2droid-1.jpg)![transfer text messages from iphone to android](https://images.wondershare.com/drfone/others/isms2droid-2.jpg)![transfer sms messages from iphone to android](https://images.wondershare.com/drfone/others/isms2droid-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4. Download and install SMS [Backup & Restore](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en) on your Apple iPhone 15. Use it to restore your iPhone's SMS in an XML file to the Android's SMS database.
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/sms-backup-app-1.jpg)![move sms from iphone to android](https://images.wondershare.com/drfone/others/sms-backup-app-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 4. Transfer Photos from Apple iPhone 15 to Android
 
@@ -167,13 +152,6 @@ Step 1. On your iPhone, tap _Settings_, scroll down the screen to tap _Mail, Co
 Step 2. Fill in your Google account info: name, email, and password. In the Description screen, enter a description of the calendars.
 
 ![sync calendar to ios](https://images.wondershare.com/drfone/others/sync-calendar-to-ios1.jpg) ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/sync-calendar-to-ios2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3. Tap Next and turn on _Calendar_s. Then, tap _Save_ to begin syncing iPhone calendars with Google.
 
@@ -259,13 +237,6 @@ Begin by linking your iPhone to a computer using a USB cable. Launch iTunes and 
 
 ![Dr.Fone da Wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Wondershare Dr.Fone
 
 One click to back up your iPhone data!
@@ -283,18 +254,15 @@ Furthermore, you can preview data stored in your iPhone backup file and restore 
 
 ![wondershare dr.fone](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How Many Data Can I Email To Google Pixel?
 
 Thinking about transferring data from Apple iPhone 15 to Google Pixel by Email? Well, it is the best option only if you want to transfer small-size files and not much data. And yes, there is a limit to how many or much data can you email to your new Google Pixel device.
 
 The email size limit is 20 MB for some platforms and 25 megabytes for others. For instance, if you want to send a video from your iPhone to your new Google Pixel device, then the video should be less than 15 or 20 seconds long to share via email.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: One-Stop Solution to Switch Data From iPhone To Google Pixel
 
@@ -328,6 +296,10 @@ If the only thing stopping you from switching is the stress of transferring your
 
 ![transfer iphone to samsung](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-samsung-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Are the Pre-Requirements To Fulfill Before Transferring From Apple iPhone 15 to Samsung?
 
 Before we discuss different methods to **transfer data from Apple iPhone 15 to Samsung**, there are some things that you should not neglect. These attributes must be fulfilled before switching to ensure a smooth transition. That's why we want you to look at these prerequisites and fulfill them before moving to your new device. Here's a checklist of these pre-requirements before **transferring the iPhone to Samsung**.
@@ -336,6 +308,10 @@ Before we discuss different methods to **transfer data from Apple iPhone 15 to S
 2. **Battery Percentage:** Another critical aspect is to charge both your iPhone and Samsung device to an adequate battery level. This will prevent any interruption due to low battery during the transfer process. Also, the performance of the Apple iPhone 15 devices will be optimum at the ideal battery percentage.
 3. **Update Software:** Furthermore, you should confirm that both your iPhone and Samsung devices are running the latest operating system software. You must update your iPhone to the latest iOS version and your Samsung device to the latest Android version.
 4. **Secure Your Data:** When you are done with the transferring process, it is necessary to clear your data from the old phone. Although the iPhone is one of the most secure devices, you should reset it before leaving. This will ensure that no one can access your files after you have wiped off all your data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Transfer Data From Apple iPhone 15 to Samsung Using Smart Switch App
 
@@ -363,9 +339,17 @@ The wireless method will free you up from the need for a cable. However, you mus
 
 ![sign in with icloud id](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-samsung-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Finally, you have to enter the verification code on your Samsung device and tap on the “Connect” option. After that, select the data you want to transfer and hit the “Transfer” option.
 
 ![select data to transfer from iphone](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-samsung-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Wired Method
 
@@ -383,13 +367,6 @@ Using a USB cable is essential for this data transfer process. To ensure seamles
 
 ![transfer data and disconnect usb cable](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-samsung-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: What Are the Disadvantages Linked With Samsung Smart Switch?
 
 Samsung Smart Switch is an efficient and convenient software for **transferring an iPhone to Samsung**. However, there are certain disadvantages associated with the Smart Switch application. These limitations could be irritating and tiresome to do the transfer process. We have gathered and written below some common disadvantages linked with the Samsung Smart Switch:
@@ -404,6 +381,10 @@ Samsung Smart Switch is an efficient and convenient software for **transferring 
 We have described the methods to **transfer from Apple iPhone 15 to Samsung** via the Samsung Smart Switch application. Despite that, some limitations can hinder your process. That's why we will provide you with the best one-click solution: [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/). This software will **transfer data from Apple iPhone 15 to Samsung** within no time.
 
 Dr.Fone is equipped with advanced tools that can understand the requirements and perform the task automatically. It assists in transferring, managing, and backing up data across devices. Ultimately, the software provides comprehensive solutions for your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Transfer iPhone Data to Samsung
 
@@ -424,10 +405,7 @@ In the next step, the software will detect the connected iPhone and Samsung devi
 ![set target and source device](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3: Select the Data Types and Start the Transfer Process**
@@ -530,18 +508,21 @@ In a nutshell, the Samsung Smart Switch application provides an efficient and co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-adding-beats-to-your-instagram-media-a-step-by-step-guide-for-2024/"><u>[New] Adding Beats to Your Instagram Media A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-ios-and-android-a-tutorial-for-saving-twitters-animations-for-2024/"><u>[New] IOS and Android A Tutorial for Saving Twitter's Animations for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-unveiling-the-basics-of-vlogging-gear-and-software-for-2024/"><u>[New] Unveiling the Basics of Vlogging Gear & Software for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-15-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 15 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/dual-platform-game-on-fbtwitter-and-wnb-season-2023/"><u>Dual Platform Game On: FB/Twitter and WNB Season 2023</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/gamers-guide-what-components-matter-most-in-a-high-performance-pc/"><u>Gamers' Guide: What Components Matter Most in a High-Performance PC</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 14 Pro to Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-xr-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone XR to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 13 to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-6-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 6 Plus to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-se-2020-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone SE (2020) to Android | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-facebooks-privacy-constructing-a-restricted-list-for-controlled-visibility/"><u>Mastering Facebook's Privacy: Constructing a Restricted List for Controlled Visibility</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-the-8-greatest-portable-games-on-phones-and-tablets/"><u>Ultimate List of the 8 Greatest Portable Games on Phones and Tablets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-full-features-explored-logitechs-professional-4k-cam/"><u>[New] Full Features Explored Logitech’s Professional 4K Cam</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-become-an-instagram-analytics-expert-with-this-ultimate-performance-guide/"><u>[Updated] Become an Instagram Analytics Expert with This Ultimate Performance Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-integrating-media-files-for-direct-transfer-to-iphone/"><u>[Updated] Integrating Media Files for Direct Transfer to iPhone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-13-mini-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 13 mini to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-poco-m6-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Poco M6 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone SE to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-14-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 14 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-13-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 13 Pro Max to Android | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-groundbreaking-8-android-video-call-services-more-than-four/"><u>In 2024, Groundbreaking 8 Android Video Call Services, More Than Four</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-15-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 15 to SIM? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-8-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 8 Plus to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-x-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone X Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/influencing-cultures-through-memetic-expression-for-2024/"><u>Influencing Cultures Through Memetic Expression for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/microsoft-surface-laptop-5-evaluation-expectations-unmet-but-no-rage-quit-insights/"><u>Microsoft Surface Laptop 5 Evaluation: Expectations Unmet but No Rage Quit - Insights</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-authenticity-a-guide-to-personal-youtube-content-for-2024/"><u>Sharing Authenticity A Guide to Personal YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1728508869269-windows-11/"><u>Windows 11 自动清理功能：如何解锁删除下载文件</u></a></li>
 </ul></div>
 

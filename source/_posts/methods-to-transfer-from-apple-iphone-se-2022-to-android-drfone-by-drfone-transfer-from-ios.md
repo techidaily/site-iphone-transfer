@@ -1,7 +1,7 @@
 ---
 title: Methods to Transfer from Apple iPhone SE (2022) to Android | Dr.fone
-date: 2024-11-13T23:18:03.705Z
-updated: 2024-11-14T18:14:08.428Z
+date: 2024-11-17T17:06:28.159Z
+updated: 2024-11-24T05:34:15.334Z
 tags: 
   - iphone transfer
 categories:
@@ -19,13 +19,6 @@ Ready to switch your old iPhone to an Android smartphone? I'm sure it will bring
 ## Method 1. Transfer All Data from Apple iPhone SE (2022) to Android in 1 Click
 
 The easiest way to transfer data from Apple iPhone SE (2022) to Android is to use the smart iPhone to Android transfer tool, [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It enables you to easily transfer all contacts both in phone memory and cloud account, like iCloud, Exchange, and others, text messages, video, photos, and music from iPhone (iPhone 15 included) to Android phone or tablet.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Phone Transfer
 
@@ -71,16 +64,7 @@ Don't have a computer at hand? Just try the [Android app of Dr.Fone - Phone Tran
 Besides Dr.Fone - Phone Transfer, there are some useful ways that empower you to transfer files from Apple iPhone SE (2022) to Android. They're totally free but just take some time.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 1. Transfer Apps from Apple iPhone SE (2022) to Android
@@ -114,13 +98,14 @@ Step 5. Navigate to the Contacts app on your Apple iPhone SE (2022). Tap the men
 ![copy contacts from iphone to android](https://images.wondershare.com/drfone/others/import-vcf-to-android2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Tips:** If you want to know more ways to transfer contacts from Apple iPhone SE (2022) to Android, you can find more satisfying answers on ways to transfer contacts from Apple iPhone SE (2022) to Samsung, and [switch contacts from Apple iPhone SE (2022) to Android](https://drfone.wondershare.com/iphone-transfer/how-to-transfer-contacts-from-iphone-to-android.html).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 3. Transfer iPhone text messages to Android with 2 Android apps
 
@@ -136,13 +121,6 @@ Step 3. Go to Google Play on your Apple iPhone SE (2022) or tablet and download 
 
 ![transfer messages from iphone to android](https://images.wondershare.com/drfone/others/isms2droid-1.jpg)![transfer text messages from iphone to android](https://images.wondershare.com/drfone/others/isms2droid-2.jpg)![transfer sms messages from iphone to android](https://images.wondershare.com/drfone/others/isms2droid-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4. Download and install SMS [Backup & Restore](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en) on your Apple iPhone SE (2022). Use it to restore your iPhone's SMS in an XML file to the Android's SMS database.
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/sms-backup-app-1.jpg)![move sms from iphone to android](https://images.wondershare.com/drfone/others/sms-backup-app-2.jpg)
@@ -156,13 +134,6 @@ Plug-in USB cables to connect your iPhone and Android phone to computer. Your iP
 **Note:** _By using this way, you can [export photos in iPhone Camera Roll](https://drfone.wondershare.com/iphone-transfer/how-to-transfer-photos-from-iphone-to-computer.html) to Android phone. However, as for the photos in the Photo Library, you still have no way to expect using some third-party tool, like [Dr.Fone - Phone Transfer](https://drfone.wondershare.com/transfer/iphone-to-android.html#method1)._
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/delete-ipad-photos-from-computer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 5. Transfer Video and Music from Apple iPhone SE (2022) to Android
 
@@ -199,10 +170,7 @@ It will explore native functionalities provided by Apple and third-party apps. M
 ![transfer music from idevices](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How To Transfer Selective and All Music From Apple iPhone SE (2022) to iPhone in One-Click
@@ -226,6 +194,10 @@ The first thing you need to do is install and launch Wondershare Dr.Fone. Then, 
 From the expanded options for the source iPhone, choose "Music." Now, go to the track you want to share and select it. Now, tap "To Device" from the top toolbar and select the other iPhone as the destination. As soon as you select the other iPhone, the music file will be transferred.
 
 ![tap to device option](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Transfer Music Using Wondershare Dr.Fone – Phone Transfer
 
@@ -268,13 +240,6 @@ AirDrop provides a convenient and wireless way to transfer music between iPhones
 
 ![transfer music via airdrop](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How To Transfer Music From Apple iPhone SE (2022) to iPhone by Syncing Apple Music Library
 
 Syncing your Apple Music Library across iPhones offers a smooth way to transfer music. It ensures all your favorite tracks, playlists, and albums are available on your new device. This method ensures a consistent music experience. It allows you to enjoy your favorite tunes without the need for manual transfers. Follow these steps to **transfer music from iPad to iPhone** Apple Music:
@@ -311,6 +276,10 @@ Transitioning between music streaming platforms can be challenging. However, wit
 ## Conclusion
 
 In conclusion, transferring music between iPhones is essential for preserving our musical experiences. Whether using iTunes, AirDrop, cloud services, or specialized tools, the process can be simplified. For a comprehensive and user-friendly solution, consider Wondershare Dr.Fone. Its intuitive interface and versatile functionalities streamline the music transfer process. This makes Dr.Fone an ideal choice for **how to transfer music from Apple iPhone SE (2022) to iPhone.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Tutorials on How to Transfer Photos From Apple iPhone SE (2022) to New iPhone
 
@@ -382,6 +351,10 @@ How do I transfer photos from Apple iPhone SE (2022) to iPhone? Well, the easies
 
 - **Step 5:** Do the same series of steps on the other iPhone. Once the synchronization has been completed, open the Photos app. Find the newly synced iCloud photos on the All Photos album.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Transfer photos from Apple iPhone SE (2022) to iPhone using AirDrop
 
 If you’re just sending a few pieces of photos, AirDrop is indeed a great transfer medium. It’s basically a wireless sharing option allowing users to send files between two iOS devices. Do you want to try it? Here’s how to transfer photos from Apple iPhone SE (2022) to iPhone using AirDrop.
@@ -407,6 +380,10 @@ Another reliable method you can try is to email the photos from one iPhone to an
 
 ![mail share option](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Key in the email address of the recipient. Subsequently, click the Send icon.
 - **Step 5:** Open the email on the other iPhone. Then, download the photos sent as email attachments.
 
@@ -420,14 +397,11 @@ Let’s say you’re sending one photo to another iPhone user. What is the best 
 
 ![copy icloud link](https://images.wondershare.com/drfone/article/2023/12/how-to-transfer-photos-from-iphone-to-iphone-12.jpg)
 
-- **Step 4:** Share the iCloud link via Messages, Mail, or internet messaging platform. On the other iPhone device, access the link and then download the photos from there.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+- **Step 4:** Share the iCloud link via Messages, Mail, or internet messaging platform. On the other iPhone device, access the link and then download the photos from there.
 
 ### Method 5: Transfer photos from Apple iPhone SE (2022) to iPhone using Wondershare Dr.Fone
 
@@ -446,6 +420,10 @@ The first four tutorials above on how to transfer pictures from Apple iPhone SE 
 - **Step 5:** Click Photos as the category of the files. Right after, click Start Transfer to proceed.
 
 ![start transfer](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Wait while Wondershare Dr.Fone is facilitating the transfer. If you wish to terminate the progress, simply click **Cancel.**
 
@@ -494,22 +472,15 @@ Transferring photos between two iOS devices is very easy. In fact, you can insta
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-online-places-for-youtube-video-growth/"><u>[New] Best Online Places for YouTube Video Growth</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-remedying-unexpected-oneself-display-during-online-interactions/"><u>[New] Remedying Unexpected Oneself Display During Online Interactions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-chart-your-course-to-youtube-success-with-these-techniques/"><u>[Updated] 2024 Approved Chart Your Course to YouTube Success with These Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-a-fresh-perspective-on-sony-blu-ray-s6500-features-for-2024/"><u>[Updated] A Fresh Perspective on Sony Blu-Ray S6500 Features for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-from-dungeons-to-depths-evolving-gameplay-styles/"><u>[Updated] In 2024, From Dungeons to Depths Evolving Gameplay Styles</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-camon-20-premier-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-15-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 15 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-14-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 14 Pro Max to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-15-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 15 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-6s-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 6s to PC | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 14 Pro to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-xs-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone XS to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-finding-clarity-in-photos-the-ultimate-iphone-and-android-editors/"><u>In 2024, Finding Clarity in Photos The Ultimate iPhone & Android Editors</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-se-2022-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone SE (2022) to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-14-pro-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 14 Pro Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/silencing-spam-how-to-easily-block-calls-on-iphones-and-androids/"><u>Silencing Spam: How to Easily Block Calls on iPhones & Androids</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-top-7-techniques-to-master-windows-11-40/"><u>The Ultimate Guide: Top 7 Techniques to Master Windows 11 (40)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-8-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 8 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/focus-on-you-iphone-and-android-photo-trimmers-for-2024/"><u>Focus On You IPhone & Android Photo Trimmers for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-7-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 7 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-8-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 8 to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-honor-x8b-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Honor X8b to iPad | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/no-smudges-on-screens-keeping-your-gopro-crisp-for-2024/"><u>No Smudges on Screens Keeping Your GoPro Crisp for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalize-health-and-exercise-with-choosing-8-gpts/"><u>Personalize Health & Exercise with Choosing 8 GPTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/rendre-gratuite-la-conversion-dun-fichier-ppm-en-bmp-en-ligne-avec-moveavi-un-guide-simple-pour-des-resultats-rapides/"><u>Rendre Gratuite La Conversion D'un Fichier PPM en BMP en Ligne Avec MoveAVI – Un Guide Simple Pour Des Résultats Rapides</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-xs-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone XS Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oppo-a56s-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Oppo A56s 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Switch Cards Between Apple iPhone 11 Pro and other iPhones Will Move All Phone Services? | Dr.fone
-date: 2024-11-10T00:43:10.826Z
-updated: 2024-11-14T20:13:58.157Z
+date: 2024-11-18T05:15:47.047Z
+updated: 2024-11-24T01:39:26.611Z
 tags: 
   - iphone transfer
 categories:
@@ -104,6 +104,10 @@ If you have bought a new iPhone and need to switch all data along with the SIM c
 - The process of transferring data is straightforward. You are not required to put in any effort to transfer data.
 - The results provided in the data transfer are incredibly high. Dr.Fone reports concluding proceedings within 3 minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps To Switch Data to New iPhone With Dr.Fone - Phone Transfer
 
 As you seek to know the steps to switch data to a new iPhone with Dr.Fone - Phone Transfer, follow the steps as provided next:
@@ -120,18 +124,15 @@ As you connect both devices in the transfer process, define the source and desti
 
 ![connect your iphone devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Select File Types and Transfer**
 
 Select the file types that you wish to transfer from the center section. Select “Start Transfer” to initiate the process. The data will be successfully transferred in a few minutes.
 
 ![data transfer process initiated](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Frequently Asked Questions
 
@@ -154,6 +155,10 @@ This article has provided a valuable overview of **switching SIM cards to new Ap
 Whenever we move from one device to another, the first thing that we wish to do is transfer our contacts. After all, we can't communicate with anyone without our list of contacts. Surprisingly, a lot of people find it hard to **transfer contacts from Apple iPhone 11 Pro to Android**. Truth to be told - there can find countless ways to move contacts from Apple iPhone 11 Pro to Android. You don't need to worry a lot about the compatibility issues of different systems and can replace old phones at will when there is a new phone release, like the upcoming Samsung Galaxy S22 series. You can use a third-party app, a cloud service (like iCloud), and iTunes. Read on to learn how to transfer contacts from Apple iPhone 11 Pro to Android in 5 different ways.
 
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/aQ2GLxnD-TI"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Transfer all contacts from Apple iPhone 11 Pro to Android in 1 click
 
@@ -187,11 +192,19 @@ Another fast and hassle-free way to sync contacts from Apple iPhone 11 Pro to An
 
 ![move contacts from iphone to android-tap on “Google”](https://images.wondershare.com/drfone/article/2018/08/transfer-contacts-from-iphone-to-android-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Sign in with your Google account credentials and grant your phone the needed permissions to access your Gmail data.
 
 **Step 3.** Now, you can go back to your Google account from here and turn on the sync option for "**Contacts**."
 
 ![move contacts from iphone to android-turn on the sync option for “Contacts”](https://drfone.wondershare.com/2020/transfer-contacts-via-google.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Once your contacts are synced with your Google account, you can easily access them on any Android device. You can use the Google Contacts app or use the same account to set up your device for auto-sync contacts.
 
@@ -245,6 +258,10 @@ Often, users don't wish to use a computer to export iPhone contacts to Android. 
 
 ![move contacts from iphone to android-email the contacts to your own Gmail account](https://images.wondershare.com/drfone/article/2018/08/transfer-contacts-from-iphone-to-android-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4.** Additionally, you can also upload the contacts to its server.
 
 **5.** Now, you have to install the My Contacts Backup app on your Apple iPhone 11 Pro and Google Play Store.
@@ -254,13 +271,6 @@ Often, users don't wish to use a computer to export iPhone contacts to Android. 
 ![move contacts from iphone to android-restore your contacts](https://images.wondershare.com/drfone/article/2018/08/transfer-contacts-from-iphone-to-android-14.jpg)
 
 Now that you have learned 7 different ways to move contacts from Apple iPhone 11 Pro to Android, you can easily fulfill your requirements. Out of all the 8 provided options, [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is the fastest and most convenient option to move all the contacts at once.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Copy Contacts from Apple iPhone 11 Pro to SIM?
 
@@ -274,6 +284,10 @@ A lot of users take the assistance of SIM card to save their contacts. If you ar
 
 ![import sim contacts to iphone](https://images.wondershare.com/drfone/article/2018/01/15151409125783.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Though, the problem occurs when users wish to do vice versa and learn how to import contacts from Apple iPhone 11 Pro to SIM. As of now, Apple doesn’t provide a direct solution to export contacts to SIM on iPhone. If you really wish to save contacts to SIM on iPhone, then you have to jailbreak your device once. After jailbreaking your device, you can use certain apps to move contacts to SIM easily.
 
 Though, if your device has not been jailbroken, then you can’t export contacts to SIM on iPhone directly. This is because Apple assumes the transfer of contacts via SIM card is an obsolete method. Don’t worry – you can try an alternative method to save and backup contacts on iPhone. We have discussed it in the next section.
@@ -285,10 +299,7 @@ While we can’t learn how to copy contacts from Apple iPhone 11 Pro to SIM, we 
 [Dr.Fone - Backup & Restore (iOS)](https://drfone.wondershare.com/iphone-backup-and-restore.html) is a highly advanced and intuitive tool that can backup and restore all the major data types like contacts, messages, photos, music, etc. It is compatible with every leading version of iOS (including iOS 17). Therefore, instead of learning how to transfer contacts from Apple iPhone 11 Pro to SIM, you can use Dr.Fone Backup & Restore by following these steps:
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Backup & Restore (iOS)
@@ -331,22 +342,12 @@ Save and Backup iPhone Contacts with 1-Click.
 ![restore iphone contacts backup](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8\. This will automatically display a list of the previous backup files. Select the file you wish to restore and click on the “View” button.
 
 ![view iphone backups](https://images.wondershare.com/drfone/guide/backup-history.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9\. Your backup will be listed under different categories here. Go to Privacy > Contacts and select the contacts you wish to restore.
 
@@ -369,10 +370,7 @@ By default, every user gets a free space of 5 GB on iCloud (which can later be e
 ![save iphone contacts to icloud](https://images.wondershare.com/drfone/article/2018/01/15151410232814.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Export iPhone contacts Via iTunes
@@ -380,26 +378,6 @@ By default, every user gets a free space of 5 GB on iCloud (which can later be e
 Another alternative to learning how to export contacts from Apple iPhone 11 Pro to SIM is by taking the assistance of iTunes. Simply connect your Apple iPhone 11 Pro to the system and launch iTunes. Select your iPhone and go to its “Info” tab. From here, you can sync its contacts with iTunes. This will keep your contacts safe and allow you to sync them with another iOS device.
 
 ![export contacts from iphone using itunes](https://images.wondershare.com/drfone/article/2018/01/15151410449162.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Copy iPhone Contacts Using Gmail
 
@@ -427,24 +405,17 @@ We hope this guide was able to answer your question of how to copy contacts from
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-innovative-tips-for-powerful-podcast-openings/"><u>[New] In 2024, Innovative Tips for Powerful Podcast Openings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-auditory-data-extraction-and-analysis-for-2024/"><u>[Updated] Auditory Data Extraction & Analysis for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-the-heart-of-sims-innovative-techniques-for-recording-realistic-gameplay/"><u>[Updated] In 2024, Capturing the Heart of Sims Innovative Techniques for Recording Realistic Gameplay</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-of-best-metaverse-visual-tech/"><u>[Updated] The Ultimate List of Best Metaverse Visual Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerated-recovery-tactics-for-unavailable-defender-security-features/"><u>Accelerated Recovery Tactics for Unavailable Defender Security Features</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/actors-availability-for-video-downloads/"><u>Actors' Availability for Video Downloads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delving-into-the-data-dilemmas-of-chatgpt-engagement/"><u>Delving Into the Data Dilemmas of ChatGPT Engagement</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/digital-leaders-the-top-10-online-video-recorder-apps-for-2024/"><u>Digital Leaders The Top 10 Online Video Recorder Apps for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-15-pro-max-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 15 Pro Max Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone XR to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-15-pro-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 15 Pro to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-xr-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone XR Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-11-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 11 to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-7-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 7 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-11-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 11 to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-process-of-amplifying-your-channel-with-high-impact-placement/"><u>In 2024, Step-by-Step Process of Amplifying Your Channel with High-Impact Placement</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-xr-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone XR and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-zoom-mastery-achieving-precision-in-google-meet-sessions/"><u>In 2024, Zoom Mastery Achieving Precision in Google Meet Sessions</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-11-pro-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 11 Pro Max Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-rediscovering-the-riches-delving-into-literary-masterpieces-of-yore/"><u>[New] Rediscovering the Riches Delving Into Literary Masterpieces of Yore</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-bridging-creativity-and-engagement-anime-subscribe-buttons-with-filmora-for-2024/"><u>[Updated] Bridging Creativity & Engagement - Anime Subscribe Buttons with Filmora for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-integrating-video-content-from-youtube-into-websites-a-comprehensive-guide/"><u>[Updated] Integrating Video Content From YouTube Into Websites - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-finding-and-installing-the-latest-toshiba-drivers-for-windows-systems/"><u>Easy Guide: Finding and Installing the Latest Toshiba Drivers for Windows Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-windows-update-error-0x8024800c/"><u>How to Fix Windows Update Error 0X8024800C</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 12 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-15-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 15 Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6s-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 6s to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-11-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 11 to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-pro-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 12 Pro to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-poco-c55-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Poco C55 Without PUK Codes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-guide-downloading-the-latest-asus-touchpad-drivers-for-windows-10-users/"><u>Quick Guide: Downloading the Latest ASUS Touchpad Drivers for Windows 10 Users</u></a></li>
 </ul></div>
 
