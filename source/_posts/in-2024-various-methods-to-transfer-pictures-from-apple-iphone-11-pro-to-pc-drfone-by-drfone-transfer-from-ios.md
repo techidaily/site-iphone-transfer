@@ -1,7 +1,7 @@
 ---
 title: In 2024, Various Methods to Transfer Pictures from Apple iPhone 11 Pro to PC | Dr.fone
-date: 2024-11-09T22:39:36.360Z
-updated: 2024-11-14T23:37:07.224Z
+date: 2024-11-27T21:48:17.073Z
+updated: 2024-12-01T19:35:58.780Z
 tags: 
   - iphone transfer
 categories:
@@ -36,16 +36,13 @@ Moreover, you can select the images you desire and move them to your computer. F
 
 ![open the apple storage](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Here, double-click on your iPhone's icon to access its internal storage. Most of your iPhone's photos are stored in the "DCIM" folder. Browse the folder to select photos you want to move and copy them to your desired location.
 
 ![access the dcim folder](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Photos App
 
@@ -62,6 +59,10 @@ Available in Windows 10 and later, the Photos app is a prime example of this con
 ## Part 2: How To Transfer Photos From Apple iPhone 11 Pro to PC With Cloud Storages
 
 Cloud storage offers a bridge between devices that goes beyond physical limitations. It lets you move photos from your Apple iPhone 11 Pro  to your desktop computer. This section will explore some of the popular cloud storage platforms since both of them offer their unique set of features and advantages. Described below are two cloud storage services to **import photos from Apple iPhone 11 Pro to PC**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: iCloud
 
@@ -88,13 +89,6 @@ iCloud is Apple's cloud storage service which seamlessly knits together the Appl
 
 - The provided 5GB of free cloud storage falls significantly short of meeting the requirements for adequate data backup.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Google Drive
 
 In the vast realm of cloud storage solutions, Google Drive emerges as a universal storage for storing data. It is accessible on a multitude of devices and operating systems. This enables easy photo transfer between various platforms. You get 15GB of free storage with Google Drive to store and transfer your data. The steps needed to **transfer photos from Apple iPhone 11 Pro to PC** are given below:
@@ -107,6 +101,10 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 
 ![click on the download option](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Pros
 
 - Google Drive permits offline access to your synced photos, even without a constant internet connection.
@@ -115,13 +113,6 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 #### Con
 
 - Unlike iCloud, which automatically backs up photos, you have to upload all images manually to Google Drive.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: The Best iOS Management Tool To Transfer Photos From Apple iPhone 11 Pro to PC
 
@@ -159,17 +150,7 @@ Click “Verify” once you have created the process to start the transfer proce
 ![photos album exported](https://images.wondershare.com/drfone/guide/export-data-from-ios-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -177,6 +158,10 @@ Click “Verify” once you have created the process to start the transfer proce
 In our journey to uncover the most effective method for **how to transfer photos from Apple iPhone 11 Pro to PC**, we've explored a myriad of options. Each method offered a unique blend of convenience and functionality. Among these, one solution stands out as a true game-changer: Wondershare Dr.Fone. As we conclude our guide, we wholeheartedly recommend Wondershare Dr.Fone as the ultimate iOS management tool.
 
 It bridges the gap between devices with unparalleled features. Dr. Fone's capability to transcend the realm of mere photo transfer sets it apart. Its comprehensive suite of features empowers you to manage your Apple iPhone 11 Pro 's data with ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easy Methods: How To Transfer Pictures From Apple iPhone 11 Pro to PC
 
@@ -203,6 +188,10 @@ On your iPhone Settings, go to your profile and tap iCloud. Then, select Photos 
 Open iCloud for Windows and ensure you're signed in with your Apple ID. Next to Photos, select Options > iCloud Photos. Click “Done” and “Apply” to save the changes and close the window.
 
 ![Set up iCloud for Windows.](https://images.wondershare.com/drfone/article/2023/11/transfer-photos-from-iphone-to-pc-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Keep iPhone photos on PC.
 
@@ -237,6 +226,10 @@ For those seeking automatic backups, open Google Photos, tap your profile image,
 Once your photos are stored on Google Drive, proceed to save and transfer them to your PC. Select the desired photos in Google Drive, and click "Download.”
 
 ![Download photos from Google Drive to PC.](https://images.wondershare.com/drfone/article/2023/11/transfer-photos-from-iphone-to-pc-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To save all photos from a specific Google Drive folder, open Google Drive and select "My Drive." Locate the intended folder, and click the three dots to open the drop-down menu. Select "Download," and all photos and files within the folder will be saved to your computer in ZIP format.
 
@@ -311,6 +304,10 @@ Next, you will be asked to create an encrypted password for the backup file to b
 
 ![Make a password for the backup file.](https://images.wondershare.com/drfone/guide/export-data-from-ios-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Monitor the progress
 
 Your iPhone will start exporting its data to the computer through Dr.Fone. You can wait and monitor the progress on the screen.
@@ -323,13 +320,6 @@ After successful completion of exporting the data, a window will appear on your 
 
 ![Successfully transfer iPhone photos to a PC.](https://images.wondershare.com/drfone/guide/export-data-from-ios-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 Before, you must have wondered **how do you transfer pictures from Apple iPhone 11 Pro to PC**. But after learning from the article above, you now have a variety of straightforward methods in your hand, whether with iCloud, Google Drive, iTunes, or reliable software like Dr.Fone.
@@ -337,13 +327,6 @@ Before, you must have wondered **how do you transfer pictures from Apple iPhone 
 If you're embedded in the Apple ecosystem, iCloud provides seamless integration of your iPhone Photos. Alternatively, Google Drive offers a cross-platform solution, enabling you to upload your iPhone photos to the cloud and access them on your computer browser.
 
 For those who prefer a more traditional approach, iTunes provides a straightforward method via a USB connection. And if you're looking for a quick and versatile third-party solution, software like [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) simplifies the data transfer process with its user-friendly interface and robust features.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4 Ways to Transfer Messages from Apple iPhone 11 Pro to iPhone Including iPhone 15
 
@@ -417,6 +400,10 @@ Transferring data, including crucial messages, from an old iPhone to a new one i
 
 ![tap on back up now](https://images.wondershare.com/drfone/article/2023/11/transfer-messages-from-iphone-to-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Afterward, start setting up your new iPhone until you reach the “Apps & Data” screen. Here, choose "Restore from iCloud Backup" and log in using your Apple ID. Then, go on to select the backup you want to restore and complete the process by following the on-screen instructions.
 
 ![restore the required icloud backup](https://images.wondershare.com/drfone/article/2023/11/transfer-messages-from-iphone-to-iphone-2.jpg)
@@ -428,6 +415,10 @@ Ensuring a smooth transition to the latest iPhone is made simple with the aid of
 **Step 1:** On your old iPhone, access phone Settings and tap on your Apple ID. Press “iCloud” on the following screen and move to the “Apps Using iCloud” section.
 
 ![access apps using icloud section](https://images.wondershare.com/drfone/article/2023/11/transfer-messages-from-iphone-to-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Here, tap “Show All” and go on to press “Messages in iCloud” from the list. On the following screen, enable the “Use on this iPhone” feature. It will sync iMessage with your iCloud account, allowing you to access them on your new iPhone.
 
@@ -450,13 +441,6 @@ Besides iCloud, one can also take the assistance of iTunes/Finder to move their 
 5\. Launch iTunes/Finder and wait for it to recognize the new iPhone. From here, you can choose to set up your device while restoring a previous backup.
 
 ![connect new iphone to restore backup](https://images.wondershare.com/drfone/article/2017/08/15017752921886.jpg "connect new iphone")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6\. Alternatively, you can also go to its “Summary” page and click on the “Restore Backup” option to restore the existing backup on your target device.
 
@@ -487,17 +471,22 @@ Go ahead and follow this stepwise tutorial to transfer your messages from one iP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-streamlining-time-lapse-photography-with-gopro-software/"><u>[Updated] Streamlining Time-Lapse Photography with GoPro Software</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-11-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 11 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-by-drivereasy-guide/"><u>How to identify missing or malfunctioning drivers with Windows Device Manager</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-11-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 11 Pro Max to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ideal-apps-supporting-mac-users-in-their-windows-journey/"><u>Ideal Apps Supporting Mac Users in Their Windows Journey</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-7-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 7 Plus to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-13-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 13 Pro to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-se-2020-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone SE (2020) to Android | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/top-3-techniques-pour-securement-et-restauration-en-un-clin-doeil-de-votre-playstation-5-guide-2024/"><u>Top 3 Techniques Pour Securement Et Restauration en Un Clin D'Oeil De Votre PlayStation 5: Guide 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-free-easy-to-use-srt-translation-services-explored-for-2024/"><u>Top Free, Easy-to-Use SRT Translation Services Explored for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-changing-ideas-inspiring-videos-to-enhance-creativity-for-2024/"><u>[Updated] Channel-Changing Ideas Inspiring Videos to Enhance Creativity for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-technique-screen-recording-on-the-go/"><u>[Updated] The Essential Technique Screen Recording on the Go</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-with-clarity-advanced-tips-for-gopro-hero5-black-for-2024/"><u>Capture with Clarity Advanced Tips for GoPro Hero5 Black for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/evaluating-ffmpegs-retention-of-sound-formats/"><u>Evaluating FFmpeg's Retention of Sound Formats</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/hdr-mastery-the-complete-sdr-to-hdr-transformation/"><u>HDR Mastery The Complete SDR-to-HDR Transformation</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-13-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 13 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone SE to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-x-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone X to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-12-mini-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 12 mini to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-14-pro-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 14 Pro to Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-13-mini-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 13 mini to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-6s-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 6s Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/italian-travelers-100plus-helpful-italian-phrases-for-your-trip/"><u>Italian Travelers: 100+ Helpful Italian Phrases For Your Trip</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-prevent-changes-in-windows-time-settings/"><u>Techniques to Prevent Changes in Windows Time Settings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-10-windows-11-webcam-capturers-for-2024/"><u>Top 10 Windows 11 Webcam Capturers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-airpods-pro-companion-gadgets-techradar/"><u>Top Rated AirPods Pro Companion Gadgets | TechRadar</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-6s-plus-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 6s Plus Apps to New iPhone | Dr.fone</u></a></li>
 </ul></div>
 

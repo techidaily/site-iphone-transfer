@@ -1,7 +1,7 @@
 ---
 title: Switch Cards Between Apple iPhone 13 and other iPhones Will Move All Phone Services? | Dr.fone
-date: 2024-11-20T02:53:35.843Z
-updated: 2024-11-24T04:19:07.428Z
+date: 2024-12-01T07:34:08.157Z
+updated: 2024-12-02T13:30:57.223Z
 tags: 
   - iphone transfer
 categories:
@@ -39,7 +39,7 @@ On **switching a SIM card to a new iPhone,** there are multiple consequences tha
 4. On switching your SIM card, you will have to reactivate iMessage and FaceTime under the cellular settings of the new SIM card. The previous settings for both services will be removed upon removing the SIM card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How To Switch SIM Card to New iPhone Safely
@@ -54,12 +54,16 @@ Once you have learned the implications of switching your SIM card to your new iP
 
 ![switch the sim card between iphones](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Use the “Power” button on your iOS device to turn it on. Once it turns on, you will find the cellular operations working according to the new SIM card.
 
 ![turn on the iphone](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: What Happens If You Switch to an iPhone Locked to A Specific Carrier?
@@ -77,10 +81,6 @@ Best SIM Unlock for iPhone.
 - Supports almost all carriers, from Vodafone to Sprint.
 - No tech knowledge required, everybody can handle it.
 - Supports iPhone 5S to iPhone X, which are running between iOS 12.0 and iOS 14.8.1 ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3,046,049** people have downloaded it
 
@@ -106,6 +106,10 @@ Go to the Wi-Fi network you are connected to and choose "Forget This Network." T
 
 ![click on continue button](https://images.wondershare.com/drfone/guide/remove-iphone-sim-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How To Switch All Data to New iPhone in One Click
 
 Whenever you consider changing your SIM card on your new iPhone, there are certain things you must look out for. Maintaining all the data is one appropriate consideration that can be effective for your operations. Keeping data backups under such circumstances is the best-case scenario to avoid discrepancies. Although you are **switching SIM cards between Apple iPhone 13 and other iPhones,** what if you are required to shift data?
@@ -115,10 +119,6 @@ If you have bought a new iPhone and need to switch all data along with the SIM c
 - You can transfer various data between devices, ranging between 8 to 15. It entirely depends on the nature of the transfer between devices.
 - The process of transferring data is straightforward. You are not required to put in any effort to transfer data.
 - The results provided in the data transfer are incredibly high. Dr.Fone reports concluding proceedings within 3 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps To Switch Data to New iPhone With Dr.Fone - Phone Transfer
 
@@ -141,10 +141,6 @@ As you connect both devices in the transfer process, define the source and desti
 Select the file types that you wish to transfer from the center section. Select “Start Transfer” to initiate the process. The data will be successfully transferred in a few minutes.
 
 ![data transfer process initiated](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Frequently Asked Questions
 
@@ -180,10 +176,6 @@ There are a dramatic number of versatile apps for all purposes related to iTunes
 
 You can also explore all the files of your Device from your computer. With the help of this option, you can manually select an individual file to copy it on your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Phone Manager (iOS)
 
 One Stop Solution to Make and Manage iPhone Ringtones
@@ -199,10 +191,6 @@ One Stop Solution to Make and Manage iPhone Ringtones
 There are many online tools also which claims to provide similar services. However, it is crucial to note that trustful application will increase your experience in comparison of other unreliable apps that could spy and harm your devices.
 
 Here are the methods to successfully transfer iPhone ringtones for android and we will show you how to custom iPhone ringtones as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Transfer iPhone Ringtones for Android with a Trustful App
 
@@ -266,6 +254,10 @@ Proper preparation before switching from an iPhone to a Samsung device is essent
 
 If you don’t know how to transfer data from Apple iPhone 13 to Samsung, then this part is perfect for you. You can easily transfer data from Apple iPhone 13 to Samsung in 1 click with the help of [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). It’s a great software that can help you when you are switching from Apple iPhone 13 to Samsung. Dr.Fone - Phone Transfer will help you to [transfer pictures](https://drfone.wondershare.com/iphone-transfer/how-to-transfer-photos-from-iphone-to-computer.html), music, contacts, apps, videos, call logs, etc. from Apple iPhone 13 to Samsung in a very short time. It supports various mobile brands that have been ruling the mobile industry nowadays and it’s fully compatible with iOS 17 and Android 14. With all the useful features, here is how to transfer from Apple iPhone 13 to Samsung in 1 click by using Dr.Fone –
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Phone Transfer
 
 Transfer Data from Apple iPhone 13 to Samsung in 1 Click!
@@ -292,10 +284,6 @@ Transfer Data from Apple iPhone 13 to Samsung in 1 Click!
 **Step 3.** After a few minutes, all your data will be transferred to Samsung by using an iPhone.
 
 ![iphone to samsung transfer complete](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Switch Data Now](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Switch Data Now](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
@@ -326,6 +314,10 @@ Restore iCloud/iTunes Backup to Samsung Selectively.
 
 ![enter two-factor authentication](https://images.wondershare.com/drfone/guide/icloud-manager-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** After signing into your iCloud account, Dr.Fone will show you all the data inside the backup file. You can choose any specific data to restore or you can choose them all to restore the full backup file in your Apple iPhone 13 by clicking on the “Restore to Device” button.
 
 ![download icloud backup](https://images.wondershare.com/drfone/guide/icloud-manager-10.png)
@@ -335,6 +327,10 @@ Restore iCloud/iTunes Backup to Samsung Selectively.
 ![restore icloud backup to samsung](https://images.wondershare.com/drfone/guide/icloud-manager-11.png)
 
 [Restore iCloud Data to Samsung](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Restore iCloud Data to Samsungr](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to switch from Apple iPhone 13 to Samsung using Smart Switch?
 
@@ -354,7 +350,7 @@ Switching from Apple iPhone 13 to Samsung can seem difficult. But with the help 
 ![backup iphone to icloud](https://images.wondershare.com/drfone/article/2018/iphone-to-samsung-transfer-01.jpg) ![restore icloud data to samsung](https://images.wondershare.com/drfone/article/2018/iphone-to-samsung-transfer-02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Remember, you can’t transfer iTunes music and videos from iCloud. You need to use Smart Switch for PC or Mac to transfer iTunes music from Apple iPhone 13 to Samsung. But iTunes videos are encrypted and cannot transfer them.
@@ -380,10 +376,6 @@ Your files will be transferred to the Samsung device.
 
 **Data Can Be Transferred:** Contacts, Schedules, Calendar, Notes, Call History, Bookmarks, Live Photos, Photos, Documents, Recommended Apps, Videos (DRM-free content only), Voice Memos, Wi-Fi, and Alarms.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to Switch from Apple iPhone 13 to Samsung via USB cable?
 
 Migrating from an iPhone to a Samsung device using a USB cable presents a straightforward data transfer method. By using this method, you can transition from iOS to Android effortlessly. This even ensures that your important contacts, messages, and media move to your new Samsung device. The step-by-step process below outlines the detailed procedure for the hassle-free transfer of your data:
@@ -391,6 +383,10 @@ Migrating from an iPhone to a Samsung device using a USB cable presents a straig
 **Step 1.** Ensure both devices are charged, and then turn on your Samsung device. Insert a SIM card, connect the Apple iPhone 13 device to a Wi-Fi network, and set it up until it asks you to connect the Apple iPhone 13 devices.
 
 ![set up android phone](https://images.wondershare.com/drfone/article/2023/11/switching-from-samsung-to-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Now, connect both devices with a compatible USB cable and choose the "Trust" option on your iPhone. You might be required to enter your iPhone passcode a few times. Then, log into your Google account on the Samsung device.
 
@@ -409,6 +405,10 @@ When manually migrating data from an iPhone to a Samsung device, email can be a 
 **Step 1.** On your iPhone, navigate to the data you want to transfer and long-press to select it. Then, tap the “Share” icon in the drop-down list and choose to send via “Email.” Open your email app on your iPhone and create a new email. Following this, type your email address in the "To" field to proceed further.
 
 ![select mail to share data](https://images.wondershare.com/drfone/article/2023/11/switching-from-samsung-to-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Attach the selected files to the email. Once all the files are attached, send the email to yourself. Open the "Gmail" app on your Samsung device and access the email you sent yourself from the iPhone. Next, open the email and download the attached files to your Samsung device. You can download them by tapping the “Download” icon.
 
@@ -468,17 +468,16 @@ Learning about the iPhone to Samsung transfer is easy when you have a clear and 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-delving-into-instagrams-videography-restriction/"><u>[New] 2024 Approved Delving Into Instagram's Videography Restriction</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-reels-sonic-boom-integrating-music-voiceovers/"><u>[New] Instagram Reels Sonic Boom Integrating Music, Voiceovers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-free-photo-enhancer-online-and-app-for-mobile-phone/"><u>[Updated] Best Free Photo Enhancer Online and App for Mobile Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-v30-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme V30 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-se-2020-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone SE (2020) to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 15 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-se-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone SE and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-15-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 15 Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-the-d3dx92ndll-file-missing-issue-a-step-by-step-guide/"><u>Solving the d3dx9_2n.dll File Missing Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/thorough-assessment-of-the-kootek-portable-air-blower-ideal-for-any-laptop/"><u>Thorough Assessment of the Kootek Portable Air Blower: Ideal for Any Laptop!</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/top-10-free-graphics-websites-a-compreran-analysis/"><u>Top 10 FREE Graphics Websites A Compreran Analysis</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-your-netgear-devices-a-july-2024-complete-default-password-resource/"><u>Unlocking Your NETGEAR Devices: A July 2024 Complete Default Password Resource</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-advanced-strategies-for-capturing-fb-chats/"><u>[New] 2024 Approved Advanced Strategies for Capturing FB Chats</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-crafting-innovative-fb-videos-unique-ad-creation-techniques/"><u>[New] 2024 Approved Crafting Innovative FB Videos Unique Ad Creation Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-quality-frames-at-low-motion-velocity/"><u>[New] Best Quality Frames at Low Motion Velocity</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-detailed-look-logitechs-elite-4k-webcam-review/"><u>[New] Detailed Look Logitech’s Elite 4K Webcam Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-clearing-your-browsers-watched-videos/"><u>[Updated] In 2024, Clearing Your Browser's Watched Videos</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-13-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 13 Pro Max to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-11-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 11 to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 8 to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-a56s-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo A56s 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-7-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 7 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209901440-9781528956390-willpower-and-energy-yoganandas-energisation-exercises/"><u>Willpower and Energy: Yogananda's Energisation Exercises | Free Book</u></a></li>
 </ul></div>
 
