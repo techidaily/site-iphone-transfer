@@ -1,7 +1,7 @@
 ---
 title: Solved How To Transfer From Apple iPhone 15 to iPhone 15 | Dr.fone
-date: 2024-11-30T21:40:34.211Z
-updated: 2024-12-02T00:32:03.554Z
+date: 2024-12-07T22:37:44.092Z
+updated: 2024-12-09T21:39:32.294Z
 tags: 
   - iphone transfer
 categories:
@@ -32,6 +32,10 @@ The Quick Start feature from Apple offers a way to transfer data from your previ
 
     ![unlock new iphone](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** An animation will appear on the new iPhone's screen, and you have to hold this animation up to the camera on your old iPhone. Once the message "Finish on New \[Device\]" appears, input your old iPhone's passcode into the new one and follow the provided setup instructions.
 
     ![setup new iphone using passcode](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-3.jpg)
@@ -49,19 +53,11 @@ The Quick Start feature from Apple offers a way to transfer data from your previ
 - **Step 1.** Initiate by connecting your old iPhone to your computer and launching the latest version of iTunes. Once your device is detected by iTunes, click the Apple iPhone 15 device icon to access the "Summary" tab. Here, move to the "Backups" section and click "Back Up Now" to start creating the backup. Before pressing "Back Up Now," ensure that "This Computer" is selected as a backup location.
 - ![backup ios data on a computer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Once the backup is completed, disconnect the old device and start setting up the new one. When you reach the "Apps & Data" screen, select "Restore from Mac or PC," and connect to the computer with iTunes.
 - ![restore data from pc or mac](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-6.jpg)
 
 - **Step 3.** Click the “Device” icon in iTunes when it loads the new iPhone, and you will come across the "Welcome to Your New iPhone" screen. Here, select "Restore from this Backup," select the targeted backup, and click "Continue." It will commence the backup restoration process, which takes some time, depending on the backup size.
 - ![restore required backup](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Using Finder (On macOS Catalina and Later Versions)
 
@@ -113,19 +109,11 @@ Seeking an efficient, all-in-one solution that bypasses the limitations of Apple
 
 Its intuitive design allows users to transfer data between iPhones effortlessly. Unlike Apple's native methods, Dr.Fone enables the transfer of over 15 types of data. This includes contacts, messages, photos, videos, music, call logs, apps, and more. It supports transferring data between different iOS versions and iPhone models.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Features of Wondershare Dr.Fone
 
 1. Beyond direct transfers, Wondershare Dr.Fone offers backup and restore functionalities.
 2. Fone – Phone Transfer is compatible with over 8000 devices from various brands.
 3. This tool enables swift data transfer between phones in under 3 minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Steps to Transfer Data from Apple iPhone 15 to iPhone via Wondershare Dr.Fone
 
@@ -150,7 +138,7 @@ The last part includes selecting the data you want to transfer. You can select t
 ![select data to start transfer process](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus Tip. Want To Buy a New iPhone? Tips and Tricks To Select the Best iPhone for Your Use
@@ -165,10 +153,6 @@ Determine what matters most to you in an iPhone model. Are you more focused on c
 
 Apple releases new iPhone models annually. Consider the latest offerings, as they often feature upgraded hardware. This includes improved cameras, better battery life, and new features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Budget Consideration
 
 Set a budget range for your new iPhone. Apple provides a range of models available at diverse price tiers. These range from flagship iPhones to more budget-friendly options. Consider your budget while weighing the features you need.
@@ -176,6 +160,10 @@ Set a budget range for your new iPhone. Apple provides a range of models availab
 ### 4\. Size and Display Preferences
 
 iPhones come in different sizes, from compact models like the iPhone 15 to larger models like the iPhone 15 Pro Max. Consider the screen size of your iPhone that suits your preferences. It also depends on if you prefer a more pocket-friendly device or a larger display.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Camera Capabilities
 
@@ -195,10 +183,6 @@ If you are willing to switch your phone from an iOS device to an android, the pr
 
 ![transfer data from iphone to samsung s20](https://images.wondershare.com/drfone/article/2020/02/transfer-data-from-iphone-to-samsung-s20.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Transfer from Apple iPhone 15 to Samsung Galaxy S20 Directly (Easy and Fast)
 
 Dr.Fone - Phone Transfer program is a phone transfer tool, you can transfer all types of data like photos, music, contacts, messages, calendar, etc. from one phone to another easily.
@@ -215,17 +199,9 @@ After opening Dr.Fone on your computer, select "Phone Transfer" among the module
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Make sure you have connected both of your devices with it. Here let's take an iOS and a Samsung Galaxy S20(any Android device) as an example.
 
 ![phone switch 01](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The data from the source device will be conveyed/transferred to the destination device. To exchange their position, you can use the "Flip" button too.
 
@@ -240,6 +216,10 @@ Before commencing the data transfer process between both the phones, if you want
 All the files you selected will be transferred to the targeted phone successfully In a couple of minutes.
 
 ![phone switch 03](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Transfer from iCloud Backup to Samsung Galaxy S20 (Wireless and Safe)
 
@@ -275,6 +255,10 @@ Touch "Start Importing" after Selecting your desired data or all of these data.
 **Cons:**
 
 - For direct data transfer, connect iPhone to Android by using an iOS-to-Android adapter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Samsung Smart Switch App
 
@@ -345,6 +329,10 @@ If you want to export the chosen files to your computer, click on Export to PC. 
 
 The techniques which are discussed above are meant to solve your problem and let you know How to Transfer from Apple iPhone 15 to Samsung Galaxy S20. These techniques will guide you through transferring your file quickly and swiftly. The method discussed over here is related to both the users- who are willing to transfer their data using a computer and without using it. So, finally, we hope that this article would help you to solve your issue related to data transfer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Ways to Send Ringtones from Apple iPhone 15 to iPhone Including iPhone 15
 
 It is a common misconception that sending data from one iPhone to another can be a tedious task. For instance, there are plenty of ways to learn how to send ringtones from Apple iPhone 15 to iPhone without any trouble. You can either perform a [direct transfer to your new iPhone](https://drfone.wondershare.com/transfer-to-new-iphone.html), such as iPhone 15, or even take the assistance of your system to do so. In this post, we will teach you in different ways how to transfer ringtones from Apple iPhone 15 to iPhone in a stepwise manner. So let’s get started!
@@ -371,10 +359,6 @@ Here is how:
 
 ![Initiate Transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png "select music")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The data will be transferred successfully to the destination device.
 
 **Don’t have a laptop? Then you can do this!**
@@ -390,6 +374,10 @@ The data will be transferred successfully to the destination device.
 **Step 3:** After the check, select the contacts you want to shift and click on ‘Start Importing’.
 
 ![Contacts on Device](https://images.wondershare.com/drfone/drfone/drfone-switch-app-migrate-3.jpg "transfer ringtones")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Send Ringtones to iPhone Including iPhone 15 Using iTunes/Finder?
 
@@ -415,6 +403,10 @@ With Dr.Fone - Phone Transfer, you can transfer ringtones from one device to ano
 3. Now, launch OneDrive on your target device and sign in using the same credentials. Locate the file that you have just added to the drive. Open the folder and download it to your local storage.
 4. In this way, you can learn how to transfer ringtones from Apple iPhone 15 to iPhone without physically connecting both devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to Send Ringtones to iPhone including iPhone 15 using AirDrop?
 
 AirDrop provides a quick and efficient way to transfer ringtones directly between two iOS devices. It allows for a smooth sharing experience without the need for extra software or cloud services. Follow these steps for **how to send a ringtone from Apple iPhone 15 to iPhone**:
@@ -426,6 +418,10 @@ AirDrop provides a quick and efficient way to transfer ringtones directly betwee
 **Step 2:** On the source device, move to the "Files" app. Here, navigate to the targeted ringtones and select them. Now, tap the "Share" button and select "AirDrop" as the sharing method. From the available devices for AirDrop, choose the targeted device. On the targeted iPhone, you will receive a prompt for AirDrop. Accept it to complete the ringtone-sharing process.
 
 ![choose the airdrop option](https://images.wondershare.com/drfone/article/2023/11/send-ringtone-iphone-to-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How to Send Ringtones to iPhone including iPhone 15 using Email?
 
@@ -456,6 +452,10 @@ After launching Wondershare Dr.Fone on your computer, connect your iPhone to it 
 Adjust the appended music to match your desired ringtone length. Employ the “Fade In” and “Fade Out” feature for personalized ringtone customization. Afterward, store the newly created ringtone directly on the iPhone using the "Save to Device" option.
 
 ![transfer ringtone to iphone](https://images.wondershare.com/drfone/guide/set-and-edit-ringtone-on-android-and-iphone-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs About Ringtones on iPhone
 
@@ -491,14 +491,16 @@ Now when you know how to send ringtones from Apple iPhone 15 to iPhone in differ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-exploring-dynamic-blur-techniques-in-adobes-creative-suite/"><u>[New] In 2024, Exploring Dynamic Blur Techniques in Adobe's Creative Suite</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-ideal-timekeepers-top-10-androidios-apps-for-your-big-day-for-2024/"><u>[Updated] Ideal Timekeepers Top 10 Android/iOS Apps for Your Big Day for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-screenfreedom-pro-the-unpriced-gaming-recorder/"><u>2024 Approved ScreenFreedom Pro The Unpriced Gaming Recorder</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-13-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 13 Pro Max to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-13-mini-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 13 mini Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-14-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 14 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-se-2020-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone SE (2020) Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-meizu-21-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Meizu 21 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/yahoo-mail-funktioniert-nicht-mehr-mit-outlook-problembehebung-und-alternativen/"><u>Yahoo Mail Funktioniert Nicht Mehr Mit Outlook - Problembehebung Und Alternativen</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unveiling-the-secrets-to-verified-instagram-images-for-2024/"><u>[New] Unveiling the Secrets to Verified Instagram Images for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-entryway-investments-cost-effective-channels-for-newbies-for-2024/"><u>[Updated] Entryway Investments Cost-Effective Channels for Newbies for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlock-your-potential-one-thousand-new-likesmonth/"><u>[Updated] In 2024, Unlock Your Potential One Thousand New Likes/Month</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-troubleshooting-steps-for-missing-msvbvm50dll-errors/"><u>Complete Troubleshooting Steps for 'Missing msvbvm50.dll' Errors</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-6-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 6 Plus to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-15-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 15 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-6-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 6 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oppo-a59-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Oppo A59 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 15 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-7-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 7 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/retrieve-past-alerts-a-step-by-step-guide-for-your-iphone/"><u>Retrieve Past Alerts: A Step-by-Step Guide for Your iPhone</u></a></li>
 </ul></div>
 

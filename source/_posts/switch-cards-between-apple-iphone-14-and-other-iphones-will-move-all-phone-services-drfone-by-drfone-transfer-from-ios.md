@@ -1,7 +1,7 @@
 ---
 title: Switch Cards Between Apple iPhone 14 and other iPhones Will Move All Phone Services? | Dr.fone
-date: 2024-11-30T07:20:53.269Z
-updated: 2024-12-02T01:17:34.227Z
+date: 2024-12-03T21:14:30.135Z
+updated: 2024-12-10T03:47:42.682Z
 tags: 
   - iphone transfer
 categories:
@@ -19,6 +19,10 @@ The existence of SIM cards is the fundamental source of all cellular network con
 If you are seeking to change your iPhone, you will have to shift everything, including the SIM cards. For that, the article discusses a guide explaining **how to switch SIM cards in Apple iPhone 14 and other iPhones** properly. Look through the discussion for better awareness of **switching SIM cards between Apple iPhone 14 and other iPhones.** The implications of shifting SIM cards and other details will be focused on throughout the discussion.
 
 ![switch sim card featured image](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Things To Know Before Switching SIM Cards in iPhone
 
@@ -38,10 +42,6 @@ On **switching a SIM card to a new iPhone,** there are multiple consequences tha
 3. If the SIM card is not compatible with the iPhone, the network operations will malfunction and not operate properly. Different connectivity issues will be reported across the scale.
 4. On switching your SIM card, you will have to reactivate iMessage and FaceTime under the cellular settings of the new SIM card. The previous settings for both services will be removed upon removing the SIM card.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How To Switch SIM Card to New iPhone Safely
 
 Once you have learned the implications of switching your SIM card to your new iPhone, you will need to understand the operability involved in the process. To know **how to switch SIM cards iPhone** perfectly, follow the step-by-step process provided below:
@@ -50,6 +50,10 @@ Once you have learned the implications of switching your SIM card to your new iP
 
 ![tap on shut down option](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** As the Apple iPhone 14 device turns off, use a proper pin to open the SIM tray on your iPhone, which completely depends on your model. For the latest and newest Apple iPhone 14 and other iPhones, the SIM tray is present on the bottom-left side of the Apple iPhone 14 device. Remove the old SIM card and replace it with the new one according to the position. Re-insert the SIM tray back into the Apple iPhone 14 device.
 
 ![switch the sim card between iphones](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-3.jpg)
@@ -57,6 +61,10 @@ Once you have learned the implications of switching your SIM card to your new iP
 **Step 3:** Use the “Power” button on your iOS device to turn it on. Once it turns on, you will find the cellular operations working according to the new SIM card.
 
 ![turn on the iphone](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: What Happens If You Switch to an iPhone Locked to A Specific Carrier?
 
@@ -75,7 +83,7 @@ Best SIM Unlock for iPhone.
 - Supports iPhone 5S to iPhone X, which are running between iOS 12.0 and iOS 14.8.1 ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3,046,049** people have downloaded it
@@ -96,19 +104,11 @@ On the following screen, tap "Start" and follow it by clicking "Unlock Now" as W
 
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/remove-iphone-sim-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Complete the SIM Lock Removal Process**
 
 Go to the Wi-Fi network you are connected to and choose "Forget This Network." Then, move to each saved Wi-Fi network in "My Networks" and remove all of them. Reinsert the SIM card to the Apple iPhone 14 device and press "Continue" on the screen. It will initiate the SIM lock removal process, which will be finished in a few moments.
 
 ![click on continue button](https://images.wondershare.com/drfone/guide/remove-iphone-sim-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How To Switch All Data to New iPhone in One Click
 
@@ -119,6 +119,10 @@ If you have bought a new iPhone and need to switch all data along with the SIM c
 - You can transfer various data between devices, ranging between 8 to 15. It entirely depends on the nature of the transfer between devices.
 - The process of transferring data is straightforward. You are not required to put in any effort to transfer data.
 - The results provided in the data transfer are incredibly high. Dr.Fone reports concluding proceedings within 3 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Switch Data to New iPhone With Dr.Fone - Phone Transfer
 
@@ -136,15 +140,15 @@ As you connect both devices in the transfer process, define the source and desti
 
 ![connect your iphone devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Select File Types and Transfer**
 
 Select the file types that you wish to transfer from the center section. Select “Start Transfer” to initiate the process. The data will be successfully transferred in a few minutes.
 
 ![data transfer process initiated](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Frequently Asked Questions
 
@@ -161,10 +165,6 @@ Physical SIM cards are tangible, removable chips that need to be inserted into a
 ## Conclusion
 
 This article has provided a valuable overview of **switching SIM cards to new Apple iPhone 14 and other iPhones**. With a proper understanding of the repercussions involved in the process, a guide has been discussed. Along with its thorough discussion, you have also figured out how to transfer data to a new iPhone. For that, Dr.Fone - Phone Transfer is the best option in the market.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3 Ways to Export Contacts from Apple iPhone 14 to Excel CSV & vCard Easily
 
@@ -232,6 +232,10 @@ You can also try SA Contacts Lite to export iPhone contacts to Excel free as wel
 
 7\. For instance, if you wish to upload the file to Dropbox, simply select the provided option and grant the app the needed permissions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Export iPhone contacts to CSV using iCloud
 
 If you don’t want to take the assistance of any third-party app to export iPhone contacts to Excel free, then you can also use iCloud. The process of exporting iPhone contacts to Excel using iCloud is a little tedious compared to other methods. Though, these steps will help you meet your requirements.
@@ -244,13 +248,13 @@ If you don’t want to take the assistance of any third-party app to export iPho
 
 ![log in icloud account on computer](https://images.wondershare.com/drfone/article/2018/01/15154801044092.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Click on the gear icon (Settings) on the bottom left corner. From here, you can select all contacts in one go. Though, if you wish, you can manually select the contacts you wish to export as well.
 
 ![select all contacts on icloud](https://images.wondershare.com/drfone/article/2018/01/15154801165153.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. Once you have made your selection, go to the Settings again and click on the option of “Export vCard”.
 
@@ -261,7 +265,7 @@ If you don’t want to take the assistance of any third-party app to export iPho
 ![convert vcard contacts to excel csv file](https://images.wondershare.com/drfone/article/2018/01/15154801441776.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We hope that our quick and smart guide would be able to help you export contacts from Apple iPhone 14 to Excel. Dr.Fone Transfer provides a fast and easy solution export iPhone contacts to CSV and other formats. It can also be used to transfer other types of content between your iOS device and computer too. Give it a try and make the most of your iPhone without any trouble.
@@ -275,7 +279,7 @@ Apple has always emphasized IOS’s superiority over Android. Making it easier t
 ![Move Custom Ringtones from Apple iPhone 14 to Android Easily](https://images.wondershare.com/drfone/others/move-custom-ringtones-from-iphone-to-android.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. How to move custom ringtones from Apple iPhone 14 to Android?
@@ -328,10 +332,6 @@ Step 2 Then click on “Ringtone maker”. Or you can also select individual mus
 
 ![how to custom ringtones for iPhone-select ringtone maker](https://images.wondershare.com/drfone/drfone/ringtone-maker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![how to custom ringtones for iPhone by right click](https://images.wondershare.com/drfone/drfone/select-music-to-make-ringtone.jpg)
 
 Step 3 A new window will pop up. To select the files from your computer, click on “Local Music”. To select files from your connected device, click “Save to Device”.
@@ -364,21 +364,16 @@ In case of technical concern, you can always contact our customer representative
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-transform-ideas-into-engaging-movies-using-youtube-editor/"><u>[New] 2024 Approved Transform Ideas Into Engaging Movies Using YouTube Editor</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-the-path-to-facebooks-exclusive-verified-marker/"><u>[New] In 2024, Navigating the Path to Facebook's Exclusive Verified Marker</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-creative-video-editing-for-fb-techniques-of-lc-and-bb-overlay/"><u>[Updated] 2024 Approved Creative Video Editing for FB Techniques of LC and BB Overlay</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-essential-guide-to-editing-youtube-videos-seamlessly-in-imovie/"><u>[Updated] The Essential Guide to Editing YouTube Videos Seamlessly in iMovie</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-11-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 11 to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/finding-chrome-companions-custom-melodies-for-2024/"><u>Finding Chrome Companion's Custom Melodies for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-xr-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone XR to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-14-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 14 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-x-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone X Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-12-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 12 to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 12 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y56-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y56 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-to-polaroid-camplus-for-action-enthusiasts/"><u>In 2024, The Ultimate Guide to Polaroid Cam+ for Action Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/integrating-public-transport-cards-with-apple-wallet-a-step-by-step-guide/"><u>Integrating Public Transport Cards with Apple Wallet: A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-15-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 15 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-jumpstart-your-journey-essential-youtubing-skills-course/"><u>[New] Jumpstart Your Journey Essential YouTubing Skills Course</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-3-ways-to-record-switch-gameplay-for-2024/"><u>[Updated] 3 Ways to Record Switch Gameplay for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-the-full-potential-sony-action-camera-review/"><u>[Updated] Unveiling the Full Potential - Sony Action Camera Review</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/decoding-hard-disk-failures-expert-tips-by-yl-computing-and-yl-software-explained-for-you/"><u>Decoding Hard Disk Failures: Expert Tips by YL Computing & YL Software Explained for You</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-restart-the-igfxem-module-in-your-computer-system/"><u>How to Repair and Restart the IgfxEM Module in Your Computer System</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-pro-4g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Xiaomi Redmi Note 12 Pro 4G Phone that is Locked?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-14-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 14 to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-11-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 11 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-15-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 15 to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 15 Pro Max to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-xs-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone XS Max to iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
 
