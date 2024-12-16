@@ -1,7 +1,7 @@
 ---
 title: Various Methods to Transfer Pictures from Apple iPhone 13 to PC | Dr.fone
-date: 2024-12-04T19:22:59.180Z
-updated: 2024-12-10T02:57:34.818Z
+date: 2024-12-12T08:17:32.448Z
+updated: 2024-12-15T17:57:36.701Z
 tags: 
   - iphone transfer
 categories:
@@ -18,9 +18,17 @@ Capturing life's precious moments on the latest Apple iPhone 13  is a joy in its
 
 It can be helpful in creating backups, freeing up storage space, and more. In this article, we will describe how to **transfer photos from Apple iPhone 13  to a PC**. It will explore step-by-step guides and tips for accommodating different preferences and comfort levels.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How To Transfer Photos From Apple iPhone 13 to PC With Windows Features
 
 With the Apple iPhone 13 's advanced camera, capturing life's beautiful moments is second nature. On the other hand, Windows OS has long been the backbone of personal computing. They come equipped with a range of tools to make the photo transfer process smooth and efficient. Explained below are two of the common method to **import photos from Apple iPhone 13 to PC**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: File Explorer
 
@@ -36,17 +44,9 @@ Moreover, you can select the images you desire and move them to your computer. F
 
 ![open the apple storage](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Here, double-click on your iPhone's icon to access its internal storage. Most of your iPhone's photos are stored in the "DCIM" folder. Browse the folder to select photos you want to move and copy them to your desired location.
 
 ![access the dcim folder](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Photos App
 
@@ -80,10 +80,6 @@ iCloud is Apple's cloud storage service which seamlessly knits together the Appl
 
 ![download the desired photos](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Pros
 
 - iCloud can automatically back up your photos, ensuring that your memories are safeguarded in the event of device loss or damage.
@@ -114,10 +110,6 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 
 - Unlike iCloud, which automatically backs up photos, you have to upload all images manually to Google Drive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: The Best iOS Management Tool To Transfer Photos From Apple iPhone 13 to PC
 
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is the ultimate iOS management tool. It promises a harmonious blend of innovation, user-friendliness, and efficiency. This tool is a solution designed to bridge the gap between Apple iPhone 13  and PC. It offers a comprehensive suite of features beyond photo transfer, making it a one-stop solution for managing your Apple iPhone 13  data. With it, you can transfer data, get device details, view verification reports, and more.
@@ -141,15 +133,15 @@ With Wondershare Dr.Fone installed on your computer, connect to your Apple iPhon
 
 ![choose export all data feature](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2: Select Photos for Transfer**
 
 Here you will be asked to choose the data you want to export. Select “Photos” and any other data you want to transfer. Once you click "Export," Wondershare Dr.Fone will ask you to create a password for the backup.
 
 ![press the export button](https://images.wondershare.com/drfone/guide/export-data-from-ios-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3: Complete the Photo Transfer Process**
 
@@ -169,6 +161,10 @@ Whenever we move from one device to another, the first thing that we wish to do 
 
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/aQ2GLxnD-TI"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Transfer all contacts from Apple iPhone 13 to Android in 1 click
 
 The easiest way to transfer all the iPhone contacts to Android is by using [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/). A part of the Dr.Fone toolkit can easily transfer all your data from one device to another with a single click. The application is compatible with every leading Android and iPhone model. You can transfer your data from Apple iPhone 13 to Android and vice-versa. Besides a cross-platform transfer of data, **iPhone to iPhone and Android to Android transfer** is also supported.
@@ -184,10 +180,6 @@ The application also supports transferring all the leading data types such as vi
 **Step 3.** select the category of data you wish to transfer. Once you have checked the "Contacts" option, click on the "Start Transfer" button to start the process.
 
 ![move contacts from iphone to android-Start Transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4.** Sit back and wait for a couple of minutes as the application syncs contacts from Apple iPhone 13 to Android. Make sure that both the Apple iPhone 13 devices are kept connected to the system until the process is completed.
 
@@ -249,6 +241,10 @@ If you are an avid user of iTunes, you can try this technique to export iPhone c
 
 ![move contacts from iphone to android-select the location to save the VCF file](https://drfone.wondershare.com/2020/select-location-to-save-contacts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6.** In the end, you can manually copy the VCF file to your Apple iPhone 13 or import it to your Google Contacts as well.
 
 ## Part 5: Switch contacts from Apple iPhone 13 to Android without a computer
@@ -273,10 +269,6 @@ Often, users don't wish to use a computer to export iPhone contacts to Android. 
 
 Now that you have learned 7 different ways to move contacts from Apple iPhone 13 to Android, you can easily fulfill your requirements. Out of all the 8 provided options, [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is the fastest and most convenient option to move all the contacts at once.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Quick Ways to Transfer Contacts from Apple iPhone 13 to iPhone With/Without iTunes
 
 _“How to transfer contacts from Apple iPhone 13 to iPhone without using iTunes? I have got a new iPhone, but can’t seem to transfer contacts from Apple iPhone 13 to iPhone without iTunes.”_
@@ -286,6 +278,10 @@ Lately, we have got plenty of queries like this from our readers who like to lea
 ## Part 1: Transfer Contacts from Apple iPhone 13 to iPhone Including iPhone 12/ 12 Pro (Max)/ 12 Mini with iTunes
 
 To start with, let’s learn how to transfer contacts from Apple iPhone 13 to iPhone using iTunes. If you have an updated version of iTunes, you can transfer and sync your data between various devices. Ideally, you can either sync your contacts or backup and restore them. We have discussed both of these techniques to transfer contacts from Apple iPhone 13 to iPhone with iTunes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Backup and Restore iPhone contacts with iTunes
 
@@ -298,10 +294,18 @@ This is the easiest approach to learn how to transfer contacts from Apple iPhone
 
 ![backup iphone with itunes](https://images.wondershare.com/drfone/article/2018/01/15150777847838.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **5.** Once you have taken a backup locally, you can connect the target device and go to its Summary.
 - **6.** From here, click on the “Restore Backup” and select the target backup and device.
 
 ![restore iphone from itunes backup](https://images.wondershare.com/drfone/article/2018/01/15150778078724.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this way, your entire backup (including contacts) would be restored, and you can transfer contacts from Apple iPhone 13 to iPhone with iTunes.
 
@@ -314,10 +318,6 @@ If you only wish to transfer your contacts, then it can be achieved by syncing y
 - **3.** After making your selection, click on the Sync button and wait for it to complete the process.
 
 ![sync contacts with itunes](https://images.wondershare.com/drfone/article/2018/01/15150778515016.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **4.** Now, disconnect the Apple iPhone 13 device and connect your target iPhone to it.
 - **5.** Follow the same drill, go to its Info tab, and enable the option to “Sync Contacts”.
@@ -356,21 +356,21 @@ Besides transferring your contacts, you can also move other data files like phot
 
 ![connect both devices to transfer contacts](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **4.** Now, select the type of data you wish to transfer. For instance, if you want to move only contacts, select “Contacts” and click on the “Start Transfer” button. Additionally, you can select the option of “Clear data before copy” and delete the existing data on the target iPhone.
 - **5.** This will initiate the process and start the transfer process. You can view the progress from the on-screen indicator. Make sure that both the Apple iPhone 13 devices are connected at this stage.
 
 ![start transfering contacts without itunes](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **6.** Once the process is complete, you will be notified. In the end, you can safely remove both the Apple iPhone 13 devices and use them the way you like.
 
 ![transfer contacts from iphone to iphone complete](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Here is the video tutorial for you:**
@@ -428,17 +428,16 @@ After following these steps, you can learn how to transfer contacts from Apple i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-art-of-speech-interpretation-via-googles-technology-for-2024/"><u>[Updated] The Art of Speech Interpretation via Google's Technology for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discovering-connections-a-guide-to-effortlessly-search-people-on-facebook/"><u>Discovering Connections: A Guide to Effortlessly Search People on Facebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-fixing-the-problem-of-disk-writing-in-steam-platform/"><u>Expert Tips on Fixing the Problem of Disk Writing in Steam Platform</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-a1-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-12-pro-max-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 12 Pro Max to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-15-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 15 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-effortless-ways-to-transfer-data-from-your-apple-iphone-8-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Effortless Ways to Transfer Data from Your Apple iPhone 8 to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-7-plus-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 7 Plus to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-mastering-audio-cut-and-mix-a-comprehensive-guide-to-using-avidemux/"><u>In 2024, Mastering Audio Cut and Mix A Comprehensive Guide to Using Avidemux</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-audio-adjustments-overcoming-windows-10s-volume-control-problems/"><u>Mastering Audio Adjustments - Overcoming Windows 10'S Volume Control Problems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/motorolas-mighty-contender-a-thorough-review-of-moto-g-powers-long-lasting-efficiency-and-robust-functionality/"><u>Motorola's Mighty Contender: A Thorough Review of Moto G Power’s Long-Lasting Efficiency & Robust Functionality</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-the-future-with-iphone-15-dont-miss-out-on-apples-latest-innovations-technews/"><u>Unlock the Future with iPhone 15 – Don't Miss Out on Apple’s Latest Innovations! | TechNews</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lenovo-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lenovo FRP</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-7-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 7 to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-8-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 8 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-mkv-to-itunes-and-avchd-conversion-with-macx-video-tool/"><u>Effortless MKV to iTunes & AVCHD Conversion with MacX Video Tool</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-12-pro-max-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 12 Pro Max to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-lava-blaze-2-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Lava Blaze 2</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-tech-world-with-toms-equipment-reviews/"><u>Navigating the Tech World with Tom's Equipment Reviews</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-15-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 15 Plus to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-7-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 7 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-c51-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme C51 Phones</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unlock-the-world-of-vr-with-your-phone-in-minutes-for-2024/"><u>Unlock the World of VR with Your Phone in Minutes for 2024</u></a></li>
 </ul></div>
 
