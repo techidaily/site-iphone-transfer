@@ -1,7 +1,7 @@
 ---
 title: Various Methods to Transfer Pictures from Apple iPhone 14 Plus to PC | Dr.fone
-date: 2024-12-13T03:21:24.698Z
-updated: 2024-12-16T05:18:47.759Z
+date: 2024-12-17T16:10:58.910Z
+updated: 2024-12-24T19:45:05.165Z
 tags: 
   - iphone transfer
 categories:
@@ -23,7 +23,7 @@ It can be helpful in creating backups, freeing up storage space, and more. In th
 With the Apple iPhone 14 Plus 's advanced camera, capturing life's beautiful moments is second nature. On the other hand, Windows OS has long been the backbone of personal computing. They come equipped with a range of tools to make the photo transfer process smooth and efficient. Explained below are two of the common method to **import photos from Apple iPhone 14 Plus to PC**:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: File Explorer
@@ -35,6 +35,10 @@ Moreover, you can select the images you desire and move them to your computer. F
 - **Step 1:** Begin by connecting your Apple iPhone 14 Plus  to your Windows PC using an Apple-certified USB cable. Ensure that your iPhone is unlocked, and if prompted, tap "Trust This Computer" on your device's screen.
 
 ![tap on the trust option](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** On your Windows PC, press the “File Explorer” icon on your taskbar. In the left-hand panel of File Explorer, locate and click "This PC." Your connected Apple iPhone 14 Plus  should appear under the "Devices and Drives" section.
 
@@ -51,6 +55,10 @@ Available in Windows 10 and later, the Photos app is a prime example of this con
 - **Step 1:** Connect your Apple iPhone 14 Plus  to your Windows PC using a USB cable, and if prompted, tap "Trust This Computer." On your Windows PC, locate and open the "Photos" app.
 
 ![trust the computer](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** In the Photos app, click on the "Import" button located in the top-right corner. From the available options, choose "From a connected device" and select your iPhone. The Photos app will display the photos on your Apple iPhone 14 Plus  that are available for import. After selecting the images, select an existing folder or create a new one for the imported photos.
 
@@ -71,10 +79,6 @@ iCloud is Apple's cloud storage service which seamlessly knits together the Appl
 - **Step 2:** Move to your computer and on your Windows PC, open a web browser, and go to the iCloud website. Log in with your Apple ID and password and click the "Photos" icon to access your iCloud Photo Library.
 
 ![open the photos app](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3:** Browse your photos and select the ones you want to transfer to your PC. Click the “Download” icon (cloud with arrow) to download the selected pictures to your PC.
 
@@ -97,6 +101,10 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 
 ![tap on the upload option](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Once photos are uploaded, move to your PC and open Google Drive using a web browser. Locate the folder where you uploaded the pictures from your Apple iPhone 14 Plus . Select the photos, right-click, and choose "Download" to initiate the download process.
 
 ![click on the download option](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-10.jpg)
@@ -115,10 +123,6 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is the ultimate iOS management tool. It promises a harmonious blend of innovation, user-friendliness, and efficiency. This tool is a solution designed to bridge the gap between Apple iPhone 14 Plus  and PC. It offers a comprehensive suite of features beyond photo transfer, making it a one-stop solution for managing your Apple iPhone 14 Plus  data. With it, you can transfer data, get device details, view verification reports, and more.
 
 Wondershare Dr.Fone also serves as a great tool to back up your data to your computer. It allows you to create wireless auto-backups on your computer. This backed-up data can be quickly restored to your device at any time. Furthermore, this tool also offers a dedicated iCloud manager to manage your iCloud data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -149,10 +153,6 @@ Click “Verify” once you have created the process to start the transfer proce
 
 ![photos album exported](https://images.wondershare.com/drfone/guide/export-data-from-ios-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In our journey to uncover the most effective method for **how to transfer photos from Apple iPhone 14 Plus to PC**, we've explored a myriad of options. Each method offered a unique blend of convenience and functionality. Among these, one solution stands out as a true game-changer: Wondershare Dr.Fone. As we conclude our guide, we wholeheartedly recommend Wondershare Dr.Fone as the ultimate iOS management tool.
@@ -160,7 +160,7 @@ In our journey to uncover the most effective method for **how to transfer photos
 It bridges the gap between devices with unparalleled features. Dr. Fone's capability to transcend the realm of mere photo transfer sets it apart. Its comprehensive suite of features empowers you to manage your Apple iPhone 14 Plus 's data with ease.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3 Ways to Export Contacts from Apple iPhone 14 Plus to Excel CSV & vCard Easily
@@ -205,6 +205,10 @@ Transfer MP3 to iPhone/iPad/iPod without iTunes
 
 ![export iphone contacts to excel csv](https://images.wondershare.com/drfone/drfone/iphone-transfer-export-contacts.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That’s it! In this way, you would be able to automatically export iPhone contacts to CSV. Now you can just visit the location and copy the file to any other device.
 
 ## Part 2: Export iPhone contacts to Excel free using SA Contacts Lite
@@ -227,15 +231,7 @@ You can also try SA Contacts Lite to export iPhone contacts to Excel free as wel
 
 ![export iphone contacts excel file to dropbox](https://images.wondershare.com/drfone/article/2018/01/15154800927553.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7\. For instance, if you wish to upload the file to Dropbox, simply select the provided option and grant the app the needed permissions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Export iPhone contacts to CSV using iCloud
 
@@ -253,6 +249,10 @@ If you don’t want to take the assistance of any third-party app to export iPho
 
 ![select all contacts on icloud](https://images.wondershare.com/drfone/article/2018/01/15154801165153.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. Once you have made your selection, go to the Settings again and click on the option of “Export vCard”.
 
 ![export iphone contacts to vcard](https://images.wondershare.com/drfone/article/2018/01/15154801304112.jpg)
@@ -262,10 +262,6 @@ If you don’t want to take the assistance of any third-party app to export iPho
 ![convert vcard contacts to excel csv file](https://images.wondershare.com/drfone/article/2018/01/15154801441776.jpg)
 
 We hope that our quick and smart guide would be able to help you export contacts from Apple iPhone 14 Plus to Excel. Dr.Fone Transfer provides a fast and easy solution export iPhone contacts to CSV and other formats. It can also be used to transfer other types of content between your iOS device and computer too. Give it a try and make the most of your iPhone without any trouble.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Transfer your Apple iPhone 14 Plus Apps to New iPhone
 
@@ -335,10 +331,6 @@ Note: You have created the backup process on your old iPhone. Now, you should st
 
 Note: You have done the entire process to transfer apps to the new iPhone 15/15 Pro (Max) or an earlier model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to transfer apps from Apple iPhone 14 Plus to iPhone using iCloud?
 
 The next successful method is an iCloud backup. iCloud the most used application for verification purposes in the iPhone. This method will be very genuine and no complications occur throughout the process when you transfer apps from Apple iPhone 14 Plus to iPhone 15/15 Pro (Max) or an earlier model.
@@ -370,6 +362,10 @@ Note: Doing so will erase any old setup.
 
 ![restore iphone apps from icloud backup](https://images.wondershare.com/drfone/article/2018/01/15169461257687.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5: You will get the screen to enter the iCloud credential details such as ID/ password.
 
 ![select icloud backup file](https://images.wondershare.com/drfone/article/2018/01/15169292663640.jpg)
@@ -390,12 +386,16 @@ In this part, we are going to transfer apps from Apple iPhone 14 Plus to iPhone 
 
 ![transfer app to new iphone via app store](https://images.wondershare.com/drfone/article/2018/01/15169314547930.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3: Once you tap on the update icon, it will show the option “My Purchase”. It will ask you to sign in the iCloud account.
 
 ![check my purchased apps](https://images.wondershare.com/drfone/article/2018/01/15169314968668.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4: After entering the credential, you have the two options such as all and not on this phone.
@@ -426,18 +426,18 @@ We have given and explained to you 3 methods to **transfer apps from Apple iPhon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-best-free-youtube-ending-creators-top-6-picks/"><u>[Updated] 2024 Approved Best Free YouTube Ending Creators - Top 6 Picks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-into-the-digital-frontier-vr-today-and-tomorrow/"><u>[Updated] Into the Digital Frontier VR Today & Tomorrow</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-action-sequence-showdown-new-era-gopro-hero5-black-vs-old-guard-hero4-silver/"><u>2024 Approved Action Sequence Showdown New Era GoPro Hero5 Black Vs Old Guard Hero4 Silver</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-romantic-recitals-perfect-love-songs-for-your-proposal-moment/"><u>2024 Approved Romantic Recitals Perfect Love Songs for Your Proposal Moment</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-infinix-gt-10-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Infinix GT 10 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/gear-up-glitch-printer-reconfigured-wrongly/"><u>Gear-Up Glitch: Printer Reconfigured Wrongly?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Realme C67 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-pro-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 15 Pro Max to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-6-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 6 Plus to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-se-2020-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone SE (2020) to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-12-pro-max-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 12 Pro Max Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-your-marketing-edge-establishing-a-biz-page-on-instagram-for-2024/"><u>Mastering Your Marketing Edge Establishing a Biz Page on Instagram for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-strategies-for-leveraging-chatgpt-in-data-analysis/"><u>Top 6 Strategies for Leveraging ChatGPT in Data Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-strategies-for-success-in-the-metaverse-space/"><u>[Updated] Strategies for Success in the Metaverse Space</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-3d-worlds-on-your-android-mastering-vr-and-360-videos/"><u>2024 Approved 3D Worlds on Your Android Mastering VR & 360 Videos</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-12-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 12 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-11-pro-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 11 Pro Max to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/t-tactics-for-designing-attention-grabbing-thumbnails-for-2024/"><u>Expert Tactics for Designing Attention-Grabbing Thumbnails for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-11-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 11 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-lava-yuva-3-frp-by-drfone-android/"><u>Full Guide to Bypass Lava Yuva 3 FRP</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone X to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-14-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 14 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-simplified-techniques-for-console-recordings/"><u>In 2024, Simplified Techniques for Console Recordings</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-xpatch-troubleshooting/"><u>Mastering Windows XPatch Troubleshooting</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rx-570-drivers-enhance-gaming-experience-in-windows-71011/"><u>RX 570 Drivers: Enhance Gaming Experience in Windows 7/10/11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/be-shorts-music-things-you-need-to-know-for-2024/"><u>YouTube Shorts Music - Things You Need to Know for 2024</u></a></li>
 </ul></div>
 

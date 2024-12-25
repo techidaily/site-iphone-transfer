@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Diablo 3: How to Handle Persistent Application Crashes"
-date: 2024-12-12T16:53:16.523Z
-updated: 2024-12-15T21:51:33.222Z
+date: 2024-12-20T01:16:56.983Z
+updated: 2024-12-25T00:46:10.836Z
 tags:
   - win11
   - win10
@@ -22,7 +22,7 @@ Century: Age of Ashes
 **Century: Age of Ashes** is now available for free. However, just as everyone rushed in to master a growing roster of dragons and rule the skies, many PC gamers are interrupted by the game crashes. If you’re running into the exact same issue, don’t worry. You’ve landed on the right page, and you should be able to fix this issue easily after reading this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## System requirements of Century: Age of Ashes for Windows PC
@@ -58,7 +58,7 @@ Century: Age of Ashes system requirements
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Verify integrity of game files
@@ -70,11 +70,19 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Century: Age of Ashes after the verifying process is complete. See if the game crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -91,16 +99,8 @@ Century: Age of Ashes system requirements
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -113,6 +113,10 @@ Century: Age of Ashes system requirements
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -151,6 +155,10 @@ Century: Age of Ashes system requirements
 
 If this fix didn’t work, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Repair corrupted system files
 
  Windows system file corruption sometimes will also lead to the game crashing issues. If you’ve played PC games for a long time, you may have already known that even a missing or corrupted .dll file (dynamic link libraries) would cause a game to crash.
@@ -174,7 +182,7 @@ If this fix didn’t work, try the next fix, below.
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -189,7 +197,7 @@ If this fix didn’t work, try the next fix, below.
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
@@ -198,16 +206,8 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -244,18 +244,24 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-best-water-and-liquid-worlds-you-can-play/"><u>[New] In 2024, The Best Water & Liquid Worlds You Can Play</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-learn-how-to-add-descriptive-texts-to-your-youtube-videos/"><u>[New] Learn How to Add Descriptive Texts to Your YouTube Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-command-prompt-wizardry-opening-srt-in-winosx/"><u>[Updated] Command Prompt Wizardry Opening SRT in Win/OSX</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-exploring-the-power-of-yi-4k-cameras/"><u>[Updated] In 2024, Exploring the Power of YI 4K Cameras</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-guide-to-magix-mixcrafts-features-for-2024/"><u>[Updated] The Ultimate Guide to Magix Mixcraft's Features for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-your-guide-to-gaining-facebooks-elite-verification-badge/"><u>2024 Approved Your Guide to Gaining Facebook's Elite Verification Badge</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-7-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 7 Plus to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-x-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone X to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-12-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 12 Pro to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-12-pro-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 12 Pro Properly | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-8-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 8 Plus to Android | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/tutorial-facil-generar-disco-de-emergencia-para-windows-server-amocion-con-los-trucos-esenciales/"><u>Tutorial Fácil: Generar Disco De Emergencia Para Windows Server Amoción Con Los Trucos Esenciales</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unveiling-the-world-of-alternative-augmented-reality-decorations-for-2024/"><u>Unveiling the World of Alternative Augmented Reality Decorations for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlock-faster-youtube-submission-via-smart-rendering-and-uploading-for-2024/"><u>[New] Unlock Faster YouTube Submission via Smart Rendering & Uploading for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlock-superior-asmr-audio-with-top-recorder-mics/"><u>[Updated] In 2024, Unlock Superior ASMR Audio with Top Recorder Mics</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-8-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 8 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-chatgpt-learn-from-user-conversations/"><u>Does ChatGPT Learn From User Conversations?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-7-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 7 Plus to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/expert-guide-navigating-the-aomei-customer-service-platform/"><u>Expert Guide: Navigating the AOMEI Customer Service Platform</u></a></li>
+<li><a href="https://fox-links.techidaily.com/finding-a-way-to-download-fcp-free-of-charge/"><u>Finding a Way to Download FCP Free-Of-Charge</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-14-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 14 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-14-plus-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 14 Plus Lock Screen</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-mini-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 13 mini to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-xs-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone XS to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-xs-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone XS Max to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-12-mini-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 12 mini to iPhone | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-x-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone X</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-academic-archiving-step-by-step-lecture-recording-strategies-using-movavi-software/"><u>Mastering Academic Archiving: Step-by-Step Lecture Recording Strategies Using Movavi Software</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/mp4diga/"><u>MP4ファイル再生に失敗するDIGAの場合：コンテンツを正常化するためのトラブルシューティング</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-premiere-pro-setup-hardware-and-software-essentials/"><u>New The Ultimate Premiere Pro Setup Hardware and Software Essentials</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-se-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone SE and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-11-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 11 Pro Apps to New iPhone | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Elusive Issue: Ghost Runner's Deadly Glitches on Windows 11 Unveiled"
-date: 2024-12-11T20:36:07.923Z
-updated: 2024-12-16T00:08:11.952Z
+date: 2024-12-19T00:37:05.161Z
+updated: 2024-12-24T16:45:27.250Z
 tags:
   - win11
   - win10
@@ -40,10 +40,18 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If using dual monitors, disable your second one from your**Windows display settings** .  
  Ensure that the resolution of the game matches that of your display monitors.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Edit your configuration file
 
@@ -58,7 +66,7 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
@@ -67,15 +75,7 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
@@ -86,25 +86,17 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Run Fallout 3 to check whether the game is running properly.
 
@@ -139,6 +131,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
@@ -147,6 +143,10 @@ OR
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5:**Reinstall**  Fallout 3
 
@@ -173,22 +173,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ecoding-digital-dynamics-unveiling-the-secret-sauce-for-youtube-success-and-revenue/"><u>[New] Decoding Digital Dynamics Unveiling the Secret Sauce for YouTube Success & Revenue</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-libertycam-studios-advanced-video-capture-capabilities/"><u>[New] LibertyCam Studio's Advanced Video Capture Capabilities</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-xs-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone XS Max to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/developing-persuasive-podcast-hooklines/"><u>Developing Persuasive Podcast Hooklines</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-11-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 11 to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 15 Pro to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Lava Blaze Curve 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y100t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y100t</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-13-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 13 mini to Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-6s-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 6s to Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-6-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 6 to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-13-pro-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 13 Pro Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/leading-seo-firms-in-the-us-for-maximizing-your-digital-presence-insights-with-seo-powersuite/"><u>Leading SEO Firms in the U.S. for Maximizing Your Digital Presence: Insights with SEO PowerSuite</u></a></li>
-<li><a href="https://driver-install.techidaily.com/navigating-win11-printers-and-their-drivers/"><u>Navigating Win11: Printers and Their Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/requirement-your-pc-needs-a-d3d11-compatible-graphics-card-to-operate-our-software/"><u>Requirement: Your PC Needs a D3D11-Compatible Graphics Card to Operate Our Software</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-12-mini-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 12 mini to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-free-vpn-services-comprehensive-review-by-tech-experts-zdnet/"><u>Top Rated FREE VPN Services - Comprehensive Review by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-8-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 8 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-14-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 14 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 15 Plus to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-essential-websites-how-to-get-the-right-youtube-ringtones/"><u>In 2024, Essential Websites How to Get the Right YouTube Ringtones?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-xr-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone XR to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-xs-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone XS to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-7-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 7 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-8-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 8 to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-xs-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone XS Max to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-organizations-in-creating-immersive-vr-experiences/"><u>In 2024, Leading Organizations in Creating Immersive VR Experiences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/leading-the-field-in-remotely-recorded-content-creation-for-2024/"><u>Leading the Field in Remotely Recorded Content Creation for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-ai-creation-and-its-copyright/"><u>Navigating AI Creation and Its Copyright</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-spark-20-proplus-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Spark 20 Pro+ Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premiere-seminar-title-assembler/"><u>Premiere Seminar Title Assembler</u></a></li>
+<li><a href="https://fox-http.techidaily.com/snapchat-spotlight-unveiled-usage-explained/"><u>Snapchat Spotlight Unveiled Usage Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-reverse-color-issue-with-windows-marketplace/"><u>Techniques to Reverse Color Issue with Windows Marketplace</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-xs-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone XS Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/ultimate-list-of-cost-free-androidios-live-streamers-for-2024/"><u>Ultimate List of Cost-Free Android/iOS Live Streamers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfreeze-shift-button-on-your-pc/"><u>Unfreeze Shift Button on Your PC.</u></a></li>
 </ul></div>
 

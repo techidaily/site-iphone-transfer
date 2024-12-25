@@ -1,7 +1,7 @@
 ---
 title: Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
-date: 2024-12-12T05:42:46.558Z
-updated: 2024-12-16T07:12:27.714Z
+date: 2024-12-19T04:11:24.169Z
+updated: 2024-12-24T18:39:41.962Z
 categories:
   - repair-tools
 description: This Article Describes Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/381a81d2f0bf0f275cd73c183feb9dd23edc02b56
  WHY STELLAR® IS GLOBAL LEADER
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why Choose Stellar?
@@ -90,7 +90,7 @@ Awards Received
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Stellar Official Website
@@ -105,7 +105,7 @@ Awards Received
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  About
@@ -159,11 +159,11 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -181,22 +181,21 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-12-unparalleled-youtube-gamers-intros-revealed-free-or-fee/"><u>[New] In 2024, 12 Unparalleled YouTube Gamers' Intros Revealed Free or Fee?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/exclusive-july-2er-2024-unmissable-laptop-bargains-curated-for-you-by-zdnet/"><u>Exclusive July 2Er 2024: Unmissable Laptop Bargains Curated for You by ZDNET</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-15-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 15 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-8-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 8 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-2022-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone SE (2022) to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-15-pro-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 15 Pro Max to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-15-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 15 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-14-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 14 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-mini-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 13 mini to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-14-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 14 to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-computer-components-toms-authoritative-guides-and-ratings/"><u>Mastering Computer Components: Tom’s Authoritative Guides & Ratings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/navigating-the-world-of-lut-filters-for-obs-mastery-for-2024/"><u>Navigating the World of LUT Filters for OBS Mastery for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/revealing-rays-of-light-the-ultimate-guide-for-choosing-a-premium-4k-screen/"><u>Revealing Rays of Light The Ultimate Guide for Choosing a Premium 4K Screen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-components-with-toms-hardware-guide/"><u>Unlocking Components with Tom's Hardware Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-setup-for-high-quality-video-transmission/"><u>[New] Expert Setup for High-Quality Video Transmission</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fb-streamer-capture-and-save-videos-for-2024/"><u>[New] FB-Streamer Capture and Save Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-backward-glance-decoding-youtube-video-reversals/"><u>[New] In 2024, Backward Glance Decoding YouTube Video Reversals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-permanent-silence-of-the-quick-content-platform/"><u>[Updated] Permanent Silence of the Quick Content Platform</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-screencentral-exclusive-global-views-with-homeside-links-for-2024/"><u>[Updated] ScreenCentral Exclusive Global Views with Homeside Links for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-13-mini-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 13 mini to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-high-res-videography-with-nikon-j5-for-2024/"><u>Exploring High-Res Videography with Nikon J5 for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-zero-to-hero-a-step-by-step-approach-to-youtube-backlinks/"><u>From Zero to Hero A Step-by-Step Approach to YouTube Backlinks</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 11 to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone SE (2022) to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-xiaomi-redmi-a2plus-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-se-2020-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone SE (2020) to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-12-pro-max-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 12 Pro Max to Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-xr-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone XR to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-13-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 13 to Android | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/visual-warmth-in-winter-selecting-the-best-bgs/"><u>Visual Warmth in Winter Selecting the Best Bgs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to the Open Source Features of the Linksys WRT1900ACS Router
-date: 2024-12-14T16:12:35.100Z
-updated: 2024-12-16T08:14:21.462Z
+date: 2024-12-18T16:48:02.805Z
+updated: 2024-12-24T23:29:31.230Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to the Open Source Features of the Linksys WRT1900ACS Router
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/If8GxErGHTjgANe1aTqz5h0ZVGM=/400x300/fi
 ## In Depth Analysis of the TP-Link Archer C8e - Sub $100 Wireless Router with Impressive Speed
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
@@ -45,7 +49,7 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
@@ -76,7 +80,7 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -93,11 +97,11 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/tXeiVJNqjtwMg97as87xxtsMwhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_04-375b5f92ce9d44f4af109c8f6bfada16.jpg)
 
- Lifewire / Erika Rawes
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Lifewire / Erika Rawes
 
 ## **Network Performance: Fast speeds, No USB port**
 
@@ -108,7 +112,7 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
@@ -130,10 +134,6 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Price: Around 100 bucks**
 
@@ -184,20 +184,22 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-learn-how-to-change-number-on-tiktok-with-working-methods/"><u>[New] Learn How to Change Number on TikTok with Working Methods</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-earning-edge-exploiting-youtube-studio-for-global-viewers/"><u>[Updated] Earning Edge Exploiting YouTube Studio for Global Viewers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-quick-cut-channel-sequences/"><u>[Updated] In 2024, Crafting Quick-Cut Channel Sequences</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-11-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 11 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/become-an-expert-tutorial-for-making-gifs-into-desirable-whatsapp-and-telegram-stickers-for-2024/"><u>Become an Expert Tutorial for Making GIFs Into Desirable WhatsApp & Telegram Stickers for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-civi-3-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi Civi 3</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-x-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone X to SIM? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-v30-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V30 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-11-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 11 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-13-mini-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 13 mini to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-se-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone SE to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-11-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 11 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-icecream-screen-recorder-indepth-review/"><u>In 2024, Icecream Screen Recorder Indepth Review</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/stepwise-guide-to-windows-11-sound-capture-setup/"><u>Stepwise Guide to Windows 11 Sound Capture Setup</u></a></li>
-<li><a href="https://review-topics.techidaily.com/unleash-powerful-graphics-build-your-own-ark-ai-accelerator-pcie-card-in-china-just-193/"><u>Unleash Powerful Graphics: Build Your Own ARK AI Accelerator PCIe Card in China - Just $193</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-video-enhancements-in-obs-studio-edits/"><u>[Updated] 2024 Approved Top Video Enhancements in OBS Studio Edits</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-effective-twitter-de-following/"><u>[Updated] In 2024, The Ultimate Guide to Effective Twitter De-Following</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-ranking-relaxing-front-row-activities-that-arent-sports/"><u>2024 Approved Ranking Relaxing Front Row Activities That Aren't Sports</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-xr-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone XR to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-15-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 15 to Android | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1728495582630-8/"><u>如何尋回失去的文件夾 - 8個最佳解決方案</u></a></li>
+<li><a href="https://extra-information.techidaily.com/automated-methods-for-adding-photo-dates/"><u>Automated Methods for Adding Photo Dates</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-12-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 12 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/high-definition-gothic-wallpaper-collections-premium-hd-backgrounds-and-inspirational-imagery-by-yl-software/"><u>High-Definition Gothic Wallpaper Collections: Premium HD Backgrounds and Inspirational Imagery by YL Software</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-8-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 8 to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-8-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 8 Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-mini-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 12 mini to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-12-pro-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 12 Pro Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-se-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone SE Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-snickerstreamer-share-your-wit-with-a-click/"><u>In 2024, SnickerStreamer Share Your Wit with a Click</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-angles-the-complete-manual-for-effective-video-turns-for-2024/"><u>Instagram Angles The Complete Manual for Effective Video Turns for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "IPhone 12 Showdown: How Apple Redefines Phone Innovation in Its Newest Release"
-date: 2024-12-12T21:22:42.602Z
-updated: 2024-12-15T22:18:51.249Z
+date: 2024-12-17T17:27:33.108Z
+updated: 2024-12-25T04:52:26.923Z
 categories:
   - BestProducts
 description: "This Article Describes IPhone 12 Showdown: How Apple Redefines Phone Innovation in Its Newest Release"
@@ -46,6 +46,10 @@ Lifewire / Emily Isaacs
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/wuNd6MsZiivoQ99Xm0JHB9iB4Rs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_HeroSquare-99f80025b0254cbebe67ed22575a90c5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
 
 [View On Amazon $99](https://www.amazon.com/dp/B00NMVJYEW/?tag=lifewire-onsite-prod-20&ascsubtag=4780187%7Cnf95833ce2d2845368fd2b0eac089080a01%7CB00NMVJYEW) [View On Walmart $89](https://www.walmart.com/ip/Kinesis-KB800PB-us-Freestyle2-Ergonomic-Split-Keyboard-for-PC/41539324?slfpid=3) [View On Office Depot $113](https://www.officedepot.com/a/products/989638/Kinesis-Freestyle2-Ergonomic-Keyboard-For-PC/?cm%5Fmmc=PLA-%5F-Google-%5F-Computer%5FTablet%5FAccessories-%5F-989638&gclid=EAIaIQobChMIv7HKttKB6QIVUl8NCh2Afg94EAQYBCABEgJKIvD%5FBwE&gclsrc=aw.ds)
@@ -69,15 +73,15 @@ Lifewire / Emily Isaacs
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design and Features: Freestyle2 breaks the mold**
 
  For people who are tethered to their[computers](https://www.lifewire.com/computer-and-laptop-reviews-4102643) , ergonomic keyboards are a must. These keyboards tend to be large thanks to the frequently employed swoop design that opens up the keys to provide additional spacing, so fingers feel less cramped, and a wrist-friendly position that prevents[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) while typing. These keyboards are typically space hogs, taking up large portions of any surface that they’re placed on, often forcing users to reach further for[mice](https://www.lifewire.com/best-wireless-mice-6666207) . This can lead to shoulder injuries in place of wrist injuries—a trade-off no one wants.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/C-YK_WPWu8Ujx1fwDLxvO6Epi-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_05-adcddc5fc05b415dbcd82396bc0ada77.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -89,10 +93,6 @@ Lifewire / Emily Isaacs
 
  Clocking in at 2 pounds, it’s also lightweight which makes it easy to pack. Whether you’re commuting between the home and the office or you’re heading out of town for a vacation, it’s easy to break down and bring anywhere so long as there’s a flat surface to place it during use.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Setup Process: For Apple products only**
 
  The Kinesis Freestyle2 Blue arrives with the two keyboard halves, the instructional pamphlet, and a six-foot USB charging cable. Designed for use with iPads,[iPhones](https://www.lifewire.com/iphone-and-ios-4781515) , and[Macs](https://www.lifewire.com/macs-4781332) , the setup process is quick and easy to complete. First, we flipped the switch on the right-hand side of the keyboard from the off position to the on position. Then, we flipped the keyboard over and pressed the connect button on the backside. We knew it was ready to begin pairing when the lights on the frontside began flashing blue.
@@ -103,10 +103,6 @@ Lifewire / Emily Isaacs
 
  From here, we followed the instructions in the provided instructional pamphlet and enabled Bluetooth on our iPad. After about a minute of scanning, the Kinesis KB800MB-BT keyboard appeared as an available device. We simply tapped to connect. From here, it prompted us to input a numeric code and press return. Once we’d done this, setup was complete.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Features: Efficient hotkeys once you get used to them**
 
  Better than its modular design are the easy-to-use hotkeys on the left-hand side of the keyboard. These make it simple to copy, paste, cut, go back or forward in a browser, or even switch between the keyboard’s connected devices smoothly and efficiently. They take a little getting used to but once you get the hang of it using them is a breeze.
@@ -114,10 +110,6 @@ Lifewire / Emily Isaacs
  One pet peeve we had with the keyboard design was the Caps lock key. Instead of having a light on the button itself that glows when the function is enabled, this light is placed alongside the Bluetooth connectivity lights on the right-hand side of the keyboard. While this isn’t the end of the world by any means, it’s less intuitive since you need to retrain yourself on where to look to see if it’s enabled. Additionally, you should be aware that leaving this button on or using it frequently can lead to faster battery drain.
 
  Its split design is comfortable, following the natural arc of your fingers and hands as they rest upon its keys.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Battery: Plenty of juice so you’re never in a bind**
 
@@ -129,7 +121,15 @@ Lifewire / Emily Isaacs
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/vncgu0FEgBJ69UL6H8BjQ2QoGRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_03-9055476d1d974c8bbe9b1c39d479b300.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Kinesis Freestyle2 Blue vs. Microsoft Sculpt Ergonomic Keyboard**
 
@@ -150,7 +150,7 @@ Lifewire / Emily Isaacs
  The Kinesis Freestyle2 Blue for Mac is a compact, user-friendly ergonomic keyboard that takes comfort and customization to the next level for Apple users thanks to its split, modular design. Its extended battery life of up to 300 plus hours combined with its ability to connect to multiple iOS devices at a time is a game-changer, making it well worth the splurge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -184,19 +184,22 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-pictureperfection-fine-tuning-image-sizes-on-insta/"><u>[New] 2024 Approved PicturePerfection Fine-Tuning Image Sizes on Insta</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-reimagining-home-setups-with-a-webcam/"><u>[New] 2024 Approved Reimagining Home Setups with a Webcam</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/uick-guide-youtube-videos-turned-into-engaging-animation-gifs/"><u>[New] Quick Guide YouTube Videos Turned Into Engaging Animation Gifs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazons-kindle-versus-fire-tablet-a-detailed-comparison/"><u>Amazon's Kindle versus Fire Tablet - A Detailed Comparison</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-6-software-for-audiovisual-translation/"><u>Elite 6 Software for Audio/Visual Translation</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-logitech-g35-audio-drivers-for-your-windows-device-optimized-for-vista-7810/"><u>Get Logitech G35 Audio Drivers for Your Windows Device - Optimized for Vista, 7/8/10</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 14 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-11-pro-max-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 11 Pro Max to Samsung | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-13-pro-max-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 13 Pro Max Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 15 Plus to Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-se-2022-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone SE (2022) to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leverage-advanced-transcription-tools-within-microsoft-word-to-boost-productivity/"><u>In 2024, Leverage Advanced Transcription Tools Within Microsoft Word to Boost Productivity</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/most-popular-uses-of-identity-providers-across-the-united-states-european-union-and-asia-pacific-markets/"><u>Most Popular Uses of Identity Providers Across the United States, European Union, and Asia-Pacific Markets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-factors-to-evaluate-when-selecting-your-next-gaming-system/"><u>Top 5 Essential Factors to Evaluate When Selecting Your Next Gaming System</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-engaging-visual-narrative-your-guide-to-making-gifs-from-vimeo/"><u>[New] Engaging Visual Narrative Your Guide to Making GIFs From Vimeo</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-screen-scrapers-companion-easy-steps-to-save-tweets-visuals/"><u>[Updated] In 2024, Screen Scrapers' Companion Easy Steps to Save Tweets' Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-aural-elegance-selecting-high-quality-ringtones-online/"><u>2024 Approved Aural Elegance Selecting High-Quality Ringtones Online</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-expert-tips-for-eradicating-extra-green-on-youtube-videos-mac/"><u>2024 Approved Expert Tips for Eradicating Extra Green on YouTube Videos (Mac)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-6-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 6 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-6-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 6 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-13-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 13 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-se-2022-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone SE (2022) to Samsung | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/te-your-content-the-secrets-to-increased-subscribers-for-2024/"><u>Elevate Your Content The Secrets to Increased Subscribers for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-and-simple-guide-installing-latest-webcam-drivers-on-windows-7/"><u>Fast and Simple Guide: Installing Latest Webcam Drivers on Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-crackling-sound-from-speakers-on-pc-windows-10-and-7/"><u>How To Resolve Crackling Sound From Speakers on PC (Windows 10 & 7)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-11-pro-max-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 11 Pro Max to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-12-pro-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 12 Pro to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-8-plus-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 8 Plus Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95670497-9781786780683-soul-awakening-practice/"><u>Soul Awakening Practice | Free Book</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-tailoring-your-way-to-youtube-subtitles-srt/"><u>Step-by-Step Tailoring Your Way to YouTube Subtitles (SRT)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-13-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 13 to PC | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Persistent Crashes in Microsoft Flight Simulator 2020 on Windows
-date: 2024-12-13T07:24:00.305Z
-updated: 2024-12-15T17:02:30.119Z
+date: 2024-12-20T00:50:41.173Z
+updated: 2024-12-25T02:28:47.863Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -51,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 * If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
 
@@ -71,15 +67,19 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -87,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -109,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -121,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
@@ -152,24 +152,22 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-elite-list-ten-economical-desktop-sharing-apps-for-2024/"><u>[New] Elite List Ten Economical Desktop Sharing Apps for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-integrating-songs-and-snaps-online/"><u>[New] Integrating Songs and Snaps Online</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-revisit-memories-easy-old-stories-on-fb/"><u>[New] Revisit Memories Easy Old Stories on FB</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-showdown-twitchs-challenge-to-youtubes-market-for-2024/"><u>[New] The Ultimate Showdown Twitch's Challenge to YouTube's Market for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-6s-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 6s to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/bitraser-drive-eraser-the-ideal-software-for-confidential-data-deletion-get-yours-today/"><u>BitRaser Drive Eraser: The Ideal Software for Confidential Data Deletion – Get Yours Today</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-dimension-verification-the-first-step-in-assembling-your-custom-pc/"><u>Essential Dimension Verification: The First Step in Assembling Your Custom PC</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-11-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 11 to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-7-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone 7 Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-12-mini-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 12 mini to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-12-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 12 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-15-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 15 Plus to iPad | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-12-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 12 Safe and Legal</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-se-2020-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone SE (2020) to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-honor-play-8t-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Honor Play 8T Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/noctuas-newest-lineup-meet-the-home-series-spotlight-on-the-exceptional-100-nv-fs1-desk-cooler/"><u>Noctua's Newest Lineup: Meet the Home Series - Spotlight on the Exceptional $100 NV-FS1 Desk Cooler</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-15-plus-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 15 Plus and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tour-du-monde-des-conversions-en-ligne-mov-a-flv-sans-frais-grace-a-moveconvert/"><u>Tour Du Monde Des Conversions en Ligne : MOV À FLV Sans Frais Grâce À MoveConvert!</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-14-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 14 Pro to PC | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-guide-to-collecting-excellent-visual-content/"><u>[New] A Step-by-Step Guide to Collecting Excellent Visual Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-streamlining-post-processing-with-effective-use-of-luts-in-pscc/"><u>[New] In 2024, Streamlining Post-Processing with Effective Use of LUTs in PSCC</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-15-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 15 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-your-world-audio-on-windows-10-for-2024/"><u>Capture Your World Audio on Windows 10 for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-your-pcs-vram-a-step-by-step-guide-for-windows-users/"><u>Elevate Your PC's VRAM - A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/game-on-top-7-must-play-imessage-games-dominating-2score4/"><u>Game On! Top 7 Must-Play iMessage Games Dominating 2Score4</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-12-mini-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 12 mini to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-xs-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone XS Max to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-6s-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 6s to Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-12-pro-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 12 Pro to SIM? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-6s-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 6s to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-11-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 11 to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-15-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 15 Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-the-best-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>In 2024, The Best Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ricoh-theta-sc2-review-compact-360-degree-camera/"><u>Ricoh Theta SC2 Review: Compact 360-Degree Camera</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-tecno-spark-10c-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Tecno Spark 10C to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

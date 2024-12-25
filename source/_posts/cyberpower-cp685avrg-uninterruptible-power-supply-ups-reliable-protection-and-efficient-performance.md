@@ -1,7 +1,7 @@
 ---
 title: CyberPower CP685AVRG Uninterruptible Power Supply (UPS) - Reliable Protection and Efficient Performance
-date: 2024-12-14T01:36:46.771Z
-updated: 2024-12-15T17:06:47.537Z
+date: 2024-12-22T21:56:27.675Z
+updated: 2024-12-24T23:42:04.760Z
 categories:
   - BestProducts
 description: This Article Describes CyberPower CP685AVRG Uninterruptible Power Supply (UPS) - Reliable Protection and Efficient Performance
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/wtXsun69DD8udLlpyE2hV3wzITA=/400x300/fi
 ## Mohu Leaf 30
 
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/AyUAqIhKcHESYKlEswC1pUtS1Po=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -46,7 +42,7 @@ Lifewire / Jonno Hill
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/xXK31GRLX2h6w0vFc9K2Ps_ufqk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
@@ -72,10 +68,6 @@ Lifewire / Jonno Hill
 
  Mohu might not be breaking new ground with this antenna, but it’s more than sufficient for most city dwellers and perhaps even a few buyers in the suburbs with a relatively unobstructed path to the broadcast source.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Basic but effective**
 
  You can find a dozen identical versions of this unpowered antenna by doing a quick search for TV antennas online, and not for no reason. It’s a very uncomplicated design, doesn’t take up too much space, and doesn’t have a lot of points of failure. The 9x11.5-inch rectangular antenna surface is thin, pliable, and features two small punch-holes towards the top which can be used to pin the antenna to an appropriate surface.
@@ -86,6 +78,10 @@ Lifewire / Jonno Hill
 
  Setup of the Mohu Leaf 30 TV Antenna is as easy as it gets with antennas. Since there is no external power to connect, you only need to worry about connecting the included coaxial cable to the device and to your TV and using the included pins or adhesive tabs to affix the device to a surface. Ease of setup is one of the benefits of a non-amplified antenna such as the Mohu Leaf.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Performance: Acceptable but not incredible**
 
  The Mohu Leaf 30 TV Antenna wasn’t the highest performing antenna that I tested, even among similar unpowered antennas. In my channel acquisition test, the Leaf picked up 56 channels on average across all the iterations performed.
@@ -93,7 +89,7 @@ Lifewire / Jonno Hill
  My apartment is located within city limits and doesn’t provide too much of a challenge for antennas, but I was able to reliably get as many as 76 channels from other devices. Nonetheless, the Leaf still provided a clear picture of all the major network stations without any issue. The only channels that I couldn’t pick up with the Leaf were pretty obscure, such as an audio-only station from a Korean Christian church. I think I’ll be okay without that one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Range: Fairly limited**
@@ -106,6 +102,10 @@ Lifewire / Jonno Hill
 
  Buyers probably wouldn’t be wise to spend more money unless they live a bit further from their signal source and have had trouble with similar antennas in the past. I think that for most people living in cities, the Mohu Leaf 30 TV Antenna should be more than enough.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Mohu Leaf 30 TV Antenna vs Mohu Blade TV Antenna**
 
  Mohu also makes the[Mohu Blade](https://www.lifewire.com/mohu-blade-tv-antenna-review-4843106) , a powered antenna with a slightly more unique design for a minor premium of $40\. This antenna managed to reliably acquire an average of 69 channels in my tests, a big leap from the performance of the Mohu Leaf 30 TV Antenna. That having been said, the Blade does require a power source, and installation is slightly more cumbersome than that of the Leaf. If I wasn’t having any trouble getting the channels I watch with the Leaf, I probably wouldn’t upgrade to the Blade personally.
@@ -116,7 +116,7 @@ Lifewire / Jonno Hill
  The Mohu Leaf 30 TV Antenna is a great entry point into the TV antenna space, providing a nice mix of performance and value in a dead-simple package that won’t burden buyers during setup. It might not be powerful enough to suit the needs of suburban users and beyond, but if you’re close enough to the signal source, it’s a nice option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -146,18 +146,14 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-creating-time-lapse-from-single-photographs/"><u>[Updated] Creating Time-Lapse From Single Photographs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-buddies-games-top-metagame-escapades/"><u>2024 Approved Best Buddies Games Top Metagame Escapades</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-12-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 12 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-x-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone X to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728504534492-wd/"><u>如何利用WD外接設備恢復損失的資料？</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-update-of-common-sataahci-controller-drivers/"><u>Effortless Update of Common SATA/AHCI Controller Drivers</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-6-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 6 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722970434813-fix-your-monitor-issues-download-and-install-drivers-for-insignia-vga-adapter/"><u>Fix Your Monitor Issues: Download & Install Drivers for Insignia VGA Adapter</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 7 Plus to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-10-tips-to-make-your-youtube-shorts-channels-stand-out/"><u>In 2024, 10 Tips to Make Your YouTube Shorts Channels Stand Out</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 13 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-14-pro-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 14 Pro Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-stop-rocket-league-from-continuously-crashing-tips-and-solutions/"><u>Troubleshooting Steps: Stop 'Rocket League' From Continuously Crashing [Tips & Solutions]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-captivating-customer-revelation/"><u>[New] Captivating Customer Revelation</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-take-your-youtube-clips-to-the-next-level-ultimate-editing-tips/"><u>[Updated] Take Your YouTube Clips to the Next Level Ultimate Editing Tips</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-pro-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 15 Pro Max to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-15-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 15 Pro Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-14-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 14 Plus to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-m34-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy M34 Phones? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-pro-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 15 Pro to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/showcasing-your-identity-using-fb-images-with-whatsapp/"><u>Showcasing Your Identity: Using FB Images with WhatsApp</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unbiased-take-on-recordcast-efficacy-for-2024/"><u>Unbiased Take on RecordCast Efficacy for 2024</u></a></li>
 </ul></div>
 

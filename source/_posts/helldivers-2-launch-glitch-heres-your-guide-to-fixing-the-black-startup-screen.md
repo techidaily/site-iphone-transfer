@@ -1,7 +1,7 @@
 ---
 title: Helldivers 2 Launch Glitch? Here's Your Guide to Fixing the Black Startup Screen!
-date: 2024-12-14T07:50:47.001Z
-updated: 2024-12-16T00:51:26.485Z
+date: 2024-12-17T16:02:13.125Z
+updated: 2024-12-24T21:26:36.886Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Launch the game in windowed mode
 
  Some players found that starting the game in windowed mode may fix the black screen issue in Elden Ring. When your game is running, you can press**Alt+Enter** at the same time to switch between the windowed mode and full-screen mode. If this doesn’t work, you can try setting launch options in Steam. Here’s how:
@@ -47,15 +43,15 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -72,6 +68,10 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -81,7 +81,7 @@ There are mainly two ways to update your graphics driver:
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
@@ -97,6 +97,10 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
 If the issue persists, move on to the next fix.
@@ -107,16 +111,12 @@ If the issue persists, move on to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
  When updates are available, follow the on-screen instructions to download and install them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of game files
@@ -128,8 +128,16 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
@@ -144,16 +152,8 @@ If the issue remains, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now check if the black screen issue has gone away.
 
@@ -180,20 +180,24 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-skype-soundtrack-hub-finding-the-right-tones-online/"><u>[New] In 2024, Skype Soundtrack Hub Finding the Right Tones Online</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-professional-3d-creation-software-for-video-startups-for-2024/"><u>[Updated] Professional 3D Creation Software for Video Startups for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-non-negotiables-of-beginning-a-youtube-channel/"><u>[Updated] The Non-Negotiables of Beginning a YouTube Channel</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-followers-surge-top-tips-for-channel-expansion/"><u>[Updated] YouTube Followers Surge Top Tips for Channel Expansion</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-finest-html5-video-tools-for-content-creators/"><u>2024 Approved The Finest HTML5 Video Tools for Content Creators</u></a></li>
-<li><a href="https://facebook.techidaily.com/avoid-these-3-types-of-app-if-you-care-about-privacy/"><u>Avoid These 3 Types of App if You Care About Privacy</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/converting-ordinary-images-into-artistic-hdr-works/"><u>Converting Ordinary Images Into Artistic HDR Works</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-15-pro-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 15 Pro to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 13 Pro to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-13-pro-max-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 13 Pro Max to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-14-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 14 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-15-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 15 Pro to PC | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-8-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 8 to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photoshop-stabilizers-role-crucial-for-creatives-in-2024/"><u>Photoshop Stabilizer's Role - Crucial for Creatives, In 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-14-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 14 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-frameful-fun-essential-tools-and-sites-for-photoframe-artistry/"><u>[Updated] Frameful Fun Essential Tools and Sites for Photoframe Artistry</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-14-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 14 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-new-conversational-ai-tools-to-consider-over-openais-chatgpt/"><u>7 New Conversational AI Tools to Consider Over OpenAI’s ChatGPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-macos-15-sequoia-launch-timeline-innovative-features-and-exciting-news/"><u>All You Need to Know About MacOS 15 Sequoia: Launch Timeline, Innovative Features, and Exciting News</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bridging-moments-creating-fluid-edits-with-inshot-for-2024/"><u>Bridging Moments Creating Fluid Edits with Inshot for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-y17s-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo Y17s</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-linksys-wrt3200acm-router-why-its-a-must-have-for-tech-enthusiasts/"><u>Comprehensive Evaluation of Linksys WRT3200ACM Router: Why It's a Must-Have for Tech Enthusiasts</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-14-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 14 to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-11-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 11 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-v30-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo V30 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-15-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 15 to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 12 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 15 Pro Max to Android | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-11-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 11 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-xs-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone XS Max to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-xs-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone XS to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-video-editing-on-a-shoestring-best-software-for-2024/"><u>Updated Video Editing on a Shoestring Best Software for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/which-windows-editions-come-with-pre-installed-windows-defender-protection-insights-by-yl-computing/"><u>Which Windows Editions Come with Pre-Installed Windows Defender Protection - Insights by YL Computing</u></a></li>
 </ul></div>
 

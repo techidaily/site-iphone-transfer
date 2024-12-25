@@ -1,7 +1,7 @@
 ---
 title: iPhone Transfer Transfer Contact from Apple iPhone 8 to iPhone without iCloud | Dr.fone
-date: 2024-11-26T20:48:35.580Z
-updated: 2024-12-01T20:24:00.344Z
+date: 2024-12-19T19:59:04.647Z
+updated: 2024-12-25T04:09:50.768Z
 tags: 
   - iphone transfer
 categories:
@@ -32,12 +32,16 @@ AirDrop is a convenient built-in feature on iPhones. It allows quick and wireles
 
 ![make iphone visible to others](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Following this, press "Share Contact" and select "AirDrop" as the sharing method. From the available devices on AirDrop, choose the targeted device. Finally, "Accept" the incoming AirDrop on your target iPhone to complete the process.
 
 ![share contact using airdrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2. NameDrop
@@ -63,10 +67,6 @@ If you want a more traditional approach to copying contacts from Apple iPhone 8 
 - **Step 2:** Move to the "Backups" section on iTunes/Finder and click "Back Up Now." Before this, confirm the selection of "This Computer" in iTunes and for Finder" or "Back up all data from your iPhone to this Mac."
 
 ![back up latest data on computer](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3:** Once the backup process is completed, remove the source iPhone and connect the target iOS device. Similarly, access the “Summary/General” tab and click "Restore Backup." Choose the most recent backup and follow the on-screen guidelines to complete the process.
 
@@ -119,6 +119,10 @@ The process is user-friendly, requiring simple clicks to initiate. It can transf
 - **Step 2:** Make a Data Selection and Tap Start Transfer. After the Apple iPhone 8 devices are configured, select the data you want to transfer alongside Contacts. When you have selected the desired data, click "Start Transfer" to proceed. A prompt will soon be displayed on the screen, requesting the deactivation of the Find My feature on iOS devices. Access the iOS device's Settings and tap on the name located at the top.
 
 ![select the data to start transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Turn Off Find My and Complete the Transfer Process. Then, navigate to "iCloud" and access "Find My" to proceed to deactivate it. After deactivating the feature, the data transfer begins. The progress bar indicates the process's completion. Once finished, the foremost window exhibits the finalized phone transfer. Press "OK" to conclude the process fully.
 
@@ -188,10 +192,6 @@ Once your photos are stored on Google Drive, proceed to save and transfer them t
 
 ![Download photos from Google Drive to PC.](https://images.wondershare.com/drfone/article/2023/11/transfer-photos-from-iphone-to-pc-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 To save all photos from a specific Google Drive folder, open Google Drive and select "My Drive." Locate the intended folder, and click the three dots to open the drop-down menu. Select "Download," and all photos and files within the folder will be saved to your computer in ZIP format.
 
 ## **Part 3: How To Transfer Pictures From iPhone with iTunes**
@@ -222,13 +222,13 @@ Within the Photos app, click on Import > From a USB device and follow the instru
 
 Finally, allow a few moments for the system to detect and transfer the selected photos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 4: How To Quick Transfer Pictures From Apple iPhone 8 to PC**
 
 If you find the above methods difficult, there is a quick and easy way to transfer photos from your iPhone to a PC with Dr. Fone's Export All Data feature. With this feature, there's no need to navigate through various locations to just locate and transfer files from your iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Phone Manager (iOS)
 
@@ -263,10 +263,6 @@ When a new window appears, select the specific file types you wish to transfer (
 
 ![Choose file types for export.](https://images.wondershare.com/drfone/guide/export-data-from-ios-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Make a password for the backup file
 
 Next, you will be asked to create an encrypted password for the backup file to be stored on the computer. Set a password, confirm it, and click "Done" to execute the process.
@@ -278,6 +274,10 @@ Next, you will be asked to create an encrypted password for the backup file to b
 Your iPhone will start exporting its data to the computer through Dr.Fone. You can wait and monitor the progress on the screen.
 
 ![Monitor the data transfer progress.](https://images.wondershare.com/drfone/guide/export-data-from-ios-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Successful export of data to the computer
 
@@ -307,25 +307,13 @@ In the realm of smartphones, change is not just inevitable; it's a constant. Wit
 
 The iPhone 15 is an example of Apple's commitment to pushing the boundaries of technology. It offers advancements in processing power, camera capabilities, and display technology. This new iPhone promises to redefine what a smartphone can do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Enhanced Camera Systems
 
 For photography fans, the iPhone 15's camera system is nothing short of revolutionary. From improved low-light performance to detailed zoom capabilities, it reaches a whole new level of quality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Seamless Connectivity
 
 The new iPhone 15 comes integrated with 5G technology. This ensures that you'll be at the forefront of high-speed connectivity. You can say goodbye to buffering and lag because iPhone 15 promises smoother streaming, faster downloads, and a more responsive online experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Extended Software Support
 
@@ -339,14 +327,18 @@ Transitioning to the new iPhone 15 is an exciting experience. It means you need 
 
 ![access icloud backup feature](https://images.wondershare.com/drfone/article/2023/08/transfer-old-iphone-to-iphone-15-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** Power on your iPhone 15 and follow the setup prompts until you reach the "Apps & Data" screen. Then, proceed with the "Restore from iCloud Backup" feature and sign in using your Apple ID credentials.
 - **Step 3:** A list of available iCloud backups will appear on the screen. Here you need to select the most recent backup from your Apple iPhone 8 . Keep in mind that a reliable Wi-Fi connection is essential for a smooth and speedy transfer.
 
 ![choose the required icloud backup](https://images.wondershare.com/drfone/article/2023/08/transfer-old-iphone-to-iphone-15-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Transfer Apple iPhone 8 Data Directly to iPhone 15?
 
@@ -360,10 +352,6 @@ While iCloud offers a seamless way to transfer data, some users prefer a more di
 - **Step 3:** This animation contains security information and establishes a connection between devices. On the new iPhone, you will be required to provide the old phone passcode. Enter the passcode and log in using your Apple ID. Subsequently, select "Transfer from iPhone" and patiently await the process to finish.
 
 ![select transfer from iphone feature](https://images.wondershare.com/drfone/article/2023/08/transfer-old-iphone-to-iphone-15-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How To Transfer Apple iPhone 8 iTunes/Finder Backup to iPhone 15?
 
@@ -380,6 +368,10 @@ Looking for a more hands-on approach to data transfer? Using iTunes/Finder can b
 - **Step 3:** Launch iTunes/Finder on the computer after trusting the Apple iPhone 8 device and tap the “Device” icon. Then, from the “Welcome to Your New iPhone” screen, enable the “Restore from this backup” option and choose your Apple iPhone 8  backup file. Afterward, press the “Continue” button to restore the old iPhone backup to your iPhone 15.
 
 ![choose old iphone backup file](https://images.wondershare.com/drfone/article/2023/08/transfer-old-iphone-to-iphone-15-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tips: Having Trouble When Transferring to iPhone 15 Stucks?
 
@@ -406,11 +398,19 @@ Initiate the process by launching Wondershare Dr.Fone on the computer. Continue 
 
 ![open phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2 Set Data Transfer Path**
 
 On accessing the Phone Transfer tool, continue to connect your iOS devices and let them load their data on the next screen. Here, define the **Source** and **Destination** of the transfer to specify the direction of the phone transfer. To change locations, use the **Flip** button on the top.
 
 ![set ios data transfer path](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3 Choose Data Types**
 
@@ -450,14 +450,15 @@ However, one solution that truly stands out for its speed, ease, and efficiency 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-flawless-visual-cuts-mastering-in-and-out-techniques/"><u>[New] 2024 Approved Flawless Visual Cuts Mastering 'In and Out' Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-manipulate-sound-rate-in-youtube-playback/"><u>[Updated] In 2024, Manipulate Sound Rate in YouTube Playback</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-youtube-building-strong-partner-relationships/"><u>2024 Approved Navigating the World of YouTube Building Strong Partner Relationships</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-12-pro-max-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 12 Pro Max to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-13-pro-max-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 13 Pro Max to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-se-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone SE to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-c67-4g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mp4wavmovavi/"><u>MP4到WAV捷径离不开Movavi:无风险免费快速转码方法</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-x-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone X to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-effortless-capture-and-storage-pro-guide-to-digital-sound-recording/"><u>[New] In 2024, Effortless Capture & Storage Pro Guide to Digital Sound Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-innovative-techniques-for-flawless-voice-capture-in-facetime-calls/"><u>[New] Innovative Techniques for Flawless Voice Capture in FaceTime Calls</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-list-ps2-games-on-android-devices/"><u>[Updated] In 2024, Ultimate List PS2 Games on Android Devices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-10-hd-recording-apps-for-your-computer-display-for-2024/"><u>[Updated] Top 10 HD Recording Apps for Your Computer Display for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/neftiff-movavi/"><u>移動突破: NEF到TIFF的無限制免費轉換器 - 提供由Movavi</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-14-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 14 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s24-ultra-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy S24 Ultra to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-x-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone X Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-12-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 12 to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 12 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
 </ul></div>
 
