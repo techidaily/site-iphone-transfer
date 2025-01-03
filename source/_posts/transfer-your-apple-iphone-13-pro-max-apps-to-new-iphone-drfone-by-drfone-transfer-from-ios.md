@@ -1,7 +1,7 @@
 ---
 title: Transfer your Apple iPhone 13 Pro Max Apps to New iPhone | Dr.fone
-date: 2024-12-17T21:09:55.088Z
-updated: 2024-12-25T01:28:00.208Z
+date: 2024-12-31T17:10:25.682Z
+updated: 2025-01-03T11:10:24.829Z
 tags: 
   - iphone transfer
 categories:
@@ -35,6 +35,10 @@ Transfer Apps from Apple iPhone 13 Pro Max to iPhone in 1 Click Directly!
 Connect both the two iPhones to your computer. Once both the iPhones are connected successfully, all the data from source devices will be detected and listed on the screen. You can adjust the target devices and source devices by clicking the "Flip" button directly.
 
 ![transfer App from Apple iPhone 13 Pro Max to iPhone](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **A more detailed guide can be learned from this user guide. Check it out!**
 
@@ -80,10 +84,6 @@ Note: You have created the backup process on your old iPhone. Now, you should st
 
 Note: You have done the entire process to transfer apps to the new iPhone 15/15 Pro (Max) or an earlier model.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to transfer apps from Apple iPhone 13 Pro Max to iPhone using iCloud?
 
 The next successful method is an iCloud backup. iCloud the most used application for verification purposes in the iPhone. This method will be very genuine and no complications occur throughout the process when you transfer apps from Apple iPhone 13 Pro Max to iPhone 15/15 Pro (Max) or an earlier model.
@@ -114,10 +114,6 @@ Note: Doing so will erase any old setup.
 4\. Open the Apps/Data and select “Restore from the iCloud backup”.
 
 ![restore iphone apps from icloud backup](https://images.wondershare.com/drfone/article/2018/01/15169461257687.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5: You will get the screen to enter the iCloud credential details such as ID/ password.
 
@@ -167,6 +163,10 @@ This guide will decode the process, ensuring your valuable data finds its new ho
 
 When it comes to data **transfer to iPhone 15** from your old phone, there are multiple options available. There are four official methods available to transfer data from an old phone to a new iPhone. These range from using backups like iCloud and iTunes to direct transfer. Given below are the 4 official methods to transfer your data to the new iPhone 15:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Using iCloud Backup
 
 iCloud Backup emerges as a powerful solution when it comes to transferring your data to the iPhone 15. Apple's cloud-based ecosystem enables you to migrate your essential information seamlessly. It ensures that your new device is an extension of your digital world. Follow these steps to use iCloud Backup for a smooth transition:
@@ -179,6 +179,10 @@ iCloud Backup emerges as a powerful solution when it comes to transferring your 
 
 ![choose the desired icloud backup](https://images.wondershare.com/drfone/article/2023/08/transfer-data-to-new-iphone-15-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Use the iTunes/Finder Backup
 
 iTunes/Finder presents a reliable and customizable option for data transfer to a new iPhone. It is great for those who prefer a more hands-on approach to data transfer. You can create a backup of your Apple iPhone 13 Pro Max on your computer. Later this backup is used to transfer your Apple iPhone 13 Pro Max data to the new one. Follow these steps to transfer your data using iTunes or Finder:
@@ -188,13 +192,13 @@ iTunes/Finder presents a reliable and customizable option for data transfer to a
 
 ![press the back up now button](https://images.wondershare.com/drfone/article/2023/08/transfer-data-to-new-iphone-15-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Power up your iPhone 15 and follow the initial setup prompts until you reach the "Apps & Data" display. Here opt for the "Restore from Mac or PC" and connect your iPhone 15 to the same computer where you performed the backup.
 
 ![choose restore from mac or pc](https://images.wondershare.com/drfone/article/2023/08/transfer-data-to-new-iphone-15-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** In Finder or iTunes, select your iPhone 15 from the sidebar or top. Enable the "Restore from this Backup" option and choose the most recent backup you created. Afterward, click "Continue" to begin the process of transferring the old iPhone data to iPhone 15.
 
@@ -212,13 +216,13 @@ When setting up a new iPhone 15, transferring data directly from the Apple iPhon
 
 ![input old iphone passcode](https://images.wondershare.com/drfone/article/2023/08/transfer-data-to-new-iphone-15-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** When it asks you to choose a data transfer method, select "Transfer from iPhone." It will kickstart the process of transferring your Apple iPhone 13 Pro Max data to the new one. Keep the Apple iPhone 13 Pro Max devices close to each other to avoid any complications.
 
 ![tap on transfer from iphone](https://images.wondershare.com/drfone/article/2023/08/transfer-data-to-new-iphone-15-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Transfer Data from Android to iPhone 15
 
@@ -237,7 +241,7 @@ Transitioning from an Android device to the iPhone 15 is now a seamless process.
 ![choose the android data to move](https://images.wondershare.com/drfone/article/2023/08/transfer-data-to-new-iphone-15-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: The Blazing Fast and Efficient Phone Transfer Tool for iPhone 15
@@ -272,10 +276,6 @@ After this, select the data types on the platform you want to transfer and click
 
 ![start the phone transfer process](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Having Trouble When Transferring to iPhone 15 Stucks?
 
 The issue of iPhone 15 getting stuck when users attempt to transfer data from their older devices, like the iPhone 14, to the new iPhone 15 has become a frustrating challenge for many Apple enthusiasts. This problem often arises due to the complex nature of data migration and the high expectations associated with Apple's seamless ecosystem. When attempting to transfer photos, apps, contacts, and other vital information, users may encounter lengthy delays, frozen screens, or failed transfers.
@@ -301,6 +301,10 @@ Initiate the process by launching Wondershare Dr.Fone on the computer. Continue 
 
 ![open phone transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2 Set Data Transfer Path**
 
 On accessing the Phone Transfer tool, continue to connect your iOS devices and let them load their data on the next screen. Here, define the **Source** and **Destination** of the transfer to specify the direction of the phone transfer. To change locations, use the **Flip** button on the top.
@@ -318,10 +322,6 @@ After successfully determining the source and destination, select the specific d
 Once done, a prompt appears on the front asking to turn off the Find My feature on iOS devices. Open the **Settings** of the iOS device and proceed further by tapping on the name at the top. Continue from **iCloud > Find My** feature and turn it off.
 
 ![disable find my service](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5 Complete Your Transfer**
 
@@ -390,6 +390,10 @@ Open software > Connect iPhones to PC > Select "Messages" > Click "Start Transfe
 
 ![transfer iphone messages with Dr.Fone - step 3](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png "iphone message transfer process")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5\. Once it is done, you can disconnect your iPhones from the PC, and view the messages on the target iPhone.
 
 ![transfer iphone messages with Dr.Fone - step 4](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png "view messages")
@@ -413,16 +417,12 @@ Transferring data, including crucial messages, from an old iPhone to a new one i
 
 ![tap on back up now](https://images.wondershare.com/drfone/article/2023/11/transfer-messages-from-iphone-to-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Afterward, start setting up your new iPhone until you reach the “Apps & Data” screen. Here, choose "Restore from iCloud Backup" and log in using your Apple ID. Then, go on to select the backup you want to restore and complete the process by following the on-screen instructions.
 
 ![restore the required icloud backup](https://images.wondershare.com/drfone/article/2023/11/transfer-messages-from-iphone-to-iphone-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: How to Transfer Messages from Apple iPhone 13 Pro Max to iPhone, including iPhone 15/15 Pro (Max), using iCloud Sync
@@ -438,7 +438,7 @@ Ensuring a smooth transition to the latest iPhone is made simple with the aid of
 ![enable use on this iphone feature](https://images.wondershare.com/drfone/article/2023/11/transfer-messages-from-iphone-to-iphone-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 4: How to transfer messages from Apple iPhone 13 Pro Max to iPhone including iPhone 15/15 Pro (Max) using iTunes/Finder
@@ -488,20 +488,17 @@ Go ahead and follow this stepwise tutorial to transfer your messages from one iP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-webcam-selection-guide-the-10-best-picks-unveiled/"><u>[New] In 2024, Webcam Selection Guide The 10 Best Picks Unveiled</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-comprehensive-guide-to-screenshot-excellence/"><u>[New] The Comprehensive Guide to Screenshot Excellence</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-top-10-photography-frame-tools/"><u>[New] Ultimate Guide Top 10 Photography Frame Tools</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-15-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 15 Plus to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digital-pixels-at-your-command-curve-artfully-for-2024/"><u>Digital Pixels at Your Command Curve Artfully for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embarkation-on-arabic-learning-journey/"><u>Embarkation on Arabic Learning Journey</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-11-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 11 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/how-to-successfully-reconnect-with-your-gamers-dealing-with-steam-network-issues/"><u>How to Successfully Reconnect with Your Gamers: Dealing with Steam Network Issues</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-xs-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone XS to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-13-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 13 to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-7-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 7 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-8-plus-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 8 Plus to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/implementing-visual-learning-strategies-in-classrooms/"><u>Implementing Visual Learning Strategies in Classrooms</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-hash-playbook-for-video-gamers-on-youtube/"><u>In 2024, The Ultimate Hash Playbook for Video Gamers on YouTube</u></a></li>
-<li><a href="https://facebook.techidaily.com/inside-look-facebooks-backbone-organizational-model/"><u>Inside Look: Facebook's Backbone Organizational Model</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ideo-editing-power-filmora-for-youtube-trailers-for-2024/"><u>[New] Video Editing Power Filmora for YouTube Trailers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-cutting-out-the-clutter-efficient-borders-removal-on-canva-for-2024/"><u>[Updated] Cutting Out the Clutter Efficient Borders Removal on Canva for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-explore-the-ultimate-androids-top-15-simulators/"><u>[Updated] Explore the Ultimate Android's Top 15 Simulators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-srt-secrets-comprehensive-knowledge-guide/"><u>[Updated] Unlocking SRT Secrets Comprehensive Knowledge Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-filmmaking-with-ease-decoding-common-video-editing-hurdles-in-filmora/"><u>2024 Approved Filmmaking with Ease Decoding Common Video Editing Hurdles in Filmora</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-7-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 7 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-6-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 6 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-14-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 14 Pro Max to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-7-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 7 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-12-pro-max-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone 12 Pro Max Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-15-pro-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 15 Pro Max to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/tres-formas-faciles-de-crear-una-instancia-de-windows-10-en-una-memoria-usb-bootable/"><u>Tres Formas Fáciles De Crear Una Instancia De Windows 10 en Una Memoria USB Bootable</u></a></li>
 </ul></div>
 

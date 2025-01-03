@@ -1,7 +1,7 @@
 ---
 title: Transfer your Apple iPhone 12 Pro Apps to New iPhone | Dr.fone
-date: 2024-12-19T19:18:27.195Z
-updated: 2024-12-24T19:47:17.845Z
+date: 2024-12-30T08:41:03.065Z
+updated: 2025-01-03T11:33:40.089Z
 tags: 
   - iphone transfer
 categories:
@@ -62,10 +62,6 @@ The Whole Process is divided into two sections
 
 ![backup iphone apps to itunes](https://images.wondershare.com/drfone/article/2018/01/15169285481003.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Once the backup process is finished, you should check whether the backup was done in iTunes preferences in the old iPhone. You can check it by verifying your name, time, and date in the backup.
 
 Note: You have created the backup process on your old iPhone. Now, you should start the next work to transfer apps to the new iPhone like iPhone 15/15 Pro (Max).
@@ -77,12 +73,20 @@ Note: You have created the backup process on your old iPhone. Now, you should st
 
 ![restore iphone apps from itunes backup](https://images.wondershare.com/drfone/article/2017/07/15002815435966.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Now, you have to connect the new iPhone device to the PC where the backup from the old iPhone was done.
 4. View iTunes from the computer and choose your new iPhone like iPhone 15/15 Pro (Max).
 5. Choose the “Restore backup” and cross-check the date, time, iPhone old name, etc.
 6. If you set a passcode then enter it. Just wait for a few minutes to get complete the restore process. Keep On the Wifi support to the new iPhone like iPhone 15/15 Pro (Max) and your backup will automatically download to the new iPhone.
 
 Note: You have done the entire process to transfer apps to the new iPhone 15/15 Pro (Max) or an earlier model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to transfer apps from Apple iPhone 12 Pro to iPhone using iCloud?
 
@@ -115,19 +119,23 @@ Note: Doing so will erase any old setup.
 
 ![restore iphone apps from icloud backup](https://images.wondershare.com/drfone/article/2018/01/15169461257687.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5: You will get the screen to enter the iCloud credential details such as ID/ password.
 
 ![select icloud backup file](https://images.wondershare.com/drfone/article/2018/01/15169292663640.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6: After entering the credentials, you will have the choice to select the backup process. Ensure the date/time of the backup process for verification.
 
 7: The backup process starts on your new phone and you do not interrupt or stop the wifi connection while the backup process continues.
 
 8: Your photos, videos, files, etc will be automatically downloaded into your new Phone using iCloud.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to transfer apps from Apple iPhone 12 Pro to iPhone with the help of the App store?
 
@@ -139,12 +147,16 @@ In this part, we are going to transfer apps from Apple iPhone 12 Pro to iPhone 1
 
 ![transfer app to new iphone via app store](https://images.wondershare.com/drfone/article/2018/01/15169314547930.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3: Once you tap on the update icon, it will show the option “My Purchase”. It will ask you to sign in the iCloud account.
 
 ![check my purchased apps](https://images.wondershare.com/drfone/article/2018/01/15169314968668.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4: After entering the credential, you have the two options such as all and not on this phone.
@@ -154,10 +166,6 @@ In this part, we are going to transfer apps from Apple iPhone 12 Pro to iPhone 1
 6: Click the download button next to the icon of the apps. The apps will be installed on your new Phone.
 
 ![download apps to new iphone](https://images.wondershare.com/drfone/article/2018/01/15169315338930.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Note: You have completed the installation of apps on your new iPhone.
 
@@ -169,12 +177,16 @@ We have given and explained to you 3 methods to **transfer apps from Apple iPhon
 
 Thought changing into a new phone is exciting, but changing phones can be a real pain because you have to move all your data into your new phone like iPhone 15 or iPhone 15 Pro (Max). Contacts are very important data on your phone because you won’t be able to make any calls or send texts to your known persons or friends and family without them. If you are an iPhone user, you need to follow some processes to transfer contacts from Apple iPhone 12 Pro to iPhone. Also, you may want to [import contacts from excel to iPhone](https://drfone.wondershare.com/iphone-transfer/import-contacts-from-excel-to-iphone.html). This article will give you all the information you need about how you can transfer contacts from Apple iPhone 12 Pro to new iPhone like iPhone 15 or iPhone 15 Pro (Max).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Transfer Contacts from Apple iPhone 12 Pro to iPhone Including iPhone 15 with Dr.Fone (1- click solution)
 
 Dr.Fone is a perfect tool for transferring contacts from Apple iPhone 12 Pro to iPhone. It can transfer contacts and all kinds of data and media files from your iPhone to iPhone or Android and vice-versa. [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a great tool that supports all the latest iOS and Android-based smartphones; it also works smoothly on Windows and Mac. It’s the easiest, fastest, and safest way to transfer contacts from Apple iPhone 12 Pro to iPhone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Phone Transfer
@@ -196,15 +208,15 @@ First, you need to download dr. Fone on your computer and install it. Run the pr
 
 ![transfer contacts to iphone with Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Transfer Contacts**
 
 Dr.Fone will show you both iPhones on your screen, and you will have to choose the “Contacts” option and click on the “Start Transfer” button.
 
 ![select contacts to transfer to target iphone](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Finish The Process**
 
@@ -246,10 +258,6 @@ You need to go to the “Settings” option of your source iPhone and tap on you
 
 ![transfer contacts from iphone to iphone using icloud sync](https://images.wondershare.com/drfone/article/2018/03/transfer-contacts-to-iphone-using-icloud-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You need to use the Apple ID and password on your target phone and do the same thing to toggle on the “Contacts” option from “iCloud” and wait until your iPhone asks you to merge contacts.
 
 ![sync contacts to iphone from icloud](https://images.wondershare.com/drfone/article/2018/03/transfer-contacts-to-iphone-using-icloud-4.jpg)
@@ -282,17 +290,9 @@ In the end, you need to connect your target iPhone to your PC and choose the “
 
 Transferring any data from your old phone to a new phone can be very painful. But nowadays it’s very easy with the help of a lot of tools. If you want to transfer contacts from your old iPhone to a new one, you need to use Dr.Fone - Phone Transfer because it’s the best solution to use a 1-Click system to copy contacts from one phone to another in a very easy and fast way. You can also use iCloud backup, iCloud syncing, and iTunes to transfer your contacts, but Dr.Fone can give you the safest and easiest solution. I can assure you that you won’t regret it if you choose Dr.Fone for this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Transfer Data from Apple iPhone 12 Pro to ZTE Phones
 
 Moving your contacts, call logs, calendar, photos, music, videos and apps from your iPhone or iPad to your ZTE phone is essential. But a lot of time the process can be very difficult, not to mention the time consuming task of transferring every single piece of data individually. If you wanted to transfer data from your iOS device to your ZTE phone, you would have to go through a lengthy guide, probably off the internet that would be complicated and time consuming.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How to transfer data from Apple iPhone 12 Pro to ZTE with 1 click
 
@@ -331,7 +331,7 @@ Then connect your iPhone and ZTE phones to your computer via USB cables. Once yo
 ![connect devices to transfer data from Apple iPhone 12 Pro to ZTE](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Let’s Transfer Data
@@ -378,16 +378,24 @@ ZTE devices keep getting better; the following are some of the best ZTE phones i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nleashing-the-power-of-youtube-short-form-videos/"><u>[New] Unleashing the Power of YouTube Short Form Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-prime-steps-for-capturing-phone-operations/"><u>[Updated] Prime Steps for Capturing Phone Operations</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-free-convertors-top-5-online-apps-for-gifs-to-videos/"><u>2024 Approved Pioneering Free Convertors Top 5 Online Apps for GIFs to Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-verified-vids-the-reality-of-instas-self-validation/"><u>2024 Approved Verified Vids The Reality of Insta’s Self-Validation</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-compelling-compositions-effects-on-text/"><u>Crafting Compelling Compositions Effects on Text</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-8-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 8 to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-6-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone 6 Plus Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-2022-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE (2022) to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-se-2020-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone SE (2020) to PC | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/loves-future-chatgpt-revolutionizing-relationships/"><u>Love's Future: ChatGPT Revolutionizing Relationships</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-15-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 15 Pro Max to iPhone | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-making-spectacular-slow-motion-images-for-instagram/"><u>[New] Step-by-Step Guide to Making Spectacular Slow Motion Images for Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-vanguard-enterprises-of-spatial-display-tech/"><u>[Updated] 2024 Approved Vanguard Enterprises of Spatial Display Tech</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-6s-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 6s to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone XS to Android | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-fix-kernel-event-error-117/"><u>Comprehensive Solutions to Fix Kernel Event Error 117</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/gameplay-chronicles-proven-techniques-for-recording-your-sims-epic-saga-in-sims-4-for-2024/"><u>Gameplay Chronicles Proven Techniques for Recording Your Sim's Epic Saga in Sims 4 for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 12 mini to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-13-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 13 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-se-2020-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone SE (2020) to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-zte-axon-40-lite-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-7-plus-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 7 Plus to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-15-pro-max-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 15 Pro Max to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-6-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 6 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-transform-video-discoverability-essential-seo-tips-for-yt/"><u>In 2024, Transform Video Discoverability Essential SEO Tips for YT</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/malwarebytes-unveiled-does-investing-in-the-premium-version-truly-outshine-the-basic-offering/"><u>MalwareBytes Unveiled: Does Investing in the Premium Version Truly Outshine the Basic Offering?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-xr-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone XR Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/user-defined-initialization-options-panel-for-custom-application-deployment/"><u>User-Defined Initialization Options Panel for Custom Application Deployment</u></a></li>
+<li><a href="https://win11.techidaily.com/windowsiphoneandroidtop5/"><u>Windows、iPhone、Android用動画連結手法TOP5 - スムーズな映像編集</u></a></li>
 </ul></div>
 
