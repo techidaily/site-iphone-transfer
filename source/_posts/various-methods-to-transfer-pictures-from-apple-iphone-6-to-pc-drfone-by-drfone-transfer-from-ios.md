@@ -1,7 +1,7 @@
 ---
 title: Various Methods to Transfer Pictures from Apple iPhone 6 to PC | Dr.fone
-date: 2024-12-27T06:28:32.607Z
-updated: 2025-01-03T01:10:08.806Z
+date: 2025-01-04T00:08:49.501Z
+updated: 2025-01-09T21:50:37.259Z
 tags: 
   - iphone transfer
 categories:
@@ -22,10 +22,6 @@ It can be helpful in creating backups, freeing up storage space, and more. In th
 
 With the Apple iPhone 6 's advanced camera, capturing life's beautiful moments is second nature. On the other hand, Windows OS has long been the backbone of personal computing. They come equipped with a range of tools to make the photo transfer process smooth and efficient. Explained below are two of the common method to **import photos from Apple iPhone 6 to PC**:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: File Explorer
 
 When it comes to simplicity and direct control, File Explorer stands out as an excellent option. It is a steadfast companion for transferring photos from your Apple iPhone 6  to your Windows PC. This method gives you the freedom to navigate through your device's internal storage.
@@ -35,6 +31,10 @@ Moreover, you can select the images you desire and move them to your computer. F
 - **Step 1:** Begin by connecting your Apple iPhone 6  to your Windows PC using an Apple-certified USB cable. Ensure that your iPhone is unlocked, and if prompted, tap "Trust This Computer" on your device's screen.
 
 ![tap on the trust option](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** On your Windows PC, press the “File Explorer” icon on your taskbar. In the left-hand panel of File Explorer, locate and click "This PC." Your connected Apple iPhone 6  should appear under the "Devices and Drives" section.
 
@@ -51,10 +51,6 @@ Available in Windows 10 and later, the Photos app is a prime example of this con
 - **Step 1:** Connect your Apple iPhone 6  to your Windows PC using a USB cable, and if prompted, tap "Trust This Computer." On your Windows PC, locate and open the "Photos" app.
 
 ![trust the computer](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2:** In the Photos app, click on the "Import" button located in the top-right corner. From the available options, choose "From a connected device" and select your iPhone. The Photos app will display the photos on your Apple iPhone 6  that are available for import. After selecting the images, select an existing folder or create a new one for the imported photos.
 
@@ -96,6 +92,10 @@ In the vast realm of cloud storage solutions, Google Drive emerges as a universa
 - **Step 1:** Download the Google Drive app from the App Store and log in using your Google account credentials. Tap the "+" button and select "Upload" to add the targeted photos to Google Drive.
 
 ![tap on the upload option](https://images.wondershare.com/drfone/article/2023/08/transfer-photos-from-iphone-15-to-pc-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Once photos are uploaded, move to your PC and open Google Drive using a web browser. Locate the folder where you uploaded the pictures from your Apple iPhone 6 . Select the photos, right-click, and choose "Download" to initiate the download process.
 
@@ -160,7 +160,7 @@ Therefore, to transfer photos from Android to iPhone, such as iPhone 15, you wil
 However, fortunately, there are plenty of high-quality third-party programs that can help you enable Android to iPhone photo transfer. So, start reading the guide below and choose the option that best suits you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to transfer photos from Android to iPhone including iPhone 15/15 Pro(Max) with Dr.Fone?
@@ -172,10 +172,6 @@ Dr.Fone is perfect because you can transfer across multiple devices regardless o
 ### Method 1.1 One-click to Transfer Photos from Android to iPhone using Dr.Fone - Phone Transfer
 
 [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a software package that facilitates cross-device transactions such as transferring photos from Android to iPhone. If you are in the process of replacing your Android with a new iPhone, then use Dr.Fone to transfer all contents to the new phone. The content can include photos, contacts, videos, and social media messages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Phone Transfer
 
@@ -201,15 +197,23 @@ Step 3. As soon as you connect the Apple iPhone 6 device, it will start recogniz
 
 ![transfer photos from android to iphone-make sure the source and destination](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4. Finally, select the files you want to transfer (photos) and click on ‘Start Transfer’.
 
 ![transfer photos from android to iphone-start transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 That was it. Soon, it will transfer pictures from Android to iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1.2 Selectively Transfer photos from Android to iPhone using Dr.Fone - Phone Manager (Android)
 
@@ -253,12 +257,16 @@ The next step is to take your Apple iPhone 6 to complete the transfer process wi
 
 ![how to transfer photos from android to iphone-move from android to ios](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - On your Apple iPhone 6, enter the 12-digit code of the iPhone. This is so that the ‘Move to iOS’ app knows which iOS device it has to transfer the data to.
 
 ![how to transfer photos from android to iphone-enrer the code](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Before the transfer starts, you will be asked a number of questions, like do you want to transfer Google Account information, Bookmarks, etc. Now, since you only want videos and photos, deselect the other options except ‘Camera Roll’
@@ -295,19 +303,11 @@ You can extract videos and photos directly from the camera and transfer them to 
 
 ![how to transfer photos from android to iphone-PhotoSync](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Photo Transfer
 
 The photo transfer app is an incredibly popular app and with a good reason. You can perform Android to iPhone photo transfer without any cables. You can access Photo Transfer on different platforms, including desktop computers. It allows you to access your photos stored on the app via a web browser. You can easily download multiple photos for storage and exchange these photos across multiple platforms. If you are in need of an intuitive, easy to use app transfer photos to iPhone from Android, then consider using the Photo Transfer app.
 
 ![how to transfer photos from android to iphone-Photo Transfer](https://images.wondershare.com/drfone/article/2018/06/transfer-photos-from-android-to-iphone-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Shareit
 
@@ -320,7 +320,7 @@ The best part of Shareit is the freedom allowed to users because you can transfe
 Thus, after going through the article, we are sure that you got a wide range of options to choose from to transfer your Apple iPhone 6 photos to the iPhone. Well, every method is good in itself; however, we would like to say that one of the best options for you would be the Dr.Fone tool without a doubt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Transfer/Sync Notes from Apple iPhone 6 to iPad
@@ -350,7 +350,7 @@ Now go to the Notes app on your iPhone, and you can see a folder named iCloud. N
 ![How to Transfer Notes from Apple iPhone 6 to iPad Using iCloud - step 3: Go to Notes on iPhone](https://images.wondershare.com/drfone/others/open-notes-app-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. Sync Notes from Apple iPhone 6 to iPad Using Third-Party Software
@@ -449,19 +449,15 @@ User Reviews
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-capture-screens-in-windows-8-4-methods/"><u>[New] 2024 Approved Capture Screens in Windows 8 4 Methods</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-exploring-gopros-peak-adapters-the-ultimate-6-selection-guide/"><u>[New] In 2024, Exploring GoPro's Peak Adapters The Ultimate 6 Selection Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-blueprint-for-capturing-compelling-powerpoint-presentations-for-2024/"><u>[Updated] The Blueprint for Capturing Compelling PowerPoint Presentations for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtubes-edge-design-tips-for-compelling-video-thumbnails-for-2024/"><u>[Updated] YouTube's Edge Design Tips for Compelling Video Thumbnails for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 6 to Android | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726028946935-youtube/"><u>高速ダウンロード可能な動画にするための圧縮手法：YouTubeでの使い方を学ぶ</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-oppo-reno-10-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Oppo Reno 10 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-fuzzy-video-after-win11-os-transition/"><u>Fixing Fuzzy Video After Win11 OS Transition</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-14-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 14 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-8-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 8 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-13-pro-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 13 Pro Max Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/introducing-asuss-groundbreaking-rog-nuc-top-of-the-line-tech-featuring-amd-ryzen-9-and-nvidia-rtx-4070-available-for-1629/"><u>Introducing Asus's Groundbreaking ROG NUC: Top of The Line Tech Featuring AMD Ryzen 9 & Nvidia RTX 4070 - Available for $1,629</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-6-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 6 Plus to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/virtual-diary-dos-and-donts-for-consistent-content-for-2024/"><u>Virtual Diary Dos & Don'ts for Consistent Content for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-complete-narrative-what-is-google-podcast-for-2024/"><u>[New] Complete Narrative What Is Google Podcast for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-capturing-online-clarity-a-zoomers-guide/"><u>[Updated] 2024 Approved Capturing Online Clarity A Zoomer's Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mi-drone-reviewed-capturing-landscapes-in-full-resolution/"><u>[Updated] In 2024, MI Drone Reviewed Capturing Landscapes in Full Resolution</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-upgrading-igtv-thumbnails-a-comprehensive-walkthrough/"><u>[Updated] In 2024, Upgrading IGTV Thumbnails A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/1726226965386-bmppng-movavi/"><u>免費在線BMP至PNG格式轉換器 - Movavi 教程解決方案</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-11-pro-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 11 Pro Max to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 15 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-11-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 11 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-15-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 15 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210539279-9781446549483-witchcraft-and-witchcraft-trials-in-orkney-and-shetland-folklore-history-series/"><u>Witchcraft and Witchcraft Trials in Orkney and Shetland (Folklore History Series) | Free Book</u></a></li>
 </ul></div>
 
