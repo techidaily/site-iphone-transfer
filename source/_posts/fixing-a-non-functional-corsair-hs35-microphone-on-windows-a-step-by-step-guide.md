@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Functional Corsair HS35 Microphone on Windows: A Step-by-Step Guide"
-date: 2025-01-03T19:32:41.161Z
-updated: 2025-01-09T22:38:13.961Z
+date: 2025-01-12T19:32:43.263Z
+updated: 2025-01-15T18:03:16.586Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1 – Allow access to your microphone on your PC
 
  If your Corsair HS35 is not activated in the Window settings, your PC will lack the access to your microphone and so the mic just won’t start to work at all. Follow these steps to allow access to your microphone:
@@ -44,18 +48,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
 
@@ -73,23 +69,19 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 3. Right-click the headset microphone again and select **Properties.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your audio driver
 
@@ -110,6 +102,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DE-audio-card-driver.jpg)
 4. After updating your audio driver, restart your PC for the trick to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
 
 ---
@@ -122,11 +118,15 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
@@ -136,16 +136,16 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Restart your PC and replug your Corsair headset into your computer.
 8. Relaunch the iCUE software. You can click **[here](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F166866)**  to download the latest version of iCUE.
 
  If this method doesn’t work, then try the one below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5 – Use a USB audio card
 
@@ -202,15 +202,16 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-step-by-step-guide-to-masterful-technology-enhancements/"><u>[Updated] Step-by-Step Guide to Masterful Technology Enhancements</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-online-hostility-on-video-platforms/"><u>2024 Approved Navigating Online Hostility on Video Platforms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-hp-stream-14-analysis-balancing-cost-and-performance/"><u>Affordable HP Stream 14 Analysis - Balancing Cost and Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/critical-look-at-overwatch-lively-cooperative-fps-action/"><u>Critical Look at Overwatch: Lively Cooperative FPS Action</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-6s-plus-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 6s Plus Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Magic 6 Lite? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-se-2020-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone SE (2020) to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-6s-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 6s Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 11 Pro to Android | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/when-computers-twice-crash-a-deep-dive-into-simultaneous-failures-and-fixes/"><u>When Computers Twice Crash: A Deep Dive Into Simultaneous Failures and Fixes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breathtaking-lyric-videos-made-easy-by-lyric-video-maker/"><u>[New] 2024 Approved Breathtaking Lyric Videos Made Easy by Lyric Video Maker</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-transition-made-easy-the-8-best-convertors-for-subtitles-and-srts/"><u>[Updated] In 2024, Transition Made Easy The 8 Best Convertors for Subtitles & SRTs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audience-hooks-writing-captivating-podcast-descriptions/"><u>2024 Approved Audience Hooks Writing Captivating Podcast Descriptions</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-13-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 13 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/asus-unveils-revolutionary-rog-nuc-with-advanced-core-ultra-9-processors-and-impressive-rtx-nvidia-graphics-starting-at-just-1629/"><u>Asus Unveils Revolutionary ROG NUC with Advanced Core Ultra 9 Processors and Impressive RTX nVidia Graphics Starting at Just $1,629!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-15-pro-max-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 15 Pro Max to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-12-pro-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 12 Pro to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-13-mini-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 13 mini to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-essential-process-of-modifying-your-online-community-background/"><u>The Essential Process of Modifying Your Online Community Background</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/trasforma-i-tuoi-file-mp3-in-formato-video-mkv-senza-costi-con-il-servizio-online-di-convertitore-video-movavi/"><u>Trasforma I Tuoi File MP3 in Formato Video MKV Senza Costi Con Il Servizio Online Di Convertitore Video - Movavi</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-x-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone X to iPhone | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving PC Malfunctions in Football Manager 2021 - Expert Tips for Gamers
-date: 2025-01-06T05:00:17.844Z
-updated: 2025-01-09T22:47:22.393Z
+date: 2025-01-08T21:58:09.755Z
+updated: 2025-01-15T21:31:37.142Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/1003c2d436af1af88200a4fecafa1c9b55219d7d2
 Looking for Football Manager 2023 won’t launch fixes? You’ve come to the right place and this post is here to help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -29,10 +29,6 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 2. [Update your graphic driver](https://tools.techidaily.com/drivereasy/download/)
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Add an exception to your antivirus
 
@@ -46,20 +42,28 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it’s not your antivirus software, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -100,10 +104,6 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
 
@@ -118,12 +118,12 @@ If this fix bring no luck, move to the next fix.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
-4. Relaunch the game to check.
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
+4. Relaunch the game to check.
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
 
@@ -146,19 +146,21 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-does-spending-on-youtube-followers-really-amplify-your-presence/"><u>[New] 2024 Approved Does Spending on YouTube Followers Really Amplify Your Presence?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boost-your-projects-quality-rankings-of-the-best-free-editing-apps-top-9/"><u>[New] In 2024, Boost Your Projects' Quality Rankings of the Best Free Editing Apps (Top 9)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-vdy-pro-recorder-summary-detailed-analysis/"><u>[New] In 2024, VDY Pro Recorder Summary Detailed Analysis</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-techniques-of-composing-persuasive-content-in-vlogging/"><u>[Updated] Techniques of Composing Persuasive Content in Vlogging</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-vlc-mastery-unveiling-10-secret-capabilities/"><u>[Updated] VLC Mastery Unveiling 10 Secret Capabilities</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-wave-weaver-toolkit/"><u>[Updated] Wave Weaver Toolkit</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-13-mini-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 13 mini to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone SE to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-13-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 13 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-15-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 15 to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-x-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone X Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-fatal-errors-for-ghostrunner-players-using-windows-11-systems/"><u>Resolving Fatal Errors for Ghostrunner Players Using Windows 11 Systems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/spectacular-hooks-title-crafter-for-2024/"><u>Spectacular Hooks Title Crafter for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-holistic-photo-tale-architect-platform/"><u>[Updated] Holistic Photo Tale Architect Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/18-engaging-duet-conversations-texting-fun-hits-two/"><u>18 Engaging Duet Conversations: Texting Fun Hits Two!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-se-2022-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone SE (2022) to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-12-mini-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 12 mini Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-15-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 15 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-15-pro-max-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 15 Pro Max to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-7-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 7 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-12-mini-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 12 mini to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ice-cream-recording-tech-deep-dive-analysis/"><u>In 2024, Ice Cream Recording Tech Deep Dive Analysis</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-7-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 7 Plus to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-pixiz-for-creating-dynamic-photo-videos/"><u>Mastering Pixiz for Creating Dynamic Photo Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimized-ai-dialogues-chatgpt-for-mac-enthusiasts/"><u>Optimized AI Dialogues: ChatGPT for Mac Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/s18-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>S18 Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-exclusive-offers-macbook-pros-and-mini-deals-of-the-month-for-january-2022-insider-tips/"><u>Snag Exclusive Offers: MacBook Pros and Mini Deals of the Month for January 2022 | Insider Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-system-call-failure-on-modern-windows-systems/"><u>Tackling System Call Failure on Modern Windows Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-drone-evolution-a-deep-look-at-djis-mavic-pro/"><u>The Drone Evolution A Deep Look at DJI's Mavic Pro</u></a></li>
 </ul></div>
 

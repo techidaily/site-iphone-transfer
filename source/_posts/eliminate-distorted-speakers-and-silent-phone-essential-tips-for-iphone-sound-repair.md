@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Distorted Speakers & Silent Phone: Essential Tips for iPhone Sound Repair"
-date: 2025-01-04T19:47:19.300Z
-updated: 2025-01-10T00:06:10.041Z
+date: 2025-01-09T19:47:09.413Z
+updated: 2025-01-15T19:25:40.908Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Try the generic audio driver
 
  Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
@@ -41,15 +45,19 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -59,10 +67,6 @@ Read on and follow the easy-doing images below!
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
@@ -74,7 +78,7 @@ Read on and follow the easy-doing images below!
  If your computer sound still keeps cutting out, please move on to the next option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Change Sound Enhancement Settings
@@ -86,7 +90,7 @@ Read on and follow the easy-doing images below!
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
@@ -94,10 +98,6 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ea142d3d.png)
 4. Navigate to the**Enhancements** tab, then tick the box for**Disable all sound effects** . Then click**OK** to save the change.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2f2436ccd.png)
 
@@ -111,6 +111,10 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
 3. Click**Next** to move forward from the sound test.  
 
@@ -120,14 +124,10 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try to play audio with your computer again to see if the sound still cuts out.
@@ -153,22 +153,19 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-maximizing-instagram-video-lengths-a-step-by-step-guide/"><u>[Updated] In 2024, Maximizing Instagram Video Lengths A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 8 to Android | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-luxury-reviewing-the-glion-dollys-swift-ride-and-exclusive-design/"><u>Affordable Luxury? Reviewing the Glion Dolly's Swift Ride & Exclusive Design</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/dealing-with-sound-card-malfunctions-effective-solutions-provided-by-yl-software-experts/"><u>Dealing with Sound Card Malfunctions: Effective Solutions Provided by YL Software Experts</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone SE to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-6s-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 6s Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-11-pro-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 11 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-13-mini-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 13 mini to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-xs-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone XS to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-honor-70-lite-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Honor 70 Lite 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://some-tips.techidaily.com/phasing-out-of-apples-pay-later-scheme-announced-with-a-replacement-service-on-the-horizon-insights/"><u>Phasing Out of Apple's Pay Later Scheme Announced, With a Replacement Service on the Horizon - Insights</u></a></li>
-<li><a href="https://extra-support.techidaily.com/snapseed-basics-unlock-your-image-editing-potential-for-2024/"><u>Snapseed Basics Unlock Your Image-Editing Potential for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-x-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone X to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/strategic-first-impressions-the-unpacking-edge/"><u>Strategic First Impressions The Unpacking Edge</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-guide-to-distinctive-tiktok-profiles-for-2024/"><u>The Ultimate Guide to Distinctive TikTok Profiles for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-11-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 11 Pro to PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-real-deal-behind-asmr-videos/"><u>[New] 2024 Approved The Real Deal Behind ASMR Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-gionee-f3-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Gionee F3 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-8-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 8 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-powered-chatgpt-develop-customized-healthy-workouts-that-suit-your-fitness-goals-safely/"><u>Can AI-Powered ChatGPT Develop Customized, Healthy Workouts That Suit Your Fitness Goals Safely?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/curing-infinite-loading-woes-in-the-elder-scrolls-v-skyrim-explained/"><u>Curing Infinite Loading Woes in The Elder Scrolls V: Skyrim Explained</u></a></li>
+<li><a href="https://network-issues.techidaily.com/geforce-setup-fixed-errors/"><u>GeForce Setup Fixed Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-easily-purchase-and-play-games-on-your-oculus-quest-headset/"><u>How To Easily Purchase & Play Games on Your Oculus Quest ² Headset</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-11-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 11 Pro</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-xs-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone XS to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-7-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 7 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-8-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 8 to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-xs-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone XS Max to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/no-budget-maximum-fun-best-free-tiktok-editors-for-macos/"><u>No Budget, Maximum Fun Best FREE TikTok Editors for MacOS</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-xs-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone XS Apps to New iPhone | Dr.fone</u></a></li>
 </ul></div>
 

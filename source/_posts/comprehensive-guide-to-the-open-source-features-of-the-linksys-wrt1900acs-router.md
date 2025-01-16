@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to the Open Source Features of the Linksys WRT1900ACS Router
-date: 2025-01-02T20:46:22.418Z
-updated: 2025-01-10T05:05:03.825Z
+date: 2025-01-12T16:47:00.916Z
+updated: 2025-01-15T21:57:17.269Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to the Open Source Features of the Linksys WRT1900ACS Router
@@ -40,6 +40,10 @@ Lifewire / Erika Rawes
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/o0LkMzwRLq9UDT8tBDJerDIsp8M=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
@@ -71,6 +75,10 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
  Overall, the C80 feels pretty sturdy. There are four antennas, and they don’t feel flimsy or easily breakable. The antennas are exceptionally long—disproportionately so when compared to the router’s body—but the length of the antennas is advantageous for performance. You can move the antennas 90 degrees up and down and roughly 180 degrees side to side, which lets you appropriately adjust them for placement on a wall or table. The Gigabit Ethernet ports (one WAN, four LAN) and power adapter port are located on the back of the device, which is ideal for placement on a flat surface, but not as great for mounting on a wall because the cables come out of the top of the router, and they’re difficult to hide or organize.
@@ -86,14 +94,10 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/tXeiVJNqjtwMg97as87xxtsMwhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_04-375b5f92ce9d44f4af109c8f6bfada16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Network Performance: Fast speeds, No USB port**
 
@@ -103,17 +107,21 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Range: Even better than advertised**
 
  TP-Link advertises the C80 as a router for three-bedroom homes. However, that estimate understates the router’s range capabilities. My home is a two-story, 3,000 square-foot residence with five-bedrooms, and I was able to maintain a stable Wi-Fi connection in every corner. Every closet, bathroom, and bedroom got a steady signal, and I experienced no dead zones whatsoever. Even in the garage, front yard, and backyard, the signal remained strong. It was only when I attempted to use multiple gaming and streaming devices at one time that I experienced any sort of lag.
 
  Every closet, bathroom, and bedroom maintained a signal, and I experienced no dead zones whatsoever.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Software: TP-Link Tether app**
 
@@ -125,15 +133,7 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Price: Around 100 bucks**
 
@@ -184,24 +184,17 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unleash-your-potential-with-top-igtv-creators-for-2024/"><u>[Updated] Unleash Your Potential with Top IGTV Creators for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-itel-a70-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-7-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 7 Plus to Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-12-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 12 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-8-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone 8 Plus to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-11-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 11 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-xs-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone XS Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6s-plus-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 6s Plus to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-12-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 12 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/in-2024-identifying-sources-for-authentic-canine-symphony-sounds/"><u>In 2024, Identifying Sources for Authentic Canine Symphony Sounds</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-screen-capture-tips-for-phones/"><u>In 2024, Snapchat Screen Capture Tips for Phones</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-15-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 15 to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavis-no-cost-image-tool-change-orf-files-to-jpg-seamlessly/"><u>Movavi's No-Cost Image Tool: Change ORF Files to JPG Seamlessly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reclaim-your-discord-interface-fixing-a-dormant-overlay/"><u>Reclaim Your Discord Interface: Fixing a Dormant Overlay</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/rethinking-artificial-intelligence-the-6-downsides-you-need-to-know/"><u>Rethinking Artificial Intelligence: The 6 Downsides You Need to Know</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-driver-installation-for-asus-z370-e-fast-and-simple/"><u>Step-by-Step Driver Installation for ASUS Z370-E - Fast & Simple</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tech-face-off-google-pixel/"><u>Tech Face-Off: Google Pixel</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-xr-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone XR to PC | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-oscillation-crafting-box/"><u>[New] 2024 Approved Oscillation Crafting Box</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-breaking-language-barriers-with-these-top-20-video-translators/"><u>[New] In 2024, Breaking Language Barriers with These Top 20 Video Translators</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-14-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 14 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/desktop-adventures-await-with-pokemon-unite-get-started-here/"><u>Desktop Adventures Await with Pokémon Unite - Get Started Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-out-which-ipads-come-with-inbuilt-satellite-positioning-tools/"><u>Find Out Which iPads Come With Inbuilt Satellite Positioning Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pop-8-phone-without-google-account-by-drfone-android/"><u>How to Unlock Tecno Pop 8 Phone without Google Account?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-11-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 11 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-gt-neo-5-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme GT Neo 5 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 15 Pro Max to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-11-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 11 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-business-potential-with-these-5-critical-ai-applications/"><u>Unlocking Business Potential with These 5 Critical AI Applications</u></a></li>
 </ul></div>
 

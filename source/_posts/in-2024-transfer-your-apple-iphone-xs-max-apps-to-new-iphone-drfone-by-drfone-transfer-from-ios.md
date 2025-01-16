@@ -1,7 +1,7 @@
 ---
 title: In 2024, Transfer your Apple iPhone XS Max Apps to New iPhone | Dr.fone
-date: 2024-12-31T00:25:44.734Z
-updated: 2025-01-02T22:45:57.298Z
+date: 2025-01-12T16:33:03.251Z
+updated: 2025-01-15T21:34:32.896Z
 tags: 
   - iphone transfer
 categories:
@@ -35,10 +35,6 @@ Transfer Apps from Apple iPhone XS Max to iPhone in 1 Click Directly!
 Connect both the two iPhones to your computer. Once both the iPhones are connected successfully, all the data from source devices will be detected and listed on the screen. You can adjust the target devices and source devices by clicking the "Flip" button directly.
 
 ![transfer App from Apple iPhone XS Max to iPhone](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **A more detailed guide can be learned from this user guide. Check it out!**
 
@@ -100,7 +96,7 @@ Here also, we have summed up the transferring process via iCloud under two secti
 ![backup iphone apps to icloud](https://images.wondershare.com/drfone/article/2018/01/15169459451134.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Note: You have taken the backup from the old iPhone using the iCloud application.
@@ -139,13 +135,13 @@ In this part, we are going to transfer apps from Apple iPhone XS Max to iPhone 1
 
 ![transfer app to new iphone via app store](https://images.wondershare.com/drfone/article/2018/01/15169314547930.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3: Once you tap on the update icon, it will show the option “My Purchase”. It will ask you to sign in the iCloud account.
 
 ![check my purchased apps](https://images.wondershare.com/drfone/article/2018/01/15169314968668.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4: After entering the credential, you have the two options such as all and not on this phone.
 
@@ -191,6 +187,10 @@ Transfer MP3 to iPhone/iPad/iPod without iTunes
 
 ![connect iphone to computer](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Instead of selecting options from its home, go to the “Information” tab.
 
 4\. The Information tab will have data related to your device’s contacts and SMS. You can switch between Contacts and SMS from their selective options on the left panel.
@@ -217,10 +217,6 @@ You can also try SA Contacts Lite to export iPhone contacts to Excel free as wel
 
 ![export iphone contacts to excel with sa contacts lite](https://images.wondershare.com/drfone/article/2018/01/15154800798449.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Go with the default option of “Separated” or “Backup” and tap on the Start button to initiate the process.
 
 5\. In no time, the app will create a CSV file of your contacts. From here, you can mail yourself the CSV file as well.
@@ -230,10 +226,6 @@ You can also try SA Contacts Lite to export iPhone contacts to Excel free as wel
 ![export iphone contacts excel file to dropbox](https://images.wondershare.com/drfone/article/2018/01/15154800927553.jpg)
 
 7\. For instance, if you wish to upload the file to Dropbox, simply select the provided option and grant the app the needed permissions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Export iPhone contacts to CSV using iCloud
 
@@ -247,10 +239,6 @@ If you don’t want to take the assistance of any third-party app to export iPho
 
 ![log in icloud account on computer](https://images.wondershare.com/drfone/article/2018/01/15154801044092.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Click on the gear icon (Settings) on the bottom left corner. From here, you can select all contacts in one go. Though, if you wish, you can manually select the contacts you wish to export as well.
 
 ![select all contacts on icloud](https://images.wondershare.com/drfone/article/2018/01/15154801165153.jpg)
@@ -259,15 +247,15 @@ If you don’t want to take the assistance of any third-party app to export iPho
 
 ![export iphone contacts to vcard](https://images.wondershare.com/drfone/article/2018/01/15154801304112.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5\. The exported vCard will automatically be saved in the Downloads folder (or any other default location). Now, you can simply go to a [vCard to CSV converter](http://labs.brotherli.ch/vcfconvert/) web tool to convert the vCard to a CSV file.
 
 ![convert vcard contacts to excel csv file](https://images.wondershare.com/drfone/article/2018/01/15154801441776.jpg)
 
 We hope that our quick and smart guide would be able to help you export contacts from Apple iPhone XS Max to Excel. Dr.Fone Transfer provides a fast and easy solution export iPhone contacts to CSV and other formats. It can also be used to transfer other types of content between your iOS device and computer too. Give it a try and make the most of your iPhone without any trouble.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Ways to Transfer Music from Apple iPhone XS Max to Android
 
@@ -316,6 +304,10 @@ Besides music files and formats of different kids, Dr.Fone - Phone Transfer also
 
 ![transfer music from iphone to android-complete the process](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to transfer music from Apple iPhone XS Max to Android using Google Music Manager?
 
 Another way to transfer music from Apple iPhone XS Max to Android is by using Google Music Manager. Though, unlike Dr.Fone tools, the process can be a bit complicated. Firstly, you need to sync your music between iPhone and iTunes, and then you have to import it from iTunes to Google Music Manager. Sounds complicated, right? In the end, you can access it on your Apple iPhone XS Max using the Google Music app. You can follow these steps to learn how to move music from Apple iPhone XS Max to Android using Google Music Manager.
@@ -327,7 +319,7 @@ Another way to transfer music from Apple iPhone XS Max to Android is by using Go
 ![transfer music from iphone to android-Click on the “Apply” button](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-iphone-to-android-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3\. Once all your music is synced to iTunes, you can disconnect your iPhone.
@@ -337,7 +329,7 @@ Another way to transfer music from Apple iPhone XS Max to Android is by using Go
 ![transfer music from iphone to android-download Google Music Manager](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-iphone-to-android-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5\. Launch the Music Manager application and choose to upload songs to Google Play.
@@ -394,6 +386,10 @@ With Dr.Fone - Phone Manager (iOS), you can move data between your iOS device an
 
 5\. This will display a list of all the connected devices. Select the target Android device to commence the transfer process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How to transfer music from Apple iPhone XS Max to Android without computer?
 
 Too often, users don’t wish to use a computer for moving music from Apple iPhone XS Max to Android. If you have the same preference, then you use a data transfer app to meet your requirements. Out of all the cross-platform data transfer options, SHAREit is one of the most recommended apps. You can install the app on both the Apple iPhone XS Max devices and learn how to transfer music from Apple iPhone XS Max to Android without computer by following these steps.
@@ -416,6 +412,14 @@ Too often, users don’t wish to use a computer for moving music from Apple iPho
 
 ![transfer music from iphone to android-start receiving the selected music](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-iphone-to-android-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How to transfer music from iTunes to Android?
 
 It might surprise you, but there are different ways to learn how to transfer music from Apple iPhone XS Max to Android. We have already discussed how to send music from Apple iPhone XS Max to Android using iTunes and Google Music Manager. Though, there is another alternative to do the same. Once you have transferred your music from Apple iPhone XS Max to iTunes, you can directly move it to an Android device as well.
@@ -434,10 +438,6 @@ It might surprise you, but there are different ways to learn how to transfer mus
 
 ![transfer music from iphone to android-copy the selected songs](https://images.wondershare.com/drfone/article/2018/06/transfer-music-from-iphone-to-android-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After learning different moving music from Apple iPhone XS Max to Android, you can certainly pick a preferred method. As you can see, Dr.Fone toolkit provides the fastest and easiest way to transfer music from Apple iPhone XS Max to Android. With [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/), you can transfer all the music files from one device to another in a single click. In order to perform a selective transfer of data, you can try [Dr.Fone - Phone Manager (iOS)](https://drfone.wondershare.com/iphone-transfer.html) as well. Go ahead and try these tools and teach others how to move music from Apple iPhone XS Max to Android by sharing this guide.
 
 <ins class="adsbygoogle"
@@ -454,16 +454,22 @@ After learning different moving music from Apple iPhone XS Max to Android, you c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ostering-collaborations-building-partnerships-to-promote-videos/"><u>[New] Fostering Collaborations Building Partnerships to Promote Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ideal-green-visual-effects-systems-practical-steps-for-2024/"><u>[New] Ideal Green Visual Effects Systems Practical Steps for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-binge-worthy-vids-the-most-shared-content-on-fb-featured-here/"><u>[Updated] 2024 Approved Binge-Worthy Vids! The Most Shared Content on FB Featured Here</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-overcome-unseen-blanks-in-game-transmission/"><u>[Updated] Overcome Unseen Blanks in Game Transmission</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95841442-9781683253914-el-jardin-feng-shui/"><u>El jardin Feng shui | Free Book</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 7 to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-13-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 13 to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-se-2022-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone SE (2022) to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oppo-f23-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Oppo F23 5G Face Lock?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 15 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-and-free-ios-apps-to-convert-youtube-videos-to-mp3-files/"><u>Quick and Free IOS Apps to Convert YouTube Videos to MP3 Files</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-iphones-voice-memo-functionality/"><u>[New] In 2024, Mastering iPhone's Voice Memo Functionality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-navigating-skype-screen-sharing-during-home-office-workflows/"><u>[New] In 2024, Navigating Skype Screen Sharing During Home Office Workflows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-mastering-gopro-videos-the-ultimate-guide-for-2024/"><u>[New] Mastering Gopro Videos The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-stream-quality-which-is-superior-obs-or-fraps/"><u>[Updated] In 2024, Stream Quality Which Is Superior, OBS or Fraps?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-instant-video-playback-on-fb-enabling-auto-play-of-youtube-videos/"><u>[Updated] Instant Video Playback on FB Enabling Auto-Play of Youtube Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-high-staking-rituals-player-views/"><u>2024 Approved HIGH-STAKING RITUALS Player Views</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-15-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 15 Pro Max to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 15 to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6s-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 6s to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-poco-m6-pro-4g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Poco M6 Pro 4G Fingerprint Lock</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-8-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 8 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-14-pro-max-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 14 Pro Max to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-pro-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 12 Pro to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-pro-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 15 Pro Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-gionee-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Gionee Phones</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-15-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 15 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-landscape-of-digital-interaction-facebook-twitter-instagram-and-youtubian-networks/"><u>Understanding the Landscape of Digital Interaction: Facebook, Twitter, Instagram and YouTubian Networks</u></a></li>
 </ul></div>
 

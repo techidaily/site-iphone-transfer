@@ -1,7 +1,7 @@
 ---
 title: "Mastering WoW Performance: Fast & Simple Fixes to Combat Connection Issues"
-date: 2025-01-05T16:45:48.000Z
-updated: 2025-01-10T02:22:20.610Z
+date: 2025-01-10T21:52:53.392Z
+updated: 2025-01-16T00:10:17.351Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/4f6a39e9aacc54ee51fae61937dd3f2d46fe2285f
 The Outriders is finally out! However, many players encountered Outriders crashing when they accessed inventory or menu. If you have the same issue, don’t worry, and just try the fixes here to get it solved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -32,7 +32,7 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Run Outriders as an administrator
@@ -45,10 +45,6 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
 
@@ -56,6 +52,10 @@ Here are the steps:
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
 
@@ -82,6 +82,10 @@ There are mainly two ways you can update the graphics driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -104,7 +108,7 @@ There are mainly two ways you can update the graphics driver:
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Enforce DX12
@@ -121,10 +125,6 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
 Still no luck with DX12? Then check out the next method below.
@@ -137,18 +137,18 @@ Still no luck with DX12? Then check out the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once done, start Outriders and test the game.
 
@@ -175,18 +175,20 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-immersive-futures-the-essence-of-vr-ar-and-mr/"><u>[New] Immersive Futures The Essence of VR, AR, & MR</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-every-word-a-guide-to-recording-in-google-meet-for-2024/"><u>[Updated] Capture Every Word A Guide to Recording in Google Meet for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-exquisite-note-taking-experience-on-mematic/"><u>[Updated] Exquisite Note-Taking Experience on Mematic</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-trending-upwards-todays-most-effective-instagram-tags/"><u>[Updated] Trending Upwards Today's Most Effective Instagram Tags</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-meizu-21-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/detailed-exploration-of-the-background-eraser-feature-in-photoshop/"><u>Detailed Exploration of the Background Eraser Feature in Photoshop</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6-plus-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 6 Plus to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-12-mini-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 12 mini and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-monetization-milestone-500-subscribers-achieved/"><u>In 2024, YouTube's Monetization Milestone 500 Subscribers Achieved</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-8-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 8 Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/should-i-switch-from-iphone-to-google-pixel-drfone-by-drfone-transfer-from-ios/"><u>Should I Switch From iPhone To Google Pixel? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend/"><u>The Ultimate Guide to Syma X5C – Your First Drone's Best Friend</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/utilizing-cookiebot-technology-for-advanced-user-experience-optimization/"><u>Utilizing Cookiebot Technology for Advanced User Experience Optimization</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elevate-ps2-gameplay-on-ios-devices/"><u>[New] Elevate PS2 Gameplay on iOS Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-curated-collection-saving-snapchat-ringtone-audio/"><u>[Updated] 2024 Approved Curated Collection Saving Snapchat Ringtone Audio</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unveiling-the-secrets-of-lightroom-on-android-platforms/"><u>2024 Approved Unveiling the Secrets of Lightroom on Android Platforms</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-x-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone X to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/avi-swf-online-movavi/"><u>AVI SWF 감각을 유지하면서 Online 무료 변환 - Movavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capturing-your-screen-apowersoft-and-others-for-2024/"><u>Capturing Your Screen Apowersoft and Others for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-video-quality-issues-in-upgraded-windows-systems/"><u>Correcting Video Quality Issues in Upgraded Windows Systems</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-7-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 7 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-xs-max-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone XS Max to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-6s-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 6s to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-7-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 7 to Android | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-srt-and-mp4-synergy-a-comprehensive-guide-edition/"><u>In 2024, SRT & MP4 Synergy A Comprehensive Guide Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/jailbreak-comedy-hour-best-fb-moments-of-amusement-and-awe/"><u>Jailbreak Comedy Hour Best FB Moments of Amusement and Awe</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-8-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 8 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/understanding-pups-identification-and-removal-strategies-a-comprehensive-guide-by-malwarefox/"><u>Understanding PUPs: Identification & Removal Strategies - A Comprehensive Guide by MalwareFox</u></a></li>
 </ul></div>
 

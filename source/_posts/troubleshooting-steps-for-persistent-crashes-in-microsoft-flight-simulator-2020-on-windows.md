@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Persistent Crashes in Microsoft Flight Simulator 2020 on Windows
-date: 2025-01-08T02:04:16.740Z
-updated: 2025-01-10T05:42:19.009Z
+date: 2025-01-12T22:28:22.055Z
+updated: 2025-01-15T19:07:47.062Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -48,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  The good new is, the Origin client and the Steam client will automatically download available updates and install them for you, so you don’t actually have to worry. However, if you’ve turned off the automatic updating option at some point before, make sure you turn it on or manually install the updates for your Apex Legends.
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
 
@@ -64,22 +68,18 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -102,15 +102,19 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -152,16 +152,22 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-apparition-editing-in-slow-motion/"><u>[Updated] Apparition Editing in Slow-Motion</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unlocking-full-multitasking-in-apple-browsers-for-2024/"><u>[Updated] Unlocking Full Multitasking in Apple Browsers for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-se-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone SE to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/immersive-exploration-mastering-close-up-views-in-minecraft/"><u>Immersive Exploration Mastering Close-Up Views in Minecraft</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-7-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 7 to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-15-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 15 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-14-plus-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 14 Plus Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-se-2022-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone SE (2022) to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mac-users-master-your-privacy-the-fundamentals-of-selective-clean-up-with-the-standard-version-of-stellar-file-deleter/"><u>Mac Users, Master Your Privacy! The Fundamentals of Selective Clean-Up With the Standard Version of Stellar File Deleter</u></a></li>
-<li><a href="https://fox-that.techidaily.com/roboix-memory-troubles-a-guide-to-overcoming-warnings-on-your-ios-device/"><u>Roboix Memory Troubles: A Guide to Overcoming Warnings on Your iOS Device</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-transform-your-instagram-vocal-identity-today-for-2024/"><u>[Updated] Transform Your Instagram Vocal Identity Today for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-14-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 14 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-7-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 7 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-magic-5-frp-by-drfone-android/"><u>Full Guide to Bypass Honor Magic 5 FRP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/global-access-boost-proton-vpn-enhances-censorship-avoidance-efforts-in-new-regions/"><u>Global Access Boost: Proton VPN Enhances Censorship Avoidance Efforts in New Regions</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone SE (2022) to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-7-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 7 to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-xs-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone XS Max to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-se-2020-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone SE (2020) to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-gt-5-240w-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme GT 5 (240W) Devices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-15-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 15 to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-xr-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone XR to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-perfect-your-channel-imagery-youtube-thumbnail-dos-and-donts/"><u>In 2024, Perfect Your Channel Imagery YouTube Thumbnail Do's & Don'ts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-timeless-videos-selecting-excellent-slow-motion-cameras/"><u>In 2024, Timeless Videos Selecting Excellent Slow-Motion Cameras</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/sonic-storytelling-how-to-enhance-ig-stories-with-melodies-for-2024/"><u>Sonic Storytelling How to Enhance IG Stories with Melodies for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-unsuccessful-file-creation-in-error-30005-on-windows/"><u>Tackling Unsuccessful File Creation in Error 30005 on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-tips-for-splitting-audiobooks-into-chapters-the-top-four-techniques/"><u>Ultimate Tips for Splitting Audiobooks Into Chapters: The Top Four Techniques!</u></a></li>
 </ul></div>
 

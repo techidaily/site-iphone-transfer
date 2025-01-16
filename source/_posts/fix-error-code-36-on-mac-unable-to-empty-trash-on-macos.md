@@ -1,7 +1,7 @@
 ---
 title: Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
-date: 2025-01-08T21:30:34.843Z
-updated: 2025-01-09T20:49:37.590Z
+date: 2025-01-15T00:23:47.868Z
+updated: 2025-01-15T20:52:24.795Z
 categories:
   - repair-tools
 description: This Article Describes Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/381a81d2f0bf0f275cd73c183feb9dd23edc02b56
  WHY STELLAR® IS GLOBAL LEADER
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why Choose Stellar?
@@ -90,7 +90,7 @@ Awards Received
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Stellar Official Website
@@ -105,7 +105,7 @@ Awards Received
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  About
@@ -159,11 +159,11 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -181,19 +181,22 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-xiaomi-mi-11-crafting-memories-in-unprecedented-detail/"><u>[New] 2024 Approved Xiaomi Mi 11 Crafting Memories in Unprecedented Detail</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-cultivating-a-loyal-viewership-base-on-youtube/"><u>[New] In 2024, Cultivating a Loyal Viewership Base on Youtube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-ideal-editors-perfect-for-high-quality-youtube-videos/"><u>[Updated] Ideal Editors Perfect for High-Quality YouTube Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-audio-enhanced-video-screen-record/"><u>[Updated] In 2024, Audio-Enhanced Video Screen Record</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-7-plus-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 7 Plus to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-leading-5-fraps-replacements-without-watermarks-for-windows-users/"><u>Discover the Leading 5 Fraps Replacements Without Watermarks for Windows Users</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 11 Pro Max to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-xs-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone XS to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-14-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 14 to PC | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-6-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone 6 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-14-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 14 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/resolving-common-windows-11-photo-app-problems/"><u>Resolving Common Windows 11 Photo App Problems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/user-friendly-steps-for-storing-google-voice-conversations/"><u>User-Friendly Steps for Storing Google Voice Conversations</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-increase-your-tiktok-presence-using-hashtags-effectively/"><u>[Updated] Increase Your TikTok Presence Using Hashtags Effectively</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-15-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 15 online without jailbreak</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-xs-max-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone XS Max to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-xiaomi-redmi-note-12t-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Xiaomi Redmi Note 12T Pro FRP?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone XS to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-7-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 7 Plus to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-13-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 13 Pro Max to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-14-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 14 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-11-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 11 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-xs-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone XS Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-restoring-lost-ps4-input-connection/"><u>Mastering the Art of Restoring Lost PS4 Input Connection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pinning-messages-in-place-a-users-handbook-to-permanent-conversations-on-instagram/"><u>Pinning Messages in Place: A User's Handbook to Permanent Conversations on Instagram</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/professioneller-hd-video-player-mkvm2ts-ohne-kosten-perfekt-fur-windows-11-und-mac-nutzer/"><u>Professioneller HD-Video-Player (MKV/M2TS) Ohne Kosten - Perfekt Für Windows 11 Und MAC Nutzer</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-6-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 6 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-epitome-of-hd-recording-curated-list-unveiled/"><u>The Epitome of HD Recording Curated List Unveiled</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-reno-9a-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Reno 9A</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-vr-journey-on-meta-quest-3-by-accessing-apples-innovative-3d-videos-complete-tutorial-zdnet/"><u>Transform Your VR Journey on Meta Quest 3 by Accessing Apple's Innovative 3D Videos - Complete Tutorial | ZDNET</u></a></li>
 </ul></div>
 

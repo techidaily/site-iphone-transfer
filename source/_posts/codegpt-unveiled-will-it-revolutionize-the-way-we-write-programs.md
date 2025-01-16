@@ -1,7 +1,7 @@
 ---
 title: "CodeGPT Unveiled: Will It Revolutionize the Way We Write Programs?"
-date: 2025-01-02T17:36:16.410Z
-updated: 2025-01-10T01:59:40.515Z
+date: 2025-01-10T22:40:13.814Z
+updated: 2025-01-15T21:02:06.209Z
 tags:
   - chatgpt
   - open-ai
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/5c2d24edaaf4b6dd8b5262f3555ac32c929e36e44
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do ChatGPT Plugins Work?
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/5c2d24edaaf4b6dd8b5262f3555ac32c929e36e44
 ![Monitor screen showing ChatGPT landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/monitor-screen-showing-chatgpt-landing-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT plugins are software components integrated into[the ChatGPT platform](https://www.makeuseof.com/how-does-chatgpt-work/) . They provide ChatGPT with additional information, such as up-to-date news or data from proprietary sources, and enable ChatGPT to perform specific actions on behalf of users.
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/5c2d24edaaf4b6dd8b5262f3555ac32c929e36e44
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do You Sign Up for ChatGPT Plugins?
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/5c2d24edaaf4b6dd8b5262f3555ac32c929e36e44
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can[sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on**Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/5c2d24edaaf4b6dd8b5262f3555ac32c929e36e44
 4. Click**Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Joining ChatGPT's Plugins Waitlist
@@ -85,22 +85,18 @@ thumbnail: https://thmb.techidaily.com/5c2d24edaaf4b6dd8b5262f3555ac32c929e36e44
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-unlock-visual-impact-understanding-the-power-of-luts/"><u>[Updated] In 2024, Unlock Visual Impact Understanding the Power of LUTs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-tier-android-and-ios-timers-unveiled-your-weddings-guardian-angels/"><u>[Updated] Top-Tier Android & iOS Timers Unveiled Your Wedding's Guardian Angels</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-hubs-for-finding-googles-ad-sponsors-on-video/"><u>2024 Approved Hubs for Finding Google's Ad Sponsors on Video</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-13-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 13 to Samsung | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-15-pro-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 15 Pro to Samsung | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-x-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone X to Samsung | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/all-encompassing-clarification-the-basics-of-googles-podcast-platform/"><u>All-Encompassing Clarification The Basics of Google's Podcast Platform</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-12-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 12 to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 6s to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-xs-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone XS to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/hyper-v-vs-vmware-eine-vergleichende-analyse-der-virtualisierungsoptionen/"><u>Hyper-V Vs. VMware: Eine Vergleichende Analyse Der Virtualisierungsoptionen</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-13-mini-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 13 mini to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exemplary-directors-dialogue-compilation/"><u>In 2024, Exemplary Directors' Dialogue Compilation</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mirror-your-media-how-to-flip-a-clip-in-final-cut-pro-quickly/"><u>New 2024 Approved Mirror Your Media How to Flip a Clip in Final Cut Pro Quickly</u></a></li>
-<li><a href="https://facebook.techidaily.com/prevent-friend-recommendations-unannounced/"><u>Prevent Friend Recommendations Unannounced</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-13-pro-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 13 Pro Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-best-ios-camera-apps-to-elevate-your-iphone-imagery/"><u>The Best iOS Camera Apps to Elevate Your iPhone Imagery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-warriors-echoes-celebrating-ghost-of-tsushima-analogues/"><u>[New] 2024 Approved Warrior's Echoes Celebrating Ghost of Tsushima Analogues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevate-engagement-discover-these-top-12-techniques-for-video-success/"><u>[Updated] In 2024, Elevate Engagement - Discover These Top 12 Techniques for Video Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-incorrect-side-by-side-configuration-issue-on-your-windows-10-pc-expert-tips-and-tricks/"><u>Fix 'Incorrect Side by Side' Configuration Issue on Your Windows 10 PC - Expert Tips & Tricks</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 14 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-15-pro-max-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 15 Pro Max to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-6s-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 6s to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-7-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 7 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-12-pro-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 12 Pro Max to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-15-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 15 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-6-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 6 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-illusion-assessing-true-users-of-facebook/"><u>Unveiling The Illusion: Assessing True Users of Facebook</u></a></li>
 </ul></div>
 

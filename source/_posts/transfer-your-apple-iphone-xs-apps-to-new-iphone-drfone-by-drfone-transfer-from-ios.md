@@ -1,7 +1,7 @@
 ---
 title: Transfer your Apple iPhone XS Apps to New iPhone | Dr.fone
-date: 2025-01-08T03:55:05.905Z
-updated: 2025-01-09T22:20:08.474Z
+date: 2025-01-11T23:20:22.591Z
+updated: 2025-01-15T22:06:56.021Z
 tags: 
   - iphone transfer
 categories:
@@ -19,10 +19,6 @@ We would be very excited to buy a new iPhone like iPhone 15/15 Pro(Max) whenever
 ## One-click to transfer apps between iPhone \[iPhone 13 Included\]
 
 There are so many ways for transferring Apps between iOS devices. If you are searching for a time-saving way to transfer the data. You can try the Dr.Fone - Phone Transfer to help you get the Apps. There is no incompatibility or limitations on iOS models and systems. You can click to transfer one data type from one to another.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Phone Transfer
 
@@ -66,6 +62,10 @@ The Whole Process is divided into two sections
 
 ![backup iphone apps to itunes](https://images.wondershare.com/drfone/article/2018/01/15169285481003.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Once the backup process is finished, you should check whether the backup was done in iTunes preferences in the old iPhone. You can check it by verifying your name, time, and date in the backup.
 
 Note: You have created the backup process on your old iPhone. Now, you should start the next work to transfer apps to the new iPhone like iPhone 15/15 Pro (Max).
@@ -98,10 +98,6 @@ Here also, we have summed up the transferring process via iCloud under two secti
 - Select the backup now button and don’t turn off the wifi till the process gets completed.
 
 ![backup iphone apps to icloud](https://images.wondershare.com/drfone/article/2018/01/15169459451134.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Note: You have taken the backup from the old iPhone using the iCloud application.
 
@@ -139,6 +135,10 @@ In this part, we are going to transfer apps from Apple iPhone XS to iPhone 15/15
 
 ![transfer app to new iphone via app store](https://images.wondershare.com/drfone/article/2018/01/15169314547930.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3: Once you tap on the update icon, it will show the option “My Purchase”. It will ask you to sign in the iCloud account.
 
 ![check my purchased apps](https://images.wondershare.com/drfone/article/2018/01/15169314968668.jpg)
@@ -164,6 +164,10 @@ Transferring contacts from Apple iPhone XS to iPhone without iCloud is straightf
 In this comprehensive guide, you'll discover how to transfer contacts from Apple iPhone XS to iPhone without iCloud using various tools and techniques to achieve successful contact transfer. Follow these simple yet effective steps to migrate your contacts successfully.
 
 ![ipod thic pc](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Basic Methods To Transfer Contacts From Apple iPhone XS to iPhone Without iCloud
 
@@ -193,10 +197,6 @@ NameDrop, integrated within iOS 17, enables the smooth sharing of contact inform
 
 ![freceive or share contacts via namedrop](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3. iTunes/Finder
 
 If you want a more traditional approach to copying contacts from Apple iPhone XS to iPhone without iCloud, iTunes/Finder can be a great choice. It is a more drastic approach as it involves restoring the entire device's data. This method is recommended if you are switching devices. Here is how you can copy contacts from Apple iPhone XS to iPhone without iCloud via iTunes/Finder:
@@ -209,17 +209,9 @@ If you want a more traditional approach to copying contacts from Apple iPhone XS
 
 ![back up latest data on computer](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Once the backup process is completed, remove the source iPhone and connect the target iOS device. Similarly, access the “Summary/General” tab and click "Restore Backup." Choose the most recent backup and follow the on-screen guidelines to complete the process.
 
 ![Image alt: restore most recent backup](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4. Email
 
@@ -232,6 +224,10 @@ Another simple way to move contacts between iPhones is through email. This appro
 - **Step 2:** Tap "Send" to email the selected contacts and open the email app on your target iPhone. Find the email you sent with the contacts attached and open it. Now, retrieve the attached vCard from the email. The contact will appear in your Contacts app but won't be added directly. To save the contact, tap "Create New Contact," write any contact details, and select "Done" to finish saving the contact.
 
 ![back up latest data on computer](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: What Are the Problems Linked With the Basic Methods To Transfer Contacts?
 
@@ -256,7 +252,7 @@ With it, you can even transfer data directly to an iOS device or computer. Here 
 ![transfer contacts to targeted device](https://images.wondershare.com/drfone/guide/manage-ios-call-history-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Wondershare Dr.Fone - Phone Transfer
@@ -278,16 +274,12 @@ The process is user-friendly, requiring simple clicks to initiate. It can transf
 ![data transfer completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
 
 In conclusion, the process to transfer contact from Apple iPhone XS to iPhone without iCloud presents various challenges. However, advanced solutions like Wondershare Dr.Fone present efficient, secure, and comprehensive options. Moreover, Dr.Fone streamlines the process, overcoming the limitations of basic methods. Its intuitive interface and dedicated transfer features make it a recommended choice. With its reliability and effectiveness, Dr.Fone stands out as a trusted solution for hassle-free data transfer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5 Easy Ways to Transfer Contacts from Apple iPhone XS to Android
 
@@ -304,6 +296,10 @@ The application also supports transferring all the leading data types such as vi
 **Step 1.** First of all, launch the Dr.Fone toolkit on your Mac or Windows PC, and from its welcome screen, visit the "Phone Transfer" module.
 
 ![move contacts from iphone to android-visit the “Switch” module](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Connect your Android and iOS devices to the system and let the application detect them automatically. Since you wish to export iPhone contacts to Android, iPhone should be the source while Android should be the destination device. You can use the Flip button to interchange their positions.
 
@@ -326,6 +322,10 @@ Another fast and hassle-free way to sync contacts from Apple iPhone XS to Androi
 **Step 1.** Unlock your iPhone and go to its **Settings > Mail, Contacts, Calendars > Add Account** and tap on "Google."
 
 ![move contacts from iphone to android-tap on “Google”](https://images.wondershare.com/drfone/article/2018/08/transfer-contacts-from-iphone-to-android-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Sign in with your Google account credentials and grant your phone the needed permissions to access your Gmail data.
 
@@ -355,6 +355,10 @@ Another simple way to sync contacts from Apple iPhone XS to Android is by using 
 
 **8.** Once you have imported these contacts to your Google account, you can easily access them on the connected device as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Copy contacts from Apple iPhone XS to Android using iTunes
 
 If you are an avid user of iTunes, you can try this technique to export iPhone contacts to Android. Earlier, iTunes has a feature to sync contacts with Google, Outlook, and Windows account. Now, the Google feature has been removed from iTunes. Therefore, you first need to sync your contacts to your Windows account and can later export them into a card. Needless to say, the technique can also be a bit complicated. Though, you can implement these steps to copy contacts from Apple iPhone XS to Android using iTunes.
@@ -372,7 +376,7 @@ If you are an avid user of iTunes, you can try this technique to export iPhone c
 ![move contacts from iphone to android-select the location to save the VCF file](https://drfone.wondershare.com/2020/select-location-to-save-contacts.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6.** In the end, you can manually copy the VCF file to your Apple iPhone XS or import it to your Google Contacts as well.
@@ -397,10 +401,6 @@ Often, users don't wish to use a computer to export iPhone contacts to Android. 
 
 ![move contacts from iphone to android-restore your contacts](https://images.wondershare.com/drfone/article/2018/08/transfer-contacts-from-iphone-to-android-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now that you have learned 7 different ways to move contacts from Apple iPhone XS to Android, you can easily fulfill your requirements. Out of all the 8 provided options, [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is the fastest and most convenient option to move all the contacts at once.
 
 <ins class="adsbygoogle"
@@ -417,14 +417,21 @@ Now that you have learned 7 different ways to move contacts from Apple iPhone XS
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Realme 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/fix-your-scanner-computer-pairing-problems-a-comprehensive-guide-by-yl-software-solutions/"><u>Fix Your Scanner-Computer Pairing Problems: A Comprehensive Guide by YL Software Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guarantee-important-messages-with-gmail-whitelisting-techniques-explained/"><u>Guarantee Important Messages with Gmail Whitelisting Techniques Explained</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-15-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 15 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-15-pro-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 15 Pro Max to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-15-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 15 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-14-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 14 to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-picks-for-kid-friendly-dvd-films-and-how-to-legally-copy-them/"><u>Top Picks for Kid-Friendly DVD Films & How To Legally Copy Them</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-for-resolving-issues-with-broken-pebble-speakers/"><u>Troubleshooting Tips for Resolving Issues With Broken Pebble Speakers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-luminous-leadership-elevating-content-through-insta-hits/"><u>[Updated] Luminous Leadership Elevating Content Through Insta Hits</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-11-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 11 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-12-pro-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 12 Pro to Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-switch-between-video-playback-on-devices/"><u>Effortless Switch Between Video Playback on Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-switching-your-samsung-smart-tvs-default-web-browser/"><u>Guide: Switching Your Samsung Smart TV's Default Web Browser</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-12-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 12 without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-11-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 11 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-13-pro-max-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 13 Pro Max to Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-13-mini-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 13 mini to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-11-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 11 Pro Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-6s-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 6s to iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximize-views-with-these-top-rated-keyword-analysis-tools-for-2024/"><u>Maximize Views with These Top-Rated Keyword Analysis Tools for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mejora-la-velocidad-de-codificacion-hevc-h265-consejos-para-una-mayor-eficiencia/"><u>Mejora La Velocidad De Codificación HEVC (H.265): Consejos Para Una Mayor Eficiencia</u></a></li>
+<li><a href="https://driver-install.techidaily.com/smooth-operations-swift-logitec-mouse-driver-for-widow-7/"><u>Smooth Operations: Swift Logitec Mouse Driver for Widow 7</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/unboxing-and-testing-the-lenovo-nook-9-inch-tablet-experience/"><u>Unboxing and Testing: The Lenovo Nook 9 Inch Tablet Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-future-features-samsung-extends-free-software-support-on-smart-tvs-for-seven-years-insights-from-zdnet/"><u>Unlocking Future Features: Samsung Extends Free Software Support on Smart TVs for Seven Years - Insights From ZDNet</u></a></li>
 </ul></div>
 

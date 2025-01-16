@@ -1,7 +1,7 @@
 ---
 title: CyberPower CP685AVRG Uninterruptible Power Supply (UPS) - Reliable Protection and Efficient Performance
-date: 2025-01-02T19:25:42.572Z
-updated: 2025-01-10T02:35:21.003Z
+date: 2025-01-11T20:17:14.949Z
+updated: 2025-01-15T17:27:23.758Z
 categories:
   - BestProducts
 description: This Article Describes CyberPower CP685AVRG Uninterruptible Power Supply (UPS) - Reliable Protection and Efficient Performance
@@ -38,7 +38,7 @@ Lifewire / Jonno Hill
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Mohu Leaf 30
@@ -68,15 +68,15 @@ Lifewire / Jonno Hill
 
  Mohu might not be breaking new ground with this antenna, but it’s more than sufficient for most city dwellers and perhaps even a few buyers in the suburbs with a relatively unobstructed path to the broadcast source.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Basic but effective**
 
  You can find a dozen identical versions of this unpowered antenna by doing a quick search for TV antennas online, and not for no reason. It’s a very uncomplicated design, doesn’t take up too much space, and doesn’t have a lot of points of failure. The 9x11.5-inch rectangular antenna surface is thin, pliable, and features two small punch-holes towards the top which can be used to pin the antenna to an appropriate surface.
 
  The matte surface is white on one side and black on the other, which could be useful for helping blend the device in with your surroundings. The Mohu Leaf 30 TV Antenna is neither the thickest or the thinnest version of this design that we’ve seen. Some are closer to paper thin and extremely flexible, and others were more rigid. If you need to be able to bend the antenna quite a bit to fit it where you need to, this might not be the right one for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Setup: Dead simple**
 
@@ -88,12 +88,16 @@ Lifewire / Jonno Hill
 
  My apartment is located within city limits and doesn’t provide too much of a challenge for antennas, but I was able to reliably get as many as 76 channels from other devices. Nonetheless, the Leaf still provided a clear picture of all the major network stations without any issue. The only channels that I couldn’t pick up with the Leaf were pretty obscure, such as an audio-only station from a Korean Christian church. I think I’ll be okay without that one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Range: Fairly limited**
 
  The Mohu Leaf 30 TV Antenna is rated, as its name implies, for up to 30 miles of range. This is about what I would expect from an unpowered antenna. This device is clearly designed for buyers who live within close proximity to their local TV broadcast source, and not for those further out into the suburbs and beyond.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Excellent for the performance**
@@ -101,10 +105,6 @@ Lifewire / Jonno Hill
  The Mohu Leaf 30 TV Antenna has a 90-day rolling average price of $29 on Amazon, which puts it on the more affordable end of the spectrum. The price definitely feels appropriate for the performance and feature set, but it’s not an all-out bargain.
 
  Buyers probably wouldn’t be wise to spend more money unless they live a bit further from their signal source and have had trouble with similar antennas in the past. I think that for most people living in cities, the Mohu Leaf 30 TV Antenna should be more than enough.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Mohu Leaf 30 TV Antenna vs Mohu Blade TV Antenna**
 
@@ -116,7 +116,7 @@ Lifewire / Jonno Hill
  The Mohu Leaf 30 TV Antenna is a great entry point into the TV antenna space, providing a nice mix of performance and value in a dead-simple package that won’t burden buyers during setup. It might not be powerful enough to suit the needs of suburban users and beyond, but if you’re close enough to the signal source, it’s a nice option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -146,24 +146,18 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-a-bright-idea-boost-your-videos-impact-on-youtube-for-2024/"><u>[New] A Bright Idea Boost Your Video's Impact on YouTube for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-prime-7-fps-titles-you-cant-miss/"><u>[New] In 2024, Prime 7 FPS Titles You Can't Miss</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/delve-into-all-shared-visuals-within-a-chat-on-messenger/"><u>Delve Into All Shared Visuals Within a Chat on Messenger</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/google-chrome-blackout-heres-how-to-restore-your-browsers-display/"><u>Google Chrome Blackout? Here's How to Restore Your Browser's Display</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-14-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 14 to Android? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-6-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 6 Without Apple Password? | Stellar</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-seamlessly-integrate-your-own-gpt-references-into-any-chatgpt-discussion/"><u>How to Seamlessly Integrate Your Own GPT References Into Any ChatGPT Discussion</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-13-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 13 to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-6-plus-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 6 Plus to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-7-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 7 to Android | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-breakthrough-techniques-for-online-audio-archiving-and-editing/"><u>In 2024, Breakthrough Techniques for Online Audio Archiving & Editing</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-14-pro-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 14 Pro to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-7-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 7 to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-12-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 12 mini to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 14 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-affordable-sony-xbr65x850f-65-4k-ultra-hd-television/"><u>In-Depth Analysis of the Affordable Sony XBR65X850F 65” 4K Ultra HD Television</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-pinnacle-of-playtime-apple-reinvents-fun-with-its-new-vision-pro-your-definitive-guide-to-the-top-device-on-the-market/"><u>The Pinnacle of Playtime: Apple Reinvents Fun with Its New 'Vision Pro' – Your Definitive Guide to the Top Device on the Market</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-8-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone 8 Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-magic-behind-immersive-world-creation/"><u>[Updated] In 2024, The Magic Behind Immersive World Creation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-blueprint-for-successful-biographies-top-tips-and-techniques-from-experts/"><u>[Updated] The Blueprint for Successful Biographies Top Tips & Techniques From Experts</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-xs-max-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone XS Max to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-14-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 14 to Android | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-find-n3-flip-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo Find N3 Flip? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-11-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 11 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-integrating-cognitive-science-into-organizational-leadership-practices/"><u>In 2024, Integrating Cognitive Science Into Organizational Leadership Practices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-safety-features-evaluated-in-syma-x8c/"><u>In 2024, Safety Features Evaluated in Syma X8C</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-6-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 6 Plus to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-technology-essential-advice-from-toms-hardware-pros/"><u>Mastering Technology: Essential Advice From Tom's Hardware Pros</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/review-of-the-shark-ionplus-robotic-vac-av750-powerful-cleaning-with-minimal-navigation-issues-insights-for-tech-enthusiasts/"><u>Review of the Shark ION+ Robotic Vac AV750: Powerful Cleaning with Minimal Navigation Issues - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/simple-steps-to-connect-internal-ssd-via-usb-c-interface-on-your-apple-or-windows-device-digitalsolvers/"><u>Simple Steps to Connect Internal SSD via USB-C Interface on Your Apple or Windows Device | DigitalSolvers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-mastering-in-game-speech-alteration-top-picks-and-reviews-for-2024/"><u>Updated Mastering In-Game Speech Alteration Top Picks and Reviews for 2024</u></a></li>
 </ul></div>
 

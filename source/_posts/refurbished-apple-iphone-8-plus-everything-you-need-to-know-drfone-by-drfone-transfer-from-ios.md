@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone 8 Plus Everything You Need to Know | Dr.fone
-date: 2025-01-07T18:45:59.070Z
-updated: 2025-01-10T02:09:40.598Z
+date: 2025-01-13T19:01:32.978Z
+updated: 2025-01-15T23:22:30.391Z
 tags: 
   - iphone transfer
 categories:
@@ -42,10 +42,6 @@ One of the major benefits of purchasing a refurbished Apple iPhone 8 Plus is the
 
 ![An illustration of saving cost.](https://images.wondershare.com/drfone/article/2023/10/Refurbished-iPhone-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Quality Assurance**
 
 Refurbished iPhones are carefully inspected and tested to ensure that they meet Apple's high standards. They are also thoroughly repaired and cleaned. Often, a refurbished Apple iPhone 8 Plus will look and perform like a new iPhone.
@@ -55,10 +51,6 @@ Refurbished iPhones are carefully inspected and tested to ensure that they meet 
 When you get a refurbished item, you're giving it a longer life. This means fewer iPhones end up in the trash, and that's awesome for our planet. So, be eco-friendly and choose a refurbished iPhone.
 
 ![An illustration of eco-friendly technology.](https://images.wondershare.com/drfone/article/2023/10/Refurbished-iPhone-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Warranty and Support**
 
@@ -79,7 +71,7 @@ On the contrary, if you are buying a refurbished Apple iPhone 8 Plus from a priv
 It is always suggested to buy second-hand things, especially tech related, from a legitimate source. If you are about to buy a used iPhone, make sure to follow the factors discussed in the next section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 4. Factors to Consider Before Buying a Refurbished iPhone.**
@@ -119,6 +111,10 @@ Find out if the refurbished Apple iPhone 8 Plus comes with any essential accesso
 Compare prices among different sellers to ensure you're getting a competitive deal. Keep in mind that exceptionally low prices may be a red flag.
 
 By considering these factors, you can make the right decision when buying a refurbished iPhone. In the next section, you will explore where you can buy second-hand iPhones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 5. Your One-Stop Solution - Dr.Fone**
 
@@ -204,6 +200,10 @@ A certified refurbished Apple iPhone 8 Plus is refurbished and certified by the 
 
 Refurbished iPhones come with the latest iOS software installed. They ensure that you have access to the newest features and security updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Final Thought**
 
 So, buying a refurbished Apple iPhone 8 Plus is a wise way to get a good-quality Apple iPhone 8 Plus at a lower cost. To make sure you're getting a good deal, choose trusted sellers and understand the warranty and return policies.
@@ -254,11 +254,11 @@ Transfer MP3 to iPhone/iPad/iPod without iTunes
 
 ![export iphone contacts to excel csv](https://images.wondershare.com/drfone/drfone/iphone-transfer-export-contacts.jpg)
 
-That’s it! In this way, you would be able to automatically export iPhone contacts to CSV. Now you can just visit the location and copy the file to any other device.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+That’s it! In this way, you would be able to automatically export iPhone contacts to CSV. Now you can just visit the location and copy the file to any other device.
 
 ## Part 2: Export iPhone contacts to Excel free using SA Contacts Lite
 
@@ -282,6 +282,10 @@ You can also try SA Contacts Lite to export iPhone contacts to Excel free as wel
 
 7\. For instance, if you wish to upload the file to Dropbox, simply select the provided option and grant the app the needed permissions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Export iPhone contacts to CSV using iCloud
 
 If you don’t want to take the assistance of any third-party app to export iPhone contacts to Excel free, then you can also use iCloud. The process of exporting iPhone contacts to Excel using iCloud is a little tedious compared to other methods. Though, these steps will help you meet your requirements.
@@ -290,9 +294,17 @@ If you don’t want to take the assistance of any third-party app to export iPho
 
 ![sync iphone contacts with icloud](https://images.wondershare.com/drfone/article/2018/01/15154801739343.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Afterward, go to the official website of iCloud and log in with your credentials. From its welcome page, select the Contacts option.
 
 ![log in icloud account on computer](https://images.wondershare.com/drfone/article/2018/01/15154801044092.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3\. Click on the gear icon (Settings) on the bottom left corner. From here, you can select all contacts in one go. Though, if you wish, you can manually select the contacts you wish to export as well.
 
@@ -302,13 +314,13 @@ If you don’t want to take the assistance of any third-party app to export iPho
 
 ![export iphone contacts to vcard](https://images.wondershare.com/drfone/article/2018/01/15154801304112.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5\. The exported vCard will automatically be saved in the Downloads folder (or any other default location). Now, you can simply go to a [vCard to CSV converter](http://labs.brotherli.ch/vcfconvert/) web tool to convert the vCard to a CSV file.
 
 ![convert vcard contacts to excel csv file](https://images.wondershare.com/drfone/article/2018/01/15154801441776.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We hope that our quick and smart guide would be able to help you export contacts from Apple iPhone 8 Plus to Excel. Dr.Fone Transfer provides a fast and easy solution export iPhone contacts to CSV and other formats. It can also be used to transfer other types of content between your iOS device and computer too. Give it a try and make the most of your iPhone without any trouble.
 
@@ -337,16 +349,12 @@ Transfer Everything from iPhone 5S to iPhone 8/11/11 Pro in 1 Click!
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to transfer everything from Apple iPhone 8 Plus to iPhone 8/11/11 Pro
 
 In this segment, we will learn **how to transfer everything from Apple iPhone 8 Plus to iPhone 8/11/11 Pro** with Dr.Fone. To do so, download and install the software on your computer and follow the steps given below:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Launch Dr.Fone software
@@ -356,16 +364,12 @@ Once Dr.Fone - Phone Transfer is installed on your PC, launch the program and co
 ![transfer everything from Apple iPhone 8 Plus to iPhone 8/11/11 Pro](https://images.wondershare.com/drfone/guide/drfone-home.png "transfer everything from Apple iPhone 8 Plus to iPhone 8")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2. Data Transfer from iPhone 5S to iPhone 8/11/11 Pro
 
 In this step, select content to transfer data from old iPhone to iPhone 8/11/11 Pro. Also, make sure the source and target device are duly recognized (if not, just swap them).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3. Initiate the Transfer from iPhone 5S to iPhone 8/11/11 Pro
 
@@ -388,10 +392,6 @@ Step 2. Using an USB, connect the Apple iPhone 8 Plus to your PC and wait until 
 Step 3. Click Apple iPhone 8 Plus to view all the options at the left hand side of the iTunes interface. Select “**Backup Now**” to backup all the data stored in the Apple iPhone 8 Plus which needs to be transferred to iPhone 8/11/11 Pro.
 
 ![transfer everything from Apple iPhone 8 Plus to iPhone 8 with iTunes](https://images.wondershare.com/drfone/article/2017/09/transfer-everything-from-iphone-5s-to-iphone-8-via-itunes.jpg "transfer everything from Apple iPhone 8 Plus to iPhone 8 with iTunes")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4. Let the process of backing up Apple iPhone 8 Plus finish completely. Once this is done, disconnect it and use another USB to connect new iPhone 8/11/11 Pro to the PC.
 
@@ -435,16 +435,17 @@ Where iTunes and iCloud are easy and go-to tools for many users, Dr.Fone - Phone
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-high-speed-top-8-screenshots-compilation/"><u>[New] High-Speed Top 8 Screenshots Compilation</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-a-beginners-guide-to-navigating-digital-marketing-with-reddit-savvy/"><u>[Updated] A Beginner's Guide to Navigating Digital Marketing with Reddit Savvy</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-8-choices-affordable-open-source-videoconferencing-apps/"><u>[Updated] In 2024, Top 8 Choices Affordable, Open Source Videoconferencing Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-prime-choices-for-budget-conscious-consumers-4k-viewing/"><u>[Updated] Prime Choices for Budget-Conscious Consumers' 4K Viewing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/cutting-edge-video-recording-techniques-on-modern-win-11-devices/"><u>Cutting-Edge Video Recording Techniques on Modern Win 11 Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-pro-max-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 14 Pro Max to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-12-pro-max-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 12 Pro Max to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-14-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 14 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-motorola-moto-g73-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Motorola Moto G73 5G</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-12-mini-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 12 mini and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-tripod-setup-in-vlogging/"><u>[New] 2024 Approved Mastering Tripod Setup in Vlogging</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-building-a-winning-portfolio-with-windows-11-video-editing-skills/"><u>[New] In 2024, Building a Winning Portfolio with Windows 11 Video Editing Skills</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-rhythm-and-reels-for-music-masters-on-ig/"><u>[New] Rhythm & Reels for Music Masters on IG</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-initiating-your-sporty-online-presence-with-mac/"><u>[Updated] 2024 Approved Initiating Your Sporty Online Presence with Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>[Updated] In 2024, Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-11-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 11 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-14-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 14 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-edge-techniques-integrating-chatgpt-into-3d-printing-workflows/"><u>Cutting-Edge Techniques: Integrating ChatGPT Into 3D Printing Workflows</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-xr-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone XR to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-6-plus-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 6 Plus Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-15-pro-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 15 Pro Max to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/one-airpod-not-working-how-to-fix-it-for-2024/"><u>One Airpod Not Working How to Fix It for 2024</u></a></li>
 </ul></div>
 
