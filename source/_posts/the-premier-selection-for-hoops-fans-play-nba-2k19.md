@@ -1,7 +1,7 @@
 ---
 title: The Premier Selection for Hoops Fans – Play NBA 2K19
-date: 2025-01-09T19:20:30.036Z
-updated: 2025-01-16T01:23:22.227Z
+date: 2025-01-14T21:46:27.455Z
+updated: 2025-01-22T04:50:39.205Z
 categories:
   - BestProducts
 description: This Article Describes The Premier Selection for Hoops Fans – Play NBA 2K19
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![NBA 2K19](https://www.lifewire.com/thmb/F87icpH4iTJJpiVp_cNJbOlHFPQ=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353-HeroSquare-3b0318500db84677b58649cacfa1d321.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Eric Watson
 
 [View On Amazon $20](https://www.amazon.com/NBA-2K19-PlayStation-4/dp/B07DQMMPML?th=1&tag=lifewire-onsite-prod-20&ascsubtag=4770699%7Cn3230f2562d9d4a7e9a8ed63b2a327ba914%7CB07DQMMPML) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/products/nba-2k19---playstation-4/10164167.html)
@@ -68,15 +72,7 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![NBA 2K19](https://www.lifewire.com/thmb/YMXeWIxicIbj-86epw-TmdCR6Tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_04-8c4928a895a842cfa8abf52e0e1beb01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Eric Watson
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Setup Process: Just install**
 
@@ -85,14 +81,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 ![NBA 2K19](https://www.lifewire.com/thmb/M0pJx3LQWfKzQz2c6Cn61WEoZGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_07-bbd2e90a40b241c097157fea5b64a6f7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Eric Watson
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Gameplay: Easy to Learn, Difficult to master**
 
@@ -108,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
  Lifewire / Eric Watson
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Game Modes: Leagues, teams, and players**
 
  NBA 2k19 features the usual quick play modes where you can take your favorite team on a full season-long journey, or simply grab a few players for some casual blacktop basketball. Numbers range from one-on-one to five-on-five and everything in between.
@@ -120,10 +116,14 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 ![NBA 2K19](https://www.lifewire.com/thmb/fQL8t4zVGC3TbDs-So90d2zQRUI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_05-f274e7c4b78f4b329eb75f1baf368922.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Eric Watson
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **The Way Back: Go mad Ants!**
@@ -141,7 +141,7 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 ![NBA 2K19](https://www.lifewire.com/thmb/i0CH0_5PrBA7hMefnDah7sN9tL0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4042353_06-5d9dbed07cd6485ab0ffa086aa6159c8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Eric Watson
@@ -156,10 +156,6 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
  Lifewire / Eric Watson
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Audio: Excellent commentary and soundtrack**
 
  Kevin Harlan and Greg Anthony continue to be fantastic commentators for NBA 2K19\. In NBA 2K19 they’re also joined by Bill Simmons, Kobe Bryant, and Kevin Garnett. NBA 2K19 features some of the best commentaries for any sports game, with insightful breakdowns, fun player anecdotes, and up tempo play-by-plays. The on-action commentary lags a bit behind when playing online, however, as Harlan shouts excitedly about a dunk after the other team is already at half court.
@@ -167,6 +163,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
  NBA 2K19 features some of the best commentaries for any sports game, with insightful breakdowns, fun player anecdotes, and up tempo play-by-plays.
 
 [The soundtrack](https://www.liveabout.com/gaming-4842275) is also solid, featuring over 50 hip-hop and rock-pop tracks mixed and curated by rapper Travis Scott (who also provides five of the tracks). Other artists include Alison Wonderland, Migos, Bruno Mars, Brockhampton, and Angel the God.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Pricey anniversary edition**
 
@@ -209,17 +209,14 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-personal-growth-chronicles-for-youtube-audience/"><u>2024 Approved Personal Growth Chronicles for YouTube Audience</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-12-pro-max-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 12 Pro Max to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722168690867-discover-the-ios-version-of-chatgpt/"><u>Discover the iOS Version of ChatGPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-astro-a40-microphone-issues-step-by-step-troubleshooting-guide/"><u>Fixing Astro A40 Microphone Issues: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/how-to-make-a-fortune-on-reddit-without-experience-top-13-methods-for-2024/"><u>How to Make a Fortune on Reddit Without Experience - Top 13 Methods for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 13 mini to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 15 Plus to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-15-plus-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 15 Plus Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-s24-ultra-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy S24 Ultra? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/redefining-where-your-onedrive-stands-a-guide-for-windows-10/"><u>Redefining Where Your OneDrive Stands: A Guide for Windows 10</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-12-pro-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 12 Pro Max Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-tecno-phantom-v-fold-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Tecno Phantom V Fold to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture-for-2024/"><u>[New] Helmet Hats A Comprehensive Look at Best Cams in Bike Culture for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-expert-tips-for-zoom-clarity-in-teams/"><u>[Updated] In 2024, Expert Tips for Zoom Clarity in Teams</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/by-years-end-teslas-self-driving-future-nearly-here-declares-elon-musk-in-new-zdnet-report/"><u>By Year's End: Tesla's Self-Driving Future Nearly Here, Declares Elon Musk in New ZDNet Report</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-xs-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone XS to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-x-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone X to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-15-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 15 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-6-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 6 to PC | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 with IMEI Code?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-best-free-apps-for-cost-effective-global-voice-calls/"><u>Top 5 Best Free Apps for Cost-Effective Global Voice Calls</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solved How To Transfer From Apple iPhone 15 Pro to iPhone 15 | Dr.fone
-date: 2025-01-11T18:29:45.960Z
-updated: 2025-01-15T16:38:50.260Z
+date: 2025-01-17T23:34:54.219Z
+updated: 2025-01-21T21:20:01.938Z
 tags: 
   - iphone transfer
 categories:
@@ -36,10 +36,6 @@ The Quick Start feature from Apple offers a way to transfer data from your previ
 
     ![setup new iphone using passcode](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3.** When you reach the "Transfer Your Data" screen, opt for "Transfer Directly from iPhone" and confirm the specific settings and data you wish to transfer. This streamlined process ensures a smooth transition to your new device while maintaining the data you want.
 
     ![transfer data from iphone](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-4.jpg)
@@ -52,10 +48,6 @@ The Quick Start feature from Apple offers a way to transfer data from your previ
 
 - **Step 1.** Initiate by connecting your old iPhone to your computer and launching the latest version of iTunes. Once your device is detected by iTunes, click the Apple iPhone 15 Pro device icon to access the "Summary" tab. Here, move to the "Backups" section and click "Back Up Now" to start creating the backup. Before pressing "Back Up Now," ensure that "This Computer" is selected as a backup location.
 - ![backup ios data on a computer](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.** Once the backup is completed, disconnect the old device and start setting up the new one. When you reach the "Apps & Data" screen, select "Restore from Mac or PC," and connect to the computer with iTunes.
 - ![restore data from pc or mac](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-6.jpg)
@@ -71,6 +63,14 @@ The Quick Start feature from Apple offers a way to transfer data from your previ
 - **Step 2.** Now connect the new iPhone with "Restore from Mac or PC" selected from the "Apps & Data" screen. Choose your device in Finder and click "Restore Backup." Then, select the targeted backup and wait for the backup restoration process to complete.
 - ![restore iphone data from mac](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3. iCloud Backup
 
     Utilizing iCloud Backup offers a streamlined and wireless approach for transferring data. This method empowers you to generate a backup of your previous iPhone on iCloud. Afterward, it enables you to restore that backup to your new device.
@@ -83,25 +83,25 @@ The Quick Start feature from Apple offers a way to transfer data from your previ
 - **Step 2.** Turn on your newly obtained iPhone and follow the initial setup instructions until you reach the "Apps & Data" display. Once there, select "Restore from iCloud Backup" and sign into your iCloud account. Ensure it is the same Apple ID you utilized to back up your previous iPhone. Afterward, select the latest backup of your previous iPhone and follow the on-screen instructions to complete the process.
 - ![restore latest backup from icloud](https://images.wondershare.com/drfone/article/2023/12/transfer-data-from-iphone-to-new-iphone-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. What Are the Drawbacks of Using Official Methods for Transferring Data From Apple iPhone 15 Pro to iPhone
 
 Apple's official methods to **transfer data from Apple iPhone 15 Pro to iPhone** offer convenience and reliability. Nevertheless, they do possess specific limitations and disadvantages. Users should consider these limitations to make a well-informed choice. It will help you find the most fitting approach for their requirements. Here are some of the downsides and constraints associated with Apple's official methods:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Entire Devices Backups
 
 A major drawback of using methods like Quick Start, iTunes, and iCloud is that they restore the entire device's data. Users cannot selectively transfer data using any of these three methods.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. iPhone Setup Requirement
 
 The transfer methods like iCloud and Quick Start can only be employed when setting up a new iOS device. For old devices, you must factory reset the Apple iPhone 15 Pro device for these methods to work.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Internet Dependency
 
@@ -112,7 +112,7 @@ Restoring iCloud Backup on your new iPhone requires a stable and relatively fast
 iCloud offers 5 GB of free storage, which might not be sufficient for users with large amounts of data. Users might need to buy more iCloud storage to accommodate their backups, incurring extra costs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Compatibility Issues
@@ -130,6 +130,10 @@ Its intuitive design allows users to transfer data between iPhones effortlessly.
 1. Beyond direct transfers, Wondershare Dr.Fone offers backup and restore functionalities.
 2. Fone – Phone Transfer is compatible with over 8000 devices from various brands.
 3. This tool enables swift data transfer between phones in under 3 minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps to Transfer Data from Apple iPhone 15 Pro to iPhone via Wondershare Dr.Fone
 
@@ -157,6 +161,10 @@ The last part includes selecting the data you want to transfer. You can select t
 
 Choosing the right iPhone involves considering various factors. Ensuring alignment with your preferences, needs, and budget is crucial. It requires evaluation of these aspects and conducting comprehensive research. This will enable you to confidently make a knowledgeable choice. Below, discover some helpful tips and tricks to aid in choosing the ideal iPhone:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Identify Your Priorities
 
 Determine what matters most to you in an iPhone model. Are you more focused on camera quality, battery life, processers, or other features? Gaining clarity on your priorities will assist in focusing your choices.
@@ -168,10 +176,6 @@ Apple releases new iPhone models annually. Consider the latest offerings, as the
 ### 3\. Budget Consideration
 
 Set a budget range for your new iPhone. Apple provides a range of models available at diverse price tiers. These range from flagship iPhones to more budget-friendly options. Consider your budget while weighing the features you need.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Size and Display Preferences
 
@@ -204,7 +208,7 @@ As the full-fledged sale of the Apple iPhone 15 Pro began, many people faced the
 In this section, we will try to identify the root cause of the problem. By understanding the cause of the issue, we can better find a suitable solution to your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **1\. Bugs in the Move to iOS App**
@@ -218,6 +222,10 @@ Sometimes, the backup stored in the iTunes/Finder turns out to be corrupted due 
 ### **3\. Poor Wi-Fi Connection**
 
 If you are transferring the data to your Apple iPhone 15 Pro using iCloud, you need a good Wi-Fi connection to ensure a smooth process. A slow Wi-Fi connection can stop or delay the data transfer process if your iCloud backup is in 100+ GBs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4\. Problem in the iOS Version**
 
@@ -245,15 +253,15 @@ Download and install the latest version of Wondershare Dr.Fone from the official
 
 ![tap on phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** Initiate the Data Transfer Procedure
 
 Wondershare Dr.Fone will automatically detect the positions of your old smartphone and Apple iPhone 15 Pro and assign them the positions. If the positions assigned are incorrect, press the “Flip” option and choose the data you want to transfer to iPhone 15. After this, press the “Start Transfer” button, and the procedure of transferring the data will initiate.
 
 ![press the start transfer button](https://images.wondershare.com/drfone/guide/transfer-android-to-ios-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -292,10 +300,6 @@ Step 1: Download the Dr.Fone software, open it, and you can see the following in
 Step 2: Connect both iPhones to your PC and click "Phone Transfer".
 
 ![transfer all photos from iphone to iphone without icloud using the software](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** _Confirm which iPhone is your destination device and which one is the source. Click "Flip" to swap their positions if necessary._
 
@@ -347,10 +351,6 @@ AirDrop gives its users the wireless facility to transfer iPhone photos in a qui
 
 ![press the accept button](https://images.wondershare.com/drfone/article/2023/11/transfer-photos-from-iphone-to-iphone-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tip: How to Transfer Photos from Apple iPhone 15 Pro to iPhone using iCloud
 
 Step 1. To transfer the photos from your iPhone to another iPhone you must make sure that you make a backup through iCloud.
@@ -384,21 +384,15 @@ If you do not want to use iCloud for data transfer, run Dr.Fone - Phone Transfer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-breakthrough-practices-in-youtube-video-saving-for-2024/"><u>[Updated] Breakthrough Practices in YouTube Video Saving for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-introducing-dimensional-text-with-photoshop-expertise-for-2024/"><u>[Updated] Introducing Dimensional Text with Photoshop Expertise for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-13-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 13 mini to Android | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/become-a-full-screen-screenshot-expert-4-essential-tricks-for-windows/"><u>Become a Full-Screen Screenshot Expert: 4 Essential Tricks for Windows.</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comment-lassureur-sante-public-numero-un-en-allemagne-optimise-la-gestion-papier-avec-abbyy-recognition-server/"><u>Comment L'Assureur Santé Public Numéro Un en Allemagne Optimise La Gestion Papier Avec ABBYY Recognition Server</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-se-2020-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone SE (2020) to iPad | Dr.fone</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/converting-your-itunes-m4v-files-into-mp4-format-on-a-mac-the-ultimate-guide/"><u>Converting Your iTunes M4V Files Into MP4 Format on a Mac: The Ultimate Guide</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-14-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 14 to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-14-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 14 to Android | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-13-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone 13 to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-se-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from Apple iPhone SE to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 15 to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ating-adsense-income-on-youtube-per-1000-viewer-earning-for-2024/"><u>Navigating AdSense Income on YouTube Per 1,000 Viewer Earning for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/next-gen-platform-for-12-hourly-live-broadcasts-for-2024/"><u>Next-Gen Platform for 12 Hourly Live Broadcasts for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/solving-the-missing-dll-issues-in-windows-11-discover-13-reliable-methods-for-restoration-and-repair/"><u>Solving the Missing DLL Issues in Windows 11 – Discover 13 Reliable Methods for Restoration and Repair</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-delicate-visual-initiation/"><u>[New] In 2024, Delicate Visual Initiation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-15-youtube-openers-that-boost-viewership-and-engagement/"><u>[New] Top 15 YouTube Openers That Boost Viewership and Engagement</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-charting-the-course-for-profitable-youtube-videos-for-2024/"><u>[Updated] Charting the Course for Profitable Youtube Videos for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-se-2020-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone SE (2020) to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-6s-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 6s to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-11-pro-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 11 Pro to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-hot-40i-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Hot 40i Phone?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-12-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 12 to PC | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010588544-overcoming-call-of-duty-wwiis-windows-black-screen-fault-expert-solutions-unlocked/"><u>Overcoming Call of Duty WWII's Windows Black Screen Fault - Expert Solutions Unlocked!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-top-16-avi-video-cutters-trimcut-avi-videos-windows-mac-android/"><u>Updated 2024 Approved Top 16 AVI Video Cutters Trim/Cut AVI Videos Windows, MAC, Android</u></a></li>
 </ul></div>
 

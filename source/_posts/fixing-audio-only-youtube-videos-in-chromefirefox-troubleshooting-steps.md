@@ -1,7 +1,7 @@
 ---
 title: Fixing Audio-Only YouTube Videos in Chrome/Firefox - Troubleshooting Steps
-date: 2025-01-11T23:41:05.262Z
-updated: 2025-01-15T21:21:05.808Z
+date: 2025-01-17T20:53:44.799Z
+updated: 2025-01-21T16:41:39.402Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 
  While you’re browsing the Internet on your computer, your system starts freezing for a few seconds, then resumes normally and then again freezes. When you open Task Manager, it shows Google Chrome using a high percentage of your CPU. You may wonder how come Chrome is eating so much of your CPU — there’re many possible causes for Chrome high CPU usage, but there are also many possible solutions…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 5 solutions that have helped many other users fix their Chrome high CPU usage problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 3. **[Reset Chrome settings to default](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Uninstall Chrome, delete its installation folder and reinstall Chrome](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Free up drive space
 
@@ -43,9 +43,17 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-Clear-cache1.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select the types of information you want to remove. Make sure **Cookies and other site data** ,**Cache images and files** are selected.![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-Clear-cache-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Clear data** .
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if the problem is resolved. If not, try Solution 2, below.
 
@@ -59,10 +67,18 @@ Check if the problem is resolved. If not, try Solution 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bece0cbe3af4.png)
 2. **Toggle off** all extensions to disable them.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-extension.jpg)
 3. Restart Chrome and test if the issue is fixed. If not, move on to Solution 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reset Chrome settings to default
 
@@ -75,22 +91,14 @@ Check if the problem is resolved. If not, try Solution 2, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/chrome-reset2.jpg)
 3. Click **Reset settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/chrome-reset3.jpg)
 4. Relaunch Chrome and test. If the problem still exists, try Solution 4, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your device drivers
 
@@ -102,10 +110,6 @@ Check if the problem is resolved. If not, try Solution 2, below.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bec023ebc384.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bec022d24e36.jpg)
 4. Restart your computer and check if Chrome high CPU usage is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Solution 5, below.
@@ -119,10 +123,6 @@ Check if the problem is resolved. If not, try Solution 2, below.
 1. You can go to the Control Panel to uninstall Chrome.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-uninstall.jpg)
 2. Delete this folder to completely remove Chrome from your computer:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `C:\Users\**<username>** \AppData\Local\Google\Chrome\`
 3. Download the latest version of Chrome from[its official website](https://www.google.com/chrome/) .
@@ -149,18 +149,19 @@ Check if the problem is resolved. If not, try Solution 2, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-art-of-lights-for-youtube-vlogging/"><u>[New] In 2024, The Art of Lights for YouTube Vlogging</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-tech-insights-the-best-browser-screen-capture-tools-of-the-year/"><u>[New] Tech Insights The Best Browser Screen Capture Tools of the Year</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-authenticity-checks-on-instagram/"><u>[Updated] Mastering Authenticity Checks on Instagram</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-poco-m6-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1728479993725-aomei-backupper/"><u>頂級AOMEI Backupper：全條款使用指南 - 安裝及啟動程式</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-se-2022-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone SE (2022) to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-14-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 14 Pro to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-se-2022-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone SE (2022) Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-13-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 13 to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-11-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 11 to iPad | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-7-plus-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 7 Plus and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitreact-wisdom-a-complete-reference-book-for-2024/"><u>TwitReact Wisdom A Complete Reference Book for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-10-camcorders-ultimate-picks-expert-reviews/"><u>[Updated] Top 10 Camcorders Ultimate Picks – Expert Reviews</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-audio-file-alchemy-converting-srt-to-multiple-formats-professionally/"><u>2024 Approved The Audio File Alchemy Converting SRT to Multiple Formats Professionally</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/comment-resoudre-les-problemes-de-boot-camp-lorsque-la-copie-des-fichiers-damorcage-echoue-apprenez-ces-trois-techniques/"><u>Comment Résoudre Les Problèmes De Boot Camp Lorsque La Copie Des Fichiers D'Amorçage Échoue - Apprenez Ces Trois Techniques</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 11 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-14-pro-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 14 Pro to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-15-plus-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 15 Plus to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-se-2022-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone SE (2022) without Passcode</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-11-pro-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 11 Pro to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 12 Pro Max to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-15-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 15 to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lava-yuva-3-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lava Yuva 3</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/premium-gaming-experience-at-great-prices-inside-the-acer-predator-orion-5000-laptop/"><u>Premium Gaming Experience at Great Prices - Inside the Acer Predator Orion 5000 Laptop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-financial-anatomy-of-youtube-shorts-money-splitting-for-2024/"><u>The Financial Anatomy of YouTube Shorts Money Splitting for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-path-to-picsart-proficiency-for-2024/"><u>The Ultimate Path to PicsArt Proficiency for 2024</u></a></li>
 </ul></div>
 

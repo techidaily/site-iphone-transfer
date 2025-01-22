@@ -1,7 +1,7 @@
 ---
 title: Transfer your Apple iPhone 15 Pro Apps to New iPhone | Dr.fone
-date: 2025-01-10T22:09:43.511Z
-updated: 2025-01-15T18:47:33.298Z
+date: 2025-01-17T04:41:16.643Z
+updated: 2025-01-22T02:18:38.596Z
 tags: 
   - iphone transfer
 categories:
@@ -35,6 +35,10 @@ Transfer Apps from Apple iPhone 15 Pro to iPhone in 1 Click Directly!
 Connect both the two iPhones to your computer. Once both the iPhones are connected successfully, all the data from source devices will be detected and listed on the screen. You can adjust the target devices and source devices by clicking the "Flip" button directly.
 
 ![transfer App from Apple iPhone 15 Pro to iPhone](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **A more detailed guide can be learned from this user guide. Check it out!**
 
@@ -80,6 +84,10 @@ Note: You have created the backup process on your old iPhone. Now, you should st
 
 Note: You have done the entire process to transfer apps to the new iPhone 15/15 Pro (Max) or an earlier model.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to transfer apps from Apple iPhone 15 Pro to iPhone using iCloud?
 
 The next successful method is an iCloud backup. iCloud the most used application for verification purposes in the iPhone. This method will be very genuine and no complications occur throughout the process when you transfer apps from Apple iPhone 15 Pro to iPhone 15/15 Pro (Max) or an earlier model.
@@ -121,10 +129,6 @@ Note: Doing so will erase any old setup.
 
 8: Your photos, videos, files, etc will be automatically downloaded into your new Phone using iCloud.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to transfer apps from Apple iPhone 15 Pro to iPhone with the help of the App store?
 
 In this part, we are going to transfer apps from Apple iPhone 15 Pro to iPhone 15/15 Pro (Max) or an earlier model using the iPhone app store. In this method, you do not need to connect to the computer, or no lengthy steps needed. Let us see the steps carefully!
@@ -139,6 +143,10 @@ In this part, we are going to transfer apps from Apple iPhone 15 Pro to iPhone 1
 
 ![check my purchased apps](https://images.wondershare.com/drfone/article/2018/01/15169314968668.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4: After entering the credential, you have the two options such as all and not on this phone.
 
 5: Select the option “not on this phone” present on the right upper side of the window. You will get the list of applications that you have purchased using the iCloud account.
@@ -147,25 +155,21 @@ In this part, we are going to transfer apps from Apple iPhone 15 Pro to iPhone 1
 
 ![download apps to new iphone](https://images.wondershare.com/drfone/article/2018/01/15169315338930.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Note: You have completed the installation of apps on your new iPhone.
 
 We have given and explained to you 3 methods to **transfer apps from Apple iPhone 15 Pro to iPhone** with proper guidance. Each method describes a unique verification process along with the manual setup. You now do not need to wait in a queue to transfer apps to your new iPhone. We can assure you that you would also be in no need of any help from outside. All the best!
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should I Switch From iPhone To Google Pixel?
 
 The battle between smartphone giants has been a consistent source of intrigue for consumers. Through every new launch, tech giants such as Apple and Google introduce impressive functions. These allure users with the prospect of improved efficiency and seamless usability. This prompts the fundamental query of whether one should consider **switching from an iPhone to a Pixel**.
 
 Amid the ongoing discourse about these two devices, it becomes imperative to go through the advantages and disadvantages inherent to each. This serves to equip you with the necessary insights for making a choice that aligns with your preferences. In this guide, we will explore the key considerations to contemplate when switching from an iPhone to a Google Pixel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What Is The Google Pixel?
 
@@ -195,10 +199,6 @@ An Android smartphone launched by Google in 2016, Google Pixel was designed to r
 
 Considering key specifications and features, it is definitely worth switching from Apple iPhone 15 Pro to Pixel, especially if it has been a long time since you’ve been using an Apple device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Notice That You Should Know Before Switching from iPhone To Google Pixel
 
 Before you switch iPhone to Pixel 2, there are certain things to consider or you need to do, so let’s have a look at them-
@@ -210,7 +210,7 @@ When messaging other iPhones from your iDevice, they’ll communicate through iM
 ![disable-imessage](https://images.wondershare.com/drfone/2020/disable-imessage.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2- You Might Need to Buy Your Apps Again
@@ -228,7 +228,7 @@ The easiest way to transfer your pictures from your iPhone to Google Pixel is to
 ![backup-photos-to-google-photos](https://images.wondershare.com/drfone/2020/backup-photos-to-google-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5- Back Up Your iPhone Data to Avoid Data Loss
@@ -266,10 +266,6 @@ Furthermore, you can preview data stored in your iPhone backup file and restore 
 
 ![wondershare dr.fone](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How Many Data Can I Email To Google Pixel?
 
 Thinking about transferring data from Apple iPhone 15 Pro to Google Pixel by Email? Well, it is the best option only if you want to transfer small-size files and not much data. And yes, there is a limit to how many or much data can you email to your new Google Pixel device.
@@ -277,7 +273,7 @@ Thinking about transferring data from Apple iPhone 15 Pro to Google Pixel by Ema
 The email size limit is 20 MB for some platforms and 25 megabytes for others. For instance, if you want to send a video from your iPhone to your new Google Pixel device, then the video should be less than 15 or 20 seconds long to share via email.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: One-Stop Solution to Switch Data From iPhone To Google Pixel
@@ -297,6 +293,10 @@ To help you learn how to use Dr.Fone - Phone Transfer program for switching iPho
 **Step 3:** Finally, hit the “Start Transfer” button to begin the transfer and that’s it.
 
 And if you ever want to get back to your iPhone, then you would probably wonder how to switch from Pixel to iPhone. In that case, all you need is a phone-to-phone data transfer app like Dr.Fone - Phone Transfer to make the switch successful with all the data you need on your new device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -361,10 +361,6 @@ Safety is a natural concern when buying a pre-owned iPhone. You might wonder if 
 On the contrary, if you are buying a refurbished Apple iPhone 15 Pro from a private seller, make sure that it's not a scam. You can take someone who has tech knowledge. Otherwise, make sure that he is offering you a warranty period.
 
 It is always suggested to buy second-hand things, especially tech related, from a legitimate source. If you are about to buy a used iPhone, make sure to follow the factors discussed in the next section.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Part 4. Factors to Consider Before Buying a Refurbished iPhone.**
 
@@ -440,6 +436,10 @@ Connect your iOS devices (source and target) to your PC via a lightning cable or
 
 ![Open Toolbox from the left pane.](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:**
 
 Once the Apple iPhone 15 Pro devices are connected, wait and let them load their data. Then, specify the **"Source"** and **"Target"** of the data transfer. You can also flip the locations by clicking the **"Flio"** button.
@@ -474,6 +474,10 @@ Similarly, you can also transfer data from Android to Apple iPhone 15 Pro and Ap
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **FAQs**
 
 **1\. Can I return a refurbished Apple iPhone 15 Pro if I'm not satisfied with it?**
@@ -487,10 +491,6 @@ A certified refurbished Apple iPhone 15 Pro is refurbished and certified by the 
 **3\. Can I get the latest iOS updates on a refurbished iPhone?**
 
 Refurbished iPhones come with the latest iOS software installed. They ensure that you have access to the newest features and security updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Final Thought**
 
@@ -514,22 +514,15 @@ However, don't forget to download [Dr.Fone](https://tools.techidaily.com/wonders
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-overcoming-non-detectable-obs-camera-link/"><u>[Updated] 2024 Approved Overcoming Non-Detectable OBS Camera Link</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-effortless-capture-iphones-dual-task-technique/"><u>[Updated] Effortless Capture IPhone's Dual-Task Technique</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-elevate-your-vids-top-youtube-seo-gadgets/"><u>[Updated] Elevate Your Vids Top YouTube SEO Gadgets</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/crafting-visual-narratives-with-the-leading-frames-for-2024/"><u>Crafting Visual Narratives with the Leading Frames for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-deathloop-keeps-freezing-on-pc-and-ps5/"><u>How to Fix Deathloop Keeps Freezing on PC & PS5</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-mini-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 12 mini to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-15-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone 15 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 15 Plus to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-15-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 15 to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-11-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 11 Pro to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-se-2020-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone SE (2020) to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-se-2022-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone SE (2022) to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 11 Pro to Android | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mx-player-pro-next-gen-streaming-tool/"><u>MX Player Pro Next-Gen Streaming Tool</u></a></li>
-<li><a href="https://article-posts.techidaily.com/slumber-series-evaluating-video-adaptations-of-literary-classics-for-2024/"><u>Slumber Series Evaluating Video Adaptations of Literary Classics for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726030225715-mkv/"><u>マルチメディアファイルにおけるMKV形式からの自動生成文字盤除去技術</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-leveraging-communication-to-enhance-interview-success/"><u>[New] In 2024, Leveraging Communication to Enhance Interview Success</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-achieving-visual-excellence-with-the-best-4k-monitors-on-the-market-for-2024/"><u>[Updated] Achieving Visual Excellence with the Best 4K Monitors on the Market for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/commanders-crown-the-ultimate-ranking-of-7-total-war-classics-for-2024/"><u>Commanders' Crown The Ultimate Ranking of 7 Total War Classics for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/dive-into-the-speculations-around-samsungs-upcoming-marvel-the-galaxy-s25-pricing-launch-and-cutting-edge-tech-unveiled/"><u>Dive Into the Speculations Around Samsung's Upcoming Marvel – The Galaxy S25; Pricing, Launch and Cutting-Edge Tech Unveiled</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-15-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 15 Pro Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-se-2022-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone SE (2022) Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-14-pro-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 14 Pro Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-6s-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 6s Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-showdown-comparing-iphone-16-pro-vs-iphone-14-pro-is-it-time-for-an-upgrade-tech-insights/"><u>IPhone Showdown: Comparing iPhone 16 Pro Vs. IPhone 14 Pro - Is It Time for an Upgrade? Tech Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-start-guide-to-resolve-latency-problems-in-assassins-creed-valhalla/"><u>Quick-Start Guide to Resolve Latency Problems in Assassin's Creed: Valhalla</u></a></li>
 </ul></div>
 

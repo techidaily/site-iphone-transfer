@@ -1,7 +1,7 @@
 ---
 title: "IPhone 12 Showdown: How Apple Redefines Phone Innovation in Its Newest Release"
-date: 2025-01-08T22:42:34.892Z
-updated: 2025-01-15T16:49:56.456Z
+date: 2025-01-20T00:43:04.496Z
+updated: 2025-01-22T02:17:17.557Z
 categories:
   - BestProducts
 description: "This Article Describes IPhone 12 Showdown: How Apple Redefines Phone Innovation in Its Newest Release"
@@ -46,6 +46,10 @@ Lifewire / Emily Isaacs
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/wuNd6MsZiivoQ99Xm0JHB9iB4Rs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_HeroSquare-99f80025b0254cbebe67ed22575a90c5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Emily Isaacs
 
 [View On Amazon $99](https://www.amazon.com/dp/B00NMVJYEW/?tag=lifewire-onsite-prod-20&ascsubtag=4780187%7Cnf95833ce2d2845368fd2b0eac089080a01%7CB00NMVJYEW) [View On Walmart $89](https://www.walmart.com/ip/Kinesis-KB800PB-us-Freestyle2-Ergonomic-Split-Keyboard-for-PC/41539324?slfpid=3) [View On Office Depot $113](https://www.officedepot.com/a/products/989638/Kinesis-Freestyle2-Ergonomic-Keyboard-For-PC/?cm%5Fmmc=PLA-%5F-Google-%5F-Computer%5FTablet%5FAccessories-%5F-989638&gclid=EAIaIQobChMIv7HKttKB6QIVUl8NCh2Afg94EAQYBCABEgJKIvD%5FBwE&gclsrc=aw.ds)
@@ -69,15 +73,15 @@ Lifewire / Emily Isaacs
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design and Features: Freestyle2 breaks the mold**
 
  For people who are tethered to their[computers](https://www.lifewire.com/computer-and-laptop-reviews-4102643) , ergonomic keyboards are a must. These keyboards tend to be large thanks to the frequently employed swoop design that opens up the keys to provide additional spacing, so fingers feel less cramped, and a wrist-friendly position that prevents[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) while typing. These keyboards are typically space hogs, taking up large portions of any surface that they’re placed on, often forcing users to reach further for[mice](https://www.lifewire.com/best-wireless-mice-6666207) . This can lead to shoulder injuries in place of wrist injuries—a trade-off no one wants.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/C-YK_WPWu8Ujx1fwDLxvO6Epi-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_05-adcddc5fc05b415dbcd82396bc0ada77.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -89,6 +93,10 @@ Lifewire / Emily Isaacs
 
  Clocking in at 2 pounds, it’s also lightweight which makes it easy to pack. Whether you’re commuting between the home and the office or you’re heading out of town for a vacation, it’s easy to break down and bring anywhere so long as there’s a flat surface to place it during use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: For Apple products only**
 
  The Kinesis Freestyle2 Blue arrives with the two keyboard halves, the instructional pamphlet, and a six-foot USB charging cable. Designed for use with iPads,[iPhones](https://www.lifewire.com/iphone-and-ios-4781515) , and[Macs](https://www.lifewire.com/macs-4781332) , the setup process is quick and easy to complete. First, we flipped the switch on the right-hand side of the keyboard from the off position to the on position. Then, we flipped the keyboard over and pressed the connect button on the backside. We knew it was ready to begin pairing when the lights on the frontside began flashing blue.
@@ -96,12 +104,16 @@ Lifewire / Emily Isaacs
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/XHY6Xe9cdaO1U6Uj0wDY6rROlcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_04-7fad98b589454e0388ecf48afe425e8c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
  From here, we followed the instructions in the provided instructional pamphlet and enabled Bluetooth on our iPad. After about a minute of scanning, the Kinesis KB800MB-BT keyboard appeared as an available device. We simply tapped to connect. From here, it prompted us to input a numeric code and press return. Once we’d done this, setup was complete.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Features: Efficient hotkeys once you get used to them**
 
@@ -115,19 +127,11 @@ Lifewire / Emily Isaacs
 
  The battery life on the Freestyle2 is excellent. It arrives with a partial charge, so it’s important to remember to fully charge it after receiving it. Once charged, the battery life can last up to 300 plus hours of regular use. The Freestyle2 does an excellent job of letting you know when its battery is getting low—battery lights will flash red to indicate when there are about four hours of battery life remaining. This ensures you’re never left hanging.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Price: Excellent for the features**
 
  Full-size ergonomic keyboards tend to retail anywhere from $50 to $200, depending on the features involved. Generally retailing for about $100 on Amazon, the Freestyle2 sits comfortably at the front of this curve. While $100 may seem expensive for a keyboard, consider the features involved. Its travel-friendly build, adjustable setup options, extended battery life, and ability to switch quickly and smoothly between multiple connected devices make it an excellent choice for the features.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/vncgu0FEgBJ69UL6H8BjQ2QoGRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_03-9055476d1d974c8bbe9b1c39d479b300.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
@@ -148,10 +152,6 @@ Lifewire / Emily Isaacs
  **An ideal keyboard for Apple users with its compact design, portability, and long-lasting battery.**
 
  The Kinesis Freestyle2 Blue for Mac is a compact, user-friendly ergonomic keyboard that takes comfort and customization to the next level for Apple users thanks to its split, modular design. Its extended battery life of up to 300 plus hours combined with its ability to connect to multiple iOS devices at a time is a game-changer, making it well worth the splurge.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -184,14 +184,18 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-calculating-costs-in-youtube-advertising-campaigns/"><u>[New] In 2024, Calculating Costs in YouTube Advertising Campaigns</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-insiders-look-at-optimizing-youtube-video-audio-for-2024/"><u>[New] The Insider’s Look at Optimizing YouTube Video Audio for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-8-plus-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 8 Plus to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-7-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 7 Plus to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/te-small-screen-experience-with-these-leading-and-affordable-tools-to-download-youtubes-tiny-videos-for-2024/"><u>Elevate Small Screen Experience with These Leading & Affordable Tools to Download YouTubes' Tiny Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-techniques-anydesk-troubleshooting-in-windows/"><u>Essential Techniques: AnyDesk Troubleshooting in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-honor-play-8t-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Honor Play 8T using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-xs-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone XS to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-xs-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone XS Max to Android | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-enthusiastic-presentation-appraisal-version-08/"><u>[New] Enthusiastic Presentation Appraisal, Version 08</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-masterful-designers-top-insta-hlv-page-builders-for-2024/"><u>[New] Masterful Designers Top Insta HLV Page Builders for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-an-experts-guide-to-accumulating-mass-tiktok-videos-effortlessly-for-2024/"><u>[Updated] An Expert's Guide to Accumulating Mass TikTok Videos Effortlessly for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked/"><u>2024 Approved Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-13-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 13 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-practices-for-mentioning-ai-contributions-citing-chatgpt-references-and-quotes/"><u>Best Practices for Mentioning AI Contributions: Citing ChatGPT References and Quotes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/check-for-software-conflicts/"><u>Check for Software Conflicts</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-application-flood-conquering-0x80860010/"><u>Fixes for Application Flood: Conquering 0X80860010</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-15-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 15 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-7-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 7 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/novices-guide-to-animated-videos-with-wmm-for-2024/"><u>Novice's Guide to Animated Videos with WMM for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-x-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone X to iPhone | Dr.fone</u></a></li>
 </ul></div>
 

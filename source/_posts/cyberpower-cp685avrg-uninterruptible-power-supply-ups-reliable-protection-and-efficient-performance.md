@@ -1,7 +1,7 @@
 ---
 title: CyberPower CP685AVRG Uninterruptible Power Supply (UPS) - Reliable Protection and Efficient Performance
-date: 2025-01-11T20:17:14.949Z
-updated: 2025-01-15T17:27:23.758Z
+date: 2025-01-16T03:42:18.370Z
+updated: 2025-01-21T16:38:51.447Z
 categories:
   - BestProducts
 description: This Article Describes CyberPower CP685AVRG Uninterruptible Power Supply (UPS) - Reliable Protection and Efficient Performance
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/wtXsun69DD8udLlpyE2hV3wzITA=/400x300/fi
 ## Affordable and Efficient: The Mohu Leaf 30 Antenna'4 High Performance Proven in Our Review
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Mohu Leaf 30
 
@@ -38,12 +42,16 @@ Lifewire / Jonno Hill
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Mohu Leaf 30
 
 ![Mohu Leaf 30 TV Antenna](https://www.lifewire.com/thmb/xXK31GRLX2h6w0vFc9K2Ps_ufqk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3LW4078201-Mohu_TVAntennas_Leaf_HeroSquare-364a530da97b4c23b31d8c10157c01f4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jonno Hill
 
@@ -69,7 +77,7 @@ Lifewire / Jonno Hill
  Mohu might not be breaking new ground with this antenna, but it’s more than sufficient for most city dwellers and perhaps even a few buyers in the suburbs with a relatively unobstructed path to the broadcast source.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Basic but effective**
@@ -88,16 +96,12 @@ Lifewire / Jonno Hill
 
  My apartment is located within city limits and doesn’t provide too much of a challenge for antennas, but I was able to reliably get as many as 76 channels from other devices. Nonetheless, the Leaf still provided a clear picture of all the major network stations without any issue. The only channels that I couldn’t pick up with the Leaf were pretty obscure, such as an audio-only station from a Korean Christian church. I think I’ll be okay without that one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Range: Fairly limited**
 
  The Mohu Leaf 30 TV Antenna is rated, as its name implies, for up to 30 miles of range. This is about what I would expect from an unpowered antenna. This device is clearly designed for buyers who live within close proximity to their local TV broadcast source, and not for those further out into the suburbs and beyond.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Excellent for the performance**
@@ -114,10 +118,6 @@ Lifewire / Jonno Hill
 
 **No fuss, good value.**
  The Mohu Leaf 30 TV Antenna is a great entry point into the TV antenna space, providing a nice mix of performance and value in a dead-simple package that won’t burden buyers during setup. It might not be powerful enough to suit the needs of suburban users and beyond, but if you’re close enough to the signal source, it’s a nice option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -146,18 +146,16 @@ Lifewire / Jonno Hill
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-magic-behind-immersive-world-creation/"><u>[Updated] In 2024, The Magic Behind Immersive World Creation</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-blueprint-for-successful-biographies-top-tips-and-techniques-from-experts/"><u>[Updated] The Blueprint for Successful Biographies Top Tips & Techniques From Experts</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-xs-max-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone XS Max to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-14-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 14 to Android | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-find-n3-flip-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo Find N3 Flip? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-11-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 11 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-integrating-cognitive-science-into-organizational-leadership-practices/"><u>In 2024, Integrating Cognitive Science Into Organizational Leadership Practices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-safety-features-evaluated-in-syma-x8c/"><u>In 2024, Safety Features Evaluated in Syma X8C</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-6-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 6 Plus to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-technology-essential-advice-from-toms-hardware-pros/"><u>Mastering Technology: Essential Advice From Tom's Hardware Pros</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/review-of-the-shark-ionplus-robotic-vac-av750-powerful-cleaning-with-minimal-navigation-issues-insights-for-tech-enthusiasts/"><u>Review of the Shark ION+ Robotic Vac AV750: Powerful Cleaning with Minimal Navigation Issues - Insights for Tech Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/simple-steps-to-connect-internal-ssd-via-usb-c-interface-on-your-apple-or-windows-device-digitalsolvers/"><u>Simple Steps to Connect Internal SSD via USB-C Interface on Your Apple or Windows Device | DigitalSolvers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-mastering-in-game-speech-alteration-top-picks-and-reviews-for-2024/"><u>Updated Mastering In-Game Speech Alteration Top Picks and Reviews for 2024</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1-seamless-guide-transferring-your-tunes-from-icloud-directly-to-desktop/"><u>1. Seamless Guide: Transferring Your Tunes From iCloud Directly to Desktop</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-11-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 11 Pro Max to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decision-making-showdown-m1-vs-m2-ipad-pro-which-cutting-edge-tablet-suits-your-needs-best-expert-insights-from-zdnet/"><u>Decision-Making Showdown: M1 Vs. M2 iPad Pro - Which Cutting-Edge Tablet Suits Your Needs Best? Expert Insights From ZDNET</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/elevate-your-video-game-best-mac-video-editing-apps-for-2024/"><u>Elevate Your Video Game Best Mac Video Editing Apps for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/fast-track-your-computers-speeds-with-these-proven-techniques-by-yl-software-experts/"><u>Fast Track Your Computer’s Speeds with These Proven Techniques by YL Software Experts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-lava-yuva-3-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Lava Yuva 3 for Free? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-6s-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 6s Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-7-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 7 to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-the-perfect-match-download-drivers-for-logitech-g203-on-windows-os-versions/"><u>Installing the Perfect Match: Download Drivers for Logitech G203 on Windows OS Versions</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-11-pro-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 11 Pro Max to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-edge-less-design-tips/"><u>Windows 11 Edge-Less Design Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
-date: 2025-01-15T00:23:47.868Z
-updated: 2025-01-15T20:52:24.795Z
+date: 2025-01-19T16:26:57.039Z
+updated: 2025-01-22T04:54:41.139Z
 categories:
   - repair-tools
 description: This Article Describes Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/381a81d2f0bf0f275cd73c183feb9dd23edc02b56
  WHY STELLAR® IS GLOBAL LEADER
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why Choose Stellar?
@@ -90,7 +90,7 @@ Awards Received
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Stellar Official Website
@@ -105,7 +105,7 @@ Awards Received
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  About
@@ -159,11 +159,11 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -181,22 +181,20 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-increase-your-tiktok-presence-using-hashtags-effectively/"><u>[Updated] Increase Your TikTok Presence Using Hashtags Effectively</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-15-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 15 online without jailbreak</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-xs-max-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone XS Max to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-xiaomi-redmi-note-12t-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Xiaomi Redmi Note 12T Pro FRP?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone XS to Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-7-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 7 Plus to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-13-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 13 Pro Max to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-14-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 14 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-11-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 11 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-xs-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone XS Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-restoring-lost-ps4-input-connection/"><u>Mastering the Art of Restoring Lost PS4 Input Connection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/pinning-messages-in-place-a-users-handbook-to-permanent-conversations-on-instagram/"><u>Pinning Messages in Place: A User's Handbook to Permanent Conversations on Instagram</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/professioneller-hd-video-player-mkvm2ts-ohne-kosten-perfekt-fur-windows-11-und-mac-nutzer/"><u>Professioneller HD-Video-Player (MKV/M2TS) Ohne Kosten - Perfekt Für Windows 11 Und MAC Nutzer</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-6-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 6 to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-epitome-of-hd-recording-curated-list-unveiled/"><u>The Epitome of HD Recording Curated List Unveiled</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-reno-9a-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Reno 9A</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-vr-journey-on-meta-quest-3-by-accessing-apples-innovative-3d-videos-complete-tutorial-zdnet/"><u>Transform Your VR Journey on Meta Quest 3 by Accessing Apple's Innovative 3D Videos - Complete Tutorial | ZDNET</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-craft-a-compelling-narrative-with-your-igtv-video-titles-and-texts/"><u>[Updated] 2024 Approved Craft a Compelling Narrative with Your IGTV Video Titles & Texts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-elevate-your-pc-best-8-video-capture-tools-for-windows-10/"><u>[Updated] 2024 Approved Elevate Your PC Best 8 Video Capture Tools for Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-top-ranked-audio-respeeders-mobile-desktop/"><u>[Updated] 2024 Approved Top-Ranked Audio Respeeders (Mobile, Desktop)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-what-is-augmented-reality/"><u>[Updated] In 2024, What Is Augmented Reality?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-techniques-shifting-bulk-video-data-from-iphone-to-mac/"><u>[Updated] Precision Techniques Shifting Bulk Video Data From iPhone to Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-methods-recording-minecraft-games-on-apple-devices/"><u>2024 Approved Essential Methods Recording Minecraft Games on Apple Devices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-14-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 14 Plus to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-xr-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone XR Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 8 Plus to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 6 to Android | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-attention-stirrer-supreme/"><u>In 2024, Attention Stirrer Supreme</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-14-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 14 Pro Max to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximizing-productivity-setting-up-a-home-office-with-the-latest-ipad-pro-insights-and-tips/"><u>Maximizing Productivity: Setting Up a Home Office with the Latest iPad Pro - Insights and Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-tips-for-turning-off-facebook-access-on-android-smartphones/"><u>Quick Tips for Turning Off Facebook Access on Android Smartphones</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-6s-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 6s to iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
 

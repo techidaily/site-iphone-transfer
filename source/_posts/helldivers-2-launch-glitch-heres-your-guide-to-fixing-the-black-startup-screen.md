@@ -1,7 +1,7 @@
 ---
 title: Helldivers 2 Launch Glitch? Here's Your Guide to Fixing the Black Startup Screen!
-date: 2025-01-09T00:16:31.997Z
-updated: 2025-01-16T00:10:06.618Z
+date: 2025-01-21T03:30:42.033Z
+updated: 2025-01-21T21:56:34.688Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
  Elden Ring has finally arrived. However, many players are complaining that they encounter many performance issues when playing the game. And one of the issues that trouble many players is the**black screen problem on startup** . When this happens, players can see and move the game cursor and hear the music playing, but nothing else is displayed. If you’re facing the same issue, don’t worry. Here we’ve put together all the working fixes for you to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -43,14 +43,22 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, you’ll find the**Launch Options** section. Then enter the following parameters to open the game in windowed mode:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **\-windowed**  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart your graphics driver
@@ -72,14 +80,10 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -98,6 +102,10 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
 
@@ -111,17 +119,9 @@ If the issue persists, move on to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
  When updates are available, follow the on-screen instructions to download and install them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of game files
 
@@ -135,13 +135,13 @@ If the issue persists, move on to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
 If the issue remains, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable Steam overlay
 
@@ -180,16 +180,14 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-tier-psd-drop-shadows/"><u>[New] 2024 Approved Top-Tier PSD Drop Shadows</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-supercharging-srt-with-macwindows/"><u>[New] The Ultimate Guide to Supercharging SRT with Mac/Windows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-diy-guide-screen-capture-and-sound-from-youtube-for-2024/"><u>[Updated] DIY Guide Screen Capture & Sound From YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-pro-video-gear-expert-recommendations-for-youtube-clips/"><u>[Updated] Pro Video Gear Expert Recommendations for YouTube Clips</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 13 Pro to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-12-pro-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 12 Pro Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-14-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 14 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 15 Plus to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-xr-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone XR to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-llama-2-a-comprehensive-guide-on-its-purpose-and-applications/"><u>Mastering Llama 2: A Comprehensive Guide on Its Purpose & Applications</u></a></li>
-<li><a href="https://solve-news.techidaily.com/step-by-step-expert-guide-to-seamlessly-cutting-and-merging-music-tracks-both-online-platforms-and-desktop-tools/"><u>Step-By-Step Expert Guide to Seamlessly Cutting and Merging Music Tracks, Both Online Platforms and Desktop Tools!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-hd-live-stream-gear-list/"><u>[Updated] Ultimate HD Live Stream Gear List</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-spark-10-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Spark 10 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/error-resolved-comprehensive-fixes-for-missing-or-corrupt-msstfmtdll-files/"><u>Error Resolved: Comprehensive Fixes for Missing or Corrupt msstfmt.dll Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gtx-1650-super-graphics-card-driver-downloads-and-updates-for-windows-11/"><u>GTX 1650 Super Graphics Card Driver Downloads & Updates for Windows 11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-13-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 13 to SIM? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 6 Plus to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-x-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone X to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-14-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 14 Plus to Android | Dr.fone</u></a></li>
 </ul></div>
 

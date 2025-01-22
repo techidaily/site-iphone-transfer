@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Distorted Speakers & Silent Phone: Essential Tips for iPhone Sound Repair"
-date: 2025-01-09T19:47:09.413Z
-updated: 2025-01-15T19:25:40.908Z
+date: 2025-01-16T04:19:46.289Z
+updated: 2025-01-22T03:51:28.677Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ Read on and follow the easy-doing images below!
 2. [**Option 2: Change Sound Enhancement Settings**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Option 3: Change Speaker Settings**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1: Try the generic audio driver
 
  Sound keeps cutting out on Windows 10 could relate to problematic audio driver. To see if this is the case, you can try the generic sound driver provided by Windows and see if it works. To do so:
@@ -39,24 +35,33 @@ Read on and follow the easy-doing images below!
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a27949ffeb.png)
 3. Choose**Browse my computer for driver software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28445c675.png)
 4. Then choose**Let me pick from a list of available drivers on my computer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a286f3d5de.png)
 5. Make sure the box for**Show compatible hardware** is**TICKED** . Then choose**High Definition Audio Device** from the list, and hit**Next** to continue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a28cccfd3f.png)
 6. You will see the warning asking you whether you want to go on with the installation, click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a294398588.png)
 7. Restart your computer when the installation finishes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the generic audio driver doesn’t work to fix the sound cutting out issue, it’s possible that you have a corrupted or outdated sound card driver, so you should update the driver to see if it helps. If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -78,7 +83,7 @@ Read on and follow the easy-doing images below!
  If your computer sound still keeps cutting out, please move on to the next option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2: Change Sound Enhancement Settings
@@ -88,10 +93,6 @@ Read on and follow the easy-doing images below!
 1. Right-click the sound icon on the bottom right corner and choose**Sounds** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2ac889f4b.png)
 2. Navigate to the**Communications** tab. Then choose**Do nothing** and click**Apply** and**OK** to save the change.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2b232ba88.png)
 3. Navigate to the**Playback** tab. Right-click your default sound device here and choose**Properties** .  
@@ -112,7 +113,7 @@ Read on and follow the easy-doing images below!
 2. Go to the**Playback** tab, then select your default audio device and choose**Configure** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a2fb513a1f.png)
@@ -124,11 +125,11 @@ Read on and follow the easy-doing images below!
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30576b3ae.png)
 5. Click**Finish** to end the configuration.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2017/06/img_594a30a107415.png)
 
  Try to play audio with your computer again to see if the sound still cuts out.
 
@@ -153,19 +154,20 @@ Read on and follow the easy-doing images below!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-real-deal-behind-asmr-videos/"><u>[New] 2024 Approved The Real Deal Behind ASMR Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-gionee-f3-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Gionee F3 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-8-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 8 Plus to Samsung | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-ai-powered-chatgpt-develop-customized-healthy-workouts-that-suit-your-fitness-goals-safely/"><u>Can AI-Powered ChatGPT Develop Customized, Healthy Workouts That Suit Your Fitness Goals Safely?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/curing-infinite-loading-woes-in-the-elder-scrolls-v-skyrim-explained/"><u>Curing Infinite Loading Woes in The Elder Scrolls V: Skyrim Explained</u></a></li>
-<li><a href="https://network-issues.techidaily.com/geforce-setup-fixed-errors/"><u>GeForce Setup Fixed Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-easily-purchase-and-play-games-on-your-oculus-quest-headset/"><u>How To Easily Purchase & Play Games on Your Oculus Quest ² Headset</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-11-pro-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 11 Pro</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-xs-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone XS to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-7-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 7 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-8-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 8 to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-xs-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone XS Max to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/no-budget-maximum-fun-best-free-tiktok-editors-for-macos/"><u>No Budget, Maximum Fun Best FREE TikTok Editors for MacOS</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-xs-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone XS Apps to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-wealth-reddits-top-13-money-making-methods/"><u>[New] Unlocking Wealth Reddit's Top 13 Money-Making Methods</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-complete-guide-to-understanding-obs-screen-capture-for-2024/"><u>[Updated] Complete Guide to Understanding OBS Screen Capture for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>3 Ways to Fake GPS Without Root On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-12-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 12 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-a14-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy A14 4G</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-13-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 13 Pro to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-print-quality-with-new-epson-wf-3620-drivers-for-windows-1087-download-here/"><u>Enhance Your Print Quality with New Epson WF-3620 Drivers for Windows 10/8/7 - Download Here!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-11-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 11 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-12-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 12 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-13-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 13 to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-seamless-transitions-the-art-of-color-matching-in-powerdirector/"><u>New 2024 Approved Seamless Transitions The Art of Color Matching in PowerDirector</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/refurbished-apple-iphone-13-pro-max-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>Refurbished Apple iPhone 13 Pro Max Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-x-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone X and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-guide-to-personalizing-business-efforts-with-gpt/"><u>The Essential Guide to Personalizing Business Efforts with GPT</u></a></li>
 </ul></div>
 

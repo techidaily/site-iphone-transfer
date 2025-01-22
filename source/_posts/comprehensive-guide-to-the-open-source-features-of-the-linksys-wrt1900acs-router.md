@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to the Open Source Features of the Linksys WRT1900ACS Router
-date: 2025-01-12T16:47:00.916Z
-updated: 2025-01-15T21:57:17.269Z
+date: 2025-01-17T16:48:27.640Z
+updated: 2025-01-21T22:15:24.749Z
 categories:
   - BestProducts
 description: This Article Describes Comprehensive Guide to the Open Source Features of the Linksys WRT1900ACS Router
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/If8GxErGHTjgANe1aTqz5h0ZVGM=/400x300/fi
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/5SQBxSHXey906sYtaz8fIiCXm7k=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_HeroSquare-3ee559e1bf9b4c95bb91f9ceaf3a6c5d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -41,7 +45,7 @@ Lifewire / Erika Rawes
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TP-Link Archer C80 AC1900 Wireless MU-MIMO Wi-Fi 5 Router
@@ -67,6 +71,10 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -74,10 +82,6 @@ Lifewire / Erika Rawes
  The matte black color scheme allows it to blend in with other devices, so you’ll barely notice it on a desk or workstation. The surface is textured, with recesses to hide the venting. The texturing is both a blessing and a curse because it causes the C80 to collect a little extra dust, but it also hides fingerprints and smudges.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/Ep4Dk2l5q44AgM0S3cs9My3AE3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_03-a367c45b39474785856cb986e82c88dc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -93,10 +97,6 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/tXeiVJNqjtwMg97as87xxtsMwhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_04-375b5f92ce9d44f4af109c8f6bfada16.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
 
 ## **Network Performance: Fast speeds, No USB port**
@@ -109,10 +109,6 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Range: Even better than advertised**
 
  TP-Link advertises the C80 as a router for three-bedroom homes. However, that estimate understates the router’s range capabilities. My home is a two-story, 3,000 square-foot residence with five-bedrooms, and I was able to maintain a stable Wi-Fi connection in every corner. Every closet, bathroom, and bedroom got a steady signal, and I experienced no dead zones whatsoever. Even in the garage, front yard, and backyard, the signal remained strong. It was only when I attempted to use multiple gaming and streaming devices at one time that I experienced any sort of lag.
@@ -120,7 +116,7 @@ Lifewire / Erika Rawes
  Every closet, bathroom, and bedroom maintained a signal, and I experienced no dead zones whatsoever.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Software: TP-Link Tether app**
@@ -132,6 +128,10 @@ Lifewire / Erika Rawes
  If you want to control more advanced features, like NAT forwarding, DHCP servers, and IPv6, you’ll need to use the web management tool. The web management tool also provides more extensive parental control features, letting you filter out content by keywords (instead of just blocking websites). The web tool has a user-friendly interface, but it’s not as convenient as using the Tether app.
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
@@ -184,17 +184,16 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-oscillation-crafting-box/"><u>[New] 2024 Approved Oscillation Crafting Box</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-breaking-language-barriers-with-these-top-20-video-translators/"><u>[New] In 2024, Breaking Language Barriers with These Top 20 Video Translators</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-14-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 14 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/desktop-adventures-await-with-pokemon-unite-get-started-here/"><u>Desktop Adventures Await with Pokémon Unite - Get Started Here</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-out-which-ipads-come-with-inbuilt-satellite-positioning-tools/"><u>Find Out Which iPads Come With Inbuilt Satellite Positioning Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pop-8-phone-without-google-account-by-drfone-android/"><u>How to Unlock Tecno Pop 8 Phone without Google Account?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-11-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 11 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-gt-neo-5-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme GT Neo 5 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 15 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-11-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 11 Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-business-potential-with-these-5-critical-ai-applications/"><u>Unlocking Business Potential with These 5 Critical AI Applications</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-mastering-soundtrack-addition-to-social-media-videos-on-facebook/"><u>[Updated] 2024 Approved Mastering Soundtrack Addition to Social Media Videos on Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-go-global-with-music-transform-your-spotify-lists-into-youtube-videos/"><u>[Updated] In 2024, Go Global with Music Transform Your Spotify Lists Into YouTube Videos</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-7-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 7 to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 13 Pro to New iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/beatit-bt-d11-power-surge-kit-review-a-comprehensive-look-at-high-impact-charging/"><u>Beatit BT-D11 Power Surge Kit Review: A Comprehensive Look at High Impact Charging</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/dissecting-revenue-allocation-for-shortform-content-makers/"><u>Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-12-pro-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 12 Pro Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-14-plus-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 14 Plus to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-12-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 12 mini to Android | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfecting-transition-timings-in-premiere-audio-for-2024/"><u>Perfecting Transition Timings in Premiere Audio for 2024</u></a></li>
 </ul></div>
 

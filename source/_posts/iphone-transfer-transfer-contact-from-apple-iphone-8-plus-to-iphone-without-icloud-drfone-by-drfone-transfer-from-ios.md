@@ -1,7 +1,7 @@
 ---
 title: iPhone Transfer Transfer Contact from Apple iPhone 8 Plus to iPhone without iCloud | Dr.fone
-date: 2025-01-12T18:42:42.002Z
-updated: 2025-01-15T23:08:08.558Z
+date: 2025-01-21T01:45:40.215Z
+updated: 2025-01-21T21:07:41.033Z
 tags: 
   - iphone transfer
 categories:
@@ -32,6 +32,10 @@ AirDrop is a convenient built-in feature on iPhones. It allows quick and wireles
 
 ![make iphone visible to others](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Following this, press "Share Contact" and select "AirDrop" as the sharing method. From the available devices on AirDrop, choose the targeted device. Finally, "Accept" the incoming AirDrop on your target iPhone to complete the process.
 
 ![share contact using airdrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-3.jpg)
@@ -44,6 +48,10 @@ NameDrop, integrated within iOS 17, enables the smooth sharing of contact inform
 
 ![enable the namedrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** If Contact Posters are generated in iOS 17, they will display on both iPhones. You will be given the option to either "Share" or "Receive Only." If you wish to exchange contact information, select "Share." The recipient can opt for "Receive Only" to obtain your details. You can also perform these steps in the opposite direction to get contact information on your iPhone.
 
 ![freceive or share contacts via namedrop](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-5.jpg)
@@ -55,6 +63,10 @@ If you want a more traditional approach to copying contacts from Apple iPhone 8 
 - **Step 1:** After ensuring the latest iTunes/Finder is installed, use a USB cable to connect your source iPhone to your computer. To access the "Summary" tab in iTunes, click the "Device" icon. On Finder, select iPhone from "Locations" and access the "General" tab.
 
 ![access ios device in itunes](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Move to the "Backups" section on iTunes/Finder and click "Back Up Now." Before this, confirm the selection of "This Computer" in iTunes and for Finder" or "Back up all data from your iPhone to this Mac."
 
@@ -85,7 +97,7 @@ Using email or other online methods may raise security concerns. This is due to 
 Local backups created through iTunes or Finder might require ample storage space. Moreover, the iTunes/Finder backups are used to restore the entire device's data. You cannot use them to transfer contacts with your friends or colleagues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: 2 Advanced Solutions To Transfer Contacts From Apple iPhone 8 Plus to iPhone Without iCloud
@@ -102,10 +114,6 @@ With it, you can even transfer data directly to an iOS device or computer. Here 
 
 ![transfer contacts to targeted device](https://images.wondershare.com/drfone/guide/manage-ios-call-history-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Solution 2: Wondershare Dr.Fone - Phone Transfer
 
 When you want to transfer all of your contacts from the source device, the recommended tool is the Wondershare Dr.Fone – Phone Transfer feature. It enables users to smoothly copy data from one phone to another with just one click. Moreover, it facilitates the smooth transfer of various data types. This includes contacts, text messages, photos, videos, music, and more.
@@ -116,25 +124,13 @@ The process is user-friendly, requiring simple clicks to initiate. It can transf
 
 ![navigate to phone transfer feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** Make a Data Selection and Tap Start Transfer. After the Apple iPhone 8 Plus devices are configured, select the data you want to transfer alongside Contacts. When you have selected the desired data, click "Start Transfer" to proceed. A prompt will soon be displayed on the screen, requesting the deactivation of the Find My feature on iOS devices. Access the iOS device's Settings and tap on the name located at the top.
 
 ![select the data to start transfer](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Turn Off Find My and Complete the Transfer Process. Then, navigate to "iCloud" and access "Find My" to proceed to deactivate it. After deactivating the feature, the data transfer begins. The progress bar indicates the process's completion. Once finished, the foremost window exhibits the finalized phone transfer. Press "OK" to conclude the process fully.
 
 ![data transfer completed](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -172,6 +168,10 @@ Step 2: Connect both iPhones to your PC and click "Phone Transfer".
 
 ![transfer all photos from iphone to iphone without icloud using the software](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** _Confirm which iPhone is your destination device and which one is the source. Click "Flip" to swap their positions if necessary._
 
 Step 3: Select the "Photos" option and click "Start Transfer". Then you can find all photos are transferred from Apple iPhone 8 Plus to iPhone without iCloud.
@@ -208,9 +208,17 @@ Using iCloud for transferring data is convenient, but it is not always practical
 
 ![tap back up now button](https://images.wondershare.com/drfone/article/2023/11/transfer-photos-from-iphone-to-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Once the backup process is complete, disconnect the old iDevice. Next, you need to connect your new iPhone and proceed to the "Backups" section in the "Summary" tab. Here, tap "Restore Backup" and go on to choose the most recent backup. To complete the photo transfer process, tap "Restore" and wait for the backup to be restored.
 
 ![restore the iphone backup](https://images.wondershare.com/drfone/article/2023/11/transfer-photos-from-iphone-to-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4: Transfer Photos from Apple iPhone 8 Plus to iPhone without iCloud via AirDrop \[iPhone 15 Included\]
 
@@ -247,10 +255,6 @@ _“How to copy contacts from Apple iPhone 8 Plus to SIM? I want to use my SIM o
 
 Lately, lots of iPhone users have asked similar questions as they wish to save contacts to SIM card on iPhone. It might sound surprising, but it can be a little complicated to learn how to save contacts to SIM on iPhone. In this tutorial, we will answer the question – how to transfer contacts from Apple iPhone 8 Plus to SIM and provide a foolproof way to save and restore your iPhone contacts. Let’s get it started and learn more about how to export contacts from Apple iPhone 8 Plus to SIM.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Is it possible to save contacts to SIM on iPhone?
 
 A lot of users take the assistance of SIM card to save their contacts. If you are also doing the same, then you can easily learn how to import SIM contacts to iPhone. Simply go to your device’s Settings > Mail, Contacts, Calendar and tap on “Import SIM Contacts”.
@@ -266,6 +270,10 @@ Though, if your device has not been jailbroken, then you can’t export contacts
 While we can’t learn how to copy contacts from Apple iPhone 8 Plus to SIM, we can try an alternative method to save our contacts. By taking the assistance of Dr.Fone - Backup & Restore (iOS), you can save your data by taking its backup. Later, you can restore the backup on any other iOS (or Android) device. In this way, you can easily move your contacts and don’t need to learn how to save contacts to SIM on iPhone.
 
 [Dr.Fone - Backup & Restore (iOS)](https://drfone.wondershare.com/iphone-backup-and-restore.html) is a highly advanced and intuitive tool that can backup and restore all the major data types like contacts, messages, photos, music, etc. It is compatible with every leading version of iOS (including iOS 17). Therefore, instead of learning how to transfer contacts from Apple iPhone 8 Plus to SIM, you can use Dr.Fone Backup & Restore by following these steps:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Backup & Restore (iOS)
 
@@ -302,10 +310,6 @@ Save and Backup iPhone Contacts with 1-Click.
 
 ![iphone contacts backup complete](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7\. Whenever you need to restore your contacts, you can simply connect the Apple iPhone 8 Plus device and click on the “Restore” option instead.
 
 ![restore iphone contacts backup](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
@@ -315,7 +319,7 @@ Save and Backup iPhone Contacts with 1-Click.
 ![view iphone backups](https://images.wondershare.com/drfone/guide/backup-history.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9\. Your backup will be listed under different categories here. Go to Privacy > Contacts and select the contacts you wish to restore.
@@ -327,10 +331,6 @@ Save and Backup iPhone Contacts with 1-Click.
 11\. In no time, your contacts would be restored to your device. When the process is completed, you will be notified.
 
 That’s it! After restoring your contacts, you can safely remove the Apple iPhone 8 Plus device and use it as per your wishes. Therefore, if you have Dr.Fone Backup & Restore, then you don’t need to worry about how to import contacts from Apple iPhone 8 Plus to SIM.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Other solutions to transfer iPhone contacts
 
@@ -349,7 +349,7 @@ Another alternative to learning how to export contacts from Apple iPhone 8 Plus 
 ![export contacts from iphone using itunes](https://images.wondershare.com/drfone/article/2018/01/15151410449162.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Copy iPhone Contacts Using Gmail
@@ -378,15 +378,17 @@ We hope this guide was able to answer your question of how to copy contacts from
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/fixing-the-infamous-black-screen-of-death-in-cyberpunk-2077-solutions-that-work/"><u>Fixing the Infamous Black Screen of Death in Cyberpunk 2077: Solutions That Work</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-resolve-a-full-c-drive-issue-in-windows-11/"><u>How to Resolve a Full C: Drive Issue in Windows 11</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-amplifying-presence-top-30plus-bio-strategies-for-filmora-creators-to-grow-followers/"><u>In 2024, Amplifying Presence Top 30+ Bio Strategies for Filmora Creators to Grow Followers</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-13-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 13 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-x-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone X to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-x-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone X to iPhone | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-cheap-but-powerful-video-editing-software-options/"><u>New In 2024, Cheap but Powerful Video Editing Software Options</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/premier-9-video-calls-prioritizing-security-in-smes-for-2024/"><u>Premier 9 Video Calls Prioritizing Security in SMEs for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-update-process-for-lenovo-u310/"><u>Streamlined Update Process for Lenovo U310</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-11-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 11 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-gameboy-advance-mastered-android-emulator-selection/"><u>[New] 2024 Approved GameBoy Advance Mastered Android Emulator Selection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-comparing-the-costs-and-advantages-of-various-youtube-plans-for-2024/"><u>[New] Comparing the Costs and Advantages of Various YouTube Plans for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-whatsapp-web-chat-basics-for-pc-users/"><u>[New] WhatsApp Web Chat Basics for PC Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevate-your-content-on-facebook-using-wirecast/"><u>[Updated] Elevate Your Content on Facebook Using Wirecast</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-how-to-turn-your-google-meet-into-a-youtube-live-event/"><u>2024 Approved How To Turn Your Google Meet Into a YouTube Live Event</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-13-mini-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 13 mini to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-12-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 12 mini to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-xs-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone XS Max to PC | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M14 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-14-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 14 Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-6-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 6 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-depth-instructions-integrating-microsoft-copilot-into-your-macos-workflow/"><u>In-Depth Instructions: Integrating Microsoft Copilot Into Your macOS Workflow</u></a></li>
 </ul></div>
 
