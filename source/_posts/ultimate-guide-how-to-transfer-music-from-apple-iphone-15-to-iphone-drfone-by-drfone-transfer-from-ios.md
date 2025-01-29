@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide, How to Transfer Music From Apple iPhone 15 to iPhone | Dr.fone
-date: 2025-01-17T03:32:01.032Z
-updated: 2025-01-21T23:32:00.794Z
+date: 2025-01-27T16:21:23.342Z
+updated: 2025-01-29T18:42:18.147Z
 tags: 
   - iphone transfer
 categories:
@@ -21,7 +21,7 @@ It will explore native functionalities provided by Apple and third-party apps. M
 ![transfer music from idevices](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How To Transfer Selective and All Music From Apple iPhone 15 to iPhone in One-Click
@@ -64,6 +64,10 @@ The iPhone from which you want to transfer the music should be in the "Source" p
 
 ![start the music transfer process](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How To Transfer Music From Apple iPhone 15 to iPhone Using iTunes
 
 iTunes remains a reliable and widely used application for managing iOS devices. Many iPhone users prefer this method for transferring music between iOS devices, which is limited to purchased songs. Follow these steps to **transfer music from Apple iPhone 15 to iPad** using iTunes:
@@ -78,7 +82,7 @@ iTunes remains a reliable and widely used application for managing iOS devices. 
 ![sync the music with new iphone](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How To Transfer Music From Apple iPhone 15 to iPhone via AirDrop
@@ -111,6 +115,10 @@ Transferring music via Google Drive offers a convenient way to move your music c
 - **Step 2.** Once they are uploaded, move to the new iPhone and install the Google Drive app there. Here, log in using the same Google ID and access the songs you uploaded from the source device. Then tap the “Three dots” icon and select "Make available offline" to complete the process.
 
 ![choose make available offline feature](https://images.wondershare.com/drfone/article/2023/12/m-iph-to-iph-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: How To Transfer Music Streaming Services Playlists From Apple iPhone 15 to iPhone
 
@@ -169,7 +177,7 @@ All the files you selected will be transferred to the targeted phone successfull
 ![phone switch 03](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Transfer from iCloud Backup to Samsung Galaxy S20 (Wireless and Safe)
@@ -183,6 +191,10 @@ If you don't have a computer device and want to transfer data from an iOS device
 **Step 1.** Touch "Import from iCloud", after installing the Android version of Dr.Fone - Switch.
 
 ![transfer data from iphone to samsung s20 by drfone app 1](https://images.wondershare.com/drfone/article/2020/02/transfer-data-from-iphone-to-samsung-s20-by-drfone-app-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** With your Apple ID and passcode, log in to the iCloud account.
 
@@ -240,6 +252,10 @@ _If you prefer to run a desktop software to transfer data, use Dr.Fone - Phone T
 
 [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Free Download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Transfer from iTunes Backup to Samsung Galaxy S20 without iTunes
 
 **Step 1. Select the backup file**
@@ -249,6 +265,10 @@ Launch Dr.Fone and select Phone Backup. Connect your Samsung S20 to the computer
 It will give the option View backup history if you have used this function to backup your iOS device before. Click on View backup history option to view the backup file index.
 
 ![ios device backup 01](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After that, Dr.Fone will display the backup history. Just pick the backup file you want and click on the Next on the bottom of the program or view button next to the backup file.
 
@@ -293,6 +313,10 @@ Whenever you consider switching your SIM card to iPhone, you must keep a few thi
 - **Backup iPhone Data:** Although there is no direct involvement of iPhone data in the process, it is best to back up the data. It includes all essential contacts and media that might get physically damaged while changing SIM cards.
 - **Turn Off iPhone While Switching SIM Cards:** It is best to turn off your iOS device during such processes. To avoid any software anomaly, turning off the Apple iPhone 15 device can save you the drill.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: What Happens If You Switch Two SIM Cards in iPhone
 
 On **switching a SIM card to a new iPhone,** there are multiple consequences that occur against it. The provided details explain the possible situations that can arise if you consider switching SIM cards in iPhone:
@@ -301,10 +325,6 @@ On **switching a SIM card to a new iPhone,** there are multiple consequences tha
 2. The cellular network, along with other cellular packages, will be in operational use as the SIM card will be attached to the iPhone. You will be paying according to the packages offered by your SIM carrier.
 3. If the SIM card is not compatible with the iPhone, the network operations will malfunction and not operate properly. Different connectivity issues will be reported across the scale.
 4. On switching your SIM card, you will have to reactivate iMessage and FaceTime under the cellular settings of the new SIM card. The previous settings for both services will be removed upon removing the SIM card.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How To Switch SIM Card to New iPhone Safely
 
@@ -321,10 +341,6 @@ Once you have learned the implications of switching your SIM card to your new iP
 **Step 3:** Use the “Power” button on your iOS device to turn it on. Once it turns on, you will find the cellular operations working according to the new SIM card.
 
 ![turn on the iphone](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: What Happens If You Switch to an iPhone Locked to A Specific Carrier?
 
@@ -354,29 +370,17 @@ Start installing and launching Wondershare Dr.Fone on your computer and selectin
 
 ![tap on screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Jailbreak Your iDevice**
 
 On the following screen, tap "Start" and follow it by clicking "Unlock Now" as Wondershare Dr.Fone recognizes your device. Now, you will need to jailbreak your device, for which the instructions are given on the screen. Remove the SIM card from the phone and access "WLAN" through device Settings.
 
 ![press the unlock now button](https://images.wondershare.com/drfone/guide/remove-iphone-sim-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Complete the SIM Lock Removal Process**
 
 Go to the Wi-Fi network you are connected to and choose "Forget This Network." Then, move to each saved Wi-Fi network in "My Networks" and remove all of them. Reinsert the SIM card to the Apple iPhone 15 device and press "Continue" on the screen. It will initiate the SIM lock removal process, which will be finished in a few moments.
 
 ![click on continue button](https://images.wondershare.com/drfone/guide/remove-iphone-sim-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How To Switch All Data to New iPhone in One Click
 
@@ -399,7 +403,7 @@ Launch [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/pho
 ![choose the phone transfer tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Set Source and Destination**
@@ -407,10 +411,6 @@ Launch [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/pho
 As you connect both devices in the transfer process, define the source and destination. Set your old device as the "Source" and the new iPhone as the "Target." To change the Apple iPhone 15 devices, use the “Flip” button.
 
 ![connect your iphone devices](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Select File Types and Transfer**
 
@@ -448,21 +448,19 @@ This article has provided a valuable overview of **switching SIM cards to new Ap
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-filmmakers-lounge-app-for-2024/"><u>[Updated] Filmmaker's Lounge App for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-radeon-rx-590-windows-driver-installation-and-update-the-ultimate-guide/"><u>AMD Radeon RX 590 Windows Driver Installation & Update: The Ultimate Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/augmented-folder-actions-power-up-your-file-management/"><u>Augmented Folder Actions: Power Up Your File Management</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-best-audio-sanctuary-gear-2024/"><u>Exploring the Best Audio Sanctuary Gear 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-13-pro-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 13 Pro to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-xs-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone XS Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-6s-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 6s Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-12-pro-max-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 12 Pro Max to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-xr-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone XR to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-8-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 8 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-12-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 12 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-6-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 6? 5 Tips You Must Know</u></a></li>
-<li><a href="https://driver-install.techidaily.com/premium-sound-drivers-amd-innovation/"><u>Premium Sound Drivers, AMD Innovation</u></a></li>
-<li><a href="https://win-dash.techidaily.com/resolve-your-hp-envy-7640-driver-issues-instantly-expert-tips-inside/"><u>Resolve Your HP ENVY 7640 Driver Issues Instantly – Expert Tips Inside!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-xiaomi-mix-fold-3-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Xiaomi Mix Fold 3 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boost-your-gaming-presence-with-these-top-14-video-ideas/"><u>[New] 2024 Approved Boost Your Gaming Presence with These Top 14 Video Ideas</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/oost-your-channels-top-5-youtube-tricks-for-increased-visibility/"><u>[New] Boost Your Channels Top 5 YouTube Tricks for Increased Visibility</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-obs-streaming-windows-and-mac-guide/"><u>[New] OBS Streaming [Windows and Mac Guide]</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-virtual-expansion-top-7-gear-choices-for-metavisionaries-for-2024/"><u>[Updated] Virtual Expansion Top 7 Gear Choices for Metavisionaries for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-15-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 15 to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/find-your-perfect-roku-at-a-steal-this-prime-day-exclusive-offers-inside/"><u>Find Your Perfect Roku at a Steal This Prime Day - Exclusive Offers Inside</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-12-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 12 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-12-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 12 to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-8-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 8 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 8 to Android | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-sony-camcorder-video-editing-tutorial-from-capture-to-completion-for-2024/"><u>New Sony Camcorder Video Editing Tutorial From Capture to Completion for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175727068-revolutionize-your-silent-pc-experience-with-configurable-cases-and-glowing-fans-by-be-quiet/"><u>Revolutionize Your Silent PC Experience with Configurable Cases & Glowing Fans by Be Quiet!</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-file-organization-windows-11s-folder-annotations-guide/"><u>Streamlining File Organization: Windows 11'S Folder Annotations Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/vrij-van-boodschappen-onlinemethode-om-je-m4b-aanvraag-in-avi-formaat-virtueel-te-veranderen/"><u>Vrij Van Boodschappen - Onlinemethode Om Je M4B-Aanvraag in Avi Formaat Virtueel Te Veranderen</u></a></li>
 </ul></div>
 

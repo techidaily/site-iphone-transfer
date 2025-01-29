@@ -1,7 +1,7 @@
 ---
 title: Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
-date: 2025-01-19T16:26:57.039Z
-updated: 2025-01-22T04:54:41.139Z
+date: 2025-01-22T16:10:08.575Z
+updated: 2025-01-29T16:29:47.893Z
 categories:
   - repair-tools
 description: This Article Describes Fix Error Code 36 on Mac | Unable to Empty Trash on macOS
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/381a81d2f0bf0f275cd73c183feb9dd23edc02b56
  WHY STELLAR® IS GLOBAL LEADER
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Why Choose Stellar?
@@ -90,7 +90,7 @@ Awards Received
 * [HIPAA Verified](https://www.stellarinfo.com/images/v7/hipa.png) ](https://tools.techidaily.com/stellardata-recovery/buy-now/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Stellar Official Website
@@ -105,7 +105,7 @@ Awards Received
 ![ALSO AVAILABLE AT](https://www.stellarinfo.com/images/v7/Partners_logo_new.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  About
@@ -159,11 +159,11 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 * ![DMCA](https://www.stellarinfo.com/images/v7/dmca.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -181,20 +181,22 @@ Follow Us [Facebook](https://www.stellarinfo.com/Images/fb.png) ](https://www.fa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-craft-a-compelling-narrative-with-your-igtv-video-titles-and-texts/"><u>[Updated] 2024 Approved Craft a Compelling Narrative with Your IGTV Video Titles & Texts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-elevate-your-pc-best-8-video-capture-tools-for-windows-10/"><u>[Updated] 2024 Approved Elevate Your PC Best 8 Video Capture Tools for Windows 10</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-top-ranked-audio-respeeders-mobile-desktop/"><u>[Updated] 2024 Approved Top-Ranked Audio Respeeders (Mobile, Desktop)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-what-is-augmented-reality/"><u>[Updated] In 2024, What Is Augmented Reality?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-precision-techniques-shifting-bulk-video-data-from-iphone-to-mac/"><u>[Updated] Precision Techniques Shifting Bulk Video Data From iPhone to Mac</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-methods-recording-minecraft-games-on-apple-devices/"><u>2024 Approved Essential Methods Recording Minecraft Games on Apple Devices</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-14-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 14 Plus to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-apple-iphone-xr-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Apple iPhone XR Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 8 Plus to New iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 6 to Android | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-attention-stirrer-supreme/"><u>In 2024, Attention Stirrer Supreme</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-14-pro-max-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 14 Pro Max to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-productivity-setting-up-a-home-office-with-the-latest-ipad-pro-insights-and-tips/"><u>Maximizing Productivity: Setting Up a Home Office with the Latest iPad Pro - Insights and Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-tips-for-turning-off-facebook-access-on-android-smartphones/"><u>Quick Tips for Turning Off Facebook Access on Android Smartphones</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-6s-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 6s to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-freeing-up-youtube-views-no-more-grey-lines/"><u>[Updated] Freeing Up YouTube Views No More Grey Lines</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capture-peak-performance-high-end-webcams-for-quality-live-streams-on-twitch/"><u>[Updated] In 2024, Capture Peak Performance High-End Webcams for Quality Live Streams on Twitch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-finest-affordable-webm-players-on-market/"><u>[Updated] Unveiling the Finest Affordable WebM Players on Market</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-11-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 11 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-14-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 14 Plus to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-7-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 7 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-11-pro-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 11 Pro to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-13-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 13 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-6-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 6 Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 14 Pro to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-15-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 15 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-video-trimming-software-10-online-options-reviewed/"><u>New In 2024, Free Video Trimming Software 10 Online Options Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-audio-attenuation-a-focus-on-lumafusions-tools-for-2024/"><u>Perfecting Audio Attenuation A Focus on Lumafusion's Tools for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/resolving-mkv-import-challenges-in-davinci-resolve-a-step-by-step-guide/"><u>Resolving MKV Import Challenges in DaVinci Resolve - A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/secure-your-prime-day-steals-with-these-sizzling-hot-discounts-on-roku-products/"><u>Secure Your Prime Day Steals with These Sizzling Hot Discounts on Roku Products</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-definitive-guide-fixing-missing-haldll-troubles-on-windows-xp-pcs/"><u>The Definitive Guide: Fixing 'Missing Hal.dll' Troubles on Windows XP PCs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-documentaries-about-historic-events-space-or-any-other-topic-that-is-impossible-to-stage-rely-on-the-videos-that-entered-the-public-domain-for-one-r/"><u>Updated Documentaries About Historic Events, Space or Any Other Topic that Is Impossible to Stage Rely on the Videos that Entered the Public Domain for One Reason or the Other. Thats Why in This Article, We for 2024</u></a></li>
 </ul></div>
 

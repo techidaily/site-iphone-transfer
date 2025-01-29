@@ -1,7 +1,7 @@
 ---
 title: Methods to Transfer from Apple iPhone 12 mini to Android | Dr.fone
-date: 2025-01-17T20:48:39.386Z
-updated: 2025-01-21T17:39:31.507Z
+date: 2025-01-28T18:05:40.508Z
+updated: 2025-01-29T16:33:51.996Z
 tags: 
   - iphone transfer
 categories:
@@ -46,7 +46,7 @@ Launch Dr.Fone - Phone Transfer on your Windows PC or Mac. On its homepage, choo
 ![iphone to android contacts transfer](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 2. Connect Your iPhone and Android Device to Computer with USB Cables
@@ -62,7 +62,7 @@ Scan the supported files to ensure what you're going to transfer. Click "Start T
 ![transfer contacts from iphone to android](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Don't have a computer at hand? Just try the [Android app of Dr.Fone - Phone Transfer](https://play.google.com/store/apps/details?id=com.wondershare.mobiletrans&hl=en), which allows you to directly **transfer data from Apple iPhone 12 mini to Android**, and bring iCloud data to Android without any hassle.
@@ -71,6 +71,10 @@ Don't have a computer at hand? Just try the [Android app of Dr.Fone - Phone Tran
 
 Besides Dr.Fone - Phone Transfer, there are some useful ways that empower you to transfer files from Apple iPhone 12 mini to Android. They're totally free but just take some time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Part 1. Transfer Apps from Apple iPhone 12 mini to Android
 
 As you know, apps on iPhone are in .ipa, .pxl, or .deb formats, while Android apps are .apk files. Thus, it's impossible to directly install iPhone apps on your Apple iPhone 12 mini or tablet, let alone transfer app data from Apple iPhone 12 mini to Android. However, many iPhone apps have their corresponding Android versions, which you can download from [Google Play Store](https://play.google.com/store).
@@ -78,10 +82,6 @@ As you know, apps on iPhone are in .ipa, .pxl, or .deb formats, while Android ap
 Search Google Play on the internet and then search the apps that you play on your iPhone. Then, download and install the apps on your Apple iPhone 12 mini or tablet.
 
 ![download app from google play](https://images.wondershare.com/drfone/others/download-apps-from-google-play.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2. Transfer Contacts from Apple iPhone 12 mini to Android via iCloud
 
@@ -95,6 +95,10 @@ Step 2. Sign in to your iCloud account and turn on _Contacts_ to sync contacts 
 
 ![transfer iphone contacts to android](https://images.wondershare.com/drfone/others/sync-icloud-with-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. Open the browser and land iCloud main page. Then, click _Contacts_ to enter the contact management panel. Click _Show Actions Menu_ and click _Export vCard…_. Then, contacts in iCloud will be saved as a vCard file on the computer.
 
 ![transfer iphone contacts to android](https://images.wondershare.com/drfone/others/export-icloud-contacts-from-pc.jpg)
@@ -107,10 +111,6 @@ Step 5. Navigate to the Contacts app on your Apple iPhone 12 mini. Tap the menu 
 
 **Tips:** If you want to know more ways to transfer contacts from Apple iPhone 12 mini to Android, you can find more satisfying answers on ways to transfer contacts from Apple iPhone 12 mini to Samsung, and [switch contacts from Apple iPhone 12 mini to Android](https://drfone.wondershare.com/iphone-transfer/how-to-transfer-contacts-from-iphone-to-android.html).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Part 3. Transfer iPhone text messages to Android with 2 Android apps
 
 To transfer iPhone SMS to Android, you can turn to two Android apps for help. With them, you can extract iPhone SMS from iTunes backup and transfer to Android phone.
@@ -118,10 +118,6 @@ To transfer iPhone SMS to Android, you can turn to two Android apps for help. Wi
 Step 1. Open iTunes and connect your iPhone to the computer via a USB cable. In your iPhone control panel, click _Back Up Now_ to back up your iPhone to the computer.
 
 ![transfer sms from iphone to android](https://images.wondershare.com/drfone/others/itunes-backup.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2. Connect your Apple iPhone 12 mini to computer with a USB cable. Copy the exported iTunes backup file to the SD card of your Apple iPhone 12 mini.
 
@@ -151,6 +147,10 @@ Step 1. Open iTunes. Click _Store_ > _Authorize This Computer…_. Fill out your
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/itunes-media-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Part 6. Transfer Calendars from Apple iPhone 12 mini to Android
 
 It's easy to sync Calendars from Apple iPhone 12 mini to Android, as long as you have the Google account sync feature on both iPhone and Android phones.
@@ -161,29 +161,17 @@ Step 2. Fill in your Google account info: name, email, and password. In the Desc
 
 ![sync calendar to ios](https://images.wondershare.com/drfone/others/sync-calendar-to-ios1.jpg) ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/sync-calendar-to-ios2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3. Tap Next and turn on _Calendar_s. Then, tap _Save_ to begin syncing iPhone calendars with Google.
 
 Step 4. On your Apple iPhone 12 mini or tablet, tap _Settings_ > _Account & sync_. Select Google account and tap _Sync Calendars_ and _Sync Now_.
 
 ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/sync-contacts-screenshot1.jpg) ![copy sms from iphone to android](https://images.wondershare.com/drfone/others/sync-calendar-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The above methods offer you valuable solutions to **transfer data from Apple iPhone 12 mini to Android**. Whether you choose to use Dr.Fone - Phone Transfer, cloud services, or iTunes, these methods cater to a variety of preferences and ensure that your valuable data, including contacts, messages, photos, and apps, can seamlessly migrate to your new Android device. By using Dr.Fone - Phone Transfer, you can make the switch from Apple iPhone 12 mini to Android with 1 click, try it now!
 
 ## How to Transfer/Sync Notes from Apple iPhone 12 mini to iPad
 
 The Notes app comes pre-installed on iPhone and iPad, and it proves to be very handy and useful when you need to jot down some ideas, details, plans, or any other important information which can be reviewed whenever you need. Sometimes you will need more to check your note from your iPhone on iPad. In this case, transferring/syncing notes from Apple iPhone 12 mini to iPad plays an important role. This article will provide the ways with and without iCloud to transfer notes from Apple iPhone 12 mini to iPad in detail.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1. Transfer Notes from Apple iPhone 12 mini to iPad Using iCloud
 
@@ -206,10 +194,6 @@ Step 3 Go to Notes App on iPhone
 Now go to the Notes app on your iPhone, and you can see a folder named iCloud. Now you can create notes in the iCloud folder on your iPhone, and the notes will be automatically synced to the iPad when the two devices are connected with Wi-Fi connection.
 
 ![How to Transfer Notes from Apple iPhone 12 mini to iPad Using iCloud - step 3: Go to Notes on iPhone](https://images.wondershare.com/drfone/others/open-notes-app-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. Sync Notes from Apple iPhone 12 mini to iPad Using Third-Party Software
 
@@ -250,7 +234,7 @@ User reviews
 ![How to Transfer Notes from Apple iPhone 12 mini to iPad Using Third Party Software - CopyTrans](https://images.wondershare.com/drfone/others/copytrans-transfer-notes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. iExplorer
@@ -305,6 +289,10 @@ Thought changing into a new phone is exciting, but changing phones can be a real
 
 Dr.Fone is a perfect tool for transferring contacts from Apple iPhone 12 mini to iPhone. It can transfer contacts and all kinds of data and media files from your iPhone to iPhone or Android and vice-versa. [Dr.Fone - Phone Transfer](https://tools.techidaily.com/wondershare/drfone/phone-switch/) is a great tool that supports all the latest iOS and Android-based smartphones; it also works smoothly on Windows and Mac. It’s the easiest, fastest, and safest way to transfer contacts from Apple iPhone 12 mini to iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Phone Transfer
 
 1-Click Phone to Phone Transfer
@@ -313,6 +301,10 @@ Dr.Fone is a perfect tool for transferring contacts from Apple iPhone 12 mini to
 - Move data between devices with different operating systems, i.e., iOS to Android.
 - Supports iOS devices that run the latest iOS ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Transfer photos, text messages, contacts, notes, and many other file types.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Supports over 8000+ Android devices. Works for all models of iPhone, iPad, and iPod.
 
@@ -329,6 +321,10 @@ First, you need to download dr. Fone on your computer and install it. Run the pr
 Dr.Fone will show you both iPhones on your screen, and you will have to choose the “Contacts” option and click on the “Start Transfer” button.
 
 ![select contacts to transfer to target iphone](https://images.wondershare.com/drfone/drfone/phone-switch-ios-to-ios-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Finish The Process**
 
@@ -369,6 +365,10 @@ You can easily learn how to transfer contacts from one iPhone to another (like i
 You need to go to the “Settings” option of your source iPhone and tap on your name at the top of the settings screen. Check the “Contacts” option is toggled on or not from the “iCloud” option. After that, hit merge to upload your contacts on iCloud.
 
 ![transfer contacts from iphone to iphone using icloud sync](https://images.wondershare.com/drfone/article/2018/03/transfer-contacts-to-iphone-using-icloud-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You need to use the Apple ID and password on your target phone and do the same thing to toggle on the “Contacts” option from “iCloud” and wait until your iPhone asks you to merge contacts.
 
@@ -416,17 +416,14 @@ Transferring any data from your old phone to a new phone can be very painful. Bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-guide-to-best-internet-recording-tools-2023/"><u>[New] In 2024, Ultimate Guide to Best Internet Recording Tools 2023</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-tip-post-youtube-content-dont-twit/"><u>[Updated] 2024 Approved Social Media Tip Post YouTube Content, Don't Twit</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-maximizing-your-youtube-potential-with-content-partnerships/"><u>[Updated] Maximizing Your YouTube Potential with Content Partnerships</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-11-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 11 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expert-level-workshop-programming-timer-functions-for-obs-productions/"><u>Expert-Level Workshop Programming Timer Functions for OBS Productions</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-15-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 15 Plus to iPhone | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-honor-magic-5-pro-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-se-2020-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone SE (2020) to Samsung | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-famed-stop-motion-movies-15-of-all-time/"><u>In 2024, Famed Stop-Motion Movies #15 of All Time</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 13 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 15 to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/zdnets-curated-list-of-premium-magsafe-wallets-in-2e24-in-depth-testing-and-analysis-unveiled/"><u>ZDNet's Curated List of Premium MagSafe Wallets in 2E24: In-Depth Testing and Analysis Unveiled</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-innovative-initiations-panzoids-best-ten/"><u>[Updated] 2024 Approved Innovative Initiations Panzoid's Best Ten</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-15-pro-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 15 Pro to Samsung | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-13-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 13 Pro Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c67-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme C67 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-xs-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone XS and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-transform-your-streaming-enabling-av1-technology-in-youtube/"><u>In 2024, Transform Your Streaming Enabling AV1 Technology in YouTube</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-12-pro-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 12 Pro Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>Universal Unlock Pattern for Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
 </ul></div>
 
