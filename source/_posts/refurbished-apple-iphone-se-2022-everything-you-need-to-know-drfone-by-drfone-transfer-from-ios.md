@@ -1,7 +1,7 @@
 ---
 title: Refurbished Apple iPhone SE (2022) Everything You Need to Know | Dr.fone
-date: 2025-01-27T16:16:10.259Z
-updated: 2025-01-29T18:06:39.706Z
+date: 2025-02-04T22:37:43.488Z
+updated: 2025-02-09T21:18:44.299Z
 tags: 
   - iphone transfer
 categories:
@@ -150,21 +150,25 @@ Once the Apple iPhone SE (2022) devices are connected, wait and let them load th
 
 ![Specify the source and target devices.](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:**
 
 Now, select the specific data types you want to transfer to your refurbished iPhone. Checkmark all data and select **"Start Transfer"** to proceed further.
 
 ![Refurbished-iPhone-7](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:**
 
 Once done, you will see a pop-up asking to turn off the Find My feature on iOS devices. Go to "**Settings"** on the iOS device and click the Apple iPhone SE (2022) device's name at the top. Then, click "**iCloud" > "Find My"** feature and turn it off.
 
 ![Turn off the Find My feature on your iOS device.](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:**
 
@@ -179,16 +183,12 @@ Once completed, you will see the interface as shown below. Click **"OK"** to con
 ![Data transfer completed.](https://images.wondershare.com/drfone/guide/transfer-ios-to-ios-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Similarly, you can also transfer data from Android to Apple iPhone SE (2022) and Apple iPhone SE (2022) to Android. There's no need to try complex methods when you have Dr.Fone just a click away.
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **FAQs**
 
@@ -203,6 +203,10 @@ A certified refurbished Apple iPhone SE (2022) is refurbished and certified by t
 **3\. Can I get the latest iOS updates on a refurbished iPhone?**
 
 Refurbished iPhones come with the latest iOS software installed. They ensure that you have access to the newest features and security updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Final Thought**
 
@@ -221,12 +225,16 @@ In this comprehensive guide, you'll discover how to transfer contacts from Apple
 ![ipod thic pc](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Basic Methods To Transfer Contacts From Apple iPhone SE (2022) to iPhone Without iCloud
 
 We will start by exploring the 4 basic methods to transfer contacts from Apple iPhone SE (2022) to iPhone without iCloud. Each method offers its advantages and is tailored to suit different preferences. By understanding these methods, you can choose the most suitable one for your needs:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1. AirDrop
 
@@ -239,10 +247,6 @@ AirDrop is a convenient built-in feature on iPhones. It allows quick and wireles
 - **Step 2:** Following this, press "Share Contact" and select "AirDrop" as the sharing method. From the available devices on AirDrop, choose the targeted device. Finally, "Accept" the incoming AirDrop on your target iPhone to complete the process.
 
 ![share contact using airdrop feature](https://images.wondershare.com/drfone/article/2023/12/transfer-contacts-from-iphone-to-iphone-without-icloud-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2. NameDrop
 
@@ -307,7 +311,7 @@ With it, you can even transfer data directly to an iOS device or computer. Here 
 ![transfer contacts to targeted device](https://images.wondershare.com/drfone/guide/manage-ios-call-history-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Solution 2: Wondershare Dr.Fone - Phone Transfer
@@ -321,7 +325,7 @@ The process is user-friendly, requiring simple clicks to initiate. It can transf
 ![navigate to phone transfer feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2:** Make a Data Selection and Tap Start Transfer. After the Apple iPhone SE (2022) devices are configured, select the data you want to transfer alongside Contacts. When you have selected the desired data, click "Start Transfer" to proceed. A prompt will soon be displayed on the screen, requesting the deactivation of the Find My feature on iOS devices. Access the iOS device's Settings and tap on the name located at the top.
@@ -367,10 +371,6 @@ Connect both the two iPhones to your computer. Once both the iPhones are connect
 Another way that can assist you to move photos from Android to iPhone is the [Dr.Fone - Phone Manager (Android)](https://drfone.wondershare.com/android-transfer.html). What is incredibly convenient about Dr.Fone - Phone Manager (Android) is its ability to transfer photos selectively. You can also use it to transfer contacts, videos, messages, podcasts, and anything else stored on your Android in minutes. Dr.Fone - Phone Manager (Android) is a secure, trustworthy program, hence you can be reassured that your information will be kept safe while transferring from one device to another.
 
 [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) [Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How to transfer apps from iPhone apps to the new iPhone via iTunes?
 
@@ -449,10 +449,6 @@ Note: Doing so will erase any old setup.
 
 8: Your photos, videos, files, etc will be automatically downloaded into your new Phone using iCloud.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to transfer apps from Apple iPhone SE (2022) to iPhone with the help of the App store?
 
 In this part, we are going to transfer apps from Apple iPhone SE (2022) to iPhone 15/15 Pro (Max) or an earlier model using the iPhone app store. In this method, you do not need to connect to the computer, or no lengthy steps needed. Let us see the steps carefully!
@@ -468,7 +464,7 @@ In this part, we are going to transfer apps from Apple iPhone SE (2022) to iPhon
 ![check my purchased apps](https://images.wondershare.com/drfone/article/2018/01/15169314968668.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4: After entering the credential, you have the two options such as all and not on this phone.
@@ -478,6 +474,10 @@ In this part, we are going to transfer apps from Apple iPhone SE (2022) to iPhon
 6: Click the download button next to the icon of the apps. The apps will be installed on your new Phone.
 
 ![download apps to new iphone](https://images.wondershare.com/drfone/article/2018/01/15169315338930.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note: You have completed the installation of apps on your new iPhone.
 
@@ -499,20 +499,24 @@ We have given and explained to you 3 methods to **transfer apps from Apple iPhon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-aural-clarity-unleashed-secrets-to-high-quality-audio/"><u>[New] 2024 Approved Aural Clarity Unleashed Secrets to High-Quality Audio</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-swift-tactics-for-slideshow-storage/"><u>2024 Approved Swift Tactics for Slideshow Storage</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-11-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 11 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-14-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 14 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 12 Pro Max to ZTE Phones | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-7-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 7 to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-15-pro-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 15 Pro Max to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-11-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 11 to PC | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-reduce-video-size-with-these-5-free-iphone-and-ipad-apps-for-2024/"><u>New Reduce Video Size with These 5 Free iPhone and iPad Apps for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/swift-shadow-magic-one-minute/"><u>Swift Shadow Magic, One Minute</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-art-of-title-design-in-after-effects-for-2024/"><u>The Art of Title Design in After Effects for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-ultimate-pathway-to-perfected-kinemaster-edits-for-2024/"><u>The Ultimate Pathway to Perfected Kinemaster Edits for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-ultimate-tech-elite-laptops-showcased-at-ces-2024-by-zdnet/"><u>Unveiling the Ultimate Tech: Elite Laptops Showcased at CES 2024 by ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-deciphering-the-secrets-of-gopro-hero5-captures/"><u>[New] In 2024, Deciphering the Secrets of GoPro Hero5 Captures</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tep-into-the-spotlight-learning-youtube-vlogger-etiquette/"><u>[New] Step Into the Spotlight Learning YouTube Vlogger Etiquette</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-m1-macbook-air-video-editors-dream-machine/"><u>2024 Approved M1 MacBook Air Video Editor's Dream Machine?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-12-pro-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 12 Pro to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-7-plus-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 7 Plus to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-7-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 7 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-13-mini-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 13 mini to SIM? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-14-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 14 to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-se-2022-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone SE (2022) to Android | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-effortless-integration-igtv-and-instagram-stories/"><u>In 2024, Effortless Integration IGTV & Instagram Stories</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-se-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone SE to SIM? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-professional-level-youtube-content-via-adobe-premiere/"><u>In 2024, Professional-Level YouTube Content via Adobe Premiere</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-13-mini-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 13 mini and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/iphone-under-the-moonlight-photography-tips/"><u>IPhone Under the Moonlight Photography Tips</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-7-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 7 to Android | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/rhythm-on-rings-creating-tamil-ringtone-playlists/"><u>Rhythm on Rings Creating Tamil Ringtone Playlists</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/strategies-to-streamline-your-google-meet-calendar/"><u>Strategies to Streamline Your Google Meet Calendar</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Infinix GT 10 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
