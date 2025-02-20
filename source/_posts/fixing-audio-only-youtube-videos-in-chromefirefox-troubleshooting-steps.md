@@ -1,7 +1,7 @@
 ---
 title: Fixing Audio-Only YouTube Videos in Chrome/Firefox - Troubleshooting Steps
-date: 2025-02-07T02:43:37.756Z
-updated: 2025-02-10T01:43:42.216Z
+date: 2025-02-13T22:47:41.071Z
+updated: 2025-02-19T21:26:59.521Z
 tags:
   - win11
   - win10
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 5. **[Uninstall Chrome, delete its installation folder and reinstall Chrome](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Free up drive space
@@ -44,16 +44,24 @@ thumbnail: https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc5
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select the types of information you want to remove. Make sure **Cookies and other site data** ,**Cache images and files** are selected.![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-Clear-cache-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click**Clear data** .
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check if the problem is resolved. If not, try Solution 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable unnecessary extensions
 
@@ -63,18 +71,10 @@ Check if the problem is resolved. If not, try Solution 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bece0cbe3af4.png)
 2. **Toggle off** all extensions to disable them.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-extension.jpg)
 3. Restart Chrome and test if the issue is fixed. If not, move on to Solution 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Reset Chrome settings to default
 
@@ -92,10 +92,6 @@ Check if the problem is resolved. If not, try Solution 2, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your device drivers
 
  If the steps above didn’t resolve your Chrome high CPU usage problem, it’s most likely caused by a device driver. You can update all your device drivers to the latest version to help fix the problem.
@@ -110,7 +106,15 @@ Check if the problem is resolved. If not, try Solution 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bec022d24e36.jpg)
 4. Restart your computer and check if Chrome high CPU usage is resolved. If not, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Solution 5, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Uninstall Chrome, delete its installation folder and reinstall Chrome
 
@@ -119,10 +123,6 @@ Check if the problem is resolved. If not, try Solution 2, below.
 1. You can go to the Control Panel to uninstall Chrome.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/chrome-uninstall.jpg)
 2. Delete this folder to completely remove Chrome from your computer:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `C:\Users\**<username>** \AppData\Local\Google\Chrome\`
 3. Download the latest version of Chrome from[its official website](https://www.google.com/chrome/) .
@@ -149,22 +149,24 @@ Check if the problem is resolved. If not, try Solution 2, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-hero-11-and-max-360-gopro-challenge-video-quality-faceoff/"><u>[New] 2024 Approved Hero 11 & Max 360 GoPro Challenge - Video Quality Faceoff</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-youtube-live-excellence-a-comprehensive-tutorial/"><u>[Updated] YouTube Live Excellence A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-youtube-live-selling-boost-your-sales-with-these-tips/"><u>2024 Approved YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-11-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 11 Pro Max to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 8 to Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-6s-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 6s Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-7-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 7 to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-15-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 15 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-13-pro-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone 13 Pro to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-11-pro-max-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 11 Pro Max to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/mastering-distinctiveness-amidst-top-tiktok-stars/"><u>Mastering Distinctiveness Amidst Top TikTok Stars</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mediasphere-app-user-experience-report-for-2024/"><u>MediaSphere App User Experience Report for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-fcpx-tutorial-achieve-flawless-skin-without-plugins-for-2024/"><u>New FCPX Tutorial Achieve Flawless Skin without Plugins for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamlessly-integrating-airpods-into-your-macbook-air-experience/"><u>Seamlessly Integrating AirPods Into Your MacBook Air Experience</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/transfer-your-apple-iphone-se-2020-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>Transfer your Apple iPhone SE (2020) Apps to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-mastering-top-quality-prints-from-heic-images/"><u>Ultimate Guide: Mastering Top-Quality Prints From HEIC Images</u></a></li>
-<li><a href="https://program-issues.techidaily.com/upgrade-your-utorrent-experience-strategies-to-resolve-and-prevent-slow-download-speeds/"><u>Upgrade Your uTorrent Experience: Strategies to Resolve and Prevent Slow Download Speeds</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-unlocking-whatsapp-wizardry-your-essential-guide/"><u>[New] In 2024, Unlocking WhatsApp Wizardry Your Essential Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-streamlining-content-acquisition-5-ways-to-download-igtv-on-windows-and-macos-for-2024/"><u>[New] Streamlining Content Acquisition 5 Ways to Download IGTV on Windows & MacOS for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-windows-update-insights-the-latest-wins/"><u>[Updated] In 2024, Windows Update Insights The Latest Wins</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/codegpt-unveiled-will-it-revolutionize-the-way-we-write-programs/"><u>CodeGPT Unveiled: Will It Revolutionize the Way We Write Programs?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/eliminate-distorted-speakers-and-silent-phone-essential-tips-for-iphone-sound-repair/"><u>Eliminate Distorted Speakers & Silent Phone: Essential Tips for iPhone Sound Repair</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267326745-enhance-user-experience-and-insights-with-our-cutting-edge-cookiebot-powered-solutions/"><u>Enhance User Experience and Insights with Our Cutting-Edge, Cookiebot-Powered Solutions</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/experts-insights-on-the-secure-high-capacity-amazon-basics-12-sheet-shredder/"><u>Experts' Insights on the Secure, High-Capacity Amazon Basics 12-Sheet Shredder</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-it-fast-why-isnt-farming-simulator-eblaunching-your-quick-solution/"><u>Fix It Fast: Why Isn't Farming Simulator Eblaunching? Your Quick Solution</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fixing-a-non-functional-corsair-hs35-microphone-on-windows-a-step-by-step-guide/"><u>Fixing a Non-Functional Corsair HS35 Microphone on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-hp-victus-15-laptop-for-gamers-at-an-unbeatable-price-of-530-at-best-buy-exclusive-offer/"><u>Get the HP Victus 15 Laptop for Gamers at an Unbeatable Price of $530 at Best Buy | Exclusive Offer</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/helldivers-2-launch-glitch-heres-your-guide-to-fixing-the-black-startup-screen/"><u>Helldivers 2 Launch Glitch? Here's Your Guide to Fixing the Black Startup Screen!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-and-set-up-an-insignia-usb-to-vga-converter-with-drivers/"><u>How to Get and Set Up an Insignia USB-to-VGA Converter with Drivers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone 13 mini</u></a></li>
+<li><a href="https://article-files.techidaily.com/leap-into-virtual-gatherings-xbox-zoom-mastery/"><u>Leap Into Virtual Gatherings Xbox Zoom Mastery</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/masterful-remedies-overcoming-halo-e-3s-persistent-crashes-during-playtime-on-desktop/"><u>Masterful Remedies: Overcoming Halo E 3'S Persistent Crashes During Playtime on Desktop</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/mastering-smooth-discord-performance-a-proven-anti-lag-guide-for-202email-protected/"><u>Mastering Smooth Discord Performance: A Proven Anti-Lag Guide for 202([Email Protected])</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/mastering-wow-performance-fast-and-simple-fixes-to-combat-connection-issues/"><u>Mastering WoW Performance: Fast & Simple Fixes to Combat Connection Issues</u></a></li>
+<li><a href="https://video-capture.techidaily.com/vdl-pro-recorder-summary-detailed-breakdown/"><u>VDL Pro Recorder Summary Detailed Breakdown</u></a></li>
+<li><a href="https://article-files.techidaily.com/z2-play-exploration-unlocking-smartphone-genius/"><u>Z2 Play Exploration Unlocking Smartphone Genius</u></a></li>
 </ul></div>
 

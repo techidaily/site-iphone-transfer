@@ -1,7 +1,7 @@
 ---
 title: Helldivers 2 Launch Glitch? Here's Your Guide to Fixing the Black Startup Screen!
-date: 2025-02-04T00:07:01.634Z
-updated: 2025-02-10T00:51:20.486Z
+date: 2025-02-16T03:29:54.555Z
+updated: 2025-02-19T17:21:49.864Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image-4-1200x702.png)
 
  Elden Ring has finally arrived. However, many players are complaining that they encounter many performance issues when playing the game. And one of the issues that trouble many players is the**black screen problem on startup** . When this happens, players can see and move the game cursor and hear the music playing, but nothing else is displayed. If you’re facing the same issue, don’t worry. Here we’ve put together all the working fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/485fa639637af95e40bb39955015be2d5660936e6
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Restart your graphics driver
@@ -69,7 +73,7 @@ There are mainly two ways to update your graphics driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
@@ -79,10 +83,6 @@ There are mainly two ways to update your graphics driver:
  Once you’ve updated your graphics driver, restart your PC and launch Elden Ring again to see if your problem is resolved.
 
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -98,7 +98,7 @@ There are mainly two ways to update your graphics driver:
 3. Once you’ve installed all pending updates, restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Elden Ring again and check if you still get stuck on a black screen.
@@ -113,11 +113,11 @@ If the issue persists, move on to the next fix.
 
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When updates are available, follow the on-screen instructions to download and install them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of game files
 
@@ -128,16 +128,16 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
 If the issue remains, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable Steam overlay
 
@@ -149,7 +149,7 @@ If the issue remains, take a look at the next fix.
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
@@ -180,19 +180,16 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-complete-analysis-of-yi-4k-plus-hdvr-review/"><u>[Updated] 2024 Approved The Complete Analysis of Yi 4K + HDVR Review</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-guide-to-the-best-ai-tools-for-file-conversation/"><u>A Guide to the Best AI Tools for File Conversation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-computer-systems-breakdown-by-toms-hardware-specialist/"><u>Advanced Computer Systems Breakdown by Tom's Hardware Specialist</u></a></li>
-<li><a href="https://facebook.techidaily.com/discovering-latest-fb-views-quickly/"><u>Discovering Latest FB Views Quickly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/display-decisions-weighing-the-pros-of-ultrawide-and-uhd-4k/"><u>Display Decisions Weighing the Pros of UltraWide & UHD 4K</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-se-2020-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone SE (2020) to SIM? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone XS to Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-15-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone 15 to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-x-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone X to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-15-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 15 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-setting-up-your-apple-homepod-as-a-component-of-your-tv-audio-experience/"><u>How To: Setting up Your Apple HomePod as a Component of Your TV Audio Experience</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-12-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 12 mini to Android | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/slash-your-airfare-by-2k-using-the-dollar-flight-club-strategy-insights-from-zdnet/"><u>Slash Your Airfare by $2K Using the Dollar Flight Club Strategy - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/streaming-fifa-world-cup-live-mobile-app-to-pc-setup-guide/"><u>Streaming FIFA World Cup Live: Mobile App to PC Setup Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-igniting-the-lights-the-procedure-for-starting-a-tiktok-broadcast-from-computer-for-2024/"><u>[New] Igniting the Lights The Procedure for Starting a TikTok Broadcast From Computer for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-pick-a-youtube-channel-name/"><u>[Updated] How To Pick a YouTube Channel Name</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-secrets-to-free-youtube-intros/"><u>[Updated] Unlocking the Secrets to FREE YouTube Intros</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-list-of-top-quality-cost-free-luts/"><u>2024 Approved Ultimate List of Top-Quality, Cost-Free LUTs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/best-cameras-for-capturing-live-dynamic-music-events-in-hd4k-for-2024/"><u>Best Cameras for Capturing Live, Dynamic Music Events in HD/4K for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-ins-and-outs-of-using-your-atandt-phone-abroad/"><u>Exploring the Ins and Outs of Using Your AT&T Phone Abroad</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-sync-contacts-from-apple-iphone-14-pro-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Sync Contacts from Apple iPhone 14 Pro Max to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-12-pro-max-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 12 Pro Max to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-move-custom-ringtones-from-apple-iphone-6s-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Move Custom Ringtones from Apple iPhone 6s Plus to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-se-2020-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone SE (2020) Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/prioritize-performance-download-scsi-drivers-fast/"><u>Prioritize Performance: Download SCSI Drivers Fast</u></a></li>
 </ul></div>
 

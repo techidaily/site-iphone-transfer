@@ -1,7 +1,7 @@
 ---
 title: "Warzone 2.0 Lag Solutions: Top 2024 Tricks to Lower Your Ping"
-date: 2025-02-02T16:45:32.712Z
-updated: 2025-02-09T23:58:09.089Z
+date: 2025-02-18T23:25:12.573Z
+updated: 2025-02-20T04:36:31.990Z
 tags:
   - win11
   - win10
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers have reported this problem. But the good news is, you can fix it. Here’re 9 known fixes for the Phasmophobia crashing issue. You may not need to try them all; just work your way down the list until you find the one that does the trick for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -32,10 +32,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 7: Stop overlocking your GPU/CPU](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
@@ -54,16 +50,12 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
@@ -81,17 +73,9 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Relaunch the game to test the issue.
 
@@ -121,7 +105,7 @@ If the game still crashes, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -145,6 +129,10 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -161,9 +149,17 @@ If the crash still occurs, go ahead with the next fix.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -193,6 +189,10 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -212,20 +212,24 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-best-church-live-streaming-services-uncovered/"><u>[New] In 2024, Best Church Live Streaming Services Uncovered</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-enhance-presentations-with-background-music/"><u>2024 Approved Enhance Presentations with Background Music</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-unlocking-financial-success-through-youtubes-viewer-count/"><u>2024 Approved Unlocking Financial Success Through Youtube's Viewer Count</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-6-plus-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 6 Plus to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-14-pro-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 14 Pro to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-13-pro-max-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 13 Pro Max to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/future-proof-cooling-the-leading-cpu-aio-and-air-coolers-of-2024-reviewed/"><u>Future-Proof Cooling: The Leading CPU AIO and Air Coolers of 2024 Reviewed</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/guide-complet-comment-profiter-au-maximum-de-wd-backup-sur-windows-11-ainsi-que-des-solutions-de-rechange-efficaces/"><u>Guide Complet: Comment Profiter Au Maximum De WD Backup Sur Windows 11, Ainsi Que Des Solutions De Rechange Efficaces</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-7-plus-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 7 Plus to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-14-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 14 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-ios-devices-to-motorola-phones-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Data from iOS Devices to Motorola Phones | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/spectacular-screen-showdown-sj6-vs-the-4k-innovators-of-xiaomi-for-2024/"><u>Spectacular Screen Showdown SJ6 Vs. The 4K Innovators of Xiaomi for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/survive-the-horde-in-depth-review-of-zombie-haven-7-days-to-die/"><u>Survive The Horde: In-Depth Review of Zombie Haven - 7 Days to Die</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-11-pro-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 11 Pro and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-the-vanished-bluetooth-on-windows-10-with-ease/"><u>Troubleshoot and Fix the Vanished Bluetooth on Windows 10 with Ease</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-make-a-ken-burns-effect-in-camtasia-9/"><u>[New] How to Make a Ken Burns Effect in Camtasia 9?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-boost-your-reach-the-quintessential-five-tactics-for-youtube-success-for-2024/"><u>[Updated] Boost Your Reach The Quintessential Five Tactics for YouTube Success for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-excellence-in-camera-technology-2024-outlooks/"><u>[Updated] Excellence in Camera Technology - 2024 Outlooks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extensive-examination-of-vsco-image-tools/"><u>[Updated] Extensive Examination of VSCO Image Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-dissecting-viral-trends-for-immersive-fb-ad-content/"><u>[Updated] In 2024, Dissecting Viral Trends for Immersive FB Ad Content</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-pioneering-insights-into-asmr-video-content/"><u>[Updated] Pioneering Insights Into ASMR Video Content</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-11-pro-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 11 Pro to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-11-pro-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 11 Pro Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-6s-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 6s Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-error-code-36-on-mac-unable-to-empty-trash-on-macos/"><u>Fix Error Code 36 on Mac | Unable to Empty Trash on macOS</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 14 Pro to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-6-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 6 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-8-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 8 to PC | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-14-pro-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 14 Pro Max to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-14-plus-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 14 Plus to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-powerful-chips-linked-to-most-game-disruptions-in-new-warframe-developer-report/"><u>Intel’s Powerful Chips Linked to Most Game Disruptions in New Warframe Developer Report</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209952769-9781071513422-meditacion-mindfulness-y-tecnicas-de-meditacion-para-la-curacion-deshacerse-de-la-depresion/"><u>Meditación: Mindfulness Y Técnicas De Meditación Para La Curación (Deshacerse De La Depresión) | Free Book</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-windows-10-experience-fix-for-intel-and-nvidia-switchable-graphics/"><u>Seamless Windows 10 Experience: Fix for Intel & NVIDIA Switchable Graphics</u></a></li>
 </ul></div>
 

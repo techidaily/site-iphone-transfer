@@ -1,7 +1,7 @@
 ---
 title: Switch Cards Between Apple iPhone 15 Pro and other iPhones Will Move All Phone Services? | Dr.fone
-date: 2025-02-03T18:30:08.435Z
-updated: 2025-02-10T01:52:19.617Z
+date: 2025-02-16T16:25:47.016Z
+updated: 2025-02-19T19:39:57.035Z
 tags: 
   - iphone transfer
 categories:
@@ -29,6 +29,10 @@ Whenever you consider switching your SIM card to iPhone, you must keep a few thi
 - **Backup iPhone Data:** Although there is no direct involvement of iPhone data in the process, it is best to back up the data. It includes all essential contacts and media that might get physically damaged while changing SIM cards.
 - **Turn Off iPhone While Switching SIM Cards:** It is best to turn off your iOS device during such processes. To avoid any software anomaly, turning off the Apple iPhone 15 Pro device can save you the drill.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: What Happens If You Switch Two SIM Cards in iPhone
 
 On **switching a SIM card to a new iPhone,** there are multiple consequences that occur against it. The provided details explain the possible situations that can arise if you consider switching SIM cards in iPhone:
@@ -37,6 +41,10 @@ On **switching a SIM card to a new iPhone,** there are multiple consequences tha
 2. The cellular network, along with other cellular packages, will be in operational use as the SIM card will be attached to the iPhone. You will be paying according to the packages offered by your SIM carrier.
 3. If the SIM card is not compatible with the iPhone, the network operations will malfunction and not operate properly. Different connectivity issues will be reported across the scale.
 4. On switching your SIM card, you will have to reactivate iMessage and FaceTime under the cellular settings of the new SIM card. The previous settings for both services will be removed upon removing the SIM card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Switch SIM Card to New iPhone Safely
 
@@ -50,13 +58,13 @@ Once you have learned the implications of switching your SIM card to your new iP
 
 ![switch the sim card between iphones](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Use the “Power” button on your iOS device to turn it on. Once it turns on, you will find the cellular operations working according to the new SIM card.
 
 ![turn on the iphone](https://images.wondershare.com/drfone/article/2023/03/switch-sim-cards-between-iphones-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: What Happens If You Switch to an iPhone Locked to A Specific Carrier?
 
@@ -73,10 +81,6 @@ Best SIM Unlock for iPhone.
 - Supports almost all carriers, from Vodafone to Sprint.
 - No tech knowledge required, everybody can handle it.
 - Supports iPhone 5S to iPhone X, which are running between iOS 12.0 and iOS 14.8.1 ![New icon](https://images.wondershare.com/drfone/others/new_23.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3,046,049** people have downloaded it
 
@@ -101,14 +105,6 @@ On the following screen, tap "Start" and follow it by clicking "Unlock Now" as W
 Go to the Wi-Fi network you are connected to and choose "Forget This Network." Then, move to each saved Wi-Fi network in "My Networks" and remove all of them. Reinsert the SIM card to the Apple iPhone 15 Pro device and press "Continue" on the screen. It will initiate the SIM lock removal process, which will be finished in a few moments.
 
 ![click on continue button](https://images.wondershare.com/drfone/guide/remove-iphone-sim-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How To Switch All Data to New iPhone in One Click
 
@@ -142,10 +138,6 @@ Select the file types that you wish to transfer from the center section. Select 
 
 ![data transfer process initiated](https://images.wondershare.com/drfone/guide/transfer-ios-to-android-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Frequently Asked Questions
 
 Here are answers to some of the FAQs available on the internet regarding how to change a SIM card on an iPhone.
@@ -161,6 +153,10 @@ Physical SIM cards are tangible, removable chips that need to be inserted into a
 ## Conclusion
 
 This article has provided a valuable overview of **switching SIM cards to new Apple iPhone 15 Pro and other iPhones**. With a proper understanding of the repercussions involved in the process, a guide has been discussed. Along with its thorough discussion, you have also figured out how to transfer data to a new iPhone. For that, Dr.Fone - Phone Transfer is the best option in the market.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easy Methods: How To Transfer Pictures From Apple iPhone 15 Pro to PC
 
@@ -182,6 +178,10 @@ On your iPhone Settings, go to your profile and tap iCloud. Then, select Photos 
 
 ![Sync iCloud photos on iPhone.](https://images.wondershare.com/drfone/article/2023/11/transfer-photos-from-iphone-to-pc-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Set up your iCloud for Windows.
 
 Open iCloud for Windows and ensure you're signed in with your Apple ID. Next to Photos, select Options > iCloud Photos. Click “Done” and “Apply” to save the changes and close the window.
@@ -193,6 +193,10 @@ Open iCloud for Windows and ensure you're signed in with your Apple ID. Next to 
 Open iCloud Photos and select the images you want to transfer to your PC. Right-click to open a drop-down menu and choose "Always keep on this device."
 
 That’s it! Now, you can find your iPhone Photos on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2: How To Transfer Pictures From iPhone with Google Drive**
 
@@ -253,7 +257,7 @@ Within the Photos app, click on Import > From a USB device and follow the instru
 Finally, allow a few moments for the system to detect and transfer the selected photos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 4: How To Quick Transfer Pictures From Apple iPhone 15 Pro to PC**
@@ -294,7 +298,7 @@ When a new window appears, select the specific file types you wish to transfer (
 ![Choose file types for export.](https://images.wondershare.com/drfone/guide/export-data-from-ios-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Make a password for the backup file
@@ -302,6 +306,10 @@ When a new window appears, select the specific file types you wish to transfer (
 Next, you will be asked to create an encrypted password for the backup file to be stored on the computer. Set a password, confirm it, and click "Done" to execute the process.
 
 ![Make a password for the backup file.](https://images.wondershare.com/drfone/guide/export-data-from-ios-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Monitor the progress
 
@@ -315,10 +323,6 @@ After successful completion of exporting the data, a window will appear on your 
 
 ![Successfully transfer iPhone photos to a PC.](https://images.wondershare.com/drfone/guide/export-data-from-ios-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 Before, you must have wondered **how do you transfer pictures from Apple iPhone 15 Pro to PC**. But after learning from the article above, you now have a variety of straightforward methods in your hand, whether with iCloud, Google Drive, iTunes, or reliable software like Dr.Fone.
@@ -326,6 +330,10 @@ Before, you must have wondered **how do you transfer pictures from Apple iPhone 
 If you're embedded in the Apple ecosystem, iCloud provides seamless integration of your iPhone Photos. Alternatively, Google Drive offers a cross-platform solution, enabling you to upload your iPhone photos to the cloud and access them on your computer browser.
 
 For those who prefer a more traditional approach, iTunes provides a straightforward method via a USB connection. And if you're looking for a quick and versatile third-party solution, software like [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) simplifies the data transfer process with its user-friendly interface and robust features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Transfer from Apple iPhone 15 Pro to iPhone 8/X/11
 
@@ -366,10 +374,6 @@ Still confused? Let us tell you easy steps that will help you to learn **how to 
 
 There are other methods too which enables the **transfer data from old iPhone to iPhone 8 (Plus)/X/11**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Transfer Everything from Apple iPhone 15 Pro to iPhone 8 (Plus)/X/11 with iTunes
 
 iTunes have been used traditionally to transfer the data. Let’s learn how iTunes works:
@@ -401,10 +405,6 @@ iCould is another software which also enables the transfer of data from Apple iP
 
 ![Transfer from Apple iPhone 15 Pro to iPhone X/iPhone 8 (Plus) with iCloud](https://images.wondershare.com/drfone/article/2017/09/transfer-from-iphone-to-iphone-x-4.jpg "Transfer from Apple iPhone 15 Pro to iPhone X/iPhone 8 (Plus) with iCloud")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. The application will ask for the backup. Once you've checked that the backup is correct you can click on it.
 2. Make sure your device is connected to it until the process is completed.
 
@@ -426,21 +426,15 @@ We know the emotions and sentiments attached with one’s personal information a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expert-mac-system-for-high-definition-screen-plus-audio-recording/"><u>[New] 2024 Approved Expert Mac System for High Definition Screen + Audio Recording</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-rapid-routines-easy-iphone-media-sharing/"><u>[New] In 2024, Rapid Routines Easy iPhone Media Sharing</u></a></li>
-<li><a href="https://win-updates.techidaily.com/aktionsfahige-tipps-fur-die-onedrive-sync-automatisierung-auf-dem-pc-mit-windows-11/"><u>Aktionsfähige Tipps Für Die OneDrive-Sync-Automatisierung Auf Dem PC Mit Windows 11</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-15-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 15 Plus to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-techniques-for-ethically-following-a-phones-digital-trail/"><u>Free Techniques for Ethically Following a Phone's Digital Trail</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-15-pro-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 15 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfersync-notes-from-apple-iphone-15-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer/Sync Notes from Apple iPhone 15 Pro Max to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-se-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone SE to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-15-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 15 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-12-mini-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone 12 mini to SIM? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 11?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-14-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 14 Pro to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-netflix-recording-mac-edition-6-essential-steps/"><u>Mastering Netflix Recording Mac Edition - 6 Essential Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-techniques-for-calc-prominence-in-win/"><u>Optimal Techniques for Calc Prominence in Win</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-honor-magic-5-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Honor Magic 5 Pro FRP Bypass</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-conquering-challenges-advanced-hdr-workflows-in-ps/"><u>[New] 2024 Approved Conquering Challenges Advanced HDR Workflows in PS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-crafting-connection-tips-and-tricks-for-sharing-content-via-facebook/"><u>[New] Crafting Connection Tips and Tricks for Sharing Content via Facebook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-seamless-saving-of-snapchat-images-on-device-memory-for-2024/"><u>[Updated] Seamless Saving of SnapChat Images on Device Memory for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-15-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 15 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-x-fold-2-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-7-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 7 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-12-mini-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 12 mini to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-proficient-use-of-audacity-for-high-quality-recordings/"><u>In 2024, Proficient Use of Audacity for High-Quality Recordings</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-x-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone X to iPhone | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-best-5-ai-voice-generators-online-supports-all-browsers/"><u>Updated In 2024, Best 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
 </ul></div>
 

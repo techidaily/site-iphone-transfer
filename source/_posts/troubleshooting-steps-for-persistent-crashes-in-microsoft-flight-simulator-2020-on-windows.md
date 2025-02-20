@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Persistent Crashes in Microsoft Flight Simulator 2020 on Windows
-date: 2025-02-02T21:09:00.219Z
-updated: 2025-02-10T03:10:43.922Z
+date: 2025-02-16T17:24:49.775Z
+updated: 2025-02-19T23:01:23.330Z
 tags:
   - win11
   - win10
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 [4: Update your network driver](https://tools.techidaily.com/drivereasy/download/)
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
 
@@ -64,19 +68,15 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -85,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
@@ -123,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
@@ -152,18 +152,20 @@ thumbnail: https://thmb.techidaily.com/e192369aa8db403955c25d96f740d0c112baa081f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-circle-designers-toolkit/"><u>[New] Circle Designer's Toolkit</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-from-joiner-to-trustee-securing-a-place-as-a-disco-partner/"><u>[Updated] In 2024, From Joiner to Trustee Securing a Place as a Disco Partner</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[Updated] In 2024, How to Size Your Videos YouTube's Best Practices Unveiled</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-xr-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone XR to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-6-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 6 Plus to iPad | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-can-you-get-back-a-mistakenly-erased-number-on-android/"><u>How Can You Get Back a Mistakenly Erased Number on Android?</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-6-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 6 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-pro-max-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 15 Pro Max to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-7-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 7 and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/maximizing-your-soundcloud-presence-with-dex-3-unleashing-the-like-buttons-potential/"><u>Maximizing Your SoundCloud Presence with Dex 3: Unleashing the Like Button's Potential</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/step-by-step-xbox-game-recordings-made-easy/"><u>Step-by-Step Xbox Game Recordings Made Easy</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-8-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone 8 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-comparing-googles-flat-cube-and-samsungs-headset-for-2024/"><u>[New] Comparing Google's Flat Cube and Samsung's Headset for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-creative-freedom-the-best-9-online-editors-for-beginners-for-2024/"><u>[Updated] Creative Freedom The Best 9 Online Editors for Beginners for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-from-sound-to-storage-logging-online-broadcasts-efficiently/"><u>[Updated] In 2024, From Sound to Storage Logging Online Broadcasts Efficiently</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-best-asmr-microphones-you-should-try/"><u>[Updated] In 2024, The Best ASMR Microphones You Should Try</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-get-a-cleaner-look-in-your-videos-quickly-and-easily/"><u>2024 Approved Get a Cleaner Look in Your Videos Quickly and Easily</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-13-mini-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 13 mini to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 14 Pro Max to Android | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-laserjet-p1nsiii-series-drivers-complete-guide-and-download-for-windows-operating-systems/"><u>Get the Newest HP LaserJet P1nsiii Series Drivers - Complete Guide & Download for Windows Operating Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-global-photo-perfection-suite/"><u>Gratis Global Photo Perfection Suite</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 15 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-6-plus-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 6 Plus to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-15-pro-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 15 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-copy-contacts-from-apple-iphone-se-2020-to-sim-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Copy Contacts from Apple iPhone SE (2020) to SIM? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-latest-update-reimagines-game-sharing-for-families/"><u>Steam's Latest Update Reimagines Game Sharing for Families</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-motorola-moto-e13-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Moto E13 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

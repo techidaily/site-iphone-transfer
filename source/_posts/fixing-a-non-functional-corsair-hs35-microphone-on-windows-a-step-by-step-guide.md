@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Non-Functional Corsair HS35 Microphone on Windows: A Step-by-Step Guide"
-date: 2025-02-08T18:28:38.974Z
-updated: 2025-02-09T20:19:49.923Z
+date: 2025-02-16T23:39:00.962Z
+updated: 2025-02-19T22:49:36.209Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1 – Allow access to your microphone on your PC
 
  If your Corsair HS35 is not activated in the Window settings, your PC will lack the access to your microphone and so the mic just won’t start to work at all. Follow these steps to allow access to your microphone:
@@ -44,21 +48,13 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/setting-Privacy.jpg)
 2. Select**Microphone** on the left panel, then click the**Change** button to see if the toggle is**On** in the pop-up menu. If it isn’t, change the toggle to On.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-1.jpg)
 3. Check to see if the toggle in the**Allow apps to access your microphone** section is turned**On** . If it isn’t, change the toggle to On.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/mic-setting-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try your mic to see if it’s working now. If it isn’t, move on to the next fix.
@@ -76,16 +72,16 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-enable.jpg)
 3. Right-click the headset microphone again and select **Properties.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/sound-properties.jpg)
 4. Under the**Levels** tab, move the slider to the highest value and then click**OK** to save your settings.
 
  If this fix doesn’t give you the luck, try the next below to update your audio drives.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your audio driver
 
@@ -107,7 +103,7 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 4. After updating your audio driver, restart your PC for the trick to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at <support@drivereasy.com> .
@@ -122,23 +118,23 @@ The Corsair HS35 mic is a good-value product but it might be frustrating when it
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/quick-access-menu-device-manger.jpg)
 2. Click on the**Audio inputs and outputs** to expand the category, right-click your Corsair device and then select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/DM-Audio-unindtall.jpg)
 3. Click**Uninstall** in the confirmation box that pops up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Press the**Windows + R** keys to open the Run command. Type**`appwiz.cpl`** in the text box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-4.jpg)
 5. Select**iCUE** and then click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall-corsair-driver-5.jpg)
 6. Click**Yes** in the confirmation box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Restart your PC and replug your Corsair headset into your computer.
 8. Relaunch the iCUE software. You can click **[here](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Ficue&mktsrc=drivereasyen%5F166866)**  to download the latest version of iCUE.
@@ -179,6 +175,10 @@ Top Pick
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6 – Seek technical support or after-sales service
 
  If you’ve tried all of the above fixes and still can’t get your mic boom to function, the issue could be with your headset rather than your computer.**You can try connecting your headset to another PC** ; if it’s still not working, there may be an issue with your Corsair Mic. In this situation, you should **[contact Corsair for support](https://help.corsair.com/hc/en-us)**  or have your headset serviced.
@@ -202,24 +202,18 @@ Top Pick
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-joyjingles-where-to-find-hilarious-ringtone-links/"><u>[New] JoyJingles Where to Find Hilarious Ringtone Links</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-navigating-small-group-setups-in-zoom-for-2024/"><u>[New] Navigating Small Group Setups in Zoom for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-av1-foundations-and-fundamentals/"><u>[Updated] Unveiling AV1 Foundations and Fundamentals</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/advanced-drawing-experience-with-the-huion-inspiroy-g10t-tablet-superior-quality-examined/"><u>Advanced Drawing Experience with the Huion Inspiroy G10T Tablet - Superior Quality Examined</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-se-2022-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone SE (2022) to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-14-pro-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 14 Pro to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/explore-elite-audio-quality-with-our-pick-of-leading-stereo-receivers-homes/"><u>Explore Elite Audio Quality with Our Pick of Leading Stereo Receivers Homes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-roblox-crashes-fast-essential-tips-for-steady-gameplay-updated-guide-for-2n4/"><u>Fix Roblox Crashes Fast: Essential Tips for Steady Gameplay - Updated Guide for 2N4</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-6-plus-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 6 Plus Stuck at attempting data recovery Loop | Stellar</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>How to identify missing drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-quick-ways-to-transfer-contacts-from-apple-iphone-xs-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Quick Ways to Transfer Contacts from Apple iPhone XS to iPhone With/Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-13-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 13 to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-x-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone X to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-15-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 15 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-11-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 11 to iPad | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-6-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 6 to PC | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-switch-cards-between-apple-iphone-7-plus-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Switch Cards Between Apple iPhone 7 Plus and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/iphone-photography-breakthroughs-with-lifelike-motion-for-2024/"><u>IPhone Photography Breakthroughs with Lifelike Motion for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-step-by-step-guide-to-crafting-stunning-tiktok-edits/"><u>[New] Step-by-Step Guide to Crafting Stunning TikTok Edits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-steps-to-successful-remote-podcasting-for-2024/"><u>[Updated] Steps to Successful Remote Podcasting for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/century-age-of-ashes-pc-version-fixed-no-more-crashing-issues/"><u>Century: Age of Ashes PC Version - Fixed! No More Crashing Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-potential-of-apples-high-end-vr-is-a-3000-investment-worth-it/"><u>Exploring the Potential of Apple's High-End VR: Is a $3,000 Investment Worth It?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fixing-audio-only-youtube-videos-in-chromefirefox-troubleshooting-steps/"><u>Fixing Audio-Only YouTube Videos in Chrome/Firefox - Troubleshooting Steps</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-narzo-60x-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme Narzo 60x 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-waters-fixing-pc-sound-issues-for-seamless-communication-in-sea-of-thieves/"><u>Master the Waters: Fixing PC Sound Issues for Seamless Communication in Sea of Thieves</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mastering-the-matrimony-beat-proven-strategies-for-success-as-a-mobile-dj-at-nuptials-featuring-exclusive-tips-by-music-maestro-john-young-pcdj-visionary/"><u>Mastering the Matrimony Beat: Proven Strategies for Success as a Mobile DJ at Nuptials - Featuring Exclusive Tips by Music Maestro John Young, PCDJ Visionary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-text-to-speech-online/"><u>New In 2024, Text To Speech | Online</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/resolving-pc-malfunctions-in-football-manager-2021-expert-tips-for-gamers/"><u>Resolving PC Malfunctions in Football Manager 2021 - Expert Tips for Gamers</u></a></li>
+<li><a href="https://fox-where.techidaily.com/tackling-laptop-temperature-issues-a-detailed-analysis-by-yl-software-experts/"><u>Tackling Laptop Temperature Issues: A Detailed Analysis by YL Software Experts</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/troubleshooting-cut-out-noise-problems-in-windows-11-for-a-smooth-listening-experience/"><u>Troubleshooting Cut-Out Noise Problems in Windows 11 for a Smooth Listening Experience</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/troubleshooting-diablo-3-how-to-handle-persistent-application-crashes/"><u>Troubleshooting Diablo 3: How to Handle Persistent Application Crashes</u></a></li>
 </ul></div>
 

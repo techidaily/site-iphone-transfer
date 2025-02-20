@@ -1,7 +1,7 @@
 ---
 title: "Masterful Remedies: Overcoming Halo E 3'S Persistent Crashes During Playtime on Desktop"
-date: 2025-02-03T01:40:06.629Z
-updated: 2025-02-09T23:19:09.531Z
+date: 2025-02-14T04:10:55.343Z
+updated: 2025-02-20T02:15:08.636Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 **Resident Evil Village** , the eighth major entry in the Resident Evil series (RE8), is available now! With ultra-realistic graphics, pulse-pounding first-person action and skillful storytelling, the terror in RE8 has never felt more realistic.
 
  However, just like other newly launched games, Resident Evil Village is not immune to performance issues. Recently, we’ve seen that many gamers are experiencing in-game fps drops. If you’re on the same boat, you’ve come to the right place! After reading this article, you should be able to fix this issue on your own easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/f78d1d150df9704e5a6635f2d8f1d9b65ffaf1875
 
  See if the latest graphics driver fix the Resident Evil Village fps drops. If this fix doesn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Optimize GPU Settings
 
  If the in-game FPS doesn’t imrpove much after you updated your graphics driver, you may need to tweak the graphics settings. Here’s how to do it:
@@ -108,16 +108,8 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 ![Windows 10 graphics settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Windows-10-graphics-settings.jpg)
 3. Then go to **the drive where you save Resident Evil Village game files** \> **Program Files (x86)** or **Program Files** \> **Steam** \> **steamapps** \> **common** \> **Resident Evil Village** game folder, double-click **the .exe file** of Resident Evil Village to add the game.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Once added, click the**Options** button under re8.exe, then select **High performance** and click **Save** .  
 ![Windows 10 graphics settings high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Windows-10-graphics-settings-high-performance.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart the game to see if it runs smoothly. If not, you may need to move on and modify the in-game graphics settings.
 
@@ -129,6 +121,10 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 2. Tweak the settings one by one until you find the graphics profile that suits your hardware and ganrantees a good gaming experience.  
 ![Resident Evil Village in-game graphics settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-in-game-graphics-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart the game to check if the Resident Evil Village fps drops again. If this issue persists, try the next fix, below.
 
 ## Fix 3: Install the latest game patch
@@ -139,6 +135,10 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 
  Run Resident Evil Village again to see whether the FPS is back to normal. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable the Steam Overlay
 
  If you have the Steam Overlay turned on and FPS drops while playing Resident Evil Village, just try disabling Steam Overlay for Resident Evil Village to see FPS increases. Here is how to do it:
@@ -147,12 +147,20 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 ![Resident Evil Village steam properties](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties.jpg)
 2. In the**GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay for Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Resident Evil Village to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Set Resident Evil Village to High priority
@@ -168,10 +176,6 @@ To set Resident Evil Village to High priority:
 
  Restart the game to see if the in-game FPS improves. If the FPS is still the same, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Close resource-hogging apps
 
  If too many applications or programs are running at the same time in the background, the in-game fps may unstable and even dops a lot. You may need to**restrict applications and downloads in the background** before playing the game. Here is how to do it:
@@ -180,7 +184,15 @@ To set Resident Evil Village to High priority:
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![End task](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run Resident Evil Village to see if you can play the game smoothly. if not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Set the Power Plan of your PC for high performance
 
@@ -194,20 +206,12 @@ To set Resident Evil Village to High priority:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the window that pops up, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Launch Resident Evil Village to check if the in-game fps improves.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 8: Adjust your Windows system for the best performance
@@ -218,12 +222,12 @@ Launch Resident Evil Village to check if the in-game fps improves.
 ![run SystemPropertiesAdvanced](https://images.drivereasy.com/wp-content/uploads/2021/05/run-SystemPropertiesAdvanced.jpg)
 2. Under the**Advanced** tab, click the Settings… button in the**Performance** section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Advanced Performance Settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Advanced-Performance-Settings.jpg)
 3. Under the**Visual Effects** tab, select**Adjust for best performance** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Adjust Windows for best performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Adjust-Windows-for-best-performance.jpg)
 
@@ -232,10 +236,6 @@ Launch Resident Evil Village to see if you get a better in-game fps.
 ---
 
  Hopefully, this article helped you fix the fps drops issue in Resident Evil Village. If you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below. Thanks for reading!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## You may also like…
 
@@ -259,15 +259,22 @@ Launch Resident Evil Village to see if you get a better in-game fps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-balanced-photography-top-phones-and-cameras-tripod/"><u>[New] Balanced Photography Top Phones & Cameras Tripod</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-tune-treasure-trove-save-and-study-sound-files/"><u>2024 Approved Tune Treasure Trove Save & Study Sound Files</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/der-computer-startet-selbststandig-verstehen-sie-die-ursachen-und-ergreifen-sie-geeignete-massnahmen-zur-behebung-des-problems/"><u>Der Computer Startet Selbstständig: Verstehen Sie Die Ursachen Und Ergreifen Sie Geeignete Maßnahmen Zur Behebung Des Problems</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-xs-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone XS Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hololens-review-pioneering-virtual-spacecraft/"><u>In 2024, HoloLens Review Pioneering Virtual Spacecraft</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-microsoft-teams-sessions-recording/"><u>In 2024, Microsoft Teams Sessions Recording</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-7-plus-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 7 Plus Everything You Need to Know | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-7-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 7 Plus to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-6s-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 6s to iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-free-video-splitter-software-top-rated-options-for-this-year/"><u>New In 2024, Free Video Splitter Software Top-Rated Options for This Year</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-firefoxs-finest-leading-video-downloads-and-addons-for-facebook/"><u>[New] In 2024, Firefox's Finest Leading Video Downloads & Addons for Facebook</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-screenrec-demystified-a-comprehensible-guide-for-laptops/"><u>[New] In 2024, ScreenRec Demystified A Comprehensible Guide for Laptops</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-ultimate-selection-of-top-15-4k-cameras/"><u>[New] In 2024, The Ultimate Selection of Top 15 4K Cameras</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/remium-youtube-insights-everything-you-must-know/"><u>[New] Premium YouTube Insights Everything You Must Know</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-12-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 12 mini to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-11-pro-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 11 Pro to SIM? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 11 to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-7-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 7 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-se-2022-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone SE (2022) to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-se-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone SE to PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-m14-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Samsung Galaxy M14 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-s23-ultra-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy S23 Ultra Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-apple-iphone-14-pro-max-data-to-iphone-12-a-complete-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Apple iPhone 14 Pro Max Data to iPhone 12 A Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-8-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 8 to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-1ntricacies-effective-fixes-for-error-0x80072efd-on-windows-11-systems/"><u>Overcoming Windows 1Ntricacies: Effective Fixes for Error 0X80072EFD on Windows 11 Systems</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/tackling-interlaced-video-glitches-solutions-explored/"><u>Tackling Interlaced Video Glitches: Solutions Explored</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-tecno-spark-10c-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Tecno Spark 10C to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 
